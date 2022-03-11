@@ -1,6 +1,6 @@
 ---
-title: Crear un motivo semisurrealista con Adobe [!DNL Stock]
-description: Cree un hermoso patrón impecable basado en imágenes surrealistas a partir de Adobe [!DNL Stock]
+title: Crea un patrón semisurrealista con Adobe [!DNL Stock]
+description: Crea un hermoso patrón fluido basado en imágenes surrealistas de Adobe [!DNL Stock]
 role: User
 level: Beginner, Intermediate
 thumbnail: 331825.jpg
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# Crear un patrón semisurrealista con Adobe [!DNL Stock]
+# Crea un patrón semisurrealista con Adobe [!DNL Stock]
 
-Cree un hermoso patrón impecable basado en imágenes surrealistas a partir del Adobe [!DNL Stock].
+Crea un hermoso patrón fluido basado en imágenes surrealistas de Adobe [!DNL Stock].
 
 >[!VIDEO](https://video.tv.adobe.com/v/331825?hidetitle=true)

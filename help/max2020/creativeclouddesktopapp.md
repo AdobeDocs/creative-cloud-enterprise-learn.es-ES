@@ -1,6 +1,6 @@
 ---
 title: Aplicación de escritorio de Creative Cloud
-description: La aplicación de escritorio de Creative Cloud es su centro de administración de aplicaciones, servicios y colaboración de CC, y mucho más.
+description: La aplicación de escritorio de Creative Cloud es el centro para administrar las aplicaciones, los servicios y la colaboración de CC, ¡y mucho más!
 role: User
 level: Beginner, Intermediate
 exl-id: 5a45d334-3581-4b85-acb6-57764efa6f0a
@@ -15,50 +15,49 @@ ht-degree: 5%
 
 ![Tutorial Hero Image](../assets/CCDA.jpg)
 
-La aplicación de escritorio de Creative Cloud es su centro de administración de aplicaciones, servicios y colaboración de CC, y mucho más.
+La aplicación de escritorio de Creative Cloud es el centro para administrar las aplicaciones, los servicios y la colaboración de CC, ¡y mucho más!
 
-## Examinar Tutorials de productos
+## Buscar Tutorials de productos
 
 <table style="table-layout:fixed">
 <tr>
  <td>
    <a href="creativeclouddesktopapp.md#tutorial1">
-      <img alt="Explore la aplicación de escritorio de CC: Su centro para 
-Creative Cloud" src="../assets/ccda_overview_sokol_thumbnail.jpg" />
+      <img alt="Explora la aplicación de escritorio de CC: Tu centro para Creative Cloud" src="../assets/ccda_overview_sokol_thumbnail.jpg" />
    </a>
     <div>
-   <a href="creativeclouddesktopapp.md#tutorial1"><strong>Explore la aplicación de escritorio de CC: Su centro para Creative Cloud</strong></a>
+   <a href="creativeclouddesktopapp.md#tutorial1"><strong>Explora la aplicación de escritorio de CC: Tu centro para Creative Cloud</strong></a>
     </div>
-    <em>La aplicación de escritorio de Creative Cloud es su centro de administración de aplicaciones, servicios y colaboración de CC, y mucho más.</em>
+    <em>La aplicación de escritorio de Creative Cloud es el centro para administrar las aplicaciones, los servicios y la colaboración de CC, ¡y mucho más!</em>
     <br>
   </td>
   <td>
-    <img alt="Espaciador" src="../assets/Whitespacer.png" />
+    <img alt="Separador" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="Espaciador" src="../assets/Whitespacer.png" />
+    <img alt="Separador" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
 </tr>
 </table>
 
-## Explore la aplicación de escritorio de CC: Su centro para Creative Cloud (2:50) {#tutorial1}
+## Explora la aplicación de escritorio de CC: Tu centro para Creative Cloud (2:50) {#tutorial1}
 
 >[!VIDEO](https://video.tv.adobe.com/v/327095?hidetitle=true)
 
-****
-DescripciónLa aplicación de escritorio de Creative Cloud es su centro de administración de aplicaciones, servicios y colaboración de CC, y mucho más.
+**Descripción**
+La aplicación de escritorio de Creative Cloud es el centro para administrar las aplicaciones, los servicios y la colaboración de CC, ¡y mucho más!
 
 En este tutorial, aprenderá a:
 * Iniciar y actualizar las aplicaciones de escritorio
-* Buscar aplicaciones móviles y web
+* Buscar aplicaciones web y móviles
 * Administrar y compartir activos
-* Acceso a Adobe Fonts
-* Descubre tutoriales
-* Compartir su trabajo en Behance
+* Acceder a Adobe Fonts
+* Tutoriales de Descubrir
+* Compartir el trabajo en Behance
 
 **Presentado por:**
-Patti Sokol, Consultor Principal de Soluciones (Digital Media)
+Patti Sokol, consultora principal de soluciones (Digital Media)

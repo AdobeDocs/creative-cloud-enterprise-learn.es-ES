@@ -1,6 +1,6 @@
 ---
-title: 'Cree imágenes de marca cohesivas con bonitos degradados y recursos de Adobe [!DNL Stock] '
-description: Crear unidad de marca con imágenes variables combinando colores y degradados en toda la campaña publicitaria
+title: Crea imágenes de marca coherentes con bonitos degradados y Adobe [!DNL Stock] assets
+description: Crea la unidad de marca con distintas imágenes combinando colores y degradados en tu campaña publicitaria
 role: User
 level: Beginner, Intermediate
 thumbnail: 331809.jpg
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# Crear imágenes de marca cohesivas con degradados y activos de Adobe [!DNL Stock]
+# Crea imágenes de marca coherentes con bonitos degradados y Adobe [!DNL Stock] assets
 
-Incluya animación en los gráficos del boletín con vectores editables para Adobe [!DNL Stock].
+Añade animación a los gráficos de tu boletín con vectores editables para Adobe [!DNL Stock].
 
 >[!VIDEO](https://video.tv.adobe.com/v/331809?hidetitle=true)

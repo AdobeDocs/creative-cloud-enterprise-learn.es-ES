@@ -1,6 +1,6 @@
 ---
-title: Comience su informe anual con un vídeo creado con Adobe [!DNL Stock] y Spark Video
-description: Haga de su informe anual una historia con Adobe [!DNL Stock] y Spark Video
+title: Empieza tu informe anual con un vídeo creado con Adobe [!DNL Stock] y Spark Video
+description: Haz de tu informe anual una historia con Adobe [!DNL Stock] y Spark Video
 role: User
 level: Beginner, Intermediate
 thumbnail: 331808.jpg
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# Comience su informe anual con un vídeo creado con Adobe [!DNL Stock] y Spark Video
+# Empieza tu informe anual con un vídeo creado con Adobe [!DNL Stock] y Spark Video
 
-Haga de su informe anual una historia con Adobe [!DNL Stock] y Spark Video.
+Haz de tu informe anual una historia con Adobe [!DNL Stock] y Spark Video.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331808?hidetitle=true)

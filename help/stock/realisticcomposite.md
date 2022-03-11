@@ -1,6 +1,6 @@
 ---
-title: 'Crear composiciones fotográficas realistas con imágenes de Adobe [!DNL Stock] '
-description: Reúna dos grandes fotos de Adobe [!DNL Stock] para atraer a la gente a sus publicaciones sociales
+title: Crea composiciones fotográficas realistas con Adobe [!DNL Stock] images
+description: Reúne a dos grandes Adobes [!DNL Stock] fotos para atraer a personas a tus publicaciones en redes sociales
 role: User
 level: Beginner, Intermediate
 thumbnail: 331836.jpg
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# Creación de composiciones fotográficas realistas con imágenes de Adobe [!DNL Stock]
+# Crea composiciones fotográficas realistas con Adobe [!DNL Stock] images
 
-Reúne dos grandes fotos de Adobe [!DNL Stock] para atraer gente a sus publicaciones sociales.
+Reúne a dos grandes Adobes [!DNL Stock] fotos para atraer a personas a tus publicaciones en redes sociales.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331836?hidetitle=true)

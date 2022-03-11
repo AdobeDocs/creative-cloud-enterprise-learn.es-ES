@@ -1,6 +1,6 @@
 ---
-title: Pruebe su mano en el Fresco en el iPad (y iPhone)
-description: Explore un nuevo mundo de dibujo digital y pintura con Adobe Fresca en este taller práctico de 15 minutos
+title: Descubre Fresco en el iPad (y iPhone)
+description: Explora un mundo completamente nuevo del dibujo y la pintura digitales con Adobe Fresca en este taller práctico de 15 minutos
 role: User
 level: Beginner, Intermediate
 kt: 8039
@@ -13,14 +13,14 @@ ht-degree: 0%
 
 ---
 
-# Pruebe su mano en el Fresco en el iPad (y iPhone)
+# Descubre Fresco en el iPad (y iPhone)
 
-Explore todo un nuevo mundo de dibujo digital y pintura con Adobe Fresca en este taller práctico de 15 minutos. Aprenda rápidamente a trabajar con capas y máscaras de recorte para ajustar la pintura y las texturas a una forma base. Siga los pasos con el diseñador/desarrollador Chris Converse para volver a crear parte de una ilustración de la vida muerta con Fresco y Adobe Stock.
+Explora un mundo completamente nuevo del dibujo y la pintura digitales con Adobe Fresca en este taller práctico de 15 minutos. Aprende rápidamente a trabajar con capas y máscaras de recorte para conformar la pintura y las texturas con una forma base. Sigue a Chris Converse, diseñador y desarrollador, para recrear parte de una ilustración de bodegón con Fresco y Adobe Stock.
 
 >[!VIDEO](https://video.tv.adobe.com/v/333804?hidetitle=true)
 
 <br> 
 
-[**Descargar guía rápida de PDF de referencia**](../quick-reference/Frescoworkshop.pdf)
+[**Descargue la guía del PDF de referencia rápida**](../quick-reference/Frescoworkshop.pdf)
 
 [![Imagen de la primera página de la guía de referencia rápida](assets/FrescoworkshopPage1.png)](../quick-reference/Frescoworkshop.pdf)

@@ -1,6 +1,6 @@
 ---
 title: InDesign Server
-description: El software Adobe Adobe® InDesign® Server ofrece un motor potente y escalable que aprovecha las capacidades de diseño, diseño y tipografía del InDesign para permitirle crear mediante programación documentos automatizados atractivos
+description: El software Adobe Adobe® InDesign® Server proporciona un motor potente y escalable que aprovecha el diseño, la composición y las funciones tipográficas del InDesign para permitirle programar la creación de documentos automatizados atractivos
 role: User
 level: Beginner, Intermediate
 exl-id: 534124fb-a903-430e-ad56-f124e4f024a0
@@ -15,9 +15,9 @@ ht-degree: 0%
 
 ![Tutorial Hero Image](../assets/InDesignServer.jpg)
 
-El software Adobe Adobe® InDesign® Server ofrece un motor potente y escalable que aprovecha las capacidades de diseño, diseño y tipografía del InDesign para permitirle crear mediante programación documentos automatizados atractivos.
+El software Adobe Adobe® InDesign® Server proporciona un motor potente y escalable que aprovecha el diseño, la composición y las funciones tipográficas del InDesign para permitirle programar la creación de documentos automatizados atractivos.
 
-## Examinar Tutorials de productos
+## Buscar Tutorials de productos
 
 <table style="table-layout:fixed">
 <tr>
@@ -28,16 +28,16 @@ El software Adobe Adobe® InDesign® Server ofrece un motor potente y escalable 
     <div>
    <a href="indesignserver.md#tutorial1"><strong>Contenido de InDesign Server basado en datos</strong></a>
     </div>
-    <em>El diseño basado en datos se puede lograr mediante programación con InDesign Server</em>
+    <em>El diseño basado en datos se puede lograr, mediante programación, con InDesign Server</em>
     <br>
   </td>
   <td>
-    <img alt="Espaciador" src="../assets/Whitespacer.png" />
+    <img alt="Separador" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="Espaciador" src="../assets/Whitespacer.png" />
+    <img alt="Separador" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
@@ -48,16 +48,16 @@ El software Adobe Adobe® InDesign® Server ofrece un motor potente y escalable 
 
 >[!VIDEO](https://video.tv.adobe.com/v/326901?hidetitle=true)
 
-****
-DescripciónEl diseño basado en datos se puede lograr mediante programación con InDesign Server.
+**Descripción**
+El diseño basado en datos se puede lograr, mediante programación, con InDesign Server.
 
 En este tutorial, aprenderá a:
-* Creación de plantillas de InDesign con texto con formato previo o estilos de objeto
+* Creación de plantillas de InDesign con estilos de texto u objeto previamente formateados
 * Flujo en contenido basado en datos externos para una personalización más rápida del contenido
-* Generar archivos PDF puntuales o enlazarlos a otros formatos de salida AEM de su diseño
+* Genere PDF de tinta plana del diseño o vincúlelos a otros formatos de salida AEM
 
 **Presentado por:**
-Eric Rowse, consultor senior de soluciones (Digital Media)
+Eric Rowse, consultor sénior de soluciones (Digital Media)
 
 ## Recursos adicionales de InDesign Server
 
@@ -70,21 +70,21 @@ Eric Rowse, consultor senior de soluciones (Digital Media)
     <div>
    <a href="https://www.adobe.com/products/indesignserver/buying-guide.html"><strong>InDesign Server: Guía de compra</strong></a>
     </div>
-    <em>Recursos disponibles para desarrolladores o socios internos</em>
+    <em>Recursos disponibles para desarrolladores internos o socios</em>
     <br>
   </td>
   <td>
    <a href="https://www.adobe.com/products/indesignserver/partner.html">
-      <img alt="InDesign Server: Buscar un socio" src="../assets/IDS_Thumbnail.jpg" />
+      <img alt="InDesign Server: Encuentra un partner" src="../assets/IDS_Thumbnail.jpg" />
    </a>
     <div>
-   <a href="https://www.adobe.com/products/indesignserver/partner.html"><strong>InDesign Server: Buscar un socio</strong></a>
+   <a href="https://www.adobe.com/products/indesignserver/partner.html"><strong>InDesign Server: Encuentra un partner</strong></a>
     </div>
-    <em>Aunque tiene la experiencia necesaria para desarrollarse internamente, Adobe recomienda trabajar con los socios para encontrar la solución que mejor se adapte a sus necesidades</em>
+    <em>Si bien tienes la experiencia para desarrollar internamente, Adobe recomienda trabajar con socios para encontrar la solución para satisfacer tus necesidades</em>
     <br>
   </td>
   <td>
-    <img alt="Espaciador" src="../assets/Whitespacer.png" />
+    <img alt="Separador" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
@@ -95,8 +95,8 @@ Eric Rowse, consultor senior de soluciones (Digital Media)
 
 **Recursos de InDesign Server**
 
-[Formación y ](https://www.adobe.com/products/indesignserver.html) asistencia técnica es su centro para ver tutoriales adicionales, novedades y vínculos a foros de la comunidad.
+[Información y asistencia](https://www.adobe.com/products/indesignserver.html) es el centro de tutoriales adicionales, Novedades y vínculos a foros de la comunidad.
 
 **Versión de octubre de 2020**
 
-Empiece a utilizar estas funciones (y mucho más) descargando la actualización más reciente desde la aplicación de escritorio de Creative Cloud.
+Empiece a utilizar estas funciones (¡y mucho más!) descargando la actualización más reciente de la aplicación de escritorio de Creative Cloud.

@@ -1,6 +1,6 @@
 ---
 title: Photoshop en iPad
-description: Cree cualquier cosa que pueda imaginar, en cualquier lugar donde le llegue la inspiración con Photoshop en iPad
+description: Crea cualquier cosa que puedas imaginar, allá donde te venga la inspiración con Photoshop en iPad
 role: User
 level: Beginner, Intermediate
 exl-id: 5be50d97-3ff5-4b10-b186-109473c3bd32
@@ -15,57 +15,57 @@ ht-degree: 0%
 
 ![Tutorial Hero Image](../assets/PSoniPad.jpg)
 
-Photoshop es el mejor software de diseño gráfico y de imágenes del mundo, lo que permite una creatividad ilimitada para los profesionales de todos los dispositivos. Ahora cualquiera puede crear cualquier cosa que se imaginen, en cualquier lugar donde la inspiración llegue. Si puedes pensarlo, puedes hacerlo con Photoshop.
+Photoshop es el mejor software de diseño gráfico e imágenes del mundo, y permite una creatividad ilimitada para los profesionales de todos los dispositivos. Ahora cualquiera puede crear cualquier cosa que se imagine, en cualquier lugar en el que surja la inspiración. Si puedes pensarlo, puedes hacerlo con Photoshop.
 
-## Examinar Tutorials de productos
+## Buscar Tutorials de productos
 
 <table style="table-layout:fixed">
 <tr>
  <td>
    <a href="photoshopipad.md#tutorial1">
-      <img alt="Introducción a Photoshop en el iPad" src="../assets/PSiPad_thumbnail.jpg" />
+      <img alt="Introducción a Photoshop para el iPad" src="../assets/PSiPad_thumbnail.jpg" />
    </a>
     <div>
-   <a href="photoshopipad.md#tutorial1"><strong>Introducción a Photoshop en el iPad</strong></a>
+   <a href="photoshopipad.md#tutorial1"><strong>Introducción a Photoshop para el iPad</strong></a>
     </div>
-    <em>Haga un recorrido por la interfaz y descubra algunas de las funciones que se encuentran en Photoshop rediseñadas para su uso en el iPad de Apple</em>
+    <em>Date una vuelta por la interfaz y descubre algunas de las funciones de Photoshop rediseñadas para su uso en Apple iPad</em>
     <br>
   </td>
   <td>
-    <img alt="Espaciador" src="../assets/Whitespacer.png" />
+    <img alt="Separador" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="Espaciador" src="../assets/Whitespacer.png" />
+    <img alt="Separador" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
 </tr>
 </table>
 
-## Intro to Photoshop on the iPad (5:14) (Introducción a en el iPad, en inglés) {#tutorial1}
+## Introducción a Photoshop para el iPad (5:14) {#tutorial1}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326899?hidetitle=true)
 
-****
-DescripciónHaga un recorrido por la interfaz y descubra algunas de las funciones que se encuentran en Photoshop reinventadas para su uso en el iPad de Apple.
+**Descripción**
+Date una vuelta por la interfaz y descubre algunas de las funciones de Photoshop rediseñadas para su uso en Apple iPad.
 
 En este tutorial, aprenderá a:
-* Acceda a sus herramientas favoritas de Photoshop en el
+* Accede a tus herramientas favoritas de Photoshop en el
 * Edición precisa en dispositivos móviles sin sacrificar la calidad
-* Experiencia más inmersiva y natural
-* Flujo de trabajo impecable con documentos en la nube
+* Experiencia más envolvente y natural
+* Flujo de trabajo perfecto con documentos en la nube
 
 **Presentado por:**
-Dan Armstrong, consultor de soluciones (Digital Media)
+Dan Armstrong, consultor de soluciones (medios digitales)
 
-![Photoshop en el logotipo de iPad](../assets/ps_appicon_96.png)
+![Logotipo de Photoshop para el iPad](../assets/ps_appicon_96.png)
 
-**Photoshop en iPad Resources**
+**Recursos de Photoshop para el iPad**
 
-[Formación y ](https://helpx.adobe.com/support/photoshop.html) asistencia técnica es su centro para ver tutoriales adicionales y vínculos a foros de la comunidad.
+[Información y asistencia](https://helpx.adobe.com/support/photoshop.html) es el centro de tutoriales adicionales y vínculos a foros de la comunidad.
 
 **Versión de octubre de 2020**
 
-Empiece a utilizar estas funciones (y mucho más) descargando la actualización más reciente desde la aplicación de escritorio de Creative Cloud.
+Empiece a utilizar estas funciones (¡y mucho más!) descargando la actualización más reciente de la aplicación de escritorio de Creative Cloud.

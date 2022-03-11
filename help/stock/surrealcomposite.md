@@ -1,6 +1,6 @@
 ---
 title: Crear un compuesto semisurrealista con Adobe [!DNL Stock]
-description: Cree una imagen editorial memorable combinando varias imágenes con efectos de color, movimiento y máscara
+description: Crea una imagen editorial memorable combinando varias imágenes con color, movimiento y efectos de máscara
 role: User
 level: Beginner, Intermediate
 thumbnail: 331824.jpg
@@ -14,6 +14,6 @@ ht-degree: 0%
 
 # Crear un compuesto semisurrealista con Adobe [!DNL Stock]
 
-Cree una imagen editorial memorable combinando varias imágenes con efectos de color, movimiento y máscara.
+Crea una imagen editorial memorable combinando varias imágenes con color, movimiento y efectos de máscara.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331824?hidetitle=true)

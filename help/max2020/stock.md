@@ -49,7 +49,7 @@ Los creativos se encuentran bajo presión para ofrecer rápidamente contenido nu
 </tr>
 </table>
 
-## Encuentra los mejores activos más rápido con Adobe [!DNL Stock] (10:49) {#tutorial1}
+## Find the best assets faster with Adobe [!DNL Stock] (10:49) {#tutorial1}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326951?hidetitle=true)
 
@@ -73,7 +73,7 @@ Victoria Torres, [!DNL Stock] Asesor de soluciones (medios digitales)
 Simplificar el proceso de carga del Adobe con licencia [!DNL Stock] activos en tu sistema de gestión de activos digitales.
 
 En este tutorial, aprenderá a:
-* Realizar Adobe [!DNL Stock] búsqueda de activos sin salir AEM espacio de trabajo
+* Perform Adobe [!DNL Stock] asset search without leaving AEM workspace
 * Guardar activos con licencia directamente en una carpeta de AEM en el momento de comprar la licencia
 * Ver los contenidos cuya licencia haya comprado AEM en su [!DNL Stock] historial de licencias en el [!DNL Stock] sitio web.
 

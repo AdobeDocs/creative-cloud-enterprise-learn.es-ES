@@ -1,21 +1,21 @@
 ---
 title: Tutoriales de Creative Cloud para empresas
-description: Tutorials para ayudarle a ponerse al día con los productos de Creative Cloud para empresas
+description: Tutorials para ayudarle a familiarizarse con los productos de Creative Cloud para empresas
 role: User
 level: Beginner, Intermediate
 exl-id: eea91ea5-9adc-4a7f-93c0-6cdfe650cfb7
 source-git-commit: e3982cf31ebb0dac5927baa1352447b3222785c9
 workflow-type: tm+mt
-source-wordcount: '1380'
+source-wordcount: '1366'
 ht-degree: 0%
 
 ---
 
 # Tutoriales de Creative Cloud para empresas
 
-![Imagen Hero de Creative Cloud](../assets/CCEbanner.png)
+![Imagen de héroe de Creative Cloud](../assets/CCEbanner.png)
 
-Como creativo empresarial, debe colaborar con equipos distribuidos, establecer procesos escalables y cumplir con los sistemas y directrices corporativos. Estos tutoriales le ayudan a aprender las nuevas funciones del Creative Cloud desde una perspectiva empresarial.
+Como creativo empresarial, debe colaborar con equipos distribuidos, establecer procesos ampliables y cumplir con los sistemas y directrices corporativos. Estos tutoriales le ayudarán a conocer las nuevas funciones de Creative Cloud, desde una perspectiva empresarial.
 
 
 ## Haga clic para ver un tutorial de producto
@@ -26,26 +26,26 @@ Como creativo empresarial, debe colaborar con equipos distribuidos, establecer p
 <tr>
  <td>
    <a href="assets/FromHandLetteringtoIllustratorviaCreativeCloud.pdf">
-      <img alt="De la carta de mano a Illustrator a través del Creative Cloud" src="assets/FromHandLetteringtoIllustratorviaCreativeCloud.jpg" />
+      <img alt="De las letras a mano a Illustrator mediante Creative Cloud" src="assets/FromHandLetteringtoIllustratorviaCreativeCloud.jpg" />
    </a>
     <div>
-   <a href="assets/FromHandLetteringtoIllustratorviaCreativeCloud.pdf"><strong>De la carta mano a Illustrator mediante Creative Cloud (PDF)</strong></a>
+   <a href="assets/FromHandLetteringtoIllustratorviaCreativeCloud.pdf"><strong>De letras a mano a Illustrator mediante Creative Cloud (PDF)</strong></a>
     </div>
-    <em>Gracias a la potencia del Creative Cloud para empresas, las aplicaciones móviles y de escritorio de Adobe le permiten capturar, convertir y crear desde cualquier lugar: en cualquier dispositivo</em>
+    <em>Gracias a la potencia de Creative Cloud para empresas, las aplicaciones de escritorio y móviles de Adobe te permiten capturar, convertir y crear desde cualquier lugar, en cualquier dispositivo</em>
     <br>
   </td>
   <td>
    <a href="assets/FromLightroomWebtoInDesignviaCreativeCloud.pdf">
-      <img alt="De Lightroom Web a InDesign mediante Creative Cloud" src="assets/FromLightroomWebtoInDesignviaCreativeCloud.jpg" />
+      <img alt="De la web de Lightroom al InDesign a través del Creative Cloud" src="assets/FromLightroomWebtoInDesignviaCreativeCloud.jpg" />
    </a>
     <div>
-   <a href="assets/FromLightroomWebtoInDesignviaCreativeCloud.pdf"><strong>De Lightroom Web a InDesign mediante Creative Cloud (PDF)</strong></a>
+   <a href="assets/FromLightroomWebtoInDesignviaCreativeCloud.pdf"><strong>De la web de Lightroom al InDesign a través del Creative Cloud (PDF)</strong></a>
     </div>
-    <em>Lleve su creatividad desde la cámara al diseño final con archivos y bibliotecas Creative Cloud</em>
+    <em>Lleva tu creatividad de la cámara al diseño final con archivos y bibliotecas de Creative Cloud</em>
     <br>
   </td>
   <td>
-    <img alt="Espaciador" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <img alt="Separador" src="../assets/acrobat_PDF_whitespacer_96.png" />
     <div>
     <br>
   </td>
@@ -59,32 +59,32 @@ Como creativo empresarial, debe colaborar con equipos distribuidos, establecer p
 <tr>
  <td>
    <a href="assets/AddingaGlideshowtoyourSparkPageAdobeBlog.pdf">
-      <img alt="Adición de una proyección de diapositivas a la página de Spark" src="assets/AddingaGlideshowtoyourSparkPageAdobeBlog.jpg" />
+      <img alt="Adición de una proyección de diapositivas al Spark Page" src="assets/AddingaGlideshowtoyourSparkPageAdobeBlog.jpg" />
    </a>
     <div>
-   <a href="assets/AddingaGlideshowtoyourSparkPageAdobeBlog.pdf"><strong>Adición de una proyección de diapositivas a la página de Spark (PDF)</strong></a>
+   <a href="assets/AddingaGlideshowtoyourSparkPageAdobeBlog.pdf"><strong>Añadir una proyección de diapositivas a su Spark Page (PDF)</strong></a>
     </div>
-    <em>Adobe Spark Page ofrece algunos componentes de diseño increíbles y fáciles de usar que dan vida a sus artículos web</em>
+    <em>Adobe Spark Page ofrece algunos componentes de diseño sorprendentes y fáciles de usar que dan vida a tus historias web</em>
     <br>
   </td>
   <td>
    <a href="assets/CreatingYourBrandinAdobeSpark.pdf">
-      <img alt="Creación de su marca en Adobe Spark" src="assets/CreatingYourBrandinAdobeSpark.jpg" />
+      <img alt="Creación de una marca en Adobe Spark" src="assets/CreatingYourBrandinAdobeSpark.jpg" />
    </a>
     <div>
    <a href="assets/CreatingYourBrandinAdobeSpark.pdf"><strong>Creación de su marca en Adobe Spark (PDF)</strong></a>
     </div>
-    <em>Adobe Spark facilita la definición de su marca</em>
+    <em>Adobe Spark facilita la definición de tu marca</em>
     <br>
   </td>
   <td>
    <a href="assets/MeetYourNewProductionArtistAdobeSparkPost.pdf">
-      <img alt="Conozca A Su Nuevo Artista De Producción: Adobe Spark Post" src="assets/MeetYourNewProductionArtistAdobeSparkPost.jpg" />
+      <img alt="Conozca a su nuevo artista de producción: Adobe Spark Post" src="assets/MeetYourNewProductionArtistAdobeSparkPost.jpg" />
    </a>
     <div>
-   <a href="assets/MeetYourNewProductionArtistAdobeSparkPost.pdf"><strong>Conozca A Su Nuevo Artista De Producción: Adobe Spark Post (PDF)</strong></a>
+   <a href="assets/MeetYourNewProductionArtistAdobeSparkPost.pdf"><strong>Conozca a su nuevo artista de producción: Adobe Spark Post (PDF)</strong></a>
     </div>
-    <em>Adobe Spark aprende de usted a medida que crea diseños, define colores, importa ilustraciones y organiza elementos en sus composiciones</em>
+    <em>Adobe Spark aprende de usted mientras crea diseños, define colores, importa ilustraciones y organiza elementos en sus composiciones</em>
     <br>
   </td>
 </tr>
@@ -96,12 +96,12 @@ Como creativo empresarial, debe colaborar con equipos distribuidos, establecer p
 <tr>
    <td>
     <a href="alphabetsoup.md">
-      <img alt="Descodificación de la sopa de letras de formatos gráficos" src="assets/Alphabetsoup.png" />
+      <img alt="Descodificación de la sopa de alfabetos de formatos gráficos" src="assets/Alphabetsoup.png" />
     </a>
     <div>
-    <a href="alphabetsoup.md"><strong>Descodificación de la sopa de letras de formatos gráficos</strong></a>
+    <a href="alphabetsoup.md"><strong>Descodificación de la sopa de alfabetos de formatos gráficos</strong></a>
     </div>
-    <em>Los archivos JPG, PNG, SVG, GIF y EPS se suelen utilizar en el diseño, algunos para páginas web y otros para presentaciones, publicaciones y proyectos creativos. Pero, ¿qué significan y cuál deberían escoger?</em>
+    <em>Los archivos de JPG, PNG, SVG, GIF y EPS se suelen utilizar en el diseño, algunos para páginas web y otros para presentaciones, publicaciones y proyectos creativos. Pero, ¿qué significan y qué debes elegir?</em>
     <br>
   </td>
   <td>
@@ -111,93 +111,93 @@ Como creativo empresarial, debe colaborar con equipos distribuidos, establecer p
     <div>
     <a href="compositepsipad.md"><strong>Crear composiciones únicas con Adobe [!DNL Stock] y Photoshop para iPad</strong></a>
     </div>
-    <em>Lleve la potencia de Photoshop al alcance de la mano. Aprenda a utilizar una de sus aplicaciones Creative Cloud favoritas de una forma completamente nueva, con una interfaz táctil rediseñada</em>
+    <em>Lleva el poder de Photoshop al alcance de tu mano. Aprende a usar una de tus aplicaciones de Creative Cloud favoritas de una forma completamente nueva, con una interfaz táctil rediseñada</em>
     <br>
   </td>
   <td>
     <a href="cinemagraphps.md">
-      <img alt="Creación de párrafos con Photoshop" src="assets/CinemagraphsPS.jpg" />
+      <img alt="Creación de cinematografías con Photoshop" src="assets/CinemagraphsPS.jpg" />
     </a>
     <div>
-    <a href="cinemagraphps.md"><strong>Creación de párrafos con Photoshop</strong></a>
+    <a href="cinemagraphps.md"><strong>Creación de cinematografías con Photoshop</strong></a>
     </div>
-    <em>En este tutorial de vídeo de taller paso a paso, puede crear una fotografía interactiva combinando vídeo del Adobe [!DNL Stock] con técnicas inteligentes de enmascaramiento en Photoshop</em>
+    <em>En este tutorial en vídeo paso a paso en el taller, puedes crear una fotografía viva combinando el vídeo del Adobe [!DNL Stock] con técnicas de enmascaramiento inteligentes en Photoshop</em>
     <br>
   </td>
 </tr>
 <tr>
    <td>
     <a href="assets/AddRemarkableLightingtoaPhotowithPhotoshopandAfterEffects.pdf">
-      <img alt="Adición de iluminación destacable a una fotografía con Photoshop y After Effects" src="assets/AddRemarkableLightingtoaPhotowithPhotoshopandAfterEffects.jpg" />
+      <img alt="Añade iluminación notable a una foto con Photoshop y After Effects" src="assets/AddRemarkableLightingtoaPhotowithPhotoshopandAfterEffects.jpg" />
     </a>
     <div>
-    <a href="assets/AddRemarkableLightingtoaPhotowithPhotoshopandAfterEffects.pdf"><strong>Adición de iluminación notable a una fotografía con Photoshop y After Effects (PDF)</strong></a>
+    <a href="assets/AddRemarkableLightingtoaPhotowithPhotoshopandAfterEffects.pdf"><strong>Añade una luz excepcional a una foto con Photoshop y After Effects (PDF)</strong></a>
     </div>
-    <em>Aprenda a utilizar el efecto Desenfoque de luz en Adobe After Effects para mejorar drásticamente una fotografía</em>
+    <em>Aprenda a utilizar el efecto Explosión de luz en Adobe After Effects para mejorar de forma significativa una fotografía</em>
     <br>
    </td>
    <td>
     <a href="assets/CreateCinemagraphsinaSnapwithPhotoshopandAdobeStock.pdf">
-      <img alt="Crear párrafos en un abrir y cerrar de ojos con Photoshop y Adobe [!DNL Stock]" src="assets/CreateCinemagraphsinaSnapwithPhotoshopandAdobeStock.jpg" />
+      <img alt="Crea películas en un instante con Photoshop y Adobe [!DNL Stock]" src="assets/CreateCinemagraphsinaSnapwithPhotoshopandAdobeStock.jpg" />
     </a>
     <div>
-    <a href="assets/CreateCinemagraphsinaSnapwithPhotoshopandAdobeStock.pdf"><strong>Crear párrafos en un abrir y cerrar de ojos con Photoshop y Adobe [!DNL Stock] (PDF)</strong></a>
+    <a href="assets/CreateCinemagraphsinaSnapwithPhotoshopandAdobeStock.pdf"><strong>Crea películas en un instante con Photoshop y Adobe [!DNL Stock] (PDF)</strong></a>
     </div>
-    <em>Buscando vídeos en bucle sin problemas en Adobe [!DNL Stock] para ensamblar rápidamente llamativos párrafos en Photoshop</em>
+    <em>Búsqueda de vídeos en bucle sin problemas en el Adobe [!DNL Stock] para montar rápidamente cinemógrafos llamativos en Photoshop</em>
     <br>
   </td>
    <td>
     <a href="assets/CreatingaLivingPhotographwithPhotoshopPart1.pdf">
-      <img alt="Creación de una fotografía interactiva con Photoshop — Parte 1" src="assets/CreatingaLivingPhotographwithPhotoshopPart1.jpg" />
+      <img alt="Creación de una fotografía viva con Photoshop — Parte 1" src="assets/CreatingaLivingPhotographwithPhotoshopPart1.jpg" />
     </a>
     <div>
-    <a href="assets/CreatingaLivingPhotographwithPhotoshopPart1.pdf"><strong>Creación de una fotografía interactiva con Photoshop — Parte 1 (PDF)</strong></a>
+    <a href="assets/CreatingaLivingPhotographwithPhotoshopPart1.pdf"><strong>Creación de una fotografía viva con Photoshop — Parte 1 (PDF)</strong></a>
     </div>
-    <em>Adobe Photoshop le permite convertir rápidamente sus vídeos cortos en fotografías vivas que fascinan a su público en cualquier plataforma social</em>
+    <em>Adobe Photoshop te permite convertir rápidamente tus vídeos cortos en fotografías vivas que cautivan a tu audiencia en cualquier plataforma social</em>
     <br>
   </td>
 </tr>
 <tr>
    <td>
     <a href="assets/CreatingaLivingPhotographwithPhotoshopPart2.pdf">
-      <img alt="Creación de una fotografía interactiva con Photoshop — Parte 2" src="assets/CreatingaLivingPhotographwithPhotoshopPart2.jpg" />
+      <img alt="Creación de una fotografía viva con Photoshop — Parte 2" src="assets/CreatingaLivingPhotographwithPhotoshopPart2.jpg" />
     </a>
     <div>
-    <a href="assets/CreatingaLivingPhotographwithPhotoshopPart2.pdf"><strong>Creación de una fotografía interactiva con Photoshop — Parte 2 (PDF)</strong></a>
+    <a href="assets/CreatingaLivingPhotographwithPhotoshopPart2.pdf"><strong>Creación de una fotografía viva con Photoshop — Parte 2 (PDF)</strong></a>
     </div>
-    <em>La combinación de fotografías con vídeo es una forma eficaz de añadir una calidad atractiva a las fotografías sin sacrificar el mensaje ni el tono de la imagen original</em>
+    <em>La combinación de fotos y vídeos es una forma eficaz de añadir una calidad atractiva a las fotos sin sacrificar el mensaje o el tono de la imagen original</em>
     <br>
   </td>
   <td>
     <a href="assets/PhotoshopAfterEffectsAwesomenessAdobeMAX2018LabRecap.pdf">
-    <img alt="Photoshop + After Effects = Tolerancia: Adobe MAX 2018 Lab Recap" src="assets/PhotoshopAfterEffectsAwesomenessAdobeMAX2018LabRecap.jpg" />
+    <img alt="Photoshop + After Effects = Conciencia: Adobe MAX 2018 Lab Recap" src="assets/PhotoshopAfterEffectsAwesomenessAdobeMAX2018LabRecap.jpg" />
     </a>
     <div>
-    <a href="assets/PhotoshopAfterEffectsAwesomenessAdobeMAX2018LabRecap.pdf"><strong>Photoshop + After Effects = Tolerancia: Adobe MAX 2018 Lab Recap (PDF)</strong></a>
+    <a href="assets/PhotoshopAfterEffectsAwesomenessAdobeMAX2018LabRecap.pdf"><strong>Photoshop + After Effects = Conciencia: Adobe MAX 2018 Lab Recap (PDF)</strong></a>
     </div>
-    <em>En este laboratorio práctico y paso a paso, combine Photoshop con After Effects para crear imágenes y efectos impresionantes adecuados para su uso en cualquier medio</em>
+    <em>En este laboratorio práctico paso a paso, combina Photoshop con After Effects para crear imágenes y efectos que dejen boquiabiertos y adecuados para su uso en cualquier medio</em>
     <br>
   </td>
   <td>
     <a href="assets/QuicklyBrandYourInstagramPhotoswithAdobePhotoshopActions.pdf">
-      <img alt="Marcar rápidamente sus fotos de Instagram con acciones de Adobe Photoshop" src="assets/QuicklyBrandYourInstagramPhotoswithAdobePhotoshopActions.jpg" />
+      <img alt="Marcar rápidamente sus fotos de Instagram con las acciones de Adobe Photoshop" src="assets/QuicklyBrandYourInstagramPhotoswithAdobePhotoshopActions.jpg" />
     </a>
     <div>
-    <a href="assets/QuicklyBrandYourInstagramPhotoswithAdobePhotoshopActions.pdf"><strong>Marcar rápidamente sus fotografías de Instagram con acciones de Adobe Photoshop (PDF)</strong></a>
+    <a href="assets/QuicklyBrandYourInstagramPhotoswithAdobePhotoshopActions.pdf"><strong>Marcar rápidamente sus fotos de Instagram con las acciones de Adobe Photoshop (PDF)</strong></a>
     </div>
-    <em>Elimine el tedio y ahorre toneladas de tiempo mediante acciones en Photoshop</em>
+    <em>Elimina lo tedioso y ahorra mucho tiempo con las acciones de Photoshop</em>
     <br>
   </td>
 </tr>
 <tr>
     <td>
     <a href="assets/WorkSmarterNotHarderwithPhotoshop.pdf">
-      <img alt="Trabajar de forma más inteligente, no más difícil, con Photoshop" src="assets/WorkSmarterNotHarderwithPhotoshop.jpg" />
+      <img alt="Trabaja más inteligente, no más duro, con Photoshop" src="assets/WorkSmarterNotHarderwithPhotoshop.jpg" />
     </a>
     <div>
-    <a href="assets/WorkSmarterNotHarderwithPhotoshop.pdf"><strong>Trabajar de forma más inteligente, no más difícil, con Photoshop (PDF)</strong></a>
+    <a href="assets/WorkSmarterNotHarderwithPhotoshop.pdf"><strong>Trabaja más inteligente, no más duro, con Photoshop (PDF)</strong></a>
     </div>
-    <em>Los cambios en Photoshop pueden llevar mucho tiempo, pero no tienen por qué</em>
+    <em>Los cambios en Photoshop pueden llevar mucho tiempo, pero no tienen por qué serlo</em>
     <br>
   </td>
    <td>
@@ -205,19 +205,19 @@ Como creativo empresarial, debe colaborar con equipos distribuidos, establecer p
       <img alt="Cualquiera puede ser creativo con Adobe Creative Cloud" src="assets/AnyoneCanBeCreativewithAdobeCreativeCloud.jpg" />
     </a>
     <div>
-    <a href="assets/AnyoneCanBeCreativewithAdobeCreativeCloud.pdf"><strong>Añada un poco de Adobe Photoshop a su conjunto de habilidades creativas (PDF)</strong></a>
+    <a href="assets/AnyoneCanBeCreativewithAdobeCreativeCloud.pdf"><strong>Añade un poco de Adobe Photoshop a tu conjunto de habilidades creativas (PDF)</strong></a>
     </div>
-    <em>Añada un poco de Adobe Photoshop a su conjunto de habilidades creativas</em>
+    <em>Añade un poco de Adobe Photoshop a tu conjunto de habilidades creativas</em>
     <br>
   </td>
   <td>
     <a href="assets/GreenScreenisNotJustforVideo.pdf">
-      <img alt="La pantalla verde no es solo para vídeo" src="assets/GreenScreenisNotJustforVideo.jpg" />
+      <img alt="La pantalla verde no es solo para vídeos" src="assets/GreenScreenisNotJustforVideo.jpg" />
     </a>
     <div>
     <a href="assets/GreenScreenisNotJustforVideo.pdf"><strong>La pantalla verde no es solo para vídeo (PDF)</strong></a>
     </div>
-    <em>Puede utilizar la pantalla verde en un estudio de fotografías y After Effects para preparar el uso de la fotografía en Photoshop</em>
+    <em>Puede usar un fondo verde en un estudio fotográfico y usar After Effects para preparar la foto y usarla en Photoshop</em>
     <br>
   </td>
 </tr>  
@@ -229,21 +229,21 @@ Como creativo empresarial, debe colaborar con equipos distribuidos, establecer p
 <tr>
  <td>
    <a href="frescoworkshop.md">
-      <img alt="Pruebe su mano en el Fresco en el iPad (y iPhone)" src="assets/Fresco.png" />
+      <img alt="Descubre Fresco en el iPad (y iPhone)" src="assets/Fresco.png" />
    </a>
     <div>
-   <a href="frescoworkshop.md"><strong>Pruebe su mano en el Fresco en el iPad (y iPhone)</strong></a>
+   <a href="frescoworkshop.md"><strong>Descubre Fresco en el iPad (y iPhone)</strong></a>
     </div>
-    <em>Explore un nuevo mundo de dibujo digital y pintura con Adobe Fresca en este taller práctico de 15 minutos</em>
+    <em>Explora un mundo completamente nuevo del dibujo y la pintura digitales con Adobe Fresca en este taller práctico de 15 minutos</em>
     <br>
   </td>
   <td>
-    <img alt="Espaciador" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <img alt="Separador" src="../assets/acrobat_PDF_whitespacer_96.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="Espaciador" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <img alt="Separador" src="../assets/acrobat_PDF_whitespacer_96.png" />
     <div>
     <br>
   </td>
@@ -259,9 +259,9 @@ Como creativo empresarial, debe colaborar con equipos distribuidos, establecer p
       <img alt="Introducción A Adobe Portfolio" src="assets/GettingStartedWithAdobePortfolio.jpg" />
    </a>
     <div>
-   <a href="assets/GettingStartedWithAdobePortfolio.pdf"><strong>Introducción a Adobe Portfolio (PDF)</strong></a>
+   <a href="assets/GettingStartedWithAdobePortfolio.pdf"><strong>Introducción A Adobe Portfolio (PDF)</strong></a>
     </div>
-    <em>Compartir su mejor trabajo con Adobe Portfolio es una forma eficaz de compartir su éxito y atraer nuevos talentos creativos</em>
+    <em>Compartir tu mejor trabajo con Adobe Portfolio es una forma eficaz de compartir tu éxito y atraer a nuevos talentos creativos</em>
     <br>
   </td>
    <td>
@@ -271,17 +271,17 @@ Como creativo empresarial, debe colaborar con equipos distribuidos, establecer p
     <div>
    <a href="assets/ConnectingLightroomandBehancetoYourAdobePortfolio.pdf"><strong>Conexión de Lightroom y Bēhance a su Adobe Portfolio (PDF)</strong></a>
     </div>
-    <em>Usar proyectos de Bēhance como páginas en su portafolio</em>
+    <em>Utiliza proyectos de Bēhance como páginas de tu portafolio</em>
     <br>
   </td>
   <td>
    <a href="assets/ShowYourBestWorkwithAdobePortfolio.pdf">
-      <img alt="Mostrar el mejor trabajo con Adobe Portfolio" src="assets/ShowYourBestWorkwithAdobePortfolio.jpg" />
+      <img alt="Muestra tus mejores trabajos con Adobe Portfolio" src="assets/ShowYourBestWorkwithAdobePortfolio.jpg" />
    </a>
     <div>
-   <a href="assets/ShowYourBestWorkwithAdobePortfolio.pdf"><strong>Mostrar el mejor trabajo con Adobe Portfolio (PDF)</strong></a>
+   <a href="assets/ShowYourBestWorkwithAdobePortfolio.pdf"><strong>Mostrar sus mejores trabajos con Adobe Portfolio (PDF)</strong></a>
     </div>
-    <em>Adobe Portfolio le permite cargar, organizar y compartir su trabajo con personal y clientes potenciales de todo el mundo</em>
+    <em>Adobe Portfolio te permite cargar, organizar y compartir tu trabajo con posibles empleados y clientes de todo el mundo</em>
     <br>
   </td>
  </tr>
@@ -299,48 +299,48 @@ Como creativo empresarial, debe colaborar con equipos distribuidos, establecer p
    <div>
    <a href="ccteamlibraries.md"><strong>Creación de bibliotecas de Creative Cloud para equipos</strong></a>
     </div>
-    <em>Aprenda a compartir recursos dentro de un grupo o equipo mediante las bibliotecas de Creative Cloud para equipos</em>
+    <em>Aprenda a compartir recursos dentro de un grupo o equipo mediante Bibliotecas Creative Cloud para equipos</em>
     <br>
   </td>
   <td>
    <a href="sharecclibraries.md">
-      <img alt="Uso compartido de recursos de marca con bibliotecas de Creative Cloud para equipos" src="assets/ShareLibraries_1280.jpg" />
+      <img alt="Compartir recursos de marca con Bibliotecas Creative Cloud para equipos" src="assets/ShareLibraries_1280.jpg" />
    </a>
    <div>
-   <a href="sharecclibraries.md"><strong>Uso compartido de recursos de marca con bibliotecas de Creative Cloud para equipos</strong></a>
+   <a href="sharecclibraries.md"><strong>Compartir recursos de marca con Bibliotecas Creative Cloud para equipos</strong></a>
     </div>
-    <em>Aprenda a crear, utilizar y compartir activos de marca para su grupo o equipo mediante las bibliotecas de Creative Cloud para equipos</em>
+    <em>Aprenda a crear, usar y compartir recursos de marca para su grupo o equipo mediante Bibliotecas Creative Cloud para equipos</em>
     <br>
   </td>
   <td>
    <a href="assets/CreateAddandShareYourBrandAssetswithCreativeCloudLibraries.pdf">
-      <img alt="Cree, añada y comparta sus activos de marca con las bibliotecas de Creative Cloud" src="assets/CreateAddandShareYourBrandAssetswithCreativeCloudLibraries.jpg" />
+      <img alt="Cree, agregue y comparta los activos de su marca con Bibliotecas Creative Cloud" src="assets/CreateAddandShareYourBrandAssetswithCreativeCloudLibraries.jpg" />
    </a>
     <div>
-   <a href="assets/CreateAddandShareYourBrandAssetswithCreativeCloudLibraries.pdf"><strong>Creación, adición y uso compartido de los recursos de marca con las bibliotecas de Creative Cloud (PDF)</strong></a>
+   <a href="assets/CreateAddandShareYourBrandAssetswithCreativeCloudLibraries.pdf"><strong>Cree, agregue y comparta los activos de su marca con las bibliotecas de Creative Cloud (PDF)</strong></a>
     </div>
-    <em>Las Bibliotecas Creative Cloud proporcionan un sistema de marca integrado que permite a los diseñadores compartir los activos de marca entre equipos creativos</em>
+    <em>Bibliotecas Creative Cloud proporciona un sistema de marca integrado que permite a los diseñadores compartir activos de marca entre los equipos creativos</em>
     <br>
   </td>
 </tr>
 <tr>
   <td>
    <a href="assets/ShareTextStylesFromIllustratorwithCreativeCloudLibraries.pdf">
-      <img alt="Compartir estilos de texto de Illustrator con bibliotecas de Creative Cloud" src="assets/ShareTextStylesFromIllustratorwithCreativeCloudLibraries.jpg" />
+      <img alt="Compartir estilos de texto de Illustrator con Bibliotecas Creative Cloud" src="assets/ShareTextStylesFromIllustratorwithCreativeCloudLibraries.jpg" />
    </a>
     <div>
-   <a href="assets/ShareTextStylesFromIllustratorwithCreativeCloudLibraries.pdf"><strong>Compartir estilos de texto de Illustrator con bibliotecas de Creative Cloud (PDF)</strong></a>
+   <a href="assets/ShareTextStylesFromIllustratorwithCreativeCloudLibraries.pdf"><strong>Compartir estilos de texto de Illustrator con Bibliotecas Creative Cloud (PDF)</strong></a>
     </div>
-    <em>Trabajar de forma más inteligente, no más difícil, en Illustrator</em>
+    <em>Trabaja más inteligente, no más duro, en Illustrator</em>
     <br>
   </td>
   <td>
-    <img alt="Espaciador" src="../assets/GrayBanner_Spacer.png" />
+    <img alt="Separador" src="../assets/GrayBanner_Spacer.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="Espaciador" src="../assets/GrayBanner_Spacer.png" />
+    <img alt="Separador" src="../assets/GrayBanner_Spacer.png" />
     <div>
     <br>
   </td>
@@ -353,32 +353,32 @@ Como creativo empresarial, debe colaborar con equipos distribuidos, establecer p
 <tr>
   <td>
    <a href="assets/CreatingBeautifulTypographywithCreativeCloud.pdf">
-      <img alt="Creación de una tipografía hermosa con Creative Cloud" src="assets/CreatingBeautifulTypographywithCreativeCloud.jpg" />
+      <img alt="Creación de tipografías preciosas con Creative Cloud" src="assets/CreatingBeautifulTypographywithCreativeCloud.jpg" />
    </a>
     <div>
-   <a href="assets/CreatingBeautifulTypographywithCreativeCloud.pdf"><strong>Creación de una tipografía atractiva con Creative Cloud (PDF)</strong></a>
+   <a href="assets/CreatingBeautifulTypographywithCreativeCloud.pdf"><strong>Creación de tipografías atractivas con Creative Cloud (PDF)</strong></a>
     </div>
     <em>Aprenda a aprovechar los controles tipográficos de última generación que se encuentran en sus herramientas de diseño favoritas</em>
     <br>
   </td>
    <td>
    <a href="assets/DiscoveringFontswithCreativeCloud.pdf">
-      <img alt="Detección de fuentes con Creative Cloud" src="assets/DiscoveringFontswithCreativeCloud.jpg" />
+      <img alt="Descubrir fuentes con Creative Cloud" src="assets/DiscoveringFontswithCreativeCloud.jpg" />
    </a>
     <div>
    <a href="assets/DiscoveringFontswithCreativeCloud.pdf"><strong>Detección de fuentes con Creative Cloud (PDF)</strong></a>
     </div>
-    <em>Encontrar la fuente correcta para un proyecto puede parecer abrumador a veces. Con varias aplicaciones y servicios de Creative Cloud, ahora encontrar la fuente correcta es divertido e inspirador</em>
+    <em>Encontrar la fuente adecuada para un proyecto puede parecer abrumador a veces. Gracias a las distintas aplicaciones y servicios de Creative Cloud, encontrar la fuente adecuada resulta divertido e inspirador</em>
     <br>
   </td>
   <td>
    <a href="assets/UnleashHiddenGemsinOpenTypefonts.pdf">
-      <img alt="Liberar gemas ocultas en las fuentes de OpenType" src="assets/UnleashHiddenGemsinOpenTypefonts.jpg" />
+      <img alt="Desata gemas ocultas en fuentes de OpenType" src="assets/UnleashHiddenGemsinOpenTypefonts.jpg" />
    </a>
     <div>
-   <a href="assets/UnleashHiddenGemsinOpenTypefonts.pdf"><strong>Liberar gemas ocultos en las fuentes de OpenType (PDF)</strong></a>
+   <a href="assets/UnleashHiddenGemsinOpenTypefonts.pdf"><strong>Desencadenar gemas ocultas en fuentes de OpenType (PDF)</strong></a>
     </div>
-    <em>El formato de OpenType permite que una fuente contenga hasta 65.536 pictogramas</em>
+    <em>El formato de OpenType permite que una fuente contenga hasta 65.536 glifos</em>
     <br>
   </td>
 </tr>
@@ -390,44 +390,44 @@ Como creativo empresarial, debe colaborar con equipos distribuidos, establecer p
 <tr>
   <td>
    <a href="assets/CreatingInteractivePDFsfromInDesign.pdf">
-      <img alt="Creación de archivos PDF interactivos desde InDesign" src="assets/CreatingInteractivePDFsfromInDesign.jpg" />
+      <img alt="Creación de PDF interactivos desde InDesign" src="assets/CreatingInteractivePDFsfromInDesign.jpg" />
    </a>
     <div>
-   <a href="assets/CreatingInteractivePDFsfromInDesign.pdf"><strong>Creación de archivos PDF interactivos desde InDesign (PDF)</strong></a>
+   <a href="assets/CreatingInteractivePDFsfromInDesign.pdf"><strong>Creación de PDF interactivos desde el InDesign (PDF)</strong></a>
     </div>
-    <em>InDesign contiene muchas funciones que le ayudan a dar formato, diseñar, administrar y realizar el seguimiento del contenido de los documentos</em>
+    <em>InDesign contiene muchas funciones que le ayudan a dar formato, estilo, administrar y realizar un seguimiento del contenido de los documentos</em>
     <br>
   </td>
    <td>
    <a href="assets/EasilyGatherandIncorporateDesignFeedbackwithAdobeAcrobatandInDesign.pdf">
-      <img alt="Reúna e integre comentarios de diseño fácilmente con Adobe Acrobat y InDesign" src="assets/EasilyGatherandIncorporateDesignFeedbackwithAdobeAcrobatandInDesign.jpg" />
+      <img alt="Recopila e incorpora comentarios de diseño con facilidad con Adobe Acrobat y InDesign" src="assets/EasilyGatherandIncorporateDesignFeedbackwithAdobeAcrobatandInDesign.jpg" />
    </a>
     <div>
-   <a href="assets/EasilyGatherandIncorporateDesignFeedbackwithAdobeAcrobatandInDesign.pdf"><strong>Recopilar e incorporar comentarios de diseño fácilmente con Adobe Acrobat y InDesign (PDF)</strong></a>
+   <a href="assets/EasilyGatherandIncorporateDesignFeedbackwithAdobeAcrobatandInDesign.pdf"><strong>Recopile e incorpore fácilmente comentarios de diseño con Adobe Acrobat y InDesign (PDF)</strong></a>
     </div>
-    <em>Las partes interesadas pueden utilizar Acrobat para añadir comentarios y anotaciones detallados y, a continuación, puede volver a incluir rápidamente esas marcas en Adobe InDesign para verlas en el contexto de su diseño</em>
+    <em>Los responsables de departamento pueden usar Acrobat para agregar comentarios y anotaciones detallados, y luego puedes volver a llevar rápidamente esas marcas a Adobe InDesign para verlas en el contexto de tu diseño</em>
     <br>
   </td>
   <td>
    <a href="assets/StyleWebContentwithInDesign.pdf">
-      <img alt="Aplicación de estilo al contenido web con Adobe InDesign CC" src="assets/StyleWebContentwithInDesign.jpg" />
+      <img alt="Diseña contenido web con Adobe InDesign CC" src="assets/StyleWebContentwithInDesign.jpg" />
    </a>
     <div>
-   <a href="assets/StyleWebContentwithInDesign.pdf"><strong>Estilo del contenido web con Adobe InDesign CC (PDF)</strong></a>
+   <a href="assets/StyleWebContentwithInDesign.pdf"><strong>Aplicación de estilos al contenido web con Adobe InDesign CC (PDF)</strong></a>
     </div>
-    <em>¿Sabía que puede aprovechar la potencia del InDesign para generar gráficos HTML y web?</em>
+    <em>¿Sabía que puede aprovechar la potencia del InDesign para generar gráficos web y de HTML?</em>
     <br>
   </td>
 </tr>
 <tr>
    <td>
    <a href="assets/InteractivePDFBookmarksandLinkedTOCsfromInDesign.pdf">
-      <img alt="PDF interactivo: Marcadores y TDC vinculados desde InDesign" src="assets/InteractivePDFBookmarksandLinkedTOCsfromInDesign.jpg" />
+      <img alt="PDF interactivo: Marcadores y índice vinculados de InDesign" src="assets/InteractivePDFBookmarksandLinkedTOCsfromInDesign.jpg" />
    </a>
     <div>
-   <a href="assets/InteractivePDFBookmarksandLinkedTOCsfromInDesign.pdf"><strong>PDF interactivo: Marcadores y TDC vinculados desde InDesign (PDF)</strong></a>
+   <a href="assets/InteractivePDFBookmarksandLinkedTOCsfromInDesign.pdf"><strong>PDF interactivo: Marcadores y índice vinculados de InDesign (PDF)</strong></a>
     </div>
-    <em>Aprenda a utilizar la función Tabla de contenido en InDesign para generar marcadores e hipervínculos que ayuden a los lectores a encontrar rápidamente información en los archivos PDF</em>
+    <em>Aprenda a utilizar la función Tabla de contenido en InDesign para generar marcadores e hipervínculos que ayuden a los usuarios a encontrar información rápidamente en los archivos de PDF</em>
     <br>
   </td>
    <td>
@@ -437,11 +437,11 @@ Como creativo empresarial, debe colaborar con equipos distribuidos, establecer p
     <div>
    <a href="assets/InteractivePDFGraphicalHyperlinksandNestedMasterPagesinInDesign.pdf"><strong>PDF interactivo: Hipervínculos gráficos y páginas maestras anidadas en InDesign (PDF)</strong></a>
     </div>
-    <em>La aplicación de hipervínculos con páginas maestras permite administrar rápidamente un sistema de navegación en todas las páginas</em>
+    <em>La aplicación de hipervínculos con páginas principales permite administrar rápidamente un sistema de navegación en todas las páginas</em>
     <br>
   </td>
   <td>
-    <img alt="Espaciador" src="../assets/GrayBanner_Spacer.png" />
+    <img alt="Separador" src="../assets/GrayBanner_Spacer.png" />
     <div>
     <br>
   </td>
@@ -454,32 +454,32 @@ Como creativo empresarial, debe colaborar con equipos distribuidos, establecer p
 <tr>
    <td>
    <a href="assets/GettoKnowGraphicStylesinIllustrator.pdf">
-      <img alt="Introducción a los estilos gráficos en Illustrator" src="assets/GettoKnowGraphicStylesinIllustrator.jpg" />
+      <img alt="Conocer los estilos gráficos en Illustrator" src="assets/GettoKnowGraphicStylesinIllustrator.jpg" />
    </a>
     <div>
-   <a href="assets/GettoKnowGraphicStylesinIllustrator.pdf"><strong>Introducción a los estilos gráficos en Illustrator (PDF)</strong></a>
+   <a href="assets/GettoKnowGraphicStylesinIllustrator.pdf"><strong>Conocer los estilos gráficos en Illustrator (PDF)</strong></a>
     </div>
-    <em>Illustrator le ofrece la posibilidad de diseñar ilustraciones de la misma forma que el texto</em>
+    <em>Illustrator le permite dar estilo a sus ilustraciones de la misma forma que a su texto</em>
     <br>
   </td>
    <td>
    <a href="assets/WorkSmarterNotHarderwithIllustrator.pdf">
-      <img alt="Trabaje más inteligente, no más duro, con Adobe Illustrator CC" src="assets/WorkSmarterNotHarderwithIllustrator.jpg" />
+      <img alt="Trabaja de forma más inteligente, no más duro, con Adobe Illustrator CC" src="assets/WorkSmarterNotHarderwithIllustrator.jpg" />
    </a>
     <div>
-   <a href="assets/WorkSmarterNotHarderwithIllustrator.pdf"><strong>Trabajar de forma más inteligente, no más difícil, con Adobe Illustrator CC (PDF)</strong></a>
+   <a href="assets/WorkSmarterNotHarderwithIllustrator.pdf"><strong>Trabaja de forma más inteligente, no más duro, con Adobe Illustrator CC (PDF)</strong></a>
     </div>
-    <em>Acelere los dibujos vectoriales en Illustrator</em>
+    <em>Agiliza tus dibujos vectoriales en Illustrator</em>
     <br>
   </td>
   <td>
    <a href="assets/IllustratorSymbolsandLayersequalsPerfectStructureforResponsiveSVG.pdf">
-      <img alt="Símbolos Illustrator + capas = estructura perfecta para SVG interactivo" src="assets/IllustratorSymbolsandLayersequalsPerfectStructureforResponsiveSVG.jpg" />
+      <img alt="Illustrator Symbols + Layers = Estructura perfecta para SVG sensible!" src="assets/IllustratorSymbolsandLayersequalsPerfectStructureforResponsiveSVG.jpg" />
    </a>
     <div>
-   <a href="assets/IllustratorSymbolsandLayersequalsPerfectStructureforResponsiveSVG.pdf"><strong>Símbolos Illustrator + capas = estructura perfecta para SVG interactivo (PDF)</strong></a>
+   <a href="assets/IllustratorSymbolsandLayersequalsPerfectStructureforResponsiveSVG.pdf"><strong>Illustrator Symbols + Layers = Estructura perfecta para SVG sensible! (PDF)</strong></a>
     </div>
-    <em>Illustrator ofrece una compatibilidad sin precedentes con el formato SVG, incluida la posibilidad de crear símbolos, grupos, ID y definiciones vectoriales precisas de la ilustración</em>
+    <em>Illustrator proporciona una compatibilidad inigualable para el formato de SVG, incluida la capacidad de crear símbolos, grupos, ID y definiciones vectoriales precisas de su ilustración</em>
     <br>
   </td>
 </tr>
@@ -491,21 +491,21 @@ Como creativo empresarial, debe colaborar con equipos distribuidos, establecer p
 <tr>
    <td>
    <a href="assets/VisualizeyourProductinaRealisticEnvironment.pdf">
-      <img alt="Visualizar el producto en un entorno realista" src="assets/VisualizeyourProductinaRealisticEnvironment.jpg" />
+      <img alt="Visualiza tu producto en un entorno realista" src="assets/VisualizeyourProductinaRealisticEnvironment.jpg" />
    </a>
     <div>
-   <a href="assets/VisualizeyourProductinaRealisticEnvironment.pdf"><strong>Visualizar el producto en un entorno realista (PDF)</strong></a>
+   <a href="assets/VisualizeyourProductinaRealisticEnvironment.pdf"><strong>Visualiza tu producto en un entorno realista (PDF)</strong></a>
     </div>
-    <em>Cuando quiera ver cómo se ven sus productos en el mundo real, Adobe [!DNL Dimension] es su aplicación de destino</em>
+    <em>Cuando quieras ver cómo quedan tus productos en el mundo real, utiliza Adobe [!DNL Dimension] es tu aplicación de referencia</em>
     <br>
   </td>
   <td>
-    <img alt="Espaciador" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <img alt="Separador" src="../assets/acrobat_PDF_whitespacer_96.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="Espaciador" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <img alt="Separador" src="../assets/acrobat_PDF_whitespacer_96.png" />
     <div>
     <br>
   </td>

@@ -1,13 +1,13 @@
 ---
 title: Capture
-description: Adobe [!DNL Capture] convierte teléfonos móviles y tabletas en una herramienta de recopilación de diseño
+description: Adobe [!DNL Capture] convierte los teléfonos móviles y tabletas en una herramienta de colección de diseño
 role: User
 level: Beginner, Intermediate
 exl-id: dcd379c5-3f60-4056-9d60-589890d4de66
 source-git-commit: e3982cf31ebb0dac5927baa1352447b3222785c9
 workflow-type: tm+mt
 source-wordcount: '199'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -15,56 +15,56 @@ ht-degree: 0%
 
 ![Tutorial Hero Image](../assets/Capture.jpg)
 
-Adobe [!DNL Capture] convierte teléfonos móviles y tabletas en una herramienta de recopilación de diseño. Los usuarios pueden crear muchos tipos diferentes de activos (elementos digitales individuales para ilustraciones).   Estos activos se sincronizan automáticamente con otras aplicaciones de Adobe móviles y de escritorio. Los usuarios pueden incorporarlos a sus proyectos creativos o compartirlos fácilmente con colaboradores.
+Adobe [!DNL Capture] convierte los teléfonos móviles y tabletas en una herramienta de colección de diseño. Los usuarios pueden crear muchos tipos diferentes de activos (elementos digitales individuales para ilustraciones).   Estos activos se sincronizan automáticamente con otras aplicaciones de Adobe de escritorio y móviles. Los usuarios pueden incorporarlos a sus proyectos creativos o compartirlos fácilmente con colaboradores.
 
-## Examinar Tutorials de productos
+## Buscar Tutorials de productos
 
 <table style="table-layout:fixed">
 <tr>
  <td>
    <a href="capture.md#tutorial1">
-      <img alt="Capture la inspiración del mundo que le rodea" src="../assets/capture_palmer_thumbnail.jpg" />
+      <img alt="Inspírate en el mundo que te rodea" src="../assets/capture_palmer_thumbnail.jpg" />
    </a>
     <div>
-   <a href="capture.md#tutorial1"><strong>Capture la inspiración del mundo que le rodea</strong></a>
+   <a href="capture.md#tutorial1"><strong>Inspírate en el mundo que te rodea</strong></a>
     </div>
-    <em>Utilice las potentes herramientas de selección y edición de color en la captura de Adobe para cambiar drásticamente una imagen a fin de adaptarla a sus necesidades empresariales de marca</em>
+    <em>Utiliza las potentes herramientas de selección y edición de color de Adobe Capture para cambiar drásticamente una imagen que se ajuste a tus necesidades de marca corporativas</em>
     <br>
   </td>
   <td>
-    <img alt="Espaciador" src="../assets/Whitespacer.png" />
+    <img alt="Separador" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="Espaciador" src="../assets/Whitespacer.png" />
+    <img alt="Separador" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
 </tr>
 </table>
 
-## Capture Inspiration from the World Around You (2:56) {#tutorial1}
+## Captura la inspiración del mundo que te rodea (2:56) {#tutorial1}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326825?hidetitle=true)
 
-****
-DescripciónTransforme imágenes y vídeos en su dispositivo móvil en componentes creativos para todos sus diseños.
+**Descripción**
+Transforma imágenes y vídeos de tu dispositivo móvil en bloques de construcción creativos para todos tus diseños.
 
 En este tutorial, aprenderá a:
-* Diseño en cualquier lugar
-* Integración con las aplicaciones de escritorio a través de las Bibliotecas CC
+* Diseña en cualquier parte
+* Integración con aplicaciones de escritorio mediante Bibliotecas CC
 * Acceder a miles de Adobe Fonts
 
 **Presentado por:**
 Emily Palmer, consultora de soluciones (Digital Media)
 
-![Logotipo de captura](../assets/ca_appicon_96.png)
+![Logotipo de Capture](../assets/ca_appicon_96.png)
 
 **[!DNL Capture]Recursos**
 
-[Formación y ](https://helpx.adobe.com/mobile-apps/help/capture-faq.html) asistencia técnica es su centro para ver tutoriales adicionales y vínculos a foros de la comunidad.
+[Información y asistencia](https://helpx.adobe.com/mobile-apps/help/capture-faq.html) es el centro de tutoriales adicionales y vínculos a foros de la comunidad.
 
 **Versión de octubre de 2020**
 
-Empiece a utilizar estas funciones (y mucho más) descargando la actualización más reciente desde la aplicación de escritorio de Creative Cloud.
+Empiece a utilizar estas funciones (¡y mucho más!) descargando la actualización más reciente de la aplicación de escritorio de Creative Cloud.

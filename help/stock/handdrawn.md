@@ -1,6 +1,6 @@
 ---
-title: 'Añadir una estética dibujada a mano a imágenes de Adobe [!DNL Stock] '
-description: Amplíe su marketing creativo con técnicas únicas que añaden profundidad y dimensión a sus imágenes con Photoshop para iPad
+title: Añade una estética dibujada a mano al Adobe [!DNL Stock] images
+description: Amplía tu marketing creativo con técnicas únicas que añaden profundidad y dimensión a tus imágenes mediante Photoshop para iPad
 role: User
 level: Beginner, Intermediate
 thumbnail: 331819.jpg
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# Añadir una estética dibujada a mano a imágenes de Adobe [!DNL Stock]
+# Añade una estética dibujada a mano al Adobe [!DNL Stock] images
 
-Amplíe su marketing creativo con técnicas únicas que añaden profundidad y dimensión a sus imágenes con Photoshop para iPad.
+Amplía tu marketing creativo con técnicas únicas que añaden profundidad y dimensión a tus imágenes mediante Photoshop para iPad.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331819?hidetitle=true)

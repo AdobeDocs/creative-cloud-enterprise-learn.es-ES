@@ -1,6 +1,6 @@
 ---
 title: Bibliotecas CC
-description: Mantenga sus activos a mano y sus proyectos en la marca
+description: Mantén tus activos a mano y tus proyectos fieles a la marca
 role: User
 level: Beginner, Intermediate
 exl-id: e68a8d5b-3dca-4ac8-87d1-b31dbe0e13ce
@@ -15,20 +15,20 @@ ht-degree: 2%
 
 ![Tutorial Hero Image](../assets/CCLibs.jpg)
 
-Mantenga sus activos a mano y sus proyectos a la marca.
+Mantén tus activos a mano y tus proyectos fieles a la marca.
 
-## Examinar Tutorials de productos
+## Buscar Tutorials de productos
 
 <table style="table-layout:fixed">
 <tr>
  <td>
    <a href="cclibraries.md#tutorial1">
-      <img alt="Crear Bibliotecas CC" src="../assets/libraries_create_dvorin_thumbnail.jpg" />
+      <img alt="Crear bibliotecas CC" src="../assets/libraries_create_dvorin_thumbnail.jpg" />
    </a>
     <div>
-   <a href="cclibraries.md#tutorial1"><strong>Crear Bibliotecas CC</strong></a>
+   <a href="cclibraries.md#tutorial1"><strong>Crear bibliotecas CC</strong></a>
     </div>
-    <em>Con las Bibliotecas Adobe Creative Cloud, puedes administrar, organizar y acceder a tus logotipos, colores y mucho más en tus aplicaciones de Creative Cloud favoritas</em>
+    <em>Con las Bibliotecas Adobe Creative Cloud, puedes administrar, organizar y acceder a tus logotipos, colores y más, en tus aplicaciones de Creative Cloud favoritas</em>
     <br>
   </td>
    <td>
@@ -38,51 +38,51 @@ Mantenga sus activos a mano y sus proyectos a la marca.
     <div>
    <a href="cclibraries.md#tutorial2"><strong>Compartir bibliotecas CC</strong></a>
     </div>
-    <em>Trabaje de forma más eficaz, garantice la coherencia creativa y permanezca en sincronía con su equipo de forma sencilla</em>
+    <em>Trabaja de forma más eficaz, garantiza la coherencia creativa y sincronízate fácilmente con tu equipo</em>
     <br>
   </td>
   <td>
-    <img alt="Espaciador" src="../assets/Whitespacer.png" />
+    <img alt="Separador" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
 </tr>
 </table>
 
-## Crear Bibliotecas CC (4:38) {#tutorial1}
+## Crear bibliotecas CC (4:38) {#tutorial1}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326802?hidetitle=true)
 
-****
-DescripciónCon las Bibliotecas Adobe Creative Cloud, puede administrar, organizar y acceder a sus logotipos, colores y mucho más en sus aplicaciones de Creative Cloud favoritas.
+**Descripción**
+Con las Bibliotecas Adobe Creative Cloud, puedes administrar, organizar y acceder a tus logotipos, colores y mucho más en tus aplicaciones de Creative Cloud favoritas.
 
 En este tutorial, aprenderá a:
-* Mantenga sus activos a mano y sus proyectos en la marca
+* Mantén tus activos a mano y tus proyectos fieles a la marca
 * Nueva! Integración completa con Adobe XD
 
 **Presentado por:**
-Ashley Dvorin, consultor senior de soluciones (Digital Media)
+Ashley Dvorin, consultora sénior de soluciones (Digital Media)
 
-## Share CC Libraries (4:14) (Compartir bibliotecas CC, en inglés) {#tutorial2}
+## Compartir Bibliotecas CC (4:14) {#tutorial2}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326803?hidetitle=true)
 
-****
-DescripciónTrabaje de forma más eficaz, garantice la coherencia creativa y sincronice fácilmente con su equipo.
+**Descripción**
+Trabaja de forma más eficaz, garantiza la coherencia creativa y sincronízate fácilmente con tu equipo.
 
 En este tutorial, aprenderá a:
-* Mantenga sus activos a mano y sus proyectos en la marca
-* Colaborar fácilmente en proyectos directamente desde sus aplicaciones favoritas
+* Mantén tus activos a mano y tus proyectos fieles a la marca
+* Colabore fácilmente en proyectos directamente desde sus aplicaciones favoritas
 
 **Presentado por:**
-Ashley Dvorin, consultor senior de soluciones (Digital Media)
+Ashley Dvorin, consultora sénior de soluciones (Digital Media)
 
-![Logotipo de las Bibliotecas CC](../assets/cc_appicon_96.png)
+![Logotipo de Bibliotecas CC](../assets/cc_appicon_96.png)
 
 **Recursos de Bibliotecas CC**
 
-[Formación y ](https://helpx.adobe.com/creative-cloud/help/libraries.html) asistencia técnica es su centro para ver tutoriales adicionales, novedades y vínculos a foros de la comunidad.
+[Información y asistencia](https://helpx.adobe.com/creative-cloud/help/libraries.html) es el centro de tutoriales adicionales, Novedades y vínculos a foros de la comunidad.
 
 **Versión de octubre de 2020**
 
-Empiece a utilizar estas funciones (y mucho más) descargando la actualización más reciente desde la aplicación de escritorio de Creative Cloud.
+Empiece a utilizar estas funciones (¡y mucho más!) descargando la actualización más reciente de la aplicación de escritorio de Creative Cloud.

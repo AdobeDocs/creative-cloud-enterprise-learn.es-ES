@@ -1,6 +1,6 @@
 ---
-title: Cambiar los colores de una imagen de Adobe [!DNL Stock] para que coincidan con su historia
-description: Haz que una gran imagen trabaje aún más para admitir tu mensaje. Busque una fotografía única en Adobe [!DNL Stock] y ajuste el color en Adobe Photoshop para adaptarla a sus necesidades
+title: Cambiar un Adobe [!DNL Stock] los colores de la imagen para que coincidan con tu historia
+description: Haz que una buena imagen funcione aún más para respaldar tu mensaje. Encuentra una foto única en Adobe [!DNL Stock] y luego ajusta el color en Adobe Photoshop para que se ajuste a tus necesidades
 role: User
 level: Beginner, Intermediate
 thumbnail: 331810.jpg
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# Cambiar los colores de una imagen de Adobe [!DNL Stock] para que coincidan con su historia
+# Cambiar un Adobe [!DNL Stock] los colores de la imagen para que coincidan con tu historia
 
-Haz que una gran imagen trabaje aún más para admitir tu mensaje. Busque una fotografía única en el Adobe [!DNL Stock] y ajuste el color en Adobe Photoshop para adaptarla a sus necesidades.
+Haz que una buena imagen funcione aún más para respaldar tu mensaje. Encuentra una foto única en Adobe [!DNL Stock] y luego ajusta el color en Adobe Photoshop para que se ajuste a tus necesidades.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331810?hidetitle=true)

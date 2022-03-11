@@ -1,5 +1,5 @@
 ---
-title: Creative Cloud para vídeos de implementación empresarial
+title: Vídeos de implementación de Creative Cloud para empresas
 description: Obtenga información actualizada sobre cómo implementar y administrar Creative Cloud para aplicaciones empresariales
 role: User
 level: Beginner, Intermediate
@@ -11,14 +11,14 @@ ht-degree: 0%
 
 ---
 
-# Temas de implementación y gestión de Creative Cloud para empresas
+# Temas de implementación y administración de Creative Cloud para empresas
 
-![Imagen Hero de Creative Cloud](../assets/CCEbanner.png)
+![Imagen de héroe de Creative Cloud](../assets/CCEbanner.png)
 
-Creative Cloud para empresas admite implementaciones personalizadas y reajustes de licencias flexibles, y funciona con otras ofertas de Adobe para empresas.
+Creative Cloud para empresas admite implementaciones personalizadas y reajustes de licencias flexibles, y funciona con otras ofertas empresariales de Adobe.
 
-* [Expiración del número de serie de Creative Cloud para empresas y Acrobat](cceserial.md)
-Obtenga más información sobre la experiencia de caducidad del número de serie para Creative Cloud para empresas y Acrobat.
+* [Información sobre el Creative Cloud para empresas y la caducidad del número de serie de Acrobat](cceserial.md)
+Obtenga información sobre la experiencia de caducidad de números de serie para Creative Cloud para empresas y Acrobat.
 
-* [¿Vencimiento de números de serie? Por qué es hora de licencias de usuario designadas](nameduserlicensing.md)
-Obtenga más información sobre cómo las licencias de productos de Adobe mediante licencias de usuario designadas (NUL) permiten a los administradores de TI implementar y administrar fácilmente las herramientas de Adobe mediante el Admin Console, y proporcionan a los usuarios finales acceso a las aplicaciones creativas y de productividad de primera categoría y a los servicios de Adobe Cloud, incluso si todo el personal es remoto.
+* [¿Caduca números de serie? Por qué es el momento de las licencias de usuario designadas](nameduserlicensing.md)
+Obtenga más información sobre cómo la obtención de licencias de productos de Adobe a través de licencias de usuario designadas (NUL) permite a los administradores de TI implementar y administrar fácilmente herramientas de Adobe mediante el Admin Console y da a los usuarios finales acceso a aplicaciones creativas y de productividad de primera clase y servicios de Adobe Cloud, incluso si toda la plantilla es remota.

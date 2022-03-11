@@ -1,6 +1,6 @@
 ---
-title: Explicación de la caducidad del número de serie de Creative Cloud para empresas y Acrobat
-description: Explicación de la experiencia de caducidad del número de serie para Creative Cloud para empresas y Acrobat
+title: Información sobre la caducidad de los números de serie de Creative Cloud para empresas y Acrobat
+description: Descripción de la experiencia de caducidad de números de serie para Creative Cloud para empresas y Acrobat
 role: User
 level: Beginner, Intermediate
 exl-id: bc457be0-86dc-4e8a-b6b2-34bc76af2d21
@@ -11,86 +11,86 @@ ht-degree: 3%
 
 ---
 
-# Explicación de la caducidad del número de serie de Creative Cloud para empresas y Acrobat
+# Información sobre la caducidad de los números de serie de Creative Cloud para empresas y Acrobat
 
-Históricamente, Adobe ha emitido números de serie con nuestras aplicaciones (es decir, Creative Suite, Creative Cloud para empresas, Acrobat XI, Acrobat DC) a los clientes con contratos de licencias de duración determinada para empresas (ETLA). Estos números de serie tienen una fecha de caducidad. Una vez que haya pasado la fecha de caducidad, el producto ya no funcionará, por lo que es importante planificar la migración antes de que caduquen los números de serie. Esta página describe los pasos necesarios para garantizar que los usuarios finales tengan acceso continuo a sus aplicaciones y servicios de Adobe.
+Históricamente, el Adobe proporcionaba números de serie con nuestras aplicaciones (es decir, Creative Suite, Creative Cloud para empresas, Acrobat XI, Acrobat DC) a los clientes mediante contratos de licencias de duración determinada para empresas (ETLA). Estos números de serie tienen una fecha de caducidad. Una vez transcurrida la fecha de caducidad, el producto dejará de funcionar, por lo que es importante planificar la migración antes de que caduquen los números de serie. Esta página describe los pasos necesarios para garantizar que los usuarios finales tengan acceso continuo a sus aplicaciones y servicios de Adobe.
 
 ## Comprobación de los números de serie para su fecha de caducidad
 
 ### Buscar los números de serie
 
-Las licencias con número de serie asociadas a su acuerdo de ETLA están disponibles a través del [Sitio web de licencias de Adobe](https://licensing.adobe.com/) (LWS). Siga estas instrucciones para mostrar y descargar:
+Las licencias de número de serie asociadas a su acuerdo de ETLA están disponibles a través de la [Sitio web de licencias de Adobe](https://licensing.adobe.com/) (LWS). Siga estas instrucciones para mostrar y descargar:
 
-1. Inicie sesión en [Sitio web de licencias de Adobe](https://licensing.adobe.com/) (LWS) con su Adobe ID y contraseña.
-1. Elija **Licencias > Recuperar números de serie**.
+1. Iniciar sesión en [Sitio web de licencias de Adobe](https://licensing.adobe.com/) (LWS) con su Adobe ID y contraseña.
+1. Elegir **Licencias > Recuperar números de serie**.
 1. Introduzca su **ID de usuario final** o **ID de implementación**.
-1. (Opcional) Seleccione un **Nombre del producto**, **Versión del producto** o **Plataforma** para filtrar los resultados.
+1. (Opcional) Seleccione una **Nombre del producto**, **Versión del producto**, o **Platform** para filtrar resultados.
 1. Haga clic en Buscar.
 1. Se muestran los números de serie y el nombre del producto.
 1. (Opcional) Seleccione &quot;EXPORTAR A CSV&quot; para descargar la lista de números de serie.
 
-![Buscar números de serie](assets/retrieveserialnumbers.png)
+![Buscar los números de serie](assets/retrieveserialnumbers.png)
 
 ### Comprobar la fecha de caducidad
 
-El [AdobeExpiryCheck](https://helpx.adobe.com/enterprise/kb/volume-license-expiration-check.html) es una utilidad de línea de comandos para que los administradores de TI comprueben si los productos de Adobe de un equipo utilizan números de serie que han caducado o que están expirando. La herramienta mostrará información como el identificador de licencia de producto (LEID), el número de serie cifrado y la fecha de caducidad. Esta [página](https://helpx.adobe.com/enterprise/kb/volume-license-expiration-check.html) contiene instrucciones sobre cómo descargar y utilizar la herramienta en equipos Mac o Windows.
+La [AdobeExpiryCheck](https://helpx.adobe.com/enterprise/kb/volume-license-expiration-check.html) es una utilidad de línea de comandos para administradores de TI que permite comprobar si los productos de Adobe de un equipo utilizan números de serie que han caducado o van a caducar. La herramienta mostrará información como el identificador de licencia del producto (LEID), el número de serie cifrado y la fecha de caducidad. Esto [página](https://helpx.adobe.com/enterprise/kb/volume-license-expiration-check.html) contiene instrucciones sobre cómo descargar y utilizar la herramienta en equipos Mac o Windows.
 
-## Explicación de la experiencia del usuario final antes y después de que caduque el número de serie
+## Conocer la experiencia del usuario final antes y después de que caduque el número de serie
 
-Tanto Acrobat como Creative Cloud para aplicaciones empresariales empezarán a mostrar mensajes (en las aplicaciones) a partir de los 60 días anteriores a la caducidad. Una vez caducado el número de serie, los productos dejan de funcionar y piden al usuario que tome medidas.
+Tanto Acrobat como Creative Cloud para aplicaciones empresariales empezarán a mostrar mensajes (en las aplicaciones) 60 días antes del vencimiento. Una vez que caduca el número de serie, los productos dejan de funcionar y se solicita al usuario que realice una acción.
 
-### Experiencia de Creative Cloud para empresas
+### Creative Cloud para la experiencia empresarial
 
-La siguiente información describe la experiencia del usuario final. A continuación se muestra un breve vídeo, seguido de una revisión de la experiencia del usuario final.
+La siguiente información describe la experiencia del usuario final. A continuación se muestra un breve vídeo seguido de una revisión de la experiencia del usuario final.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331746?hidetitle=true)
 
-**Antes de la caducidad**
+**Antes del vencimiento**
 
-A partir de 60 días antes de que caduque el número de serie, todos los Creative Cloud de aplicaciones empresariales mostrarán al usuario final un cuadro de diálogo en el producto. Este mensaje aparecerá semanalmente, hasta 30 días antes de la caducidad, y aparecerá diariamente hasta la fecha de caducidad que indica *Su licencia caduca. Este producto de Adobe utiliza una licencia que caduca el 29 de noviembre de 2020. Póngase en contacto con su administrador para asegurarse de que continúe el acceso*.
+A partir de 60 días antes de que caduque el número de serie, todas las aplicaciones de Creative Cloud para empresas muestran un cuadro de diálogo en el producto al usuario final. Este mensaje aparecerá semanalmente, hasta 30 días antes del vencimiento, y luego aparecerá diariamente hasta la fecha de vencimiento que comience *Su licencia está a punto de caducar. Este producto de Adobe utiliza una licencia que caducará el 29 de noviembre de 2020. Póngase en contacto con el administrador para asegurarse de que sigue teniendo acceso*.
 
 ![CCE antes del mensaje de caducidad](assets/cceexpiring.png)
 
-**Después de la caducidad**
+**Después del vencimiento**
 
-Una vez caducado el número de serie, los usuarios ya no tendrán acceso al Creative Cloud para aplicaciones empresariales. La primera vez que se inicie después de caducar, se mostrará al usuario un cuadro de diálogo que indicará *El número de serie introducido ha caducado. No se puede comprar la licencia de este producto. Póngase en contacto con Asistencia al cliente*.
+Una vez que caduque el número de serie, los usuarios ya no tendrán acceso al Creative Cloud de las aplicaciones empresariales. La primera vez que se inicie tras el vencimiento, se mostrará al usuario un cuadro de diálogo que indicará *El número de serie que has introducido ha caducado. No se puede adquirir la licencia de este producto. Póngase en contacto con Asistencia al cliente*.
 
-![CCE después del mensaje de caducidad](assets/cceafterexpire.png)
+![Mensaje de CCE tras caducidad](assets/cceafterexpire.png)
 
-Para todos los intentos posteriores de iniciar las aplicaciones, se solicitará al usuario final que **Inicie sesión ahora** seguido de la opción de crear su propio Adobe ID y acceder al modo de prueba. Sin embargo, cualquier nuevo Adobe ID creado por el usuario final no se asociará con las licencias de su organización y causará confusión adicional a los usuarios. Para evitar problemas comerciales o confusión innecesaria, migre a los usuarios a licencias de usuario designadas antes de que caduquen los números de serie.
+En todos los intentos posteriores de iniciar las aplicaciones, se solicitará al usuario final que **Iniciar sesión ahora** seguido de la opción para crear su propio Adobe ID y entrar en el modo de prueba. Sin embargo, cualquier nuevo Adobe ID creado por el usuario final no se asociará a las licencias de su organización y causará confusión adicional a sus usuarios. Para evitar la interrupción de la actividad o confusión innecesaria, migre sus usuarios a licencias de usuario designadas antes de que caduquen sus números de serie.
 
-![Cuadro de diálogo de inicio de sesión de CCE 1](assets/ccesignin1.png)
+![CCE Iniciar sesión diálogo 1](assets/ccesignin1.png)
 
-![Cuadro de diálogo Inicio de sesión de CCE 2](assets/ccesignin2.png)
+![CCE Iniciar sesión diálogo 2](assets/ccesignin2.png)
 
 ### Experiencia de Acrobat
 
-La siguiente información describe la experiencia del usuario final. A continuación se muestra un breve vídeo, seguido de una revisión de la experiencia del usuario final.
+La siguiente información describe la experiencia del usuario final. A continuación se muestra un breve vídeo seguido de una revisión de la experiencia del usuario final.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331749?hidetitle=true)
 
 
-**Antes de la caducidad**
+**Antes del vencimiento**
 
-A partir de 60 días antes de que caduque el número de serie, Acrobat muestra al usuario final un mensaje emergente en el producto. Esto aparecerá una vez a la semana hasta 7 días antes de la caducidad. A continuación, comenzará a aparecer a diario indicando *Su licencia de Adobe Acrobat caduca el 11/30/2020. Póngase en contacto con el administrador para continuar usando Acrobat sin interrupciones.*
+A partir de los 60 días antes de que caduque el número de serie, Acrobat muestra un mensaje emergente del producto al usuario final. Esto aparecerá una vez a la semana hasta 7 días antes del vencimiento. Entonces comenzará a aparecer diariamente comenzando *Su licencia de Adobe Acrobat caduca el 11/30/2020. Póngase en contacto con el administrador para seguir utilizando Acrobat sin interrupciones.*
 
-![Mensaje de Acrobat caducando](assets/acrobatexpiring.png)
+![Mensaje de caducidad de Acrobat](assets/acrobatexpiring.png)
 
-**Después de la caducidad**
+**Después del vencimiento**
 
-Una vez caducado el número de serie, los usuarios ya no tendrán acceso a Acrobat. La primera vez que se inicie después de caducar, se mostrará al usuario un cuadro de diálogo que indicará *El número de serie introducido ha caducado. No se puede comprar la licencia de este producto. Póngase en contacto con Asistencia al cliente.*
+Una vez que caduque el número de serie, los usuarios ya no tendrán acceso a Acrobat. La primera vez que se inicie tras el vencimiento, se mostrará al usuario un cuadro de diálogo que indicará *El número de serie que has introducido ha caducado. No se puede adquirir la licencia de este producto. Póngase en contacto con Asistencia al cliente.*
 
-![Acrobat después del mensaje de caducidad](assets/acrobatafterexpire.png)
+![Mensaje de Acrobat tras la caducidad](assets/acrobatafterexpire.png)
 
-En todos los intentos posteriores de iniciar Acrobat, se solicitará al usuario final que **Inicie sesión ahora** seguido de la opción de crear su propio Adobe ID y entrar en modo de prueba. Sin embargo, cualquier nuevo Adobe ID creado por el usuario final no se asociará con las licencias de su organización y causará confusión adicional a los usuarios.
+En todos los intentos posteriores de iniciar Acrobat, se solicitará al usuario que **Iniciar sesión ahora** seguido de la opción para crear su propio Adobe ID y entrar en el modo de prueba. Sin embargo, cualquier nuevo Adobe ID creado por el usuario final no se asociará a las licencias de su organización y causará confusión adicional a sus usuarios.
 
-![Cuadro de diálogo de inicio de sesión de Acrobat Sign 1](assets/acrobatsignin1.png)
+![Cuadro de diálogo de inicio de sesión de Acrobat 1](assets/acrobatsignin1.png)
 
-![Cuadro de diálogo de inicio de sesión de Acrobat Sign 2](assets/acrobatsignin2.png)
+![Cuadro de diálogo 2 de Acrobat Sign](assets/acrobatsignin2.png)
 
-## Póngase en contacto con nosotros si necesita ayuda
+## Contacte con nosotros si necesita ayuda
 
-Si tiene alguna pregunta sobre el uso de la herramienta [AdobeExpiryCheck](https://helpx.adobe.com/enterprise/kb/volume-license-expiration-check.html) o necesita ayuda para migrar de la implementación del número de serie a un usuario designado, tiene algunas opciones:
-* Envíe un correo electrónico al equipo de incorporación de Adobe Enterprise: **entonb@adobe.com**
-* Abra un ticket de soporte en [Admin Console](https://adminconsole.adobe.com/support)
-* Póngase en contacto con el administrador de cuentas de Adobe o con el administrador de éxito del cliente
+Si tiene alguna pregunta sobre el uso de la [AdobeExpiryCheck](https://helpx.adobe.com/enterprise/kb/volume-license-expiration-check.html) o necesita ayuda para migrar de la implementación de números de serie a un usuario designado, tiene varias opciones:
+* Enviar un correo electrónico al equipo de Adobe Enterprise Onboarding: **entonb@adobe.com**
+* Abra un ticket de asistencia en [Admin Console](https://adminconsole.adobe.com/support)
+* Póngase en contacto con el administrador de cuentas de Adobe o el administrador de éxito de clientes

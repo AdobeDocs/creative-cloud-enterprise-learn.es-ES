@@ -1,9 +1,9 @@
 ---
-title: Sugerencias y técnicas para crear originales de iluminación 3D en CGI
-description: Obtenga más información sobre la iluminación 3D y cómo crear diferentes condiciones de luz que puedan alterar completamente una escena generada por ordenador y el aspecto que tienen los objetos
+title: Sugerencias y técnicas para dominar la iluminación 3D en CGI
+description: Aprende sobre la iluminación 3D y cómo crear diferentes condiciones de luz que pueden alterar completamente una escena generada por ordenador y la forma en que los objetos se ven en ella
 role: User
 level: Beginner, Intermediate
-keywords: Iluminación 3D, 600 MSV global
+keywords: Iluminación 3D, 600 Global MSV
 exl-id: 05eb729e-35b8-46e2-9c56-590250097d0b
 source-git-commit: e3982cf31ebb0dac5927baa1352447b3222785c9
 workflow-type: tm+mt
@@ -12,195 +12,195 @@ ht-degree: 0%
 
 ---
 
-# Sugerencias y técnicas para crear originales de iluminación 3D en CGI
+# Sugerencias y técnicas para dominar la iluminación 3D en CGI
 
-Obtenga más información sobre la iluminación 3D y cómo crear diferentes condiciones de luz que puedan alterar completamente una escena generada por ordenador y el aspecto que tienen los objetos en ella.
+Aprende sobre la iluminación 3D y cómo crear diferentes condiciones de luz que pueden alterar por completo una escena generada por ordenador y la forma en que los objetos se ven en ella.
 
-Percibimos el mundo que nos rodea usando nuestros sentidos: oímos, sentimos, olemos, vemos. Podemos ver porque nuestros ojos están recogiendo información traída hacia nosotros por partículas elementales llamadas fotones. Esta información es procesada por nuestro cerebro para producir una imagen. Lo que interpretamos como color de objeto, brillo, translucidez o cualidades metálicas son todos productos de la interacción entre los fotones y la superficie del objeto.
+Percibimos el mundo que nos rodea usando nuestros sentidos: oímos, sentimos, olemos, vemos. Podemos ver porque nuestros ojos están recogiendo información traída a nosotros por partículas elementales llamadas fotones. Esta información es procesada por nuestro cerebro para producir una imagen. Lo que interpretamos como color de objeto, brillo, translucidez o cualidades metálicas son todos productos de la interacción entre los fotones y la superficie del objeto.
 
-La mecánica de la luz en una escena 3D generada por ordenador sigue el mismo principio natural de dispersión de fotones, a través de un proceso denominado [trazado de rayos](https://en.wikipedia.org/wiki/Ray_tracing_(graphics)). Los rayos rebotan sobre formas e interactúan con sus materiales, definiendo de forma efectiva cómo aparecen los objetos en la imagen final. Las luces exponen la dimensionalidad de cualquier cosa que exista en una escena 3D.
+La mecánica de la luz en una escena 3D generada por ordenador sigue el mismo principio natural de dispersión de fotones, a través de un proceso llamado [trazado de rayos](https://en.wikipedia.org/wiki/Ray_tracing_(graphics)). Los rayos rebotan en las formas e interactúan con sus materiales, lo que define de manera efectiva cómo aparecen los objetos en la imagen final. Las luces exponen la dimensionalidad de cualquier cosa que exista en una escena 3D.
 
-Algunos materiales son más sensibles a las condiciones de iluminación que otros. Tomar metales, por ejemplo: un objeto cromado refleja básicamente todo lo que lo rodea. Si se mueve una luz, se vuelve más brillante o más grande, toda esa información es visible directamente en la superficie cromada con detalles parecidos a los de un espejo, por lo que puede parecer completamente diferente de una condición de luz a la otra.
+Algunos materiales son más sensibles a las condiciones de iluminación que otros. Tomemos los metales por ejemplo: un objeto de chrome refleja básicamente todo lo que lo rodea. Si se mueve una luz, se vuelve más brillante o más grande, toda esa información es visible directamente en la superficie cromada con detalles casi similares a los de un espejo, por lo que puede parecer completamente diferente de una condición de luz a la otra.
 
-![Escena 3D de un auto en un estacionamiento con una señal de neón en la pared. La iluminación cambia de la luz del día a un LED de neón que emana del signo](assets/Mastering3dlighting_1.gif)
+![Escena en 3D de un coche en un aparcamiento con un cartel de neón en la pared. La iluminación cambia de la luz del día a un LED de neón que emana de la señal](assets/Mastering3dlighting_1.gif)
 
-## Cómo trabajar con luces 3D para crear renderizados 3D eficaces
+## Cómo trabajar con luces 3D para crear representaciones 3D eficaces
 
-El proceso de creación de un renderizado 3D nunca es exactamente el mismo, pero estos son los pasos más comunes:
+El proceso de creación de una representación 3D nunca es exactamente el mismo, pero estos son los pasos más comunes:
 
 1. Creación o adquisición de objetos
-1. Conjunto de escena
-1. Encuadrar la escena
-1. **Iluminación**
-1. Creación o asignación de material
+1. Montaje de escenas
+1. Framing the scene
+1. **Lighting**
+1. Creación o asignación de materiales
 1. Renderizado
 
-Cuando llegas a la fase de iluminación, es ideal configurar las luces antes de trabajar en los materiales. Para ello, puede asignar un material gris neutro y mate a toda la escena. De este modo, podrá ver y entender mejor cómo afectan las luces a las siluetas de objetos de la escena. Una vez terminados los materiales, es posible que sea necesario perfeccionar la iluminación.
+Al llegar a la fase de iluminación, es ideal configurar las luces antes de trabajar en los materiales. Para ello, puede asignar un material gris neutro y mate a toda la escena. De este modo, podrás ver y comprender mejor cómo las luces afectan a las siluetas de los objetos en la escena. Una vez terminados los materiales, la iluminación podría necesitar un mayor refinamiento.
 
-![Comparación entre el procesamiento de la sala de estar CGI y el material gris mate neutro de la izquierda en comparación con los materiales acabados de la derecha](assets/Mastering3dlighting_2.jpg)
+![Comparación de renderizado de sala de estar CGI con material mate gris neutro a la izquierda en comparación con materiales acabados a la derecha](assets/Mastering3dlighting_2.jpg)
 
-Es mejor trabajar con las luces de una en una. La luz activa debe ser la única visible en la escena, mientras que las demás luces deben apagarse temporalmente. De este modo, podrá ver cómo una luz específica influye en la escena y cambiarla trabajando en sus propiedades, como la posición, la dirección, la intensidad, etc.
+Es mejor trabajar en las luces de una en una. La luz activa debe ser la única visible en la escena, mientras que las demás luces deben apagarse temporalmente. De esta manera, podrás ver cómo una luz específica influye en la escena y cambiarla trabajando en sus propiedades, como la posición, la dirección, la intensidad, etc.
 
-![Ejemplo de 3 luces que iluminan un modelo de coche 3D individualmente y de las 3 que trabajan juntas](assets/Mastering3dlighting_3.gif)
+![Ejemplo de 3 luces que iluminan un modelo de coche 3D individualmente y todas ellas trabajan juntas](assets/Mastering3dlighting_3.gif)
 
-Otro truco útil es crear una esfera con un material de metal brillante (un cromo o un espejo). Esta &quot;bola de espejo&quot; reflejará de forma efectiva toda la escena que la rodea, de modo que podrá determinar fácilmente la posición, dirección o tamaño de la luz. En el caso de las luces de ambiente, podrás ver su reflejo en la bola del espejo, lo que te ayudará a configurar su orientación en el espacio.
+Otro truco útil es crear una esfera con un material metálico brillante (un cromo o un espejo). Esta &quot;bola de espejo&quot; reflejará de manera efectiva toda la escena a su alrededor, para que puedas determinar fácilmente la posición, dirección o tamaño de la luz. En el caso de las luces ambientales, podrás ver su reflejo en la bola del espejo, lo que ayudará a configurar su orientación en el espacio.
 
-![Utilización de una bola espejo (esfera con textura metálica) para ver y orientar la luz del entorno en una escena 3D](assets/Mastering3dlighting_4.gif)
+![Uso de una bola de espejo (esfera con textura metálica) para ver y orientar la luz ambiental en una escena 3D](assets/Mastering3dlighting_4.gif)
 
-## Tipos de luces en el Adobe [!DNL Dimension]
+## Tipos de luces en Adobe [!DNL Dimension]
 
-### Luces de ambiente
+### Luces ambientales
 
-Las luces de ambiente son imágenes equirrectangulares (esféricas) que se envuelven alrededor de toda la escena. Como sugiere el nombre, estas luces sirven para emular todo el entorno, incluidas las fuentes de luz, que se almacenan en ellas.
+Las luces de ambiente son imágenes equirrectangulares (esféricas) que se rodean toda la escena. Como su nombre indica, estas luces sirven para emular todo el entorno, incluidas las fuentes de luz que se almacenan en ellas.
 
-![Ejemplos de luces de ambiente creadas a partir de fotografías, una escena de estudio 3D y una escena 3D abstracta](assets/Mastering3dlighting_5.jpg)
+![Ejemplos de luces de ambiente hechas de fotos, una escena de estudio 3D y una escena 3D abstracta](assets/Mastering3dlighting_5.jpg)
 
-Cuando cree una nueva escena en [[!DNL Dimension]](https://www.adobe.com/products/dimension.html), se creará una luz de entorno predeterminada. Es por eso que inmediatamente pueden ver cualquier cosa en la escena. Los recursos de inicio de Adobe [!DNL Dimension] incluyen un cierto número de luces de entorno, que puede probar de inmediato. Además, [Adobe [!DNL Stock]](https://stock.adobe.com/search?filters[content_type:3d]=1&amp;filters[3d_type_id][0]=2&amp;load_type=3d+lp) ofrece una enorme selección de luces de ambiente seleccionadas.
+Cuando se crea una escena nueva en [[!DNL Dimension]](https://www.adobe.com/products/dimension.html), se creará una luz de ambiente predeterminada para usted. Es por esto que usted es inmediatamente capaz de ver cualquier cosa en la escena. Adobe [!DNL Dimension] Los Activos de inicio incluyen un determinado número de luces de entorno, que puede probar de inmediato. Además, [Adobe [!DNL Stock]](https://stock.adobe.com/search?filters[content_type:3d]=1&amp;filters[3d_type_id][0]=2&amp;load_type=3d+lp) ofrece una amplia selección de luces de ambiente.
 
-Las luces de ambiente producen resultados muy realistas y pueden ahorrarle mucho tiempo. Para conseguir algo similar manualmente, tendríamos que crear todo el entorno en 3D (incluyendo varias fuentes de luz), lo que supone un trabajo considerable.
+Las luces ambientales producen resultados muy realistas y pueden ahorrarle mucho tiempo. Para conseguir algo similar manualmente, tendrías que crear todo el entorno en 3D (incluidas varias fuentes de luz), lo que supone una cantidad considerable de trabajo.
 
-![Ejemplo de una escena en la que todo el conjunto (incluidas las luces) se ha montado en 3D para obtener resultados similares a los de un estudio](assets/Mastering3dlighting_6.jpg)
+![Ejemplo de una escena en la que se ha montado todo el conjunto (incluidas las luces) en 3D, para lograr resultados similares a los de un estudio](assets/Mastering3dlighting_6.jpg)
 
-Existen muchas formas de crear luces de ambiente, como capturar desde una escena 3D, desde una fotografía y utilizar sistemas paramétricos. Si la luz del entorno se obtiene a partir de una escena 3D, el proceso es sencillo. La imagen de salida debe ser de 32 bits, lo que capturará la información de luz de todas las luces de la escena. La cámara 3D necesita utilizar la proyección equirrectangular (para generar una imagen esférica).
+Hay muchas formas de crear luces de ambiente, incluidas la captura de una escena 3D, de una fotografía y el uso de sistemas paramétricos. Si la luz ambiental se crea a partir de una escena 3D, el proceso es sencillo. La imagen de salida debe ser de 32 bits, lo que capturará la información de luz de todas las luces de la escena. La cámara 3D necesita utilizar la proyección equirrectangular (para generar una imagen esférica).
 
-![Ejemplo de escena iluminada por una luz de entorno de estudio 3D](assets/Mastering3dlighting_7.jpg)
+![Ejemplo de una escena iluminada por una luz de ambiente de un estudio 3D](assets/Mastering3dlighting_7.jpg)
 
-![Se crea una luz de entorno de estudio 3D al procesar una escena 3D de un estudio en una imagen equirrectangular de 32 bits](assets/Mastering3dlighting_8.png)
+![La luz de un entorno de estudio en 3D se crea representando una escena en 3D de un estudio en una imagen equirrectangular de 32 bits](assets/Mastering3dlighting_8.png)
 
-También puede crear luces de ambiente capturando fotografías del mundo real. Para este flujo de trabajo, se necesita una cámara 360 (por ejemplo, [Ricoh Theta Z1](https://theta360.com/en/about/theta/z1.html)). A continuación, la cámara se utiliza para el horquillado de exposición, o para tomar varias tomas del mismo entorno, tomadas con una gama de diferentes valores de exposición (desde subexpuesta a sobreexpuesta). Estas tomas se utilizan para crear imágenes de 32 bits, a menudo denominadas HDR (abreviatura de Alto rango dinámico). Una forma de montar una imagen de este tipo es con la función Combinar para HDR en Photoshop. El rango de exposición incrustado se convertirá en la propiedad de intensidad.
+También puedes crear luces de ambiente capturando fotografías del mundo real. Para este flujo de trabajo, se necesita una cámara 360 (p. ej., [Ricoh Theta Z1](https://theta360.com/en/about/theta/z1.html)). A continuación, la cámara se utiliza para encuadernar la exposición, o para realizar varias tomas del mismo entorno, tomadas con un rango de valores de exposición diferentes (desde subexposición hasta sobreexposición). Estas tomas se utilizan para construir imágenes de 32 bits, a menudo denominadas HDR (abreviatura de High Dynamic Range). Una forma de montar una imagen de este tipo es con la función Combinar para HDR en Photoshop. El rango de exposición incrustado se convertirá en la propiedad de intensidad.
 
-![Ejemplo de escena 3D iluminada por una luz de entorno fotográfico](assets/Mastering3dlighting_9.jpg)
+![Ejemplo de una escena 3D iluminada por una luz de entorno fotográfica](assets/Mastering3dlighting_9.jpg)
 
-![La luz del entorno fotográfico se crea utilizando el horquillado de exposición y Combinar para HDR Pro en Photoshop](assets/Mastering3dlighting_10.jpg)
+![La luz del entorno fotográfico se crea utilizando horquillas de exposición y Combinar para HDR Pro en Photoshop](assets/Mastering3dlighting_10.jpg)
 
-En ambos casos, las fuentes de luz (y sus intensidades) se &quot;hornean&quot; en estas imágenes y emitirán la luz una vez que se utilicen en [!DNL Dimension].
+En ambos casos, las fuentes de luz (y sus intensidades) se &quot;cubren&quot; en estas imágenes y emitirán la luz una vez que se utilicen en [!DNL Dimension].
 
-En estos métodos ha capturado toda la iluminación, los reflejos y los detalles que necesita, pero las aplicaciones 3D le permiten seguir editándolos en el espacio 3D, para que pueda ajustar la rotación de la iluminación y cambiar la intensidad y el color generales.
+Con estos métodos, has capturado toda la iluminación, los reflejos y los detalles que necesitas, pero las aplicaciones 3D te permiten seguir editándolos en el espacio 3D, para que puedas ajustar la rotación de la iluminación así como cambiar la intensidad y el color generales.
 
-![Manipulación de la intensidad y orientación de una luz de ambiente en una escena 3D](assets/Mastering3dlighting_11.gif)
+![Manipulación de la intensidad y la orientación de una luz ambiental en una escena 3D](assets/Mastering3dlighting_11.gif)
 
 ### Luces direccionales
 
-Además de las luces de ambiente, que emiten luz desde 360 grados, también hay luces direccionales, que emiten luz sólo desde una dirección. Se utilizan para emular linternas y otros tipos de luces procedentes de un emisor bien definido, y se pueden formar como un círculo o un cuadrado.
+Además de las luces de ambiente, que emiten luz desde 360 grados, también hay luces direccionales, que emiten luz desde una sola dirección. Se utilizan para emular linternas y otros tipos de luces procedentes de un emisor bien definido, y pueden tener la forma de un círculo o un cuadrado.
 
-El uso de luces direccionales ofrece un control total sobre la configuración de la iluminación. La iluminación de la escena con estas luces se realiza de la misma manera que en la fotografía tradicional, donde cada luz se puede controlar de forma independiente, lo que le permite crear su propia iluminación fotográfica virtual. Una de las configuraciones de iluminación más utilizadas es el sistema de iluminación de 3 puntos.
+El uso de luces direccionales ofrece un control total sobre la configuración de la iluminación. Iluminar la escena con estas luces se hace de la misma manera que en la fotografía tradicional, donde cada luz se puede controlar de forma independiente, lo que le permite crear su propia iluminación fotográfica virtual. Uno de los ajustes de iluminación más utilizados es el sistema de iluminación de 3 puntos.
 
-[!DNL Dimension] tiene una acción práctica, Apuntar luz en punto, que le permite controlar la rotación y la altura haciendo clic y arrastrando sobre un objeto 3D. De esta forma, puede dirigir dinámicamente los rayos de luz. Estos parámetros también se pueden ajustar manualmente.
+[!DNL Dimension] Tiene una acción cómoda, Apuntar luz en punto, que permite controlar la rotación y la altura haciendo clic y arrastrando sobre un objeto 3D. De esta manera, puedes dirigir dinámicamente los rayos de luz. Estos parámetros también se pueden ajustar manualmente.
 
-Puede cambiar el color y la intensidad de las luces direccionales, así como ajustar la forma de la fuente de luz: hacer que sea circular o rectangular, ampliarla o hacerlo más grande. Por último, puede suavizar los bordes de la fuente de luz.
+Puedes cambiar el color y la intensidad de las luces direccionales, así como ajustar la forma de la fuente de luz: hacerla circular o rectangular, estirarla o agrandarla. Por último, puede suavizar los bordes de la fuente de luz.
 
-![Modificación de la forma de una luz direccional en el Adobe  [!DNL Dimension]](assets/Mastering3dlighting_12.gif)
+![Modificación de la forma de una luz direccional en Adobe [!DNL Dimension]](assets/Mastering3dlighting_12.gif)
 
-Si reduce el tamaño de la fuente de luz que el objeto, las sombras serán más nítidas, con un contorno más nítido, ya que los rayos no pueden superar el objeto iluminado. Las fuentes de luz más grandes producen sombras más suaves, ya que en este caso los rayos provienen de todos los lados del objeto (marcado en rojo en la ilustración siguiente), lo que crea una serie de sombras. Estas sombras se suavizan con los rayos que salen de la dirección opuesta.
+Si reduce el tamaño de la fuente de luz respecto al objeto, las sombras serán más nítidas, con un contorno más nítido, porque los rayos no pueden pasar sobre el objeto iluminado. Las fuentes de luz más grandes producen sombras más suaves, porque en este caso los rayos proceden de todos los lados del objeto (marcados como rojos en la ilustración siguiente), lo que crea un conjunto de sombras. Estas sombras se suavizan por los rayos que vienen de la dirección opuesta.
 
-![Diagrama que ilustra el efecto que tienen la intensidad, la dirección y el tamaño de la iluminación en la forma en que se ilumina un objeto 3D y la sombra que proyecta](assets/Mastering3dlighting_13.jpg)
+![Diagrama que ilustra el efecto que tienen la intensidad, la dirección y el tamaño de la iluminación en la forma en que se ilumina un objeto 3D y en la sombra que proyecta](assets/Mastering3dlighting_13.jpg)
 
-![Ejemplo de cómo el tamaño de una luz 3D afecta a la suavidad de la sombra proyectada por un modelo de coche CGI](assets/Mastering3dlighting_14.gif)
+![Ejemplo de cómo el tamaño de una luz 3D afecta a la suavidad de sombra proyectada por un modelo de coche CGI](assets/Mastering3dlighting_14.gif)
 
 ### Sol y cielo
 
-La luz solar es un tipo especial de luz direccional. El proceso de configuración es muy similar a una luz direccional regular, aunque esta luz cambiará automáticamente el color con la altura; cuando se encuentra cerca del horizonte (valores de ángulo de baja altura), se va calentando gradualmente para simular la puesta de sol. El color también se puede cambiar mediante ajustes preestablecidos. Mientras tanto, la opacidad afectará a la suavidad de la sombra.
+La luz solar es un tipo especial de luz direccional. El proceso de ajuste es muy similar a una luz direccional regular, sin embargo esta luz cambiará automáticamente el color con la altura; cuando está cerca del horizonte (valores de ángulo de altura baja), se calentará gradualmente para simular la puesta de sol. El color también se puede cambiar mediante ajustes preestablecidos. Mientras tanto, la nubosidad afectará a la suavidad de la sombra.
 
-![Manipulación de las propiedades de iluminación para la iluminación solar en un modelo de coche 3D en un Adobe  [!DNL Dimension]](assets/Mastering3dlighting_15.gif)
+![Manipulación de propiedades de iluminación para la iluminación solar en un modelo de coche 3D en Adobe [!DNL Dimension]](assets/Mastering3dlighting_15.gif)
 
-![Una escena 3D en la luna donde la única fuente de luz es la luz solar](assets/Mastering3dlighting_16.jpg)
+![Una escena en 3D en la luna donde la única fuente de iluminación es la luz solar](assets/Mastering3dlighting_16.jpg)
 
-Podemos emular el cielo usando luces ambientales, y cualquier luz ambiental que presente el cielo puede ser usada. Ahora, tenemos que alinear la luz solar (hecha en [!DNL Dimension]) con el sol, capturado en la luz ambiental. Una forma rápida de hacerlo es crear una esfera y asignarle un material metálico; esto nos proporcionará reflejos en tiempo real del medio ambiente, para que podamos utilizar la luz de destino en un punto para alinear la luz solar con el sol.
+Podemos emular el cielo usando luces de ambiente, y cualquier luz de ambiente que presente el cielo puede ser utilizada. Ahora, tenemos que alinear la luz solar (hecha en [!DNL Dimension]) con el Sol, capturado en la luz ambiental. Una forma rápida de hacerlo es crear una esfera y asignarle un material metálico; esto nos proporcionará reflejos del entorno en tiempo real, por lo que podemos utilizar la luz Aim en el punto para alinear la luz solar con el Sol.
 
-Si la luz del entorno tiene un cielo con relieve, la propiedad de la opacidad se puede utilizar para que coincida más estrechamente con estas condiciones.
+Si la luz ambiental presenta un cielo nublado, la propiedad nubosidad se puede utilizar para que coincida más con estas condiciones.
 
-![Manipulación de las propiedades de opacidad para la iluminación del entorno de cielo en un modelo de coche 3D en Adobe  [!DNL Dimension]](assets/Mastering3dlighting_17.gif)
+![Manipulación de propiedades de nubosidad para la iluminación del entorno del cielo en un modelo de coche en 3D en Adobe [!DNL Dimension]](assets/Mastering3dlighting_17.gif)
 
-Una vez emparejadas la luz solar y la luz del entorno del cielo, puede rotarlas juntas mediante la propiedad Rotación global.
+Una vez que la luz del sol y la del entorno del cielo estén emparejadas, puede girarlas juntas mediante la propiedad Rotación global.
 
 ### Luces basadas en objetos
 
-Los objetos se pueden convertir en fuentes de luz activando la propiedad Resplandor para sus materiales. De este modo, es posible crear objetos como bombillas, luces de neón, softboxes y todo tipo de pantallas y pantallas.
+Los objetos se pueden convertir en fuentes de luz activando la propiedad Resplandor para sus materiales. This way, it is possible to create objects like light bulbs, neon lights, softboxes, and all kinds of screens and displays.
 
-El beneficio clave de utilizar este tipo de iluminación es la difuminación de intensidad, que produce resultados muy naturales. Esto resulta muy útil para la visualización de productos u otras escenas basadas en estudios.
+The key benefit of using this type of illumination is the intensity falloff, which produces very natural results. Esto resulta muy útil para la visualización de productos u otras escenas basadas en estudios.
 
-![Fuente de luz que tiene una difuminación (una placa brillante) frente a una fuente de luz infinita (una luz direccional)](assets/Mastering3dlighting_18.png)
+![Fuente de luz que tiene una difuminación (una placa brillante) VS una fuente de luz infinita (una luz direccional)](assets/Mastering3dlighting_18.png)
 
-Puede controlar el suavizado de las sombras aumentando o reduciendo la escala del objeto resplandeciente con la herramienta de transformación. Aumentar la intensidad de la luz también aumentará.
+Puede controlar la suavidad de las sombras escalando el objeto que brilla hacia arriba o hacia abajo con la herramienta de transformación. Al hacerlo más grande, también aumentará la intensidad de la luz.
 
-![Si se cambia el tamaño de la luz del objeto, aumentará la cantidad de luz y se suavizarán las sombras](assets/Mastering3dlighting_19.gif)
+![Changing the size of the object light will increase the light amount and soften the shadows](assets/Mastering3dlighting_19.gif)
 
-A diferencia de los tipos de luces anteriores que hemos cubierto, estas luces también pueden utilizar texturas, además de colores simples. Las texturas se pueden asociar al color base de sus materiales y la intensidad de la luz se controla mediante un regulador de resplandor.
+Unlike the previous types of lights we’ve covered, these lights can also utilize textures, in addition to plain colors. Las texturas se pueden fijar al color base de sus materiales, y la intensidad de la luz se controla mediante un regulador de brillo.
 
-![Aplicación de una textura a una luz de objeto que ilumina un modelo de coche 3D](assets/Mastering3dlighting_20.gif)
+![Aplicación de una textura a una luz de objeto para iluminar un modelo de coche 3D](assets/Mastering3dlighting_20.gif)
 
-## Ejemplos de iluminación 3D efectiva
+## Examples of effective 3D lighting
 
-### Iluminación del producto
+### Iluminación de productos
 
-![Ejemplo de 3 luces (incrustación, relleno y llanta) que iluminan un modelo de auriculares 3D individualmente y todas las 3 que trabajan juntas](assets/Mastering3dlighting_21.gif)
+![Ejemplo de 3 luces (llavero, llenado y llanta) que iluminan un modelo de auriculares 3d individualmente y todas ellas funcionan juntas](assets/Mastering3dlighting_21.gif)
 
-Hay muchas técnicas fotográficas para configurar la luz de una toma de producto. Utilizaremos una de las configuraciones más utilizadas, que es el sistema de luz de 3 puntos.
+Existen muchas técnicas fotográficas para configurar la luz de una foto de producto. Utilizaremos una de las configuraciones más utilizadas, que es el sistema de luz de 3 puntos.
 
 Esta configuración consta de tres luces:
 
-1. **Iluminación principal:** se utiliza como origen principal y se resalta aproximadamente desde la dirección de la cámara
+1. **Luz clave:** se utiliza como fuente principal y brilla aproximadamente desde la dirección de la cámara
 
-   ![Ejemplo de luz de iluminación de un modelo de auriculares 3D](assets/Mastering3dlighting_22.jpg)
+   ![Ejemplo de una luz clave que ilumina un modelo de auriculares 3D](assets/Mastering3dlighting_22.jpg)
 
-1. **Luz de borde:** orientada en el lado opuesto de la llave, se utiliza para exponer la silueta del sujeto.
+1. **Luz de llanta:** orientado en el lado opuesto a la tecla, se utiliza para exponer la silueta del sujeto.
 
-   ![Ejemplo de luz de llanta que ilumina un modelo de auriculares 3D](assets/Mastering3dlighting_23.jpg)
+   ![Ejemplo de una luz de llanta que ilumina un modelo de auriculares 3D](assets/Mastering3dlighting_23.jpg)
 
-1. **Luz de relleno:** menos intensivo y sirve para rellenar áreas más oscuras, se utiliza para las áreas a las que no llegan las dos luces anteriores.
+1. **Luz de relleno:** menos intensivo y que sirve para rellenar áreas más oscuras, se utiliza para áreas a las que no llegan las dos luces anteriores.
 
    ![Ejemplo de luz de relleno que ilumina un modelo de auriculares 3D](assets/Mastering3dlighting_24.jpg)
 
-Existen dos formas de crear la iluminación de 3 puntos en [!DNL Dimension]: mediante luces direccionales (añadiéndolas individualmente a la escena o utilizando un ajuste preestablecido de luz de 3 puntos) o mediante objetos brillantes.
+Hay dos formas de crear la iluminación de 3 puntos en [!DNL Dimension] - mediante luces direccionales (añadiéndolas individualmente a la escena o utilizando un ajuste preestablecido de luz de 3 puntos) o mediante objetos brillantes.
 
-![Ejemplo de configuración de luz de 3 puntos en una escena 3D](assets/Mastering3dlighting_25.jpg)
+![Ejemplo de una configuración de luz de 3 puntos en una escena 3D](assets/Mastering3dlighting_25.jpg)
 
-![Una caja de iluminación 3D se desconstruye en un marco, lámparas y pantalla](assets/Mastering3dlighting_26.jpg)
+![A softbox from a 3D lighting setup is deconstructed into a frame, lamps and screen](assets/Mastering3dlighting_26.jpg)
 
-### Iluminación creativa
+### Creative lighting
 
-![Ilustración 3D titulada por Sueños de tubería por Vladimir Petkovic](assets/Mastering3dlighting_27.jpg)
+![Ilustración en 3D titulada por Pipe Dreams de Vladimir Petkovic](assets/Mastering3dlighting_27.jpg)
 
-La iluminación creativa se utiliza cuando la precisión física no es el objetivo principal. Esto incluye escenas abstractas y surrealistas de todo tipo, así que no hay límites reales donde nuestra imaginación pueda llevarnos.
+La iluminación creativa se utiliza cuando la precisión física no es el objetivo principal. Esto incluye escenas abstractas y surrealistas de todo tipo, por lo que no hay límites reales donde nuestras imaginaciones nos puedan llevar.
 
-En el ejemplo anterior, la idea era retratar un ambiente de ensueño: caramelos, colores pastel y superficies suaves. El sistema de iluminación se compone de tres placas brillantes (dos en el lateral y la principal resplandece desde la parte inferior). Todas las placas brillantes son irrealistas grandes, lo que crea sombras y resaltes muy suaves. Las fuentes de luz se colorean y ese color se transfiere al material asignado a los objetos de la escena.
+En el ejemplo anterior, la idea era retratar un ambiente onírico: caramelos, colores pastel y superficies lisas. El sistema de iluminación se compone de tres placas brillantes (dos a un lado y la principal que brilla desde la parte inferior). Todas las planchas brillantes son poco realistas, lo que crea sombras e iluminaciones muy suaves. Las fuentes de luz son coloreadas y ese color se transfiere al material asignado a los objetos en la escena.
 
-El sujeto de la escena (tuberías) está completamente rodeado por la geometría de las paredes. Esto hará que los rayos de luz reboten hacia atrás y hacia adelante y se mezclen de maneras interesantes. Reproducir con tonos cálidos frente a fríos a menudo produce un contraste agradable (esta técnica a veces se utiliza en la fotografía retrato).
+El sujeto de la escena (tuberías) está completamente rodeado por la geometría de las paredes. Esto hará que los rayos de luz reboten de un lado a otro y se mezclen de maneras interesantes. Jugar con tonos cálidos VS fríos a menudo produce un contraste agradable (esta técnica se usa a veces en la fotografía de retratos).
 
-![Ilustración que demuestra la configuración de iluminación 3D para los sueños de tubería de Vladimir Petkovic](assets/Mastering3dlighting_28.jpg)
+![Ilustración que muestra la configuración de iluminación 3D para Pipe Dreams de Vladimir Petkovic](assets/Mastering3dlighting_28.jpg)
 
-### Visualización interior
+### Visualización de interiores
 
 ![Escena interior en 3D de una sala de estar](assets/Mastering3dlighting_29.jpg)
 
-La creación de una visualización de un interior 3D sigue un determinado conjunto de reglas, lo que casi siempre garantiza buenos resultados. En este caso, sólo se considerará la luz natural (sin fuentes artificiales, como las lámparas).
+La creación de una visualización de un interior 3D sigue un cierto conjunto de reglas, que casi siempre garantizan buenos resultados. Para este caso de uso, consideraremos solo la luz natural (no fuentes artificiales, como las lámparas).
 
-En primer lugar, una escena como esta debe estar en un entorno cerrado. Al igual que en la vida real, el interior necesitará paredes, suelo, techo y ventanas. De este modo, la luz se ilumina a través de las ventanas y rebota alrededor (mediante un proceso denominado trazado por rayos). Este comportamiento produce iluminación muy natural (por ejemplo, las áreas ocluidas, como las esquinas, serán más oscuras).
+En primer lugar, una escena como esta debe encontrarse en un entorno cerrado. Como en la vida real, el interior necesitará paredes, suelo, techo y ventanas. Esto asegurará que la luz pase a través de las ventanas y luego rebote (a través de un proceso llamado trazado de rayos). Este comportamiento produce una iluminación muy natural (por ejemplo, las áreas ocluidas, como las esquinas, serán más oscuras).
 
-Como la escena está casi completamente rodeada de geometría arquitectónica, veremos muy poca iluminación y casi ninguna reflexión proveniente de la luz del Medio Ambiente. Sin embargo, en este caso, estamos construyendo nuestro propio entorno, que es el interior mismo. La luz reaccionará con los objetos de la escena rebotando de ellos y de las paredes circundantes. Los objetos se reflejarán unos a otros y las paredes que los rodean. Sin embargo, es una buena idea añadir una luz de ambiente, con el cielo. Esto añadirá algún relleno azul difuso.
+Como la escena está casi completamente rodeada de geometría arquitectónica, veremos muy poca iluminación y casi ningún reflejo proveniente de la luz del Entorno. Sin embargo, en este caso, estamos construyendo nuestro propio entorno, que es el interior mismo. Por lo tanto, la luz reaccionará con los objetos de la escena rebotando en ellos y en las paredes circundantes. Los objetos se reflejarán unos a otros y las paredes que los rodean. Sin embargo, es una buena idea añadir una luz de ambiente, que presente el cielo. Esto añadirá un poco de relleno azul difuso.
 
-La forma más sencilla de establecer esta luz es utilizar planos con materiales brillantes. En este caso tenemos tres planos que cubren todas las aberturas del interior.
+La forma más fácil de ajustar esta luz es usando planos con materiales brillantes. En este caso de uso tenemos tres planos, que cubren todas las aberturas en el interior.
 
-![Ilustración que muestra cómo se colocan las luces de iluminación y de relleno en el interior de una sala de estar 3D para iluminar la escena](assets/Mastering3dlighting_30.jpg)
+![Ilustración que muestra cómo se colocan las luces de incrustación y relleno en el interior de una sala de estar en 3D para iluminar la escena](assets/Mastering3dlighting_30.jpg)
 
-La intensidad de la luz se controla mediante la propiedad del resplandor en los materiales de los aviones. Puede añadir un color o incluso una textura, que se puede utilizar para proyectar sombras interesantes. El uso de materiales de resplandor también proporciona la difuminación de intensidad de la luz, lo que es muy importante para la iluminación interior.
+La intensidad de la luz está controlada por la propiedad de resplandor de los materiales de los planos. Puedes añadir un color o incluso una textura, que se pueden utilizar para proyectar sombras interesantes. El uso de materiales de resplandor también proporcionará la difuminación de intensidad de luz, que es bastante importante para la iluminación interior.
 
-![Ejemplo de luz ambiental, ambiente y luz de iluminación, y ambiente, luces de iluminación y de relleno que iluminan una escena de salón 3D](assets/Mastering3dlighting_31.gif)
+![Ejemplo de luz de ambiente, luz de ambiente y clave, y luces de ambiente, clave y relleno que iluminan una escena de una sala de estar en 3D](assets/Mastering3dlighting_31.gif)
 
 ### Iluminación exterior
 
-![Escena de un trozo de árbol en un suelo forestal, entrelazado con cables CGI y cintas iluminadas con iluminación 3D exterior](assets/Mastering3dlighting_32.jpg)
+![Escena de un tocón de un árbol en un suelo forestal, entrelazado con alambres CGI y cintas iluminadas con iluminación 3D al aire libre](assets/Mastering3dlighting_32.jpg)
 
-Crear iluminación exterior es bastante sencillo y se reduce a usar un sistema de luz solar y solar (ver arriba). Es importante hacer coincidir la luz solar correctamente con la luz del ambiente basada en el cielo, prestando atención tanto a la orientación como al valor de la opacidad.
+La creación de iluminación exterior es bastante sencilla y se reduce al uso de un sistema de luz solar y de cielo (ver arriba). Es importante hacer coincidir la luz solar correctamente con la luz ambiental del cielo, prestando atención tanto a la orientación como al valor de nubosidad.
 
-La escena misma juega un papel importante en esto. Para obtener resultados convincentes, utilice los objetos de la escena como catalizadores que interactúan con la luz. En el renderizado del bosque que se muestra arriba, los objetos (varias plantas, troncos y árboles) se colocan uno cerca del otro.
+La propia escena juega un papel importante en esto. Para obtener resultados atractivos, utiliza los objetos de tu escena como catalizadores que interactúan con la luz. En el renderizado de bosque mostrado arriba, los objetos (varias plantas, troncos y árboles) se colocan uno cerca del otro.
 
 ![Los objetos de una escena de bosque 3D indican cómo interactuará la luz con el entorno](assets/Mastering3dlighting_33.png)
 
-Esto significa que habrá mucha interacción compleja de trazado de rayos, a medida que la luz rebote entre los objetos. Los puntos sombreados aparecerán oscuros (como se espera), mientras que las áreas expuestas permanecerán brillantes.
+Esto significa que habrá muchas interacciones complejas de trazado de rayos, a medida que la luz rebota entre los objetos. Los puntos sombreados aparecerán oscuros (como se esperaba), mientras que las áreas expuestas permanecerán brillantes.
 
-![Uso de la rotación global en Adobe  [!DNL Dimension] para reorientar el sistema de luz solar y solar en una escena 3D](assets/Mastering3dlighting_34.gif)
+![Uso de la rotación global en Adobe [!DNL Dimension] para reorientar el sistema de luz solar y de cielo en una escena 3D](assets/Mastering3dlighting_34.gif)
 
-Espero que este resumen muestre la importancia de dominar las luces 3D en varias situaciones. Deberías estar listo para empezar a producir resultados más convincentes.
+Espero que este resumen ilustre la importancia de dominar las luces 3D en diversas situaciones. Usted debe estar listo para comenzar a producir resultados más convincentes.
 
-¡Feliz iluminación! Descargue hoy mismo la [última versión](https://creativecloud.adobe.com/apps/download/[!DNL Dimension]) de Dimension.
+¡Feliz iluminación! Descargue el [última versión](https://creativecloud.adobe.com/apps/download/[!DNL Dimension]) del Dimension hoy.

@@ -1,5 +1,5 @@
 ---
-title: Administración empresarial
+title: Administración de empresas
 description: Administrar los derechos de Adobe y los activos en toda la organización
 role: User
 level: Beginner, Intermediate
@@ -11,11 +11,11 @@ ht-degree: 3%
 
 ---
 
-# Administración empresarial
+# Administración de empresas
 
 ![Tutorial Hero Image](../assets/hero_cce.jpg)
 
-Gestione los derechos de Adobe y los activos en toda la organización.
+Gestiona los derechos de Adobe y los activos en toda la organización.
 
 ## Examinar Tutorials de administración empresarial
 
@@ -28,16 +28,16 @@ Gestione los derechos de Adobe y los activos en toda la organización.
     <div>
    <a href="enterprise.md#tutorial1"><strong>Adobe Fonts</strong></a>
     </div>
-    <em>Explore las casi 200 familias de Adobe Fonts y la facilidad de uso del servicio Adobe Fonts</em>
+    <em>Descubre las casi 200 familias de Adobe Fonts y la facilidad de uso del servicio de Adobe Fonts</em>
     <br>
   </td>
   <td>
-    <img alt="Espaciador" src="../assets/Whitespacer.png" />
+    <img alt="Separador" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="Espaciador" src="../assets/Whitespacer.png" />
+    <img alt="Separador" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
@@ -50,19 +50,19 @@ Gestione los derechos de Adobe y los activos en toda la organización.
 
 **Descripción:**
 
-Explore las casi 200 familias de Adobe Fonts y la facilidad de uso del servicio Adobe Fonts.
+Descubre las casi 200 familias de Adobe Fonts y la facilidad de uso del servicio de Adobe Fonts.
 
 En este tutorial, aprenderá a:
-* Utilice la potente interfaz de navegación para encontrar la fuente adecuada rápida y fácilmente
-* Ahorre tiempo y dinero mediante integraciones nativas de Creative Cloud
-* Administrar todas las fuentes en un solo lugar en el Adobe Admin Console
+* Utiliza la potente interfaz de navegación para encontrar la fuente adecuada de forma rápida y sencilla
+* Ahorra tiempo y dinero utilizando integraciones de Creative Cloud nativos
+* Administrar todas las fuentes en un único lugar en Adobe Admin Console
 
 **Presentado por:**
 
-Todd Burke, Consultor Principal de Soluciones (Medios Digitales)
+Todd Burke, consultor principal de soluciones (Digital Media)
 
 **Recursos de administración empresarial:**
 
 [Guía del usuario de Adobe Fonts](https://helpx.adobe.com/fonts/user-guide.html)
 
-[Guía de administración de empresas](https://helpx.adobe.com/enterprise/admin-guide.html)
+[Guía de administración para empresas](https://helpx.adobe.com/enterprise/admin-guide.html)

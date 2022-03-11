@@ -15,20 +15,20 @@ ht-degree: 0%
 
 ![Tutorial Hero Image](../assets/Photoshop.jpg)
 
-Photoshop es el mejor software de diseño gráfico y de imágenes del mundo, lo que permite una creatividad ilimitada para los profesionales de todos los dispositivos. Ahora cualquiera puede crear cualquier cosa que se imaginen, en cualquier lugar donde la inspiración llegue. Si puedes pensarlo, puedes hacerlo con Photoshop.
+Photoshop es el mejor software de diseño gráfico e imágenes del mundo, y permite una creatividad ilimitada para los profesionales de todos los dispositivos. Ahora cualquiera puede crear cualquier cosa que se imagine, en cualquier lugar en el que surja la inspiración. Si puedes pensarlo, puedes hacerlo con Photoshop.
 
-## Examinar Tutorials de productos
+## Buscar Tutorials de productos
 
 <table style="table-layout:fixed">
 <tr>
  <td>
    <a href="photoshop.md#tutorial1">
-      <img alt="Editar imágenes para que coincidan con su campaña" src="../assets/PS_ObjectSelect_ContentAware_wood.jpg" />
+      <img alt="Editar imágenes para que coincidan con tu campaña" src="../assets/PS_ObjectSelect_ContentAware_wood.jpg" />
    </a>
     <div>
-   <a href="photoshop.md#tutorial1"><strong>Editar imágenes para que coincidan con su campaña</strong></a>
+   <a href="photoshop.md#tutorial1"><strong>Editar imágenes para que coincidan con tu campaña</strong></a>
     </div>
-    <em>Utilice las potentes herramientas de selección y edición de color de Adobe Photoshop para cambiar drásticamente una imagen a fin de adaptarla a sus necesidades de marca corporativa</em>
+    <em>Utiliza las potentes herramientas de selección y edición de color de Adobe Photoshop para cambiar drásticamente una imagen que se ajuste a tus necesidades de marca corporativa</em>
     <br>
   </td>
   <td>
@@ -38,54 +38,54 @@ Photoshop es el mejor software de diseño gráfico y de imágenes del mundo, lo 
     <div>
     <a href="photoshop.md#tutorial2"><strong>Seleccionar y reemplazar el cielo</strong></a>
     </div>
-    <em>Seleccione automáticamente el cielo de una imagen y sustitúyalo por un cielo de su elección, ajustando automáticamente los colores de la imagen para que coincidan con su selección</em>
+    <em>Selecciona automáticamente el cielo de una imagen y sustitúyelo por el que más te guste, ajustando automáticamente los colores de la imagen para que coincidan con tu selección</em>
     <br>
   </td>
   <td>
-    <img alt="Espaciador" src="../assets/Whitespacer.png" />
+    <img alt="Separador" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
 </tr>
 </table>
 
-## Editar imágenes para que coincidan con su campaña (5:45) {#tutorial1}
+## Editar imágenes para que coincidan con tu campaña (5:45) {#tutorial1}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326950?hidetitle=true)
 
-****
-DescripciónUtilice las potentes herramientas de selección y edición de color de Adobe Photoshop para cambiar drásticamente una imagen a fin de adaptarla a sus necesidades empresariales de marca.
+**Descripción**
+Utiliza las potentes herramientas de selección y edición de color de Adobe Photoshop para cambiar drásticamente una imagen que se ajuste a tus necesidades de marca corporativa.
 
 En este tutorial, aprenderá a:
-* La herramienta Selección de objetos simplifica y agiliza la selección de elementos
-* Relleno según el contenido permite un mayor control de las áreas de muestra dentro de una imagen de origen para una mejor clonación y revisión de las áreas de destino
-* Los pinceles pueden ser formas diferentes para obtener mejores resultados
-* Adobe Sensei ayuda a aprovechar la inteligencia artificial para tareas mundanas
+* La herramienta Selección de objetos hace que la selección de elementos sea más rápida y sencilla
+* El Relleno según el contenido permite un mayor control de las áreas de muestra de una imagen de origen para una mejor clonación y aplicación de parches en las áreas de destino
+* Los pinceles pueden tener diferentes formas para obtener mejores resultados
+* Adobe Sensei ayuda a aprovechar la inteligencia artificial para tareas rutinarias
 
 **Presentado por:**
-A.J Wood, consultor senior de soluciones (Digital Media)
+A.J Wood, consultor sénior de soluciones (Digital Media)
 
-## Select and Replace the Sky (2:16) (Selección y sustitución del cielo, en inglés) {#tutorial2}
+## Seleccionar y reemplazar el cielo (2:16) {#tutorial2}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326953?hidetitle=true)
 
-****
-DescripciónSeleccione automáticamente el cielo de una imagen y sustitúyalo por un cielo de su elección, ajustando automáticamente los colores de la imagen para que coincidan con su selección.
+**Descripción**
+Selecciona automáticamente el cielo de una imagen y sustitúyelo por el que más te guste, ajustando automáticamente los colores de la imagen para que coincidan con tu selección.
 
 En este tutorial, aprenderá a:
-* Sky Replacement proporciona una solución de un solo clic para intercambiar instantáneamente cielos en las imágenes
-* Sky Replacement guarda su salida como un grupo de capas con cada máscara, ajuste e imagen para perfeccionarla
+* Sustitución de cielo proporciona una solución con un solo clic para intercambiar al instante los cielos de las imágenes
+* Sustitución de cielo guarda la salida como un grupo de capas con cada máscara, ajuste e imagen para perfeccionarla aún más
 
 
 **Presentado por:**
-A.J Wood, consultor senior de soluciones (Digital Media)
+A.J Wood, consultor sénior de soluciones (Digital Media)
 
 ![Logotipo de Photoshop](../assets/ps_appicon_96.png)
 
-**Photoshop Resources**
+**Recursos de Photoshop**
 
-[Formación y ](https://helpx.adobe.com/support/photoshop.html) asistencia técnica es su centro para ver tutoriales adicionales,  [Novedades](https://helpx.adobe.com/photoshop/using/whats-new.html) y vínculos a foros de la comunidad.
+[Información y asistencia](https://helpx.adobe.com/support/photoshop.html) es el centro de tutoriales adicionales, [Novedades del sector](https://helpx.adobe.com/photoshop/using/whats-new.html)y vínculos a foros de la comunidad.
 
 **Versión de octubre de 2020**
 
-Empiece a utilizar estas funciones (y mucho más) descargando la actualización más reciente desde la aplicación de escritorio de Creative Cloud.
+Empiece a utilizar estas funciones (¡y mucho más!) descargando la actualización más reciente de la aplicación de escritorio de Creative Cloud.

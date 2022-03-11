@@ -1,6 +1,6 @@
 ---
 title: Crear animaciones para correo electrónico con Adobe [!DNL Stock] y Photoshop
-description: Potencie sus correos electrónicos con la animación Stop-Action con Adobe [!DNL Stock] y Photoshop
+description: Potencia tus correos electrónicos con la animación de stop-action con Adobe [!DNL Stock] y Photoshop
 role: User
 level: Beginner, Intermediate
 thumbnail: 331838.jpg
@@ -14,6 +14,6 @@ ht-degree: 0%
 
 # Crear animaciones para correo electrónico con Adobe [!DNL Stock] y Photoshop
 
-Potencie sus correos electrónicos con Stop-Action Animation con Adobe [!DNL Stock] y Photoshop.
+Potencia tus correos electrónicos con la animación de stop-action con Adobe [!DNL Stock] y Photoshop.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331838?hidetitle=true)

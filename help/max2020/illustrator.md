@@ -1,6 +1,6 @@
 ---
 title: Illustrator
-description: Cree logotipos, iconos, ilustraciones y cualquier otro diseño que pueda imaginar para la Web, dispositivos móviles o impresión
+description: Crea logotipos, iconos, ilustraciones y cualquier otro diseño que puedas imaginar para la web, los dispositivos móviles o la impresión
 role: User
 level: Beginner, Intermediate
 exl-id: b1b8e424-7e08-42a6-b370-cfee1b76b036
@@ -15,9 +15,9 @@ ht-degree: 0%
 
 ![Tutorial Hero Image](../assets/Illustrator.jpg)
 
-La aplicación moderna para ilustraciones y gráficos. Cree logotipos, iconos, ilustraciones y cualquier otro diseño que pueda imaginar para la web, para dispositivos móviles o para impresión.
+La aplicación moderna para ilustraciones y gráficos. Crea logotipos, iconos, ilustraciones y cualquier otro diseño que puedas imaginar para la web, los dispositivos móviles o la impresión.
 
-## Examinar Tutorials de productos
+## Buscar Tutorials de productos
 
 <table style="table-layout:fixed">
 <tr>
@@ -28,59 +28,59 @@ La aplicación moderna para ilustraciones y gráficos. Cree logotipos, iconos, i
     <div>
    <a href="illustrator.md#tutorial1"><strong>Utilizar símbolos para actualizar varias instancias de icono</strong></a>
     </div>
-    <em>Reduzca el trabajo manual y mantenga la coherencia con los símbolos</em>
+    <em>Reducir el trabajo manual y mantener la coherencia con los símbolos</em>
     <br>
   </td>
   <td>
     <a href="illustrator.md#tutorial2">
-        <img alt="Alinear texto e imágenes con ajuste de pictograma" src="../assets/illustrator_glyphAlign_sokol_thumbnail.jpg" />
+        <img alt="Alineación de texto e imágenes con el ajuste de pictogramas" src="../assets/illustrator_glyphAlign_sokol_thumbnail.jpg" />
     </a>
     <div>
-    <a href="illustrator.md#tutorial2"><strong>Alinear texto e imágenes con ajuste de pictograma</strong></a>
+    <a href="illustrator.md#tutorial2"><strong>Alineación de texto e imágenes con el ajuste de pictogramas</strong></a>
     </div>
-    <em>Ajuste rápidamente pictogramas a regiones importantes del documento</em>
+    <em>Ajuste rápidamente los pictogramas a regiones importantes del documento</em>
     <br>
   </td>
   <td>
-    <img alt="Espaciador" src="../assets/Whitespacer.png" />
+    <img alt="Separador" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
 </tr>
 </table>
 
-## Use Symbols to Update Multiple Icon Instances (5:08) (Uso de símbolos para actualizar varias instancias de icono, en inglés) {#tutorial1}
+## Usar símbolos para actualizar varias instancias de icono (5:08) {#tutorial1}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326816?hidetitle=true)
 
-****
-DescripciónReduzca el trabajo manual y mantenga la coherencia con los símbolos.
+**Descripción**
+Reduce el trabajo manual y mantén la coherencia con los símbolos.
 
 En este tutorial, aprenderá a:
-* Reduzca el trabajo manual y mantenga la coherencia con los símbolos
+* Reducir el trabajo manual y mantener la coherencia con los símbolos
 
 **Presentado por:**
-Patti Sokol, Consultor Principal de Soluciones (Digital Media)
+Patti Sokol, consultora principal de soluciones (Digital Media)
 
-## Align Text and Images with Glyph Snapping (6:48) (Alinear texto e imágenes con ajuste de pictograma, en inglés) {#tutorial2}
+## Alinear texto e imágenes con ajuste de pictograma (6:48) {#tutorial2}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326817?hidetitle=true)
 
-****
-DescripciónAjuste rápidamente pictogramas a regiones importantes del documento.
+**Descripción**
+Ajuste rápidamente los pictogramas a regiones importantes del documento.
 
 En este tutorial, aprenderá a:
-* Ajuste rápidamente pictogramas a regiones importantes del documento
+* Ajuste rápidamente los pictogramas a regiones importantes del documento
 
 **Presentado por:**
-Patti Sokol, Consultor Principal de Soluciones (Digital Media)
+Patti Sokol, consultora principal de soluciones (Digital Media)
 
 ![Logotipo de Illustrator](../assets/ai_appicon_96.png)
 
-**Illustrator Resources**
+**Recursos de Illustrator**
 
-[Formación y ](https://helpx.adobe.com/support/illustrator.html) asistencia técnica es su centro para ver tutoriales adicionales y vínculos a foros de la comunidad.
+[Información y asistencia](https://helpx.adobe.com/support/illustrator.html) es el centro de tutoriales adicionales y vínculos a foros de la comunidad.
 
 **Versión de octubre de 2020**
 
-Empiece a utilizar estas funciones (y mucho más) descargando la actualización más reciente desde la aplicación de escritorio de Creative Cloud.
+Empiece a utilizar estas funciones (¡y mucho más!) descargando la actualización más reciente de la aplicación de escritorio de Creative Cloud.

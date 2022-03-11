@@ -1,6 +1,6 @@
 ---
-title: Personalice una plantilla de presentación de Adobe [!DNL Stock] para que tenga un aspecto profesional pero llamativo
-description: Cree una hermosa presentación estilizada en cuestión de minutos con imágenes y plantillas de Adobe [!DNL Stock] y algunos efectos especiales fáciles de hacer
+title: Personalizar un Adobe [!DNL Stock] plantilla de presentación para que parezca profesional, pero llamativo
+description: Crea una preciosa presentación estilizada en cuestión de minutos con imágenes y plantillas de Adobe [!DNL Stock] y algunos efectos especiales fáciles de hacer
 role: User
 level: Beginner, Intermediate
 thumbnail: 331837.jpg
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# Personalice una plantilla de presentación de Adobe [!DNL Stock] para que tenga un aspecto profesional y atractivo
+# Personalizar un Adobe [!DNL Stock] plantilla de presentación para que parezca profesional, pero llamativo
 
-Cree una hermosa presentación estilizada en cuestión de minutos con imágenes y plantillas de Adobe [!DNL Stock] y algunos efectos especiales fáciles de hacer.
+Crea una preciosa presentación estilizada en cuestión de minutos con imágenes y plantillas de Adobe [!DNL Stock] y algunos efectos especiales fáciles de hacer.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331837?hidetitle=true)

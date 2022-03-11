@@ -1,6 +1,6 @@
 ---
-title: Cree paneles animados en un abrir y cerrar de ojos con Adobe [!DNL Stock]
-description: Crear un tablero de ambiente del proyecto para transmitir información, ideas, imágenes y paletas de color a equipos/clientes
+title: Crea paneles de estilo inspirador en apenas tiempo con Adobe [!DNL Stock]
+description: Crea un panel de fotografías del proyecto para retransmitir información, ideas, elementos visuales y paletas de colores a los equipos o clientes
 role: User
 level: Beginner, Intermediate
 thumbnail: 331816.jpg
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# Cree paneles animados en un abrir y cerrar de ojos con Adobe [!DNL Stock]
+# Crea paneles de estilo inspirador en apenas tiempo con Adobe [!DNL Stock]
 
-Cree un tablero de ambiente del proyecto para transmitir información, ideas, imágenes y paletas de colores a equipos y clientes.
+Crea un panel de fotografías del proyecto para retransmitir información, ideas, elementos visuales y paletas de colores a los equipos o clientes.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331816?hidetitle=true)

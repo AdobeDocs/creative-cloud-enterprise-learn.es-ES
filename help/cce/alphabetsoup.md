@@ -1,6 +1,6 @@
 ---
-title: Descodificación de la sopa de letras de formatos gráficos
-description: Los archivos JPG, PNG, SVG, GIF y EPS se utilizan normalmente en el diseño, algunos para páginas web y otros para presentaciones, publicaciones y proyectos creativos. Pero, ¿qué significan y cuál deberían escoger?
+title: Decoding the Alphabet Soup of Graphic Formats
+description: JPG, PNG, SVG, GIF, and EPS files are all commonly used in design, some for web pages, others for presentations, publications and creative projects. Pero, ¿qué significan y qué debes elegir?
 role: User
 level: Beginner, Intermediate
 kt: 8038
@@ -13,14 +13,14 @@ ht-degree: 0%
 
 ---
 
-# Descodificación de la sopa de letras de formatos gráficos
+# Decoding the alphabet soup of graphic formats
 
-Los archivos JPG, PNG, SVG, GIF y EPS se suelen utilizar en el diseño, algunos para páginas web y otros para presentaciones, publicaciones y proyectos creativos. Pero, ¿qué quieren decir y cuál deberían escoger? Descubra en este taller práctico de 15 minutos. Aprenda rápidamente a aplicar efectos de transparencia en Photoshop que pueden llevar sus habilidades de presentación a un nuevo nivel mientras explora diferentes ajustes de optimización y exportación de gráficos. Siga los pasos con el diseñador/desarrollador Chris Converse para crear una animación atractiva en PowerPoint con gráficos personalizados exportados desde Photoshop.
+JPG, PNG, SVG, GIF, and EPS files are all commonly used in design, some for web pages, others for presentations, publications, and creative projects. But, what do they mean, and which should you pick? Descubre en este taller práctico de 15 minutos. Aprende rápidamente a aplicar efectos de transparencia en Photoshop que pueden llevar tus habilidades de presentación a un nuevo nivel mientras exploras diferentes configuraciones de exportación y optimización de gráficos. Follow along with designer/developer Chris Converse to create a compelling animation in PowerPoint using customized graphics exported from Photoshop.
 
 >[!VIDEO](https://video.tv.adobe.com/v/333805?hidetitle=true)
 
 <br> 
 
-[**Descargar guía rápida de PDF de referencia**](../quick-reference/Decodingthealphabetsoupofgraphicformats.pdf)
+[**Descargue la guía del PDF de referencia rápida**](../quick-reference/Decodingthealphabetsoupofgraphicformats.pdf)
 
-[![Imagen de la primera página de la guía de referencia rápida](assets/DecodingthealphabetsoupofgraphicformatsPage1.png)](../quick-reference/Decodingthealphabetsoupofgraphicformats.pdf)
+[![Image of first page of quick reference guide](assets/DecodingthealphabetsoupofgraphicformatsPage1.png)](../quick-reference/Decodingthealphabetsoupofgraphicformats.pdf)

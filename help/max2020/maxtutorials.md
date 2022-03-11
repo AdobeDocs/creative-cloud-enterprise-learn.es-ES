@@ -1,21 +1,21 @@
 ---
-title: Tutorials MAX 2020
-description: Estos tutoriales le ayudarán a aprender las nuevas funciones de la versión 2021 de Creative Cloud desde una perspectiva empresarial
+title: Tutorials de MAX 2020
+description: Estos tutoriales le ayudarán a conocer las nuevas funciones de la versión de 2021 de Creative Cloud desde una perspectiva empresarial
 role: User
 level: Beginner, Intermediate
 exl-id: e27874b7-ba02-46b7-a5e4-fe2485d9c148
 source-git-commit: e3982cf31ebb0dac5927baa1352447b3222785c9
 workflow-type: tm+mt
-source-wordcount: '324'
+source-wordcount: '322'
 ht-degree: 6%
 
 ---
 
 # Tutoriales
 
-![Imagen Hero Máx. 2020](../assets/MAX.jpg)
+![Imagen de héroe de Max 2020](../assets/MAX.jpg)
 
-Como creativo empresarial, debe colaborar con equipos distribuidos, establecer procesos escalables y cumplir con los sistemas y directrices corporativos. Estos tutoriales le ayudarán a aprender las nuevas funciones de la versión 2021 de Creative Cloud desde una perspectiva empresarial.
+Como creativo empresarial, tienes que colaborar con equipos distribuidos, establecer procesos ampliables y cumplir con los sistemas y directrices corporativos. Estos tutoriales le ayudarán a conocer las nuevas funciones de la versión de 2021 de Creative Cloud desde una perspectiva empresarial.
 
 ## Tutorials por productos de escritorio
 
@@ -28,7 +28,7 @@ Como creativo empresarial, debe colaborar con equipos distribuidos, establecer p
     <div>
     <a href="acrobat-sign.md"><strong>Acrobat y Adobe Sign</strong></a>
     </div>
-    <em>Creación, edición y firma de documentos y formularios PDF</em>
+    <em>Crear, editar y firmar documentos y formularios de PDF</em>
     <br>
   </td>
   <td>
@@ -38,7 +38,7 @@ Como creativo empresarial, debe colaborar con equipos distribuidos, establecer p
     <div>
     <a href="dimension.md"><strong>Dimension</strong></a>
     </div>
-    <em>Creación de imágenes 3D realistas para la promoción de marca, las tomas de productos y el diseño de paquetes</em>
+    <em>Crea imágenes en 3D fotorrealistas para construcción de marca, instantáneas de productos y diseños de paquetes</em>
     <br>
   </td>
   <td>
@@ -48,7 +48,7 @@ Como creativo empresarial, debe colaborar con equipos distribuidos, establecer p
     <div>
     <a href="illustrator.md"><strong>Illustrator</strong></a>
     </div>
-    <em>Gráficos vectoriales e ilustración</em>
+    <em>Ilustraciones y gráficos vectoriales</em>
     <br>
   </td>
 </tr>
@@ -60,7 +60,7 @@ Como creativo empresarial, debe colaborar con equipos distribuidos, establecer p
     <div>
     <a href="indesign.md"><strong>InDesign</strong></a>
     </div>
-    <em>Diseño y maquetación de páginas para impresión y publicación digital</em>
+    <em>Diseño y maquetación de páginas para la publicación digital e impresa</em>
     <br>
   </td>
   <td>
@@ -70,7 +70,7 @@ Como creativo empresarial, debe colaborar con equipos distribuidos, establecer p
     <div>
     <a href="photoshop.md"><strong>Photoshop</strong></a>
     </div>
-    <em>Edite, componga y cree imágenes, gráficos y ilustraciones atractivas en el escritorio</em>
+    <em>Edita, compón y crea bellas imágenes, gráficos y obras de arte en el escritorio</em>
     <br>
   </td>
   <td>
@@ -80,7 +80,7 @@ Como creativo empresarial, debe colaborar con equipos distribuidos, establecer p
     <div>
     <a href="rush.md"><strong>Rush</strong></a>
     </div>
-    <em>Creación y uso compartido de vídeos en línea en cualquier lugar</em>
+    <em>Crea y comparte vídeos online desde cualquier parte</em>
     <br>
   </td>
 </tr>
@@ -92,16 +92,16 @@ Como creativo empresarial, debe colaborar con equipos distribuidos, establecer p
     <div>
     <a href="xd.md"><strong>XD</strong></a>
     </div>
-    <em>Diseño, creación de prototipos y uso compartido de experiencias de usuario</em>
+    <em>Diseñar, crear prototipos y compartir experiencias de usuario</em>
     <br>
   </td>
   <td>
-    <img alt="Espaciador" src="../assets/WhiteBanner_Spacer.png" />
+    <img alt="Separador" src="../assets/WhiteBanner_Spacer.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="Espaciador" src="../assets/WhiteBanner_Spacer.png" />
+    <img alt="Separador" src="../assets/WhiteBanner_Spacer.png" />
     <div>
     <br>
   </td>
@@ -119,7 +119,7 @@ Como creativo empresarial, debe colaborar con equipos distribuidos, establecer p
     <div>
     <a href="capture.md"><strong>Capture</strong></a>
     </div>
-    <em>Convertir cualquier imagen en un tema de color, un gráfico vectorial, un pincel y mucho más</em>
+    <em>Convierte cualquier imagen en un tema de color, un gráfico vectorial, un pincel y mucho más</em>
     <br>
   </td>
   <td>
@@ -129,7 +129,7 @@ Como creativo empresarial, debe colaborar con equipos distribuidos, establecer p
     <div>
     <a href="fresco.md"><strong>Fresco</strong></a>
     </div>
-    <em>Redescubra la alegría de dibujar y pintar en cualquier lugar</em>
+    <em>Redescubre la diversión de dibujar y pintar en cualquier parte</em>
     <br>
   </td>
   <td>
@@ -139,7 +139,7 @@ Como creativo empresarial, debe colaborar con equipos distribuidos, establecer p
     <div>
     <a href="illustratoripad.md"><strong>Illustrator en iPad</strong></a>
     </div>
-    <em>Gráficos vectoriales e ilustración</em>
+    <em>Ilustraciones y gráficos vectoriales</em>
     <br>
   </td>
 </tr>
@@ -151,16 +151,16 @@ Como creativo empresarial, debe colaborar con equipos distribuidos, establecer p
     <div>
     <a href="photoshopipad.md"><strong>Photoshop en iPad</strong></a>
     </div>
-    <em>Edite, componga y cree imágenes, gráficos y ilustraciones atractivas en el escritorio y el iPad</em>
+    <em>Edita, compón y crea bellas imágenes, gráficos e ilustraciones en el escritorio y iPad</em>
     <br>
   </td>
   <td>
-    <img alt="Espaciador" src="../assets/GrayBanner_Spacer.png" />
+    <img alt="Separador" src="../assets/GrayBanner_Spacer.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="Espaciador" src="../assets/GrayBanner_Spacer.png" />
+    <img alt="Separador" src="../assets/GrayBanner_Spacer.png" />
     <div>
     <br>
   </td>
@@ -188,7 +188,7 @@ Como creativo empresarial, debe colaborar con equipos distribuidos, establecer p
     <div>
     <a href="creativeclouddesktopapp.md"><strong>Aplicación de escritorio de Creative Cloud</strong></a>
     </div>
-    <em>La aplicación de escritorio de Creative Cloud es su centro de administración de aplicaciones, servicios y colaboración de CC, y mucho más.</em>
+    <em>La aplicación de escritorio de Creative Cloud es el centro para administrar las aplicaciones, los servicios y la colaboración de CC, ¡y mucho más!</em>
     <br>
   </td>
   <td>
@@ -198,7 +198,7 @@ Como creativo empresarial, debe colaborar con equipos distribuidos, establecer p
     <div>
     <a href="cclibraries.md"><strong>Bibliotecas CC</strong></a>
     </div>
-    <em>Mantenga sus activos a mano y sus proyectos en la marca</em>
+    <em>Mantén tus activos a mano y tus proyectos fieles a la marca</em>
     <br>
   </td>
 </tr>
@@ -210,7 +210,7 @@ Como creativo empresarial, debe colaborar con equipos distribuidos, establecer p
     <div>
     <a href="indesignserver.md"><strong>InDesign Server</strong></a>
     </div>
-    <em>Las sofisticadas herramientas de InDesign combinadas con automatización personalizada</em>
+    <em>Las sofisticadas herramientas de InDesign combinadas con la automatización personalizada</em>
     <br>
   </td>
  <td>
@@ -220,38 +220,38 @@ Como creativo empresarial, debe colaborar con equipos distribuidos, establecer p
     <div>
     <a href="stock.md"><strong>Adobe [!DNL Stock]</strong></a>
     </div>
-    <em>Imágenes digitales, ilustraciones, vídeos, audio, plantillas y mucho más de alta calidad</em>
+    <em>Imágenes digitales de alta calidad, ilustraciones, vídeos, audio, plantillas y mucho más</em>
     <br>
   </td>
   <td>
-    <img alt="Espaciador" src="../assets/GrayBanner_Spacer.png" />
+    <img alt="Separador" src="../assets/GrayBanner_Spacer.png" />
     <div>
     <br>
   </td>
 </tr>
 </table>
 
-### Proyecto práctico: Crear su propia máscara de cara
+### Proyecto práctico: Crea tu propia máscara facial
 
 <table style="table-layout:fixed">
 <tr>
  <td>
     <a href="handsonproject.md">
-      <img alt="Crear su propia máscara de cara" src="../assets/faceMaskSplash.jpg" />
+      <img alt="Crea tu propia máscara facial" src="../assets/faceMaskSplash.jpg" />
     </a>
     <div>
-    <a href="handsonproject.md"><strong>Crear su propia máscara de cara</strong></a>
+    <a href="handsonproject.md"><strong>Crea tu propia máscara facial</strong></a>
     </div>
-    <em>Con el plugin Diseño a impresión de Adobe, puede visualizar sus diseños en cientos de productos de Zazzle y publicarlos directamente en su mercado en línea</em>
+    <em>Con el complemento Diseño de Adobe para imprimir, puede visualizar sus diseños en cientos de productos de Zazzle y publicarlos directamente en su tienda en línea</em>
     <br>
   </td>
   <td>
-    <img alt="Espaciador" src="../assets/Whitespacer.png" />
+    <img alt="Separador" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="Espaciador" src="../assets/Whitespacer.png" />
+    <img alt="Separador" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
