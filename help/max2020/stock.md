@@ -4,16 +4,16 @@ description: Adobe [!DNL Stock] para empresas proporciona a los equipos creativo
 role: User
 level: Beginner, Intermediate
 exl-id: 0a0f5cf8-0326-48fc-a833-0f531617cc41
-source-git-commit: fe883361639bfe2edc184cdd10dda312f747c7fb
+source-git-commit: c81e5982cfb4b168d66dc2a80c27a48895b64a52
 workflow-type: tm+mt
-source-wordcount: '333'
+source-wordcount: '334'
 ht-degree: 0%
 
 ---
 
 # [!DNL Stock]
 
-!![Tutorial Hero Image](.../assets/[!DNL Stock].jpg)
+![Tutorial Hero Image](../assets/Stock.jpg)
 
 Los creativos se encuentran bajo presión para ofrecer rápidamente contenido nuevo y visualmente atractivo que capte y mantenga la atención. Adobe [!DNL Stock] para empresas proporciona a los equipos creativos acceso a más de 200 millones de imágenes, vídeos, plantillas, ilustraciones, archivos de audio y contenidos 3D, todo ello desde las aplicaciones creativas de Adobe que utilizan a diario.
 
@@ -49,7 +49,7 @@ Los creativos se encuentran bajo presión para ofrecer rápidamente contenido nu
 </tr>
 </table>
 
-## Find the best assets faster with Adobe [!DNL Stock] (10:49) {#tutorial1}
+## Encuentra los mejores activos más rápido con Adobe [!DNL Stock] (10:49) {#tutorial1}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326951?hidetitle=true)
 
@@ -73,7 +73,7 @@ Victoria Torres, [!DNL Stock] Asesor de soluciones (medios digitales)
 Simplificar el proceso de carga del Adobe con licencia [!DNL Stock] activos en tu sistema de gestión de activos digitales.
 
 En este tutorial, aprenderá a:
-* Perform Adobe [!DNL Stock] asset search without leaving AEM workspace
+* Realizar Adobe [!DNL Stock] búsqueda de activos sin salir AEM espacio de trabajo
 * Guardar activos con licencia directamente en una carpeta de AEM en el momento de comprar la licencia
 * Ver los contenidos cuya licencia haya comprado AEM en su [!DNL Stock] historial de licencias en el [!DNL Stock] sitio web.
 

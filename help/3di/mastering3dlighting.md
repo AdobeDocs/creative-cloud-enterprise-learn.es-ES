@@ -5,9 +5,9 @@ role: User
 level: Beginner, Intermediate
 keywords: Iluminación 3D, 600 Global MSV
 exl-id: 05eb729e-35b8-46e2-9c56-590250097d0b
-source-git-commit: e3982cf31ebb0dac5927baa1352447b3222785c9
+source-git-commit: 01d80f9b296bc7d13b5e931cf0ca22d1335271dc
 workflow-type: tm+mt
-source-wordcount: '2738'
+source-wordcount: '2739'
 ht-degree: 0%
 
 ---
@@ -30,8 +30,8 @@ El proceso de creación de una representación 3D nunca es exactamente el mismo,
 
 1. Creación o adquisición de objetos
 1. Montaje de escenas
-1. Framing the scene
-1. **Lighting**
+1. Encuadra la escena
+1. **Iluminación**
 1. Creación o asignación de materiales
 1. Renderizado
 
@@ -115,21 +115,21 @@ Una vez que la luz del sol y la del entorno del cielo estén emparejadas, puede 
 
 ### Luces basadas en objetos
 
-Los objetos se pueden convertir en fuentes de luz activando la propiedad Resplandor para sus materiales. This way, it is possible to create objects like light bulbs, neon lights, softboxes, and all kinds of screens and displays.
+Los objetos se pueden convertir en fuentes de luz activando la propiedad Resplandor para sus materiales. De esta manera, es posible crear objetos como bombillas, luces de neón, softbox y todo tipo de pantallas y pantallas.
 
-The key benefit of using this type of illumination is the intensity falloff, which produces very natural results. Esto resulta muy útil para la visualización de productos u otras escenas basadas en estudios.
+El beneficio clave de utilizar este tipo de iluminación es la caída de intensidad, que produce resultados muy naturales. Esto resulta muy útil para la visualización de productos u otras escenas basadas en estudios.
 
 ![Fuente de luz que tiene una difuminación (una placa brillante) VS una fuente de luz infinita (una luz direccional)](assets/Mastering3dlighting_18.png)
 
 Puede controlar la suavidad de las sombras escalando el objeto que brilla hacia arriba o hacia abajo con la herramienta de transformación. Al hacerlo más grande, también aumentará la intensidad de la luz.
 
-![Changing the size of the object light will increase the light amount and soften the shadows](assets/Mastering3dlighting_19.gif)
+![Al cambiar el tamaño de la luz del objeto, aumentará la cantidad de luz y se suavizarán las sombras](assets/Mastering3dlighting_19.gif)
 
-Unlike the previous types of lights we’ve covered, these lights can also utilize textures, in addition to plain colors. Las texturas se pueden fijar al color base de sus materiales, y la intensidad de la luz se controla mediante un regulador de brillo.
+A diferencia de los tipos de luces anteriores que hemos cubierto, estas luces también pueden utilizar texturas, además de colores lisos. Las texturas se pueden fijar al color base de sus materiales, y la intensidad de la luz se controla mediante un regulador de brillo.
 
 ![Aplicación de una textura a una luz de objeto para iluminar un modelo de coche 3D](assets/Mastering3dlighting_20.gif)
 
-## Examples of effective 3D lighting
+## Ejemplos de iluminación 3D eficaz
 
 ### Iluminación de productos
 
@@ -155,9 +155,9 @@ Hay dos formas de crear la iluminación de 3 puntos en [!DNL Dimension] - median
 
 ![Ejemplo de una configuración de luz de 3 puntos en una escena 3D](assets/Mastering3dlighting_25.jpg)
 
-![A softbox from a 3D lighting setup is deconstructed into a frame, lamps and screen](assets/Mastering3dlighting_26.jpg)
+![Un softbox de una configuración de iluminación 3D se deconstruye en un marco, lámparas y pantalla](assets/Mastering3dlighting_26.jpg)
 
-### Creative lighting
+### Iluminación creativa
 
 ![Ilustración en 3D titulada por Pipe Dreams de Vladimir Petkovic](assets/Mastering3dlighting_27.jpg)
 
@@ -203,4 +203,4 @@ Esto significa que habrá muchas interacciones complejas de trazado de rayos, a 
 
 Espero que este resumen ilustre la importancia de dominar las luces 3D en diversas situaciones. Usted debe estar listo para comenzar a producir resultados más convincentes.
 
-¡Feliz iluminación! Descargue el [última versión](https://creativecloud.adobe.com/apps/download/[!DNL Dimension]) del Dimension hoy.
+¡Feliz iluminación! Descargue el [última versión](https://creativecloud.adobe.com/apps/download/Dimension) del Dimension hoy.
