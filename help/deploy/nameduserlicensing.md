@@ -4,9 +4,9 @@ description: La obtención de licencias de productos de Adobe a través de licen
 role: User
 level: Beginner, Intermediate
 exl-id: 9dbdb057-6684-4750-bf9d-8af7a32bfe14
-source-git-commit: 6b819aef801e003e5a160d24ba69522cf6a7e715
+source-git-commit: 82f7d93855e57500669e83af6b1a73f5335ae813
 workflow-type: tm+mt
-source-wordcount: '637'
+source-wordcount: '633'
 ht-degree: 2%
 
 ---
@@ -17,7 +17,7 @@ En el clima actual, la gestión de TI ha tenido que cambiar rápidamente a una e
 
 La obtención de licencias de productos de Adobe a través de licencias de usuario designadas (NUL) permite a los administradores de TI implementar y administrar fácilmente herramientas de Adobe mediante el Admin Console y da a los usuarios finales acceso a aplicaciones creativas y de productividad de primera clase y servicios de Adobe Cloud, incluso si toda la plantilla es remota.
 
-Si su organización no está usando NUL y sigue usando la implementación serializada para productos de Adobe, es posible que los números de serie caduquen pronto. Para evitar la interrupción del servicio, es importante planificar la migración a NUL antes de la [los números de serie caducan](https://blogs.adobe.com/deployment/understanding-serialnumberexpiration).
+Si su organización no está usando NUL y sigue usando la implementación serializada para productos de Adobe, es posible que los números de serie caduquen pronto. Para evitar interrupciones del servicio, es importante planificar la migración a NUL antes de que caduquen los números de serie.
 
 ## Acerca de las licencias de usuario designadas
 
