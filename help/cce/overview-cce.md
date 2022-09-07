@@ -4,10 +4,10 @@ description: Tutorials para ayudarle a familiarizarse con los productos de Creat
 role: User
 level: Beginner, Intermediate
 exl-id: eea91ea5-9adc-4a7f-93c0-6cdfe650cfb7
-source-git-commit: b31d4d2f7c8d141d65c7e4b72595fbc1c1252fd2
+source-git-commit: 48f5ce6a9d19018a14cb1bf092994641b9c42cd5
 workflow-type: tm+mt
-source-wordcount: '1390'
-ht-degree: 1%
+source-wordcount: '1401'
+ht-degree: 0%
 
 ---
 
@@ -32,6 +32,21 @@ Como creativo empresarial, debe colaborar con equipos distribuidos, establecer p
    <a href="assets/AcrobatforContentCreators.pdf"><strong>Acrobat para creadores de contenido (PDF)</strong></a>
     </div>
     <em>Descubre las herramientas de Acrobat que ayudan a agilizar los flujos de trabajo creativos</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Separador" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Separador" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Separador" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
     <br>
   </td>
 </tr>
@@ -66,6 +81,11 @@ Como creativo empresarial, debe colaborar con equipos distribuidos, establecer p
     <div>
     <br>
   </td>
+  <td>
+    <img alt="Separador" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
 </tr>
 </table>
 
@@ -81,7 +101,7 @@ Como creativo empresarial, debe colaborar con equipos distribuidos, establecer p
     <div>
    <a href="assets/AddingaGlideshowtoyourSparkPageAdobeBlog.pdf"><strong>Añadir una proyección de diapositivas a su Spark Page (PDF)</strong></a>
     </div>
-    <em>Adobe Express ofrece algunos componentes de diseño sorprendentes y fáciles de usar que dan vida a tus historias web</em>
+    <em>Adobe Spark ofrece algunos componentes de diseño sorprendentes y fáciles de usar que dan vida a tus historias web</em>
     <br>
   </td>
   <td>
@@ -91,7 +111,7 @@ Como creativo empresarial, debe colaborar con equipos distribuidos, establecer p
     <div>
    <a href="assets/CreatingYourBrandinAdobeSpark.pdf"><strong>Creación de su marca en Adobe Spark (PDF)</strong></a>
     </div>
-    <em>El Adobe Express facilita la definición de tu marca</em>
+    <em>Adobe Spark facilita la definición de tu marca</em>
     <br>
   </td>
   <td>
@@ -101,7 +121,12 @@ Como creativo empresarial, debe colaborar con equipos distribuidos, establecer p
     <div>
    <a href="assets/MeetYourNewProductionArtistAdobeSparkPost.pdf"><strong>Conozca a su nuevo artista de producción: Adobe Spark Post (PDF)</strong></a>
     </div>
-    <em>Adobe Express aprende de usted mientras crea diseños, define colores, importa ilustraciones y organiza elementos en sus composiciones</em>
+    <em>Adobe Spark aprende de usted mientras crea diseños, define colores, importa ilustraciones y organiza elementos en sus composiciones</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Separador" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
     <br>
   </td>
 </tr>
@@ -111,7 +136,7 @@ Como creativo empresarial, debe colaborar con equipos distribuidos, establecer p
 
 <table style="table-layout:fixed">
 <tr>
-   <td>
+  <td>
     <a href="alphabetsoup.md">
       <img alt="Descodificación de la sopa de alfabetos de formatos gráficos" src="assets/Alphabetsoup.png" />
     </a>
@@ -141,9 +166,7 @@ Como creativo empresarial, debe colaborar con equipos distribuidos, establecer p
     <em>En este tutorial en vídeo paso a paso en el taller, puedes crear una fotografía viva combinando el vídeo del Adobe [!DNL Stock] con técnicas de enmascaramiento inteligentes en Photoshop</em>
     <br>
   </td>
-</tr>
-<tr>
-   <td>
+  <td>
     <a href="assets/AddRemarkableLightingtoaPhotowithPhotoshopandAfterEffects.pdf">
       <img alt="Añade iluminación notable a una foto con Photoshop y After Effects" src="assets/AddRemarkableLightingtoaPhotowithPhotoshopandAfterEffects.jpg" />
     </a>
@@ -152,8 +175,10 @@ Como creativo empresarial, debe colaborar con equipos distribuidos, establecer p
     </div>
     <em>Aprenda a utilizar el efecto Explosión de luz en Adobe After Effects para mejorar de forma significativa una fotografía</em>
     <br>
-   </td>
-   <td>
+  </td>
+</tr>
+<tr>
+  <td>
     <a href="assets/CreateCinemagraphsinaSnapwithPhotoshopandAdobeStock.pdf">
       <img alt="Crea películas en un instante con Photoshop y Adobe [!DNL Stock]" src="assets/CreateCinemagraphsinaSnapwithPhotoshopandAdobeStock.jpg" />
     </a>
@@ -163,7 +188,7 @@ Como creativo empresarial, debe colaborar con equipos distribuidos, establecer p
     <em>Búsqueda de vídeos en bucle sin problemas en el Adobe [!DNL Stock] para montar rápidamente cinemógrafos llamativos en Photoshop</em>
     <br>
   </td>
-   <td>
+  <td>
     <a href="assets/CreatingaLivingPhotographwithPhotoshopPart1.pdf">
       <img alt="Creación de una fotografía viva con Photoshop — Parte 1" src="assets/CreatingaLivingPhotographwithPhotoshopPart1.jpg" />
     </a>
@@ -173,9 +198,7 @@ Como creativo empresarial, debe colaborar con equipos distribuidos, establecer p
     <em>Adobe Photoshop te permite convertir rápidamente tus vídeos cortos en fotografías vivas que cautivan a tu audiencia en cualquier plataforma social</em>
     <br>
   </td>
-</tr>
-<tr>
-   <td>
+  <td>
     <a href="assets/CreatingaLivingPhotographwithPhotoshopPart2.pdf">
       <img alt="Creación de una fotografía viva con Photoshop — Parte 2" src="assets/CreatingaLivingPhotographwithPhotoshopPart2.jpg" />
     </a>
@@ -195,6 +218,8 @@ Como creativo empresarial, debe colaborar con equipos distribuidos, establecer p
     <em>En este laboratorio práctico paso a paso, combina Photoshop con After Effects para crear imágenes y efectos que dejen boquiabiertos y adecuados para su uso en cualquier medio</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="assets/QuicklyBrandYourInstagramPhotoswithAdobePhotoshopActions.pdf">
       <img alt="Marcar rápidamente sus fotos de Instagram con las acciones de Adobe Photoshop" src="assets/QuicklyBrandYourInstagramPhotoswithAdobePhotoshopActions.jpg" />
@@ -207,7 +232,7 @@ Como creativo empresarial, debe colaborar con equipos distribuidos, establecer p
   </td>
 </tr>
 <tr>
-    <td>
+  <td>
     <a href="assets/WorkSmarterNotHarderwithPhotoshop.pdf">
       <img alt="Trabaja más inteligente, no más duro, con Photoshop" src="assets/WorkSmarterNotHarderwithPhotoshop.jpg" />
     </a>
@@ -217,7 +242,7 @@ Como creativo empresarial, debe colaborar con equipos distribuidos, establecer p
     <em>Los cambios en Photoshop pueden llevar mucho tiempo, pero no tienen por qué serlo</em>
     <br>
   </td>
-   <td>
+  <td>
     <a href="assets/AnyoneCanBeCreativewithAdobeCreativeCloud.pdf">
       <img alt="Cualquiera puede ser creativo con Adobe Creative Cloud" src="assets/AnyoneCanBeCreativewithAdobeCreativeCloud.jpg" />
     </a>
@@ -235,6 +260,11 @@ Como creativo empresarial, debe colaborar con equipos distribuidos, establecer p
     <a href="assets/GreenScreenisNotJustforVideo.pdf"><strong>La pantalla verde no es solo para vídeo (PDF)</strong></a>
     </div>
     <em>Puede usar un fondo verde en un estudio fotográfico y usar After Effects para preparar la foto y usarla en Photoshop</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Separador" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
     <br>
   </td>
 </tr>  
@@ -264,6 +294,11 @@ Como creativo empresarial, debe colaborar con equipos distribuidos, establecer p
     <div>
     <br>
   </td>
+  <td>
+    <img alt="Separador" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
 </tr>
 </table>
 
@@ -281,7 +316,7 @@ Como creativo empresarial, debe colaborar con equipos distribuidos, establecer p
     <em>Compartir tu mejor trabajo con Adobe Portfolio es una forma eficaz de compartir tu éxito y atraer a nuevos talentos creativos</em>
     <br>
   </td>
-   <td>
+  <td>
    <a href="assets/ConnectingLightroomandBehancetoYourAdobePortfolio.pdf">
       <img alt="Conexión de Lightroom y Bēhance a su Adobe Portfolio" src="assets/ConnectingLightroomandBehancetoYourAdobePortfolio.jpg" />
    </a>
@@ -299,6 +334,11 @@ Como creativo empresarial, debe colaborar con equipos distribuidos, establecer p
    <a href="assets/ShowYourBestWorkwithAdobePortfolio.pdf"><strong>Mostrar sus mejores trabajos con Adobe Portfolio (PDF)</strong></a>
     </div>
     <em>Adobe Portfolio te permite cargar, organizar y compartir tu trabajo con posibles empleados y clientes de todo el mundo</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Separador" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
     <br>
   </td>
  </tr>
@@ -339,8 +379,6 @@ Como creativo empresarial, debe colaborar con equipos distribuidos, establecer p
     <em>Bibliotecas Creative Cloud proporciona un sistema de marca integrado que permite a los diseñadores compartir activos de marca entre los equipos creativos</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
    <a href="assets/ShareTextStylesFromIllustratorwithCreativeCloudLibraries.pdf">
       <img alt="Compartir estilos de texto de Illustrator con Bibliotecas Creative Cloud" src="assets/ShareTextStylesFromIllustratorwithCreativeCloudLibraries.jpg" />
@@ -349,16 +387,6 @@ Como creativo empresarial, debe colaborar con equipos distribuidos, establecer p
    <a href="assets/ShareTextStylesFromIllustratorwithCreativeCloudLibraries.pdf"><strong>Compartir estilos de texto de Illustrator con Bibliotecas Creative Cloud (PDF)</strong></a>
     </div>
     <em>Trabaja más inteligente, no más duro, en Illustrator</em>
-    <br>
-  </td>
-  <td>
-    <img alt="Separador" src="../assets/GrayBanner_Spacer.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-    <img alt="Separador" src="../assets/GrayBanner_Spacer.png" />
-    <div>
     <br>
   </td>
 </tr>
@@ -398,6 +426,11 @@ Como creativo empresarial, debe colaborar con equipos distribuidos, establecer p
     <em>El formato de OpenType permite que una fuente contenga hasta 65.536 glifos</em>
     <br>
   </td>
+  <td>
+    <img alt="Separador" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
 </tr>
 </table>
 
@@ -435,9 +468,7 @@ Como creativo empresarial, debe colaborar con equipos distribuidos, establecer p
     <em>¿Sabía que puede aprovechar la potencia del InDesign para generar gráficos web y de HTML?</em>
     <br>
   </td>
-</tr>
-<tr>
-   <td>
+  <td>
    <a href="assets/InteractivePDFBookmarksandLinkedTOCsfromInDesign.pdf">
       <img alt="PDF interactivo: Marcadores y índice vinculados de InDesign" src="assets/InteractivePDFBookmarksandLinkedTOCsfromInDesign.jpg" />
    </a>
@@ -447,7 +478,9 @@ Como creativo empresarial, debe colaborar con equipos distribuidos, establecer p
     <em>Aprenda a utilizar la función Tabla de contenido en InDesign para generar marcadores e hipervínculos que ayuden a los usuarios a encontrar información rápidamente en los archivos de PDF</em>
     <br>
   </td>
-   <td>
+</tr>
+<tr>
+  <td>
    <a href="assets/InteractivePDFGraphicalHyperlinksandNestedMasterPagesinInDesign.pdf">
       <img alt="PDF interactivo: Hipervínculos gráficos y páginas maestras anidadas en InDesign" src="assets/InteractivePDFGraphicalHyperlinksandNestedMasterPagesinInDesign.jpg" />
    </a>
@@ -455,6 +488,16 @@ Como creativo empresarial, debe colaborar con equipos distribuidos, establecer p
    <a href="assets/InteractivePDFGraphicalHyperlinksandNestedMasterPagesinInDesign.pdf"><strong>PDF interactivo: Hipervínculos gráficos y páginas maestras anidadas en InDesign (PDF)</strong></a>
     </div>
     <em>La aplicación de hipervínculos con páginas principales permite administrar rápidamente un sistema de navegación en todas las páginas</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Separador" src="../assets/GrayBanner_Spacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Separador" src="../assets/GrayBanner_Spacer.png" />
+    <div>
     <br>
   </td>
   <td>
@@ -499,6 +542,11 @@ Como creativo empresarial, debe colaborar con equipos distribuidos, establecer p
     <em>Illustrator proporciona una compatibilidad inigualable para el formato de SVG, incluida la capacidad de crear símbolos, grupos, ID y definiciones vectoriales precisas de su ilustración</em>
     <br>
   </td>
+  <td>
+    <img alt="Separador" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
 </tr>
 </table>
 
@@ -514,6 +562,11 @@ Como creativo empresarial, debe colaborar con equipos distribuidos, establecer p
    <a href="assets/VisualizeyourProductinaRealisticEnvironment.pdf"><strong>Visualiza tu producto en un entorno realista (PDF)</strong></a>
     </div>
     <em>Cuando quieras ver cómo quedan tus productos en el mundo real, utiliza Adobe [!DNL Dimension] es tu aplicación de referencia</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Separador" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
     <br>
   </td>
   <td>
