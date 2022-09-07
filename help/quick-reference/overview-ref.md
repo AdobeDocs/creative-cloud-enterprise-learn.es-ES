@@ -1,12 +1,12 @@
 ---
-title: Creative Cloud for enterprise quick reference guides
-description: Tutorials to help you get up-to-speed on the Creative Cloud for Enterprise products
+title: Guías de referencia rápida de Creative Cloud para empresas
+description: Tutorials para ayudarle a familiarizarse con los productos de Creative Cloud para empresas
 role: User
 level: Beginner, Intermediate
 exl-id: 5c981e46-7599-4b49-99be-f5dcee60636d
-source-git-commit: e3982cf31ebb0dac5927baa1352447b3222785c9
+source-git-commit: b31d4d2f7c8d141d65c7e4b72595fbc1c1252fd2
 workflow-type: tm+mt
-source-wordcount: '1196'
+source-wordcount: '1200'
 ht-degree: 0%
 
 ---
@@ -51,13 +51,13 @@ Como creativo empresarial, debe colaborar con equipos distribuidos, establecer p
     <div>
    <a href="ShootEditPublishyourPhotoswithCreativeCloud.pdf"><strong>Dispara, edita y publica tus fotos con Creative Cloud (PDF)</strong></a>
     </div>
-    <em>Explore the amazing features of Lightroom on your mobile device to bring out the best in your images</em>
+    <em>Explora las increíbles funciones de Lightroom en tu dispositivo móvil para sacar lo mejor de tus imágenes</em>
     <br>
   </td>
 </tr>
   <td>
    <a href="SketchCompandFinalizeaBrochureLayoutwithCreativeCloud.pdf">
-      <img alt="Sketch, Comp, and Finalize a Brochure Layout with Creative Cloud" src="../assets/acrobat_PDF_96.png" />
+      <img alt="Esbozar, componer y finalizar un diseño de folleto con Creative Cloud" src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
    <a href="SketchCompandFinalizeaBrochureLayoutwithCreativeCloud.pdf"><strong>Esbozar, componer y finalizar un diseño de folleto con Creative Cloud (PDF)</strong></a>
@@ -79,7 +79,7 @@ Como creativo empresarial, debe colaborar con equipos distribuidos, establecer p
 </table>
 
 
-### Spark
+### Adobe Express (anteriormente Adobe Spark)
 
 <table>
 <tr>
@@ -127,7 +127,7 @@ Como creativo empresarial, debe colaborar con equipos distribuidos, establecer p
     <div>
    <a href="AnyonecanbecreativewithCreativeCloud.pdf"><strong>Cualquiera puede ser creativo con Creative Cloud (PDF)</strong></a>
     </div>
-    <em>Follow along with this quick technique that shows you how to bring out the best in any photograph using the Camera RAW Filter</em>
+    <em>Sigue esta técnica rápida que te muestra cómo sacar lo mejor de cualquier fotografía con el Filtro Camera Raw</em>
     <br>
   </td>
   <td>
@@ -135,7 +135,7 @@ Como creativo empresarial, debe colaborar con equipos distribuidos, establecer p
       <img alt="Creación de cinematografías con Photoshop" src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
-   <a href="CreatingCinemagraphswithPhotoshop.pdf"><strong>Creating Cinemagraphs with Photoshop (PDF)</strong></a>
+   <a href="CreatingCinemagraphswithPhotoshop.pdf"><strong>Creación de cinematografías con Photoshop (PDF)</strong></a>
     </div>
     <em>Crea una fotografía viva combinando vídeo de Adobe [!DNL Stock] con técnicas de enmascaramiento inteligentes en Photoshop. Da vida a tus imágenes con movimiento y un punto de bucle estratégico</em>
     <br>
@@ -159,7 +159,7 @@ Como creativo empresarial, debe colaborar con equipos distribuidos, establecer p
     <div>
    <a href="GettoknowPhotoshopontheiPad.pdf"><strong>Familiarícese con Photoshop para el iPad (PDF)</strong></a>
     </div>
-    <em>Bring the power of Photoshop to your fingertips with a re-engineered touch-based interface</em>
+    <em>Lleva la potencia de Photoshop al alcance de tu mano con una interfaz táctil rediseñada</em>
     <br>
   </td>
   <td>
@@ -228,7 +228,7 @@ Como creativo empresarial, debe colaborar con equipos distribuidos, establecer p
     <div>
    <a href="DesignandPrototypeInteractiveProjectswithCreativeCloud.pdf"><strong>Diseña y crea prototipos de proyectos interactivos con el Creative Cloud (PDF)</strong></a>
     </div>
-    <em>Create a fully interactive, and animated, user experience in just a few minutes by combining Adobe XD with a wide range of unique and versatile assets on Adobe [!DNL Stock]</em>
+    <em>Crea una experiencia de usuario completamente interactiva y animada en solo unos minutos combinando Adobe XD con una amplia gama de recursos únicos y versátiles en el Adobe [!DNL Stock]</em>
     <br>
   </td>
  </tr>
@@ -238,7 +238,7 @@ Como creativo empresarial, debe colaborar con equipos distribuidos, establecer p
       <img alt="XD: descubre cómo diseñar, crear prototipos y entregar contenido a equipos" src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
-   <a href="LetsXDSeeHowtoDesignPrototypeandHandofftoTeams.pdf"><strong>Let’s XD – See How to Design, Prototype, and Handoff to Teams (PDF)</strong></a>
+   <a href="LetsXDSeeHowtoDesignPrototypeandHandofftoTeams.pdf"><strong>XD: ver cómo diseñar, crear prototipos y entregar a equipos (PDF)</strong></a>
     </div>
     <em>Los componentes le ofrecen una flexibilidad sin precedentes para aplicar velocidad y coherencia a su flujo de trabajo de diseño</em>
     <br>
@@ -265,7 +265,7 @@ Como creativo empresarial, debe colaborar con equipos distribuidos, establecer p
       <img alt="Creación de gráficos únicos mediante la combinación de Adobes [!DNL Stock] Imágenes" src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
-   <a href="CreateUniqueGraphicsbyCombiningAdobeStockImages.pdf"><strong>Create Unique Graphics by Combining Adobe [!DNL Stock] Images (PDF)</strong></a>
+   <a href="CreateUniqueGraphicsbyCombiningAdobeStockImages.pdf"><strong>Creación de gráficos únicos mediante la combinación de Adobes [!DNL Stock] Imágenes (PDF)</strong></a>
     </div>
     <em>Combinación de imágenes de Adobe [!DNL Stock] para crear una imagen completamente nueva para sus proyectos de diseño</em>
     <br>
@@ -467,7 +467,7 @@ Como creativo empresarial, debe colaborar con equipos distribuidos, establecer p
     <br>
   </td>
   <td>
-    <img alt="Spacer" src="../assets/GrayBanner_Spacer.png" />
+    <img alt="Separador" src="../assets/GrayBanner_Spacer.png" />
     <div>
     <br>
   </td>
