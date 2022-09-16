@@ -4,9 +4,9 @@ description: Tutorials que te ayuden a ponerte al día sobre el Adobe [!DNL Stoc
 role: User
 level: Beginner, Intermediate
 exl-id: 83e1af30-489f-474c-874a-8cd8b36d4a38
-source-git-commit: 9dcf4a3054e528cd2cddeaa371f0b36e0039638d
+source-git-commit: 7db89df9d3fed62368eb9fb1d3caf1f6b969060b
 workflow-type: tm+mt
-source-wordcount: '1196'
+source-wordcount: '1208'
 ht-degree: 0%
 
 ---
@@ -15,8 +15,7 @@ ht-degree: 0%
 
 ![Imagen de héroe de Creative Cloud](../assets/Stock.jpg)
 
-Los creativos se encuentran bajo presión para ofrecer rápidamente contenido nuevo y visualmente atractivo que capte y mantenga la atención. Adobe [!DNL Stock] para empresas proporciona a los equipos creativos acceso a más de 200 millones de imágenes, vídeos, plantillas, ilustraciones, archivos de audio y contenidos 3D, todo ello desde las aplicaciones creativas de Adobe que utilizan a diario.
-
+Los creativos se encuentran bajo presión para distribuir rápidamente contenido visual atractivo. Adobe Stock ofrece a los equipos creativos acceso a más de 300 millones de imágenes, vídeos, archivos de audio, plantillas, ilustraciones y contenidos 3D libres de derechos de autor, dentro de las aplicaciones de Creative Cloud que usan a diario. Obtén acceso ilimitado a los contenidos estándar de Adobe Stock con Creative Cloud Edición Pro. Descubra las colecciones más recientes en stock.adobe.com
 
 ## Haga clic para ver un Adobe [!DNL Stock] tutorial
 
@@ -88,10 +87,10 @@ Los creativos se encuentran bajo presión para ofrecer rápidamente contenido nu
 <tr>
    <td>
       <a href="changecolors.md">
-         <img alt="Cambiar un Adobe [!DNL Stock] los colores de la imagen para que coincidan con tu historia" src="assets/changecolors.jpg" />
+         <img alt="Cambiar un Adobe [!DNL Stock] colores de la imagen para que coincidan con su historia" src="assets/changecolors.jpg" />
       </a>
       <div>
-      <a href="changecolors.md"><strong>Cambiar un Adobe [!DNL Stock] los colores de la imagen para que coincidan con tu historia</strong></a>
+      <a href="changecolors.md"><strong>Cambiar un Adobe [!DNL Stock] colores de la imagen para que coincidan con su historia</strong></a>
       </div>
       <em>Encuentra una foto única en Adobe [!DNL Stock] y luego ajusta el color en Adobe Photoshop para que se ajuste a tus necesidades</em>
       <br>
