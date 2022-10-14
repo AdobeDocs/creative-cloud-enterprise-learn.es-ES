@@ -4,7 +4,7 @@ description: Tutorials para ayudarle a familiarizarse con los productos de Creat
 role: User
 level: Beginner, Intermediate
 exl-id: eea91ea5-9adc-4a7f-93c0-6cdfe650cfb7
-source-git-commit: b529575f0c128b55509cadafc07fe3d008c987a3
+source-git-commit: 384f104dd62a89b5874f7c5ba666fca56755c905
 workflow-type: tm+mt
 source-wordcount: '1453'
 ht-degree: 0%
@@ -316,11 +316,11 @@ Como creativo empresarial, debe colaborar con equipos distribuidos, establecer p
 <table  style="table-layout:fixed">
 <tr>
 <td>
-   <a href="assets/TamingTypeAnxiety.pdf">
+   <a href="Taming-font-anxiety.md">
       <img alt="Ansiedad de tipo de domesticación" src="assets/TamingTypeAnxiety.jpg" />
    </a>
     <div>
-   <a href="assets/TamingTypeAnxiety.pdf"><strong>Ansiedad de tipo de domo (PDF)</strong></a>
+   <a href="Taming-font-anxiety.md"><strong>Ansiedad de tipo de domo (PDF)</strong></a>
     </div>
     <em>Obtenga información sobre cómo acceder a más de 20 000 fuentes diseñadas profesionalmente en Creative Cloud y utilizarlas</em>
     <br>

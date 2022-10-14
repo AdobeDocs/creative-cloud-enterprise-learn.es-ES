@@ -1,13 +1,13 @@
 ---
 user-guide-title: Creative Cloud para Tutorials empresariales
 breadcrumb-title: Creative Cloud para empresas
-user-guide-description: Vea tutoriales y guías de referencia rápida centrados en Creative Cloud para empresas.
+user-guide-description: Ver tutoriales y guías de referencia rápida centrados en Creative Cloud para empresas
 solution: Creative Cloud
 type: Tutorial
-source-git-commit: c649360eab0566ef15df295d8ad09a5c0d2ec5c9
+source-git-commit: 70e1e436f8fe439259fea2c48b263f255002fb10
 workflow-type: tm+mt
-source-wordcount: '380'
-ht-degree: 8%
+source-wordcount: '387'
+ht-degree: 9%
 
 ---
 
@@ -20,13 +20,15 @@ ht-degree: 8%
    + Tutoriales {#ccetutorials}
       + [Acrobat para creadores de contenido](cce/acrobat-content-creators.md)
       + [Mejorar los flujos de trabajo de CC con Bibliotecas CC](cce/cc-workflows-cc-libraries.md)
+      + [Ansiedad de tipo dominante](cce/Taming-font-anxiety.md)
       + [Creación de bibliotecas de Creative Cloud para equipos](cce/ccteamlibraries.md)
       + [Compartir recursos de marca con Bibliotecas Creative Cloud para equipos](cce/sharecclibraries.md)
       + [Crear composiciones únicas con Adobe [!DNL Stock] y Photoshop para iPad](cce/compositepsipad.md)
       + [Creación de cinematografías con Photoshop](cce/cinemagraphps.md)
       + [Descodificación de la sopa de alfabetos de formatos gráficos](cce/alphabetsoup.md)
       + [Descubre Fresco en el iPad y iPhone](cce/frescoworkshop.md)
-   + [Guías de referencia rápida](quick-reference/overview-ref.md)
+   + Guías de referencia rápida {#ccerefguides}
+   + [Lista de productos](quick-reference/overview-ref.md)
 + [!DNL Stock] {#stockoverview}
    + [Información general](stock/overview-stock.md)
    + Tutoriales {#stocktutorials}
@@ -63,7 +65,8 @@ ht-degree: 8%
    + [Información general](dva/overview-dva.md)
    + Tutoriales {#videotutorials}
       + [Revisión de vídeo con Frame.io](dva/video-review-frame-io.md)
-   + [Guías de referencia rápida](dva/overview-dva-ref.md)
+   + Guías de referencia rápida {#stockrefguides}
+      + [Guías de Stock](dva/overview-dva-ref.md)
 + XD {#xdoverview}
    + [Información general](xd/overview-xd.md)
    + Tutoriales {#xdtutorials}
