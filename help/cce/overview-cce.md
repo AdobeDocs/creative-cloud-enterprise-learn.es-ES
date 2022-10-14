@@ -1,12 +1,12 @@
 ---
-title: Tutoriales de Creative Cloud para empresas
+title: Creative Cloud para Tutorials empresariales
 description: Tutorials para ayudarle a familiarizarse con los productos de Creative Cloud para empresas
 role: User
 level: Beginner, Intermediate
 exl-id: eea91ea5-9adc-4a7f-93c0-6cdfe650cfb7
-source-git-commit: ba9266ed28d6c9db6f5fe64989b43374c4166673
+source-git-commit: eb461cadf0dc4c2122e3772e6d8f082516fd14f0
 workflow-type: tm+mt
-source-wordcount: '1419'
+source-wordcount: '1423'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 Como creativo empresarial, debe colaborar con equipos distribuidos, establecer procesos ampliables y cumplir con los sistemas y directrices corporativos. Estos tutoriales le ayudarán a conocer las nuevas funciones de Creative Cloud, desde una perspectiva empresarial.
 
 
-## Haga clic para ver un tutorial de producto
+## Haga clic para ver un tutorial de producto (en orden alfabético)
 
 ### Adobe Acrobat
 
@@ -47,6 +47,137 @@ Como creativo empresarial, debe colaborar con equipos distribuidos, establecer p
   <td>
     <img alt="Separador" src="../assets/acrobat_PDF_whitespacer_96.png" />
     <div>
+    <br>
+  </td>
+</tr>
+</table>
+
+### Adobe Express (anteriormente Adobe Spark)
+
+<table style="table-layout:fixed">
+<tr>
+ <td>
+   <a href="assets/AddingaGlideshowtoyourSparkPageAdobeBlog.pdf">
+      <img alt="Adición de una proyección de diapositivas al Spark Page" src="assets/AddingaGlideshowtoyourSparkPageAdobeBlog.jpg" />
+   </a>
+    <div>
+   <a href="assets/AddingaGlideshowtoyourSparkPageAdobeBlog.pdf"><strong>Añadir una proyección de diapositivas a su Spark Page (PDF)</strong></a>
+    </div>
+    <em>Adobe Spark ofrece algunos componentes de diseño sorprendentes y fáciles de usar que dan vida a tus historias web</em>
+    <br>
+  </td>
+  <td>
+   <a href="assets/CreatingYourBrandinAdobeSpark.pdf">
+      <img alt="Creación de una marca en Adobe Spark" src="assets/CreatingYourBrandinAdobeSpark.jpg" />
+   </a>
+    <div>
+   <a href="assets/CreatingYourBrandinAdobeSpark.pdf"><strong>Creación de su marca en Adobe Spark (PDF)</strong></a>
+    </div>
+    <em>Adobe Spark facilita la definición de tu marca</em>
+    <br>
+  </td>
+  <td>
+   <a href="assets/MeetYourNewProductionArtistAdobeSparkPost.pdf">
+      <img alt="Conozca a su nuevo artista de producción: Adobe Spark Post" src="assets/MeetYourNewProductionArtistAdobeSparkPost.jpg" />
+   </a>
+    <div>
+   <a href="assets/MeetYourNewProductionArtistAdobeSparkPost.pdf"><strong>Conozca a su nuevo artista de producción: Adobe Spark Post (PDF)</strong></a>
+    </div>
+    <em>Adobe Spark aprende de usted mientras crea diseños, define colores, importa ilustraciones y organiza elementos en sus composiciones</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Separador" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+</tr>
+</table>
+
+### Adobe Portfolio
+
+<table  style="table-layout:fixed">
+<tr>
+   <td>
+   <a href="assets/GettingStartedWithAdobePortfolio.pdf">
+      <img alt="Introducción A Adobe Portfolio" src="assets/GettingStartedWithAdobePortfolio.jpg" />
+   </a>
+    <div>
+   <a href="assets/GettingStartedWithAdobePortfolio.pdf"><strong>Introducción A Adobe Portfolio (PDF)</strong></a>
+    </div>
+    <em>Compartir tu mejor trabajo con Adobe Portfolio es una forma eficaz de compartir tu éxito y atraer a nuevos talentos creativos</em>
+    <br>
+  </td>
+  <td>
+   <a href="assets/ConnectingLightroomandBehancetoYourAdobePortfolio.pdf">
+      <img alt="Conexión de Lightroom y Bēhance a su Adobe Portfolio" src="assets/ConnectingLightroomandBehancetoYourAdobePortfolio.jpg" />
+   </a>
+    <div>
+   <a href="assets/ConnectingLightroomandBehancetoYourAdobePortfolio.pdf"><strong>Conexión de Lightroom y Bēhance a su Adobe Portfolio (PDF)</strong></a>
+    </div>
+    <em>Utiliza proyectos de Bēhance como páginas de tu portafolio</em>
+    <br>
+  </td>
+  <td>
+   <a href="assets/ShowYourBestWorkwithAdobePortfolio.pdf">
+      <img alt="Muestra tus mejores trabajos con Adobe Portfolio" src="assets/ShowYourBestWorkwithAdobePortfolio.jpg" />
+   </a>
+    <div>
+   <a href="assets/ShowYourBestWorkwithAdobePortfolio.pdf"><strong>Mostrar sus mejores trabajos con Adobe Portfolio (PDF)</strong></a>
+    </div>
+    <em>Adobe Portfolio te permite cargar, organizar y compartir tu trabajo con posibles empleados y clientes de todo el mundo</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Separador" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+ </tr>
+ </table>
+
+### Bibliotecas CC
+
+<table  style="table-layout:fixed">
+<tr>
+  <td>
+   <a href="ccteamlibraries.md">
+      <img alt="Creación de bibliotecas de Creative Cloud para equipos" src="assets/CCTeamLibraries_1280.jpg" />
+   </a>
+   <div>
+   <a href="ccteamlibraries.md"><strong>Creación de bibliotecas de Creative Cloud para equipos</strong></a>
+    </div>
+    <em>Aprenda a compartir recursos dentro de un grupo o equipo mediante Bibliotecas Creative Cloud para equipos</em>
+    <br>
+  </td>
+  <td>
+   <a href="sharecclibraries.md">
+      <img alt="Compartir recursos de marca con Bibliotecas Creative Cloud para equipos" src="assets/ShareLibraries_1280.jpg" />
+   </a>
+   <div>
+   <a href="sharecclibraries.md"><strong>Compartir recursos de marca con Bibliotecas Creative Cloud para equipos</strong></a>
+    </div>
+    <em>Aprenda a crear, usar y compartir recursos de marca para su grupo o equipo mediante Bibliotecas Creative Cloud para equipos</em>
+    <br>
+  </td>
+  <td>
+   <a href="assets/CreateAddandShareYourBrandAssetswithCreativeCloudLibraries.pdf">
+      <img alt="Cree, agregue y comparta los activos de su marca con Bibliotecas Creative Cloud" src="assets/CreateAddandShareYourBrandAssetswithCreativeCloudLibraries.jpg" />
+   </a>
+    <div>
+   <a href="assets/CreateAddandShareYourBrandAssetswithCreativeCloudLibraries.pdf"><strong>Cree, agregue y comparta los activos de su marca con las bibliotecas de Creative Cloud (PDF)</strong></a>
+    </div>
+    <em>Bibliotecas Creative Cloud proporciona un sistema de marca integrado que permite a los diseñadores compartir activos de marca entre los equipos creativos</em>
+    <br>
+  </td>
+  <td>
+   <a href="assets/ShareTextStylesFromIllustratorwithCreativeCloudLibraries.pdf">
+      <img alt="Compartir estilos de texto de Illustrator con Bibliotecas Creative Cloud" src="assets/ShareTextStylesFromIllustratorwithCreativeCloudLibraries.jpg" />
+   </a>
+    <div>
+   <a href="assets/ShareTextStylesFromIllustratorwithCreativeCloudLibraries.pdf"><strong>Compartir estilos de texto de Illustrator con Bibliotecas Creative Cloud (PDF)</strong></a>
+    </div>
+    <em>Trabaja más inteligente, no más duro, en Illustrator</em>
     <br>
   </td>
 </tr>
@@ -89,43 +220,226 @@ Como creativo empresarial, debe colaborar con equipos distribuidos, establecer p
 </tr>
 </table>
 
+### [!DNL Dimension]
 
-### Adobe Express (anteriormente Adobe Spark)
-
-<table style="table-layout:fixed">
+<table  style="table-layout:fixed">
 <tr>
- <td>
-   <a href="assets/AddingaGlideshowtoyourSparkPageAdobeBlog.pdf">
-      <img alt="Adición de una proyección de diapositivas al Spark Page" src="assets/AddingaGlideshowtoyourSparkPageAdobeBlog.jpg" />
+   <td>
+   <a href="assets/VisualizeyourProductinaRealisticEnvironment.pdf">
+      <img alt="Visualiza tu producto en un entorno realista" src="assets/VisualizeyourProductinaRealisticEnvironment.jpg" />
    </a>
     <div>
-   <a href="assets/AddingaGlideshowtoyourSparkPageAdobeBlog.pdf"><strong>Añadir una proyección de diapositivas a su Spark Page (PDF)</strong></a>
+   <a href="assets/VisualizeyourProductinaRealisticEnvironment.pdf"><strong>Visualiza tu producto en un entorno realista (PDF)</strong></a>
     </div>
-    <em>Adobe Spark ofrece algunos componentes de diseño sorprendentes y fáciles de usar que dan vida a tus historias web</em>
-    <br>
-  </td>
-  <td>
-   <a href="assets/CreatingYourBrandinAdobeSpark.pdf">
-      <img alt="Creación de una marca en Adobe Spark" src="assets/CreatingYourBrandinAdobeSpark.jpg" />
-   </a>
-    <div>
-   <a href="assets/CreatingYourBrandinAdobeSpark.pdf"><strong>Creación de su marca en Adobe Spark (PDF)</strong></a>
-    </div>
-    <em>Adobe Spark facilita la definición de tu marca</em>
-    <br>
-  </td>
-  <td>
-   <a href="assets/MeetYourNewProductionArtistAdobeSparkPost.pdf">
-      <img alt="Conozca a su nuevo artista de producción: Adobe Spark Post" src="assets/MeetYourNewProductionArtistAdobeSparkPost.jpg" />
-   </a>
-    <div>
-   <a href="assets/MeetYourNewProductionArtistAdobeSparkPost.pdf"><strong>Conozca a su nuevo artista de producción: Adobe Spark Post (PDF)</strong></a>
-    </div>
-    <em>Adobe Spark aprende de usted mientras crea diseños, define colores, importa ilustraciones y organiza elementos en sus composiciones</em>
+    <em>Cuando quieras ver cómo quedan tus productos en el mundo real, utiliza Adobe [!DNL Dimension] es tu aplicación de referencia</em>
     <br>
   </td>
   <td>
     <img alt="Separador" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Separador" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Separador" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+</tr>
+</table>
+
+### Fresco
+
+<table>
+<tr>
+ <td>
+   <a href="frescoworkshop.md">
+      <img alt="Descubre Fresco en el iPad (y iPhone)" src="assets/Fresco.png" />
+   </a>
+    <div>
+   <a href="frescoworkshop.md"><strong>Descubre Fresco en el iPad (y iPhone)</strong></a>
+    </div>
+    <em>Explora un mundo completamente nuevo del dibujo y la pintura digitales con Adobe Fresca en este taller práctico de 15 minutos</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Separador" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Separador" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Separador" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+</tr>
+</table>
+
+### Fuentes
+
+<table  style="table-layout:fixed">
+<tr>
+<td>
+   <a href="assets/TamingTypeAnxiety.pdf">
+      <img alt="Ansiedad de tipo de domesticación" src="assets/TamingTypeAnxiety.jpg" />
+   </a>
+    <div>
+   <a href="assets/TamingTypeAnxiety.pdf"><strong>Ansiedad de tipo de domo (PDF)</strong></a>
+    </div>
+    <em>Obtenga información sobre cómo acceder a más de 20 000 fuentes diseñadas profesionalmente en Creative Cloud y utilizarlas</em>
+    <br>
+  </td>
+  <td>
+   <a href="assets/CreatingBeautifulTypographywithCreativeCloud.pdf">
+      <img alt="Creación de tipografías preciosas con Creative Cloud" src="assets/CreatingBeautifulTypographywithCreativeCloud.jpg" />
+   </a>
+    <div>
+   <a href="assets/CreatingBeautifulTypographywithCreativeCloud.pdf"><strong>Creación de tipografías atractivas con Creative Cloud (PDF)</strong></a>
+    </div>
+    <em>Aprenda a aprovechar los controles tipográficos de última generación que se encuentran en sus herramientas de diseño favoritas</em>
+    <br>
+  </td>
+   <td>
+   <a href="assets/DiscoveringFontswithCreativeCloud.pdf">
+      <img alt="Descubrir fuentes con Creative Cloud" src="assets/DiscoveringFontswithCreativeCloud.jpg" />
+   </a>
+    <div>
+   <a href="assets/DiscoveringFontswithCreativeCloud.pdf"><strong>Detección de fuentes con Creative Cloud (PDF)</strong></a>
+    </div>
+    <em>Encontrar la fuente adecuada para un proyecto puede parecer abrumador a veces. Gracias a las distintas aplicaciones y servicios de Creative Cloud, encontrar la fuente adecuada resulta divertido e inspirador</em>
+    <br>
+  </td>
+  <td>
+   <a href="assets/UnleashHiddenGemsinOpenTypefonts.pdf">
+      <img alt="Desata gemas ocultas en fuentes de OpenType" src="assets/UnleashHiddenGemsinOpenTypefonts.jpg" />
+   </a>
+    <div>
+   <a href="assets/UnleashHiddenGemsinOpenTypefonts.pdf"><strong>Desencadenar gemas ocultas en fuentes de OpenType (PDF)</strong></a>
+    </div>
+    <em>El formato de OpenType permite que una fuente contenga hasta 65.536 glifos</em>
+    <br>
+  </td>
+</table>
+
+### Illustrator
+
+<table  style="table-layout:fixed">
+<tr>
+   <td>
+   <a href="assets/GettoKnowGraphicStylesinIllustrator.pdf">
+      <img alt="Conocer los estilos gráficos en Illustrator" src="assets/GettoKnowGraphicStylesinIllustrator.jpg" />
+   </a>
+    <div>
+   <a href="assets/GettoKnowGraphicStylesinIllustrator.pdf"><strong>Conocer los estilos gráficos en Illustrator (PDF)</strong></a>
+    </div>
+    <em>Illustrator le permite dar estilo a sus ilustraciones de la misma forma que a su texto</em>
+    <br>
+  </td>
+   <td>
+   <a href="assets/WorkSmarterNotHarderwithIllustrator.pdf">
+      <img alt="Trabaja de forma más inteligente, no más duro, con Adobe Illustrator CC" src="assets/WorkSmarterNotHarderwithIllustrator.jpg" />
+   </a>
+    <div>
+   <a href="assets/WorkSmarterNotHarderwithIllustrator.pdf"><strong>Trabaja de forma más inteligente, no más duro, con Adobe Illustrator CC (PDF)</strong></a>
+    </div>
+    <em>Agiliza tus dibujos vectoriales en Illustrator</em>
+    <br>
+  </td>
+  <td>
+   <a href="assets/IllustratorSymbolsandLayersequalsPerfectStructureforResponsiveSVG.pdf">
+      <img alt="Illustrator Symbols + Layers = Estructura perfecta para SVG sensible!" src="assets/IllustratorSymbolsandLayersequalsPerfectStructureforResponsiveSVG.jpg" />
+   </a>
+    <div>
+   <a href="assets/IllustratorSymbolsandLayersequalsPerfectStructureforResponsiveSVG.pdf"><strong>Illustrator Symbols + Layers = Estructura perfecta para SVG sensible! (PDF)</strong></a>
+    </div>
+    <em>Illustrator proporciona una compatibilidad inigualable para el formato de SVG, incluida la capacidad de crear símbolos, grupos, ID y definiciones vectoriales precisas de su ilustración</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Separador" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+</tr>
+</table>
+
+### InDesign
+
+<table  style="table-layout:fixed">
+<tr>
+  <td>
+   <a href="assets/CreatingInteractivePDFsfromInDesign.pdf">
+      <img alt="Creación de PDF interactivos desde InDesign" src="assets/CreatingInteractivePDFsfromInDesign.jpg" />
+   </a>
+    <div>
+   <a href="assets/CreatingInteractivePDFsfromInDesign.pdf"><strong>Creación de PDF interactivos desde el InDesign (PDF)</strong></a>
+    </div>
+    <em>InDesign contiene muchas funciones que le ayudan a dar formato, estilo, administrar y realizar un seguimiento del contenido de los documentos</em>
+    <br>
+  </td>
+   <td>
+   <a href="assets/EasilyGatherandIncorporateDesignFeedbackwithAdobeAcrobatandInDesign.pdf">
+      <img alt="Recopila e incorpora comentarios de diseño con facilidad con Adobe Acrobat y InDesign" src="assets/EasilyGatherandIncorporateDesignFeedbackwithAdobeAcrobatandInDesign.jpg" />
+   </a>
+    <div>
+   <a href="assets/EasilyGatherandIncorporateDesignFeedbackwithAdobeAcrobatandInDesign.pdf"><strong>Recopile e incorpore fácilmente comentarios de diseño con Adobe Acrobat y InDesign (PDF)</strong></a>
+    </div>
+    <em>Los responsables de departamento pueden usar Acrobat para agregar comentarios y anotaciones detallados, y luego puedes volver a llevar rápidamente esas marcas a Adobe InDesign para verlas en el contexto de tu diseño</em>
+    <br>
+  </td>
+  <td>
+   <a href="assets/StyleWebContentwithInDesign.pdf">
+      <img alt="Diseña contenido web con Adobe InDesign CC" src="assets/StyleWebContentwithInDesign.jpg" />
+   </a>
+    <div>
+   <a href="assets/StyleWebContentwithInDesign.pdf"><strong>Aplicación de estilos al contenido web con Adobe InDesign CC (PDF)</strong></a>
+    </div>
+    <em>¿Sabía que puede aprovechar la potencia del InDesign para generar gráficos web y de HTML?</em>
+    <br>
+  </td>
+  <td>
+   <a href="assets/InteractivePDFBookmarksandLinkedTOCsfromInDesign.pdf">
+      <img alt="PDF interactivo: Marcadores y índice vinculados de InDesign" src="assets/InteractivePDFBookmarksandLinkedTOCsfromInDesign.jpg" />
+   </a>
+    <div>
+   <a href="assets/InteractivePDFBookmarksandLinkedTOCsfromInDesign.pdf"><strong>PDF interactivo: Marcadores y índice vinculados de InDesign (PDF)</strong></a>
+    </div>
+    <em>Aprenda a utilizar la función Tabla de contenido en InDesign para generar marcadores e hipervínculos que ayuden a los usuarios a encontrar información rápidamente en los archivos de PDF</em>
+    <br>
+  </td>
+</tr>
+<tr>
+  <td>
+   <a href="assets/InteractivePDFGraphicalHyperlinksandNestedMasterPagesinInDesign.pdf">
+      <img alt="PDF interactivo: Hipervínculos gráficos y páginas maestras anidadas en InDesign" src="assets/InteractivePDFGraphicalHyperlinksandNestedMasterPagesinInDesign.jpg" />
+   </a>
+    <div>
+   <a href="assets/InteractivePDFGraphicalHyperlinksandNestedMasterPagesinInDesign.pdf"><strong>PDF interactivo: Hipervínculos gráficos y páginas maestras anidadas en InDesign (PDF)</strong></a>
+    </div>
+    <em>La aplicación de hipervínculos con páginas principales permite administrar rápidamente un sistema de navegación en todas las páginas</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Separador" src="../assets/GrayBanner_Spacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Separador" src="../assets/GrayBanner_Spacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Separador" src="../assets/GrayBanner_Spacer.png" />
     <div>
     <br>
   </td>
@@ -261,320 +575,4 @@ Como creativo empresarial, debe colaborar con equipos distribuidos, establecer p
     <br>
   </td>
 </tr>  
-</table>
-
-### Fresco
-
-<table>
-<tr>
- <td>
-   <a href="frescoworkshop.md">
-      <img alt="Descubre Fresco en el iPad (y iPhone)" src="assets/Fresco.png" />
-   </a>
-    <div>
-   <a href="frescoworkshop.md"><strong>Descubre Fresco en el iPad (y iPhone)</strong></a>
-    </div>
-    <em>Explora un mundo completamente nuevo del dibujo y la pintura digitales con Adobe Fresca en este taller práctico de 15 minutos</em>
-    <br>
-  </td>
-  <td>
-    <img alt="Separador" src="../assets/acrobat_PDF_whitespacer_96.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-    <img alt="Separador" src="../assets/acrobat_PDF_whitespacer_96.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-    <img alt="Separador" src="../assets/acrobat_PDF_whitespacer_96.png" />
-    <div>
-    <br>
-  </td>
-</tr>
-</table>
-
-### Adobe Portfolio
-
-<table  style="table-layout:fixed">
-<tr>
-   <td>
-   <a href="assets/GettingStartedWithAdobePortfolio.pdf">
-      <img alt="Introducción A Adobe Portfolio" src="assets/GettingStartedWithAdobePortfolio.jpg" />
-   </a>
-    <div>
-   <a href="assets/GettingStartedWithAdobePortfolio.pdf"><strong>Introducción A Adobe Portfolio (PDF)</strong></a>
-    </div>
-    <em>Compartir tu mejor trabajo con Adobe Portfolio es una forma eficaz de compartir tu éxito y atraer a nuevos talentos creativos</em>
-    <br>
-  </td>
-  <td>
-   <a href="assets/ConnectingLightroomandBehancetoYourAdobePortfolio.pdf">
-      <img alt="Conexión de Lightroom y Bēhance a su Adobe Portfolio" src="assets/ConnectingLightroomandBehancetoYourAdobePortfolio.jpg" />
-   </a>
-    <div>
-   <a href="assets/ConnectingLightroomandBehancetoYourAdobePortfolio.pdf"><strong>Conexión de Lightroom y Bēhance a su Adobe Portfolio (PDF)</strong></a>
-    </div>
-    <em>Utiliza proyectos de Bēhance como páginas de tu portafolio</em>
-    <br>
-  </td>
-  <td>
-   <a href="assets/ShowYourBestWorkwithAdobePortfolio.pdf">
-      <img alt="Muestra tus mejores trabajos con Adobe Portfolio" src="assets/ShowYourBestWorkwithAdobePortfolio.jpg" />
-   </a>
-    <div>
-   <a href="assets/ShowYourBestWorkwithAdobePortfolio.pdf"><strong>Mostrar sus mejores trabajos con Adobe Portfolio (PDF)</strong></a>
-    </div>
-    <em>Adobe Portfolio te permite cargar, organizar y compartir tu trabajo con posibles empleados y clientes de todo el mundo</em>
-    <br>
-  </td>
-  <td>
-    <img alt="Separador" src="../assets/acrobat_PDF_whitespacer_96.png" />
-    <div>
-    <br>
-  </td>
- </tr>
- </table>
-
-
-### Bibliotecas CC
-
-<table  style="table-layout:fixed">
-<tr>
-  <td>
-   <a href="ccteamlibraries.md">
-      <img alt="Creación de bibliotecas de Creative Cloud para equipos" src="assets/CCTeamLibraries_1280.jpg" />
-   </a>
-   <div>
-   <a href="ccteamlibraries.md"><strong>Creación de bibliotecas de Creative Cloud para equipos</strong></a>
-    </div>
-    <em>Aprenda a compartir recursos dentro de un grupo o equipo mediante Bibliotecas Creative Cloud para equipos</em>
-    <br>
-  </td>
-  <td>
-   <a href="sharecclibraries.md">
-      <img alt="Compartir recursos de marca con Bibliotecas Creative Cloud para equipos" src="assets/ShareLibraries_1280.jpg" />
-   </a>
-   <div>
-   <a href="sharecclibraries.md"><strong>Compartir recursos de marca con Bibliotecas Creative Cloud para equipos</strong></a>
-    </div>
-    <em>Aprenda a crear, usar y compartir recursos de marca para su grupo o equipo mediante Bibliotecas Creative Cloud para equipos</em>
-    <br>
-  </td>
-  <td>
-   <a href="assets/CreateAddandShareYourBrandAssetswithCreativeCloudLibraries.pdf">
-      <img alt="Cree, agregue y comparta los activos de su marca con Bibliotecas Creative Cloud" src="assets/CreateAddandShareYourBrandAssetswithCreativeCloudLibraries.jpg" />
-   </a>
-    <div>
-   <a href="assets/CreateAddandShareYourBrandAssetswithCreativeCloudLibraries.pdf"><strong>Cree, agregue y comparta los activos de su marca con las bibliotecas de Creative Cloud (PDF)</strong></a>
-    </div>
-    <em>Bibliotecas Creative Cloud proporciona un sistema de marca integrado que permite a los diseñadores compartir activos de marca entre los equipos creativos</em>
-    <br>
-  </td>
-  <td>
-   <a href="assets/ShareTextStylesFromIllustratorwithCreativeCloudLibraries.pdf">
-      <img alt="Compartir estilos de texto de Illustrator con Bibliotecas Creative Cloud" src="assets/ShareTextStylesFromIllustratorwithCreativeCloudLibraries.jpg" />
-   </a>
-    <div>
-   <a href="assets/ShareTextStylesFromIllustratorwithCreativeCloudLibraries.pdf"><strong>Compartir estilos de texto de Illustrator con Bibliotecas Creative Cloud (PDF)</strong></a>
-    </div>
-    <em>Trabaja más inteligente, no más duro, en Illustrator</em>
-    <br>
-  </td>
-</tr>
-</table>
-
-### Fuentes
-
-<table  style="table-layout:fixed">
-<tr>
-<td>
-   <a href="assets/TamingTypeAnxiety.pdf">
-      <img alt="Ansiedad de tipo de domesticación" src="assets/TamingTypeAnxiety.jpg" />
-   </a>
-    <div>
-   <a href="assets/TamingTypeAnxiety.pdf"><strong>Ansiedad de tipo de domo (PDF)</strong></a>
-    </div>
-    <em>Obtenga información sobre cómo acceder a más de 20 000 fuentes diseñadas profesionalmente en Creative Cloud y utilizarlas</em>
-    <br>
-  </td>
-  <td>
-   <a href="assets/CreatingBeautifulTypographywithCreativeCloud.pdf">
-      <img alt="Creación de tipografías preciosas con Creative Cloud" src="assets/CreatingBeautifulTypographywithCreativeCloud.jpg" />
-   </a>
-    <div>
-   <a href="assets/CreatingBeautifulTypographywithCreativeCloud.pdf"><strong>Creación de tipografías atractivas con Creative Cloud (PDF)</strong></a>
-    </div>
-    <em>Aprenda a aprovechar los controles tipográficos de última generación que se encuentran en sus herramientas de diseño favoritas</em>
-    <br>
-  </td>
-   <td>
-   <a href="assets/DiscoveringFontswithCreativeCloud.pdf">
-      <img alt="Descubrir fuentes con Creative Cloud" src="assets/DiscoveringFontswithCreativeCloud.jpg" />
-   </a>
-    <div>
-   <a href="assets/DiscoveringFontswithCreativeCloud.pdf"><strong>Detección de fuentes con Creative Cloud (PDF)</strong></a>
-    </div>
-    <em>Encontrar la fuente adecuada para un proyecto puede parecer abrumador a veces. Gracias a las distintas aplicaciones y servicios de Creative Cloud, encontrar la fuente adecuada resulta divertido e inspirador</em>
-    <br>
-  </td>
-  <td>
-   <a href="assets/UnleashHiddenGemsinOpenTypefonts.pdf">
-      <img alt="Desata gemas ocultas en fuentes de OpenType" src="assets/UnleashHiddenGemsinOpenTypefonts.jpg" />
-   </a>
-    <div>
-   <a href="assets/UnleashHiddenGemsinOpenTypefonts.pdf"><strong>Desencadenar gemas ocultas en fuentes de OpenType (PDF)</strong></a>
-    </div>
-    <em>El formato de OpenType permite que una fuente contenga hasta 65.536 glifos</em>
-    <br>
-  </td>
-</table>
-
-### InDesign
-
-<table  style="table-layout:fixed">
-<tr>
-  <td>
-   <a href="assets/CreatingInteractivePDFsfromInDesign.pdf">
-      <img alt="Creación de PDF interactivos desde InDesign" src="assets/CreatingInteractivePDFsfromInDesign.jpg" />
-   </a>
-    <div>
-   <a href="assets/CreatingInteractivePDFsfromInDesign.pdf"><strong>Creación de PDF interactivos desde el InDesign (PDF)</strong></a>
-    </div>
-    <em>InDesign contiene muchas funciones que le ayudan a dar formato, estilo, administrar y realizar un seguimiento del contenido de los documentos</em>
-    <br>
-  </td>
-   <td>
-   <a href="assets/EasilyGatherandIncorporateDesignFeedbackwithAdobeAcrobatandInDesign.pdf">
-      <img alt="Recopila e incorpora comentarios de diseño con facilidad con Adobe Acrobat y InDesign" src="assets/EasilyGatherandIncorporateDesignFeedbackwithAdobeAcrobatandInDesign.jpg" />
-   </a>
-    <div>
-   <a href="assets/EasilyGatherandIncorporateDesignFeedbackwithAdobeAcrobatandInDesign.pdf"><strong>Recopile e incorpore fácilmente comentarios de diseño con Adobe Acrobat y InDesign (PDF)</strong></a>
-    </div>
-    <em>Los responsables de departamento pueden usar Acrobat para agregar comentarios y anotaciones detallados, y luego puedes volver a llevar rápidamente esas marcas a Adobe InDesign para verlas en el contexto de tu diseño</em>
-    <br>
-  </td>
-  <td>
-   <a href="assets/StyleWebContentwithInDesign.pdf">
-      <img alt="Diseña contenido web con Adobe InDesign CC" src="assets/StyleWebContentwithInDesign.jpg" />
-   </a>
-    <div>
-   <a href="assets/StyleWebContentwithInDesign.pdf"><strong>Aplicación de estilos al contenido web con Adobe InDesign CC (PDF)</strong></a>
-    </div>
-    <em>¿Sabía que puede aprovechar la potencia del InDesign para generar gráficos web y de HTML?</em>
-    <br>
-  </td>
-  <td>
-   <a href="assets/InteractivePDFBookmarksandLinkedTOCsfromInDesign.pdf">
-      <img alt="PDF interactivo: Marcadores y índice vinculados de InDesign" src="assets/InteractivePDFBookmarksandLinkedTOCsfromInDesign.jpg" />
-   </a>
-    <div>
-   <a href="assets/InteractivePDFBookmarksandLinkedTOCsfromInDesign.pdf"><strong>PDF interactivo: Marcadores y índice vinculados de InDesign (PDF)</strong></a>
-    </div>
-    <em>Aprenda a utilizar la función Tabla de contenido en InDesign para generar marcadores e hipervínculos que ayuden a los usuarios a encontrar información rápidamente en los archivos de PDF</em>
-    <br>
-  </td>
-</tr>
-<tr>
-  <td>
-   <a href="assets/InteractivePDFGraphicalHyperlinksandNestedMasterPagesinInDesign.pdf">
-      <img alt="PDF interactivo: Hipervínculos gráficos y páginas maestras anidadas en InDesign" src="assets/InteractivePDFGraphicalHyperlinksandNestedMasterPagesinInDesign.jpg" />
-   </a>
-    <div>
-   <a href="assets/InteractivePDFGraphicalHyperlinksandNestedMasterPagesinInDesign.pdf"><strong>PDF interactivo: Hipervínculos gráficos y páginas maestras anidadas en InDesign (PDF)</strong></a>
-    </div>
-    <em>La aplicación de hipervínculos con páginas principales permite administrar rápidamente un sistema de navegación en todas las páginas</em>
-    <br>
-  </td>
-  <td>
-    <img alt="Separador" src="../assets/GrayBanner_Spacer.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-    <img alt="Separador" src="../assets/GrayBanner_Spacer.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-    <img alt="Separador" src="../assets/GrayBanner_Spacer.png" />
-    <div>
-    <br>
-  </td>
-</tr>
-</table>
-
-### Illustrator
-
-<table  style="table-layout:fixed">
-<tr>
-   <td>
-   <a href="assets/GettoKnowGraphicStylesinIllustrator.pdf">
-      <img alt="Conocer los estilos gráficos en Illustrator" src="assets/GettoKnowGraphicStylesinIllustrator.jpg" />
-   </a>
-    <div>
-   <a href="assets/GettoKnowGraphicStylesinIllustrator.pdf"><strong>Conocer los estilos gráficos en Illustrator (PDF)</strong></a>
-    </div>
-    <em>Illustrator le permite dar estilo a sus ilustraciones de la misma forma que a su texto</em>
-    <br>
-  </td>
-   <td>
-   <a href="assets/WorkSmarterNotHarderwithIllustrator.pdf">
-      <img alt="Trabaja de forma más inteligente, no más duro, con Adobe Illustrator CC" src="assets/WorkSmarterNotHarderwithIllustrator.jpg" />
-   </a>
-    <div>
-   <a href="assets/WorkSmarterNotHarderwithIllustrator.pdf"><strong>Trabaja de forma más inteligente, no más duro, con Adobe Illustrator CC (PDF)</strong></a>
-    </div>
-    <em>Agiliza tus dibujos vectoriales en Illustrator</em>
-    <br>
-  </td>
-  <td>
-   <a href="assets/IllustratorSymbolsandLayersequalsPerfectStructureforResponsiveSVG.pdf">
-      <img alt="Illustrator Symbols + Layers = Estructura perfecta para SVG sensible!" src="assets/IllustratorSymbolsandLayersequalsPerfectStructureforResponsiveSVG.jpg" />
-   </a>
-    <div>
-   <a href="assets/IllustratorSymbolsandLayersequalsPerfectStructureforResponsiveSVG.pdf"><strong>Illustrator Symbols + Layers = Estructura perfecta para SVG sensible! (PDF)</strong></a>
-    </div>
-    <em>Illustrator proporciona una compatibilidad inigualable para el formato de SVG, incluida la capacidad de crear símbolos, grupos, ID y definiciones vectoriales precisas de su ilustración</em>
-    <br>
-  </td>
-  <td>
-    <img alt="Separador" src="../assets/acrobat_PDF_whitespacer_96.png" />
-    <div>
-    <br>
-  </td>
-</tr>
-</table>
-
-### [!DNL Dimension]
-
-<table  style="table-layout:fixed">
-<tr>
-   <td>
-   <a href="assets/VisualizeyourProductinaRealisticEnvironment.pdf">
-      <img alt="Visualiza tu producto en un entorno realista" src="assets/VisualizeyourProductinaRealisticEnvironment.jpg" />
-   </a>
-    <div>
-   <a href="assets/VisualizeyourProductinaRealisticEnvironment.pdf"><strong>Visualiza tu producto en un entorno realista (PDF)</strong></a>
-    </div>
-    <em>Cuando quieras ver cómo quedan tus productos en el mundo real, utiliza Adobe [!DNL Dimension] es tu aplicación de referencia</em>
-    <br>
-  </td>
-  <td>
-    <img alt="Separador" src="../assets/acrobat_PDF_whitespacer_96.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-    <img alt="Separador" src="../assets/acrobat_PDF_whitespacer_96.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-    <img alt="Separador" src="../assets/acrobat_PDF_whitespacer_96.png" />
-    <div>
-    <br>
-  </td>
-</tr>
 </table>
