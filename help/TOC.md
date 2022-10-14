@@ -4,9 +4,9 @@ breadcrumb-title: Creative Cloud para empresas
 user-guide-description: Vea tutoriales y guías de referencia rápida centrados en Creative Cloud para empresas.
 solution: Creative Cloud
 type: Tutorial
-source-git-commit: a8ce127bd9eee259bd1d37640abcfb41631a5fe3
+source-git-commit: c649360eab0566ef15df295d8ad09a5c0d2ec5c9
 workflow-type: tm+mt
-source-wordcount: '374'
+source-wordcount: '380'
 ht-degree: 8%
 
 ---
@@ -19,6 +19,7 @@ ht-degree: 8%
    + [Información general](cce/overview-cce.md)
    + Tutoriales {#ccetutorials}
       + [Acrobat para creadores de contenido](cce/acrobat-content-creators.md)
+      + [Mejorar los flujos de trabajo de CC con Bibliotecas CC](cce/cc-workflows-cc-libraries.md)
       + [Creación de bibliotecas de Creative Cloud para equipos](cce/ccteamlibraries.md)
       + [Compartir recursos de marca con Bibliotecas Creative Cloud para equipos](cce/sharecclibraries.md)
       + [Crear composiciones únicas con Adobe [!DNL Stock] y Photoshop para iPad](cce/compositepsipad.md)
