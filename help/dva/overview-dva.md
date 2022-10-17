@@ -4,7 +4,7 @@ description: Tutorials para ayudarle a familiarizarse con los productos DVA para
 role: User
 level: Beginner, Intermediate
 exl-id: 4a0c57f5-053f-4e47-a42e-05f2d2a1bd15
-source-git-commit: 36a413f40c7f8743d81628c36daba0062844679b
+source-git-commit: 442c619a9119b0c6b45bd86ff53caf7bdb3387df
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 0%
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 ![Imagen de héroe de Creative Cloud](../assets/CCEbanner-DVA.png)
 
-Dale vida a tus ideas con las aplicaciones y software de Adobe para edición de vídeo, gráficos en movimiento, efectos visuales, animación y mucho más.
-
-## Haga clic para ver un tutorial de vídeo de Adobe
+Dale vida a tus ideas con las aplicaciones y software de Adobe para edición de vídeo, gráficos en movimiento, efectos visuales, animación y mucho más. Seleccione una imagen para ver un tutorial.
 
 <table>
 <tr>
