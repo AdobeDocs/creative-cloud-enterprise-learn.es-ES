@@ -4,7 +4,7 @@ breadcrumb-title: Creative Cloud para empresas
 user-guide-description: Ver tutoriales y guías de referencia rápida centrados en Creative Cloud para empresas
 solution: Creative Cloud
 type: Tutorial
-source-git-commit: 54260475720010fa756d67dd5175888e9bd5cc05
+source-git-commit: 9ba263d5a4d9b870653bf0e7cb848b910836cfd8
 workflow-type: tm+mt
 source-wordcount: '393'
 ht-degree: 9%
@@ -28,7 +28,7 @@ ht-degree: 9%
       + [Descodificación de la sopa de alfabetos de formatos gráficos](cce/alphabetsoup.md)
       + [Descubre Fresco en el iPad y iPhone](cce/frescoworkshop.md)
    + Guías de referencia rápida {#ccerefguides}
-   + [guías de CCE](quick-reference/overview-ref.md)
+      + [guías de CCE](quick-reference/overview-ref.md)
 + [!DNL Adobe Stock] {#stockoverview}
    + [Información general](stock/overview-stock.md)
    + Tutoriales {#stocktutorials}
