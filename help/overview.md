@@ -1,21 +1,21 @@
 ---
-title: Tutoriales
+title: Creative Cloud para Tutorials empresariales
 description: Bienvenido al centro de aprendizaje de Creative Cloud para empresas
 role: User
 level: Beginner, Intermediate, Experienced
 exl-id: d0223157-24aa-486b-806a-fc6f6a36d7cf
-source-git-commit: cdb318618d08ab0eab1ec88c3faa3354e11f2fab
+source-git-commit: ab1ccf6b37a5fd9ca55edf9d9b7bee66bf7c73e3
 workflow-type: tm+mt
-source-wordcount: '167'
-ht-degree: 10%
+source-wordcount: '173'
+ht-degree: 9%
 
 ---
 
-# Creative Cloud para Tutorials empresariales
+# Tutoriales de Creative Cloud para empresas
 
 ![Imagen de héroe de Creative Cloud](assets/hero_cce.jpg)
 
-Bienvenido al centro de aprendizaje de Creative Cloud para empresas. Encontrarás una amplia gama de experiencias de aprendizaje centradas en Creative Cloud para empresas. Nuestros tutoriales, seminarios web y casos prácticos están diseñados para poner al día rápidamente a los principiantes y administradores sobre los productos de Creative Cloud para empresas.
+Te damos la bienvenida al centro de aprendizaje de Creative Cloud para empresas. Aquí puede encontrar una amplia gama de experiencias de aprendizaje centradas en Creative Cloud para empresas. Nuestros tutoriales, seminarios web y casos prácticos están diseñados para poner al día rápidamente a los principiantes y administradores sobre los productos de Creative Cloud para empresas.
 
 ## Examinar temas
 
@@ -42,18 +42,6 @@ Bienvenido al centro de aprendizaje de Creative Cloud para empresas. Encontrará
     <br>
   </td>
   <td>
-    <a href="xd/overview-xd.md">
-      <img alt="Adobe XD" src="assets/XD.jpg" />
-    </a>
-    <div>
-   <a href="xd/overview-xd.md"><strong>Adobe XD</strong></a>
-    </div>
-    <em>Diseñar, crear prototipos y compartir experiencias de usuario</em>
-    <br>
-  </td>
-</tr>
-<tr>
-  <td>
    <a href="3di/overview-3di.md">
       <img alt="Adobe 3D y RV" src="assets/Dimenio.jpg" />
     </a>
@@ -63,6 +51,8 @@ Bienvenido al centro de aprendizaje de Creative Cloud para empresas. Encontrará
     <em>Crea imágenes en 3D fotorrealistas para construcción de marca, instantáneas de productos y diseños de paquetes</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
   <a href="dva/overview-dva.md">
       <img alt="Vídeo de Adobe" src="assets/CCEbanner-DVA.png" />
@@ -71,6 +61,16 @@ Bienvenido al centro de aprendizaje de Creative Cloud para empresas. Encontrará
    <a href="dva/overview-dva.md"><strong>Vídeo de Adobe</strong></a>
     </div>
     <em>Dale vida a tus ideas con las aplicaciones y software de Adobe para edición de vídeo, gráficos en movimiento, efectos visuales, animación y mucho más</em>
+    <br>
+  </td>
+  <td>
+    <a href="xd/overview-xd.md">
+      <img alt="Adobe XD" src="assets/XD.jpg" />
+    </a>
+    <div>
+   <a href="xd/overview-xd.md"><strong>Adobe XD</strong></a>
+    </div>
+    <em>Diseñar, crear prototipos y compartir experiencias de usuario</em>
     <br>
   </td>
   <td>
