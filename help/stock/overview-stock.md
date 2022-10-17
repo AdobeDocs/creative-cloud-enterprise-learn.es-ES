@@ -4,9 +4,9 @@ description: Tutorials que te ayuden a ponerte al día sobre el Adobe [!DNL Stoc
 role: User
 level: Beginner, Intermediate
 exl-id: 83e1af30-489f-474c-874a-8cd8b36d4a38
-source-git-commit: 442c619a9119b0c6b45bd86ff53caf7bdb3387df
+source-git-commit: a7687756cd036f756810314b3dedfa63d5aea2a9
 workflow-type: tm+mt
-source-wordcount: '1211'
+source-wordcount: '1212'
 ht-degree: 0%
 
 ---
@@ -259,9 +259,7 @@ Los creativos se encuentran bajo presión para distribuir rápidamente contenido
     <em>Da calidad a cualquier proyecto con una ilustración atractiva. Encuentra el vector perfecto en Adobe [!DNL Stock]y, a continuación, haga coincidir los colores con la paleta de su proyecto mediante Adobe Illustrator</em>
     <br>
   </td>
-</tr>
-<tr>
-   <td>
+  <td>
       <a href="assets/AddMotiontoStillImageswithAdobeStockandPhotoshop.pdf">
          <img alt="Añade movimiento a imágenes fijas con Adobe [!DNL Stock] y Photoshop" src="assets/AddMotiontoStillImageswithAdobeStockandPhotoshop.jpg" />
       </a>
@@ -303,8 +301,6 @@ Los creativos se encuentran bajo presión para distribuir rápidamente contenido
       <em>Une dos imágenes diferentes para crear una escena completamente nueva para tus proyectos de diseño. Adobe [!DNL Stock] y Adobe Photoshop te lo ponen fácil</em>
       <br>
    </td>
-</tr>
-<tr>
    <td>
       <a href="assets/CreatingaHalloweenCinemagraphwithPhotoshopCCandAdobeStock.pdf" target="_blank">
          <img alt="Creación de una película de Halloween con Photoshop CC y Adobe [!DNL Stock]" src="assets/CreatingaHalloweenCinemagraphwithPhotoshopCCandAdobeStock.jpg" />
@@ -315,6 +311,8 @@ Los creativos se encuentran bajo presión para distribuir rápidamente contenido
       <em>Crea un cinemógrafo componiendo vídeo, ilustraciones y fotos con Adobe Photoshop</em>
       <br>
   </td>
+</tr>
+<tr>
    <td>
       <a href="assets/PutyourDatainMotionwithAdobeStockandPremierePro.pdf" target="_blank">
          <img alt="Pon tus datos en movimiento con Adobe [!DNL Stock] y Premiere Pro" src="assets/PutyourDatainMotionwithAdobeStockandPremierePro.jpg" />
@@ -345,9 +343,7 @@ Los creativos se encuentran bajo presión para distribuir rápidamente contenido
       <em>Siga estos pasos para mostrar su trabajo en un Adobe de aspecto realista [!DNL Stock] plantilla con Adobe Photoshop</em>
       <br>
   </td>
- </tr> 
- <tr>
-   <td>
+  <td>
       <a href="assets/UncoveramazingdetailsinAdobeStockimageswithLightroomformobile.pdf" target="_blank">
          <img alt="Descubre detalles sorprendentes en Adobe [!DNL Stock] imágenes con Lightroom for mobile" src="assets/UncoveramazingdetailsinAdobeStockimageswithLightroomformobile.jpg" />
       </a>
@@ -357,6 +353,8 @@ Los creativos se encuentran bajo presión para distribuir rápidamente contenido
       <em>Descubre la potencia de Lightroom en tu dispositivo móvil para sacar lo mejor de tus imágenes</em>
       <br>
   </td>
+ </tr> 
+ <tr>
    <td>
       <a href="assets/VisualizePosterDesignsintheRealWorldwithAdobeStockandPhotoshop.pdf" target="_blank">
          <img alt="Visualiza diseños de carteles en el mundo real con Adobe [!DNL Stock] y Photoshop" src="assets/VisualizePosterDesignsintheRealWorldwithAdobeStockandPhotoshop.jpg" />
@@ -368,12 +366,17 @@ Los creativos se encuentran bajo presión para distribuir rápidamente contenido
       <br>
   </td>
   <td>
-    <img alt="Separador" src="../assets/Whitespacer.png" />
+    <img alt="Separador" src="../assets/Gray_thumbnail.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="Separador" src="../assets/Whitespacer.png" />
+    <img alt="Separador" src="../assets/Gray_thumbnail.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Separador" src="../assets/Gray_thumbnail.png" />
     <div>
     <br>
   </td>

@@ -4,9 +4,9 @@ description: Tutorials que te ayuden a ponerte al día sobre Adobe XD
 role: User
 level: Beginner, Intermediate
 exl-id: 411ef3da-42c1-4c98-a75d-dca990546eb4
-source-git-commit: 442c619a9119b0c6b45bd86ff53caf7bdb3387df
+source-git-commit: a7687756cd036f756810314b3dedfa63d5aea2a9
 workflow-type: tm+mt
-source-wordcount: '458'
+source-wordcount: '459'
 ht-degree: 0%
 
 ---
@@ -91,8 +91,6 @@ Adobe XD es una herramienta de diseño de experiencias de usuario y creación de
     <em>Adobe XD ofrece algunas herramientas de diseño interactivo sorprendentes que funcionan junto con tu flujo de trabajo existente, lo que te permite llevar tu visión de diseño interactivo al siguiente nivel</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
    <a href="assets/MobileWebExperienceswithXD.pdf" target="_blank">
       <img alt="Diseño de una experiencia web móvil con XD" src="assets/MobileWebExperienceswithXD.jpg" />
@@ -103,6 +101,8 @@ Adobe XD es una herramienta de diseño de experiencias de usuario y creación de
     <em>Echa un vistazo entre bastidores al proceso de diseño de la galería web móvil de Russell Brown MAX Madness mediante Adobe XD</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
    <a href="assets/PrototypeaMobileWebExperiencewithAdobeXD.pdf" target="_blank">
       <img alt="Crear un prototipo de una experiencia web móvil con Adobe XD" src="assets/PrototypeaMobileWebExperiencewithAdobeXD.jpg" />
@@ -131,6 +131,11 @@ Adobe XD es una herramienta de diseño de experiencias de usuario y creación de
    <a href="assets/BehindtheScenesofMAXMadnesswithAdobeXD.pdf" target="_blank"><strong>Entre bastidores de la locura de MAX con Adobe XD (PDF)</strong></a>
     </div>
     <em>Ofrecer una experiencia web móvil optimizada puede llamar la atención de los usuarios</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Separador" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
 </tr>
