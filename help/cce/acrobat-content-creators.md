@@ -4,7 +4,7 @@ description: Descubre las herramientas clave de Adobe Acrobat que ayudan a agili
 role: User
 level: Beginner, Intermediate
 thumb: KT-10962.jpg
-source-git-commit: b20d263758d627eae81d574059646e4911f8ca57
+source-git-commit: 5c00c61ce68465f44c43664ca807f11cd1ff0b93
 workflow-type: tm+mt
 source-wordcount: '68'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Como creador de contenido, es probable que genere PDF y, a continuación, vea esos archivos de PDF de forma rutinaria en Acrobat. Sin embargo, Acrobat también incluye muchas herramientas que ayudan a optimizar los flujos de trabajo creativos típicos.
 
-<table style="table-layout:fixed">
+<table style="table-layout:auto">
 <tr>
  <td>
    <a href="assets/AcrobatforContentCreators.pdf" target="_blank">
