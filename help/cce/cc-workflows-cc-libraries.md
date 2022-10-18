@@ -4,7 +4,7 @@ description: Descubre cómo las Bibliotecas Creative Cloud mantienen juntos los 
 role: User
 level: Intermediate
 thumb: KT-11193.jpg
-source-git-commit: 7d00d1309550538ac1ab3b2c0eb3eeb290268eea
+source-git-commit: 5ba204bfda788cb616d1576fc6901acbf030a639
 workflow-type: tm+mt
 source-wordcount: '65'
 ht-degree: 0%
@@ -17,4 +17,4 @@ Descubre cómo las Bibliotecas Creative Cloud mantienen juntos los elementos de 
 
 Seleccione la imagen siguiente para ver o descargar este tutorial de PDF.
 
-[![Imagen de la primera página del tutorial](assets/Improveccworkflowswithcclibraries.jpg){&quot;width=680&quot;}](assets/ImproveCCWorkflowsCCLibraries.pdf){target=&quot;blank&quot;}
+[![Imagen de la primera página del tutorial](assets/Improveccworkflowswithcclibraries.png){&quot;width=680&quot;}](assets/ImproveCCWorkflowsCCLibraries.pdf){target=&quot;blank&quot;}
