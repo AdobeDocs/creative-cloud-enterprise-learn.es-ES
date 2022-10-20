@@ -4,9 +4,9 @@ description: Tutorials que te ayuden a ponerte al día sobre el Adobe [!DNL Stoc
 role: User
 level: Beginner, Intermediate
 exl-id: 83e1af30-489f-474c-874a-8cd8b36d4a38
-source-git-commit: a7687756cd036f756810314b3dedfa63d5aea2a9
+source-git-commit: 8776e5bf06700702223c284d5be437019654a793
 workflow-type: tm+mt
-source-wordcount: '1212'
+source-wordcount: '1240'
 ht-degree: 0%
 
 ---
@@ -20,6 +20,16 @@ Los creativos se encuentran bajo presión para distribuir rápidamente contenido
 <table>
 <tr>
    <td>
+      <a href="stunning-digital-assets.md">
+         <img alt="Impresionantes activos digitales" src="assets/Stunningdigitalassets.png" />
+      </a>
+      <div>
+      <a href="stunning-digital-assets.md"><strong>Impresionantes activos digitales</strong></a>
+      </div>
+      <em>Aprenda a integrar Adobe Stock con las Bibliotecas CC para crear resultados de diseño uniformes y profesionales para impresión y pantalla en este tutorial práctico</em>
+      <br>
+  </td>
+  <td>
       <a href="searchstock.md">
          <img alt="Adobe de búsqueda [!DNL Stock] historial de licencias" src="assets/StockSearch_1280.jpg" />
       </a>
@@ -49,6 +59,8 @@ Los creativos se encuentran bajo presión para distribuir rápidamente contenido
     <em>Da vida a tu texto con elementos de Adobe [!DNL Stock] y estilos de animación de After Effects</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
       <a href="animatevector.md">
          <img alt="Animación de un Adobe [!DNL Stock] ilustración vectorial en Photoshop" src="assets/animatevector.jpg" />
@@ -59,9 +71,7 @@ Los creativos se encuentran bajo presión para distribuir rápidamente contenido
       <em>Añade animación a los gráficos de tu boletín con vectores editables para Adobe [!DNL Stock]</em>
       <br>
   </td>
-</tr>
-<tr>
-   <td>
+ <td>
       <a href="annualreport.md">
          <img alt="Empieza tu informe anual con un vídeo creado con Adobe [!DNL Stock] y Spark Video" src="assets/annualreport.jpg" />
       </a>
@@ -91,7 +101,9 @@ Los creativos se encuentran bajo presión para distribuir rápidamente contenido
       <em>Encuentra una foto única en Adobe [!DNL Stock] y luego ajusta el color en Adobe Photoshop para que se ajuste a tus necesidades</em>
       <br>
   </td>
-  <td>
+</tr>
+<tr>
+ <td>
       <a href="collage.md">
          <img alt="Creación de un collage en 3D para un póster con Adobe [!DNL Stock] images" src="assets/collage.jpg" />
       </a>
@@ -101,8 +113,6 @@ Los creativos se encuentran bajo presión para distribuir rápidamente contenido
       <em>Diseña un collage en Adobe Illustrator que ofrezca un efecto 3D llamativo a partir de imágenes en Adobe [!DNL Stock]</em>
       <br>
   </td>
-</tr>
-<tr>
   <td>
       <a href="boldlabel.md">
          <img alt="Crear una etiqueta en negrita con Adobe [!DNL Stock] plantillas y objetos inteligentes de Photoshop" src="assets/boldlabel.jpg" />
@@ -133,7 +143,9 @@ Los creativos se encuentran bajo presión para distribuir rápidamente contenido
       <em>Crea un gráfico que compare los planes de precios de los productos para ofrecer a los clientes potenciales la información que necesitan de un vistazo</em>
       <br>
   </td>
-  <td>
+</tr>
+<tr>
+   <td>
       <a href="surrealcomposite.md">
          <img alt="Crear un compuesto semisurrealista con Adobe [!DNL Stock]" src="assets/surrealcomposite.jpg" />
       </a>
@@ -143,8 +155,6 @@ Los creativos se encuentran bajo presión para distribuir rápidamente contenido
       <em>Crea una imagen editorial memorable combinando varias imágenes con color, movimiento y efectos de máscara</em>
       <br>
   </td>
-</tr>
-<tr>
    <td>
       <a href="surrealpattern.md">
          <img alt="Crea un patrón semisurrealista con Adobe [!DNL Stock]" src="assets/surrealpattern.jpg" />
@@ -175,7 +185,9 @@ Los creativos se encuentran bajo presión para distribuir rápidamente contenido
       <em>Cree rápidamente una foto interactiva dentro del prototipo de su sitio web con Adobe [!DNL Stock] &amp; XD</em>
       <br>
   </td>
-  <td>
+</tr>
+<tr>
+ <td>
       <a href="animationemail.md">
          <img alt="Crear animaciones para correo electrónico con Adobe [!DNL Stock] y Photoshop" src="assets/animationemail.jpg" />
       </a>
@@ -185,9 +197,7 @@ Los creativos se encuentran bajo presión para distribuir rápidamente contenido
       <em>Potencia tus correos electrónicos con la animación de stop-action con Adobe [!DNL Stock] y Photoshop</em>
       <br>
   </td>
-</tr>
-<tr>
- <td>
+  <td>
       <a href="brandgradients.md">
          <img alt="Crea imágenes de marca coherentes con bonitos degradados y Adobe [!DNL Stock] assets" src="assets/brandgradients.jpg" />
       </a>
@@ -217,7 +227,9 @@ Los creativos se encuentran bajo presión para distribuir rápidamente contenido
       <em>Crea un panel de fotografías del proyecto para retransmitir información, ideas, elementos visuales y paletas de colores a los equipos o clientes</em>
       <br>
   </td>
-  <td>
+</tr>
+<tr>
+   <td>
       <a href="realisticcomposite.md">
          <img alt="Crea composiciones fotográficas realistas con Adobe [!DNL Stock] images" src="assets/realisticcomposite.jpg" />
       </a>
@@ -227,8 +239,6 @@ Los creativos se encuentran bajo presión para distribuir rápidamente contenido
       <em>Reúne a dos grandes Adobes [!DNL Stock] fotos para atraer a personas a tus publicaciones en redes sociales</em>
       <br>
   </td>
-</tr>
-<tr>
    <td>
    <a href="loadingscreen.md">
       <img alt="Personalizar una animación de pantalla de carga con Adobe [!DNL Stock] y XD" src="assets/loadingscreen.jpg" />
@@ -259,7 +269,9 @@ Los creativos se encuentran bajo presión para distribuir rápidamente contenido
     <em>Da calidad a cualquier proyecto con una ilustración atractiva. Encuentra el vector perfecto en Adobe [!DNL Stock]y, a continuación, haga coincidir los colores con la paleta de su proyecto mediante Adobe Illustrator</em>
     <br>
   </td>
-  <td>
+</tr>
+<tr>
+   <td>
       <a href="assets/AddMotiontoStillImageswithAdobeStockandPhotoshop.pdf">
          <img alt="Añade movimiento a imágenes fijas con Adobe [!DNL Stock] y Photoshop" src="assets/AddMotiontoStillImageswithAdobeStockandPhotoshop.jpg" />
       </a>
@@ -269,8 +281,6 @@ Los creativos se encuentran bajo presión para distribuir rápidamente contenido
       <em>Sorprende a tus audiencias en cualquier pantalla incorporando vídeos a imágenes fijas</em>
       <br>
    </td>
-</tr>
-<tr>
    <td>
    <a href="assets/CreateacompositewithPhotoshopontheiPadandAdobeStockimages.pdf" target="_blank">
       <img alt="Crear una composición con Photoshop para el iPad y el Adobe [!DNL Stock] images" src="assets/CreateacompositewithPhotoshopontheiPadandAdobeStockimages.jpg" />
@@ -301,7 +311,9 @@ Los creativos se encuentran bajo presión para distribuir rápidamente contenido
       <em>Une dos imágenes diferentes para crear una escena completamente nueva para tus proyectos de diseño. Adobe [!DNL Stock] y Adobe Photoshop te lo ponen fácil</em>
       <br>
    </td>
-   <td>
+</tr>
+<tr>
+  <td>
       <a href="assets/CreatingaHalloweenCinemagraphwithPhotoshopCCandAdobeStock.pdf" target="_blank">
          <img alt="Creación de una película de Halloween con Photoshop CC y Adobe [!DNL Stock]" src="assets/CreatingaHalloweenCinemagraphwithPhotoshopCCandAdobeStock.jpg" />
       </a>
@@ -311,8 +323,6 @@ Los creativos se encuentran bajo presión para distribuir rápidamente contenido
       <em>Crea un cinemógrafo componiendo vídeo, ilustraciones y fotos con Adobe Photoshop</em>
       <br>
   </td>
-</tr>
-<tr>
    <td>
       <a href="assets/PutyourDatainMotionwithAdobeStockandPremierePro.pdf" target="_blank">
          <img alt="Pon tus datos en movimiento con Adobe [!DNL Stock] y Premiere Pro" src="assets/PutyourDatainMotionwithAdobeStockandPremierePro.jpg" />
@@ -343,7 +353,9 @@ Los creativos se encuentran bajo presión para distribuir rápidamente contenido
       <em>Siga estos pasos para mostrar su trabajo en un Adobe de aspecto realista [!DNL Stock] plantilla con Adobe Photoshop</em>
       <br>
   </td>
-  <td>
+ </tr> 
+ <tr>
+   <td>
       <a href="assets/UncoveramazingdetailsinAdobeStockimageswithLightroomformobile.pdf" target="_blank">
          <img alt="Descubre detalles sorprendentes en Adobe [!DNL Stock] imágenes con Lightroom for mobile" src="assets/UncoveramazingdetailsinAdobeStockimageswithLightroomformobile.jpg" />
       </a>
@@ -353,9 +365,7 @@ Los creativos se encuentran bajo presión para distribuir rápidamente contenido
       <em>Descubre la potencia de Lightroom en tu dispositivo móvil para sacar lo mejor de tus imágenes</em>
       <br>
   </td>
- </tr> 
- <tr>
-   <td>
+  <td>
       <a href="assets/VisualizePosterDesignsintheRealWorldwithAdobeStockandPhotoshop.pdf" target="_blank">
          <img alt="Visualiza diseños de carteles en el mundo real con Adobe [!DNL Stock] y Photoshop" src="assets/VisualizePosterDesignsintheRealWorldwithAdobeStockandPhotoshop.jpg" />
       </a>
@@ -366,17 +376,7 @@ Los creativos se encuentran bajo presión para distribuir rápidamente contenido
       <br>
   </td>
   <td>
-    <img alt="Separador" src="../assets/Gray_thumbnail.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-    <img alt="Separador" src="../assets/Gray_thumbnail.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-    <img alt="Separador" src="../assets/Gray_thumbnail.png" />
+    <img alt="Separador" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>

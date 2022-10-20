@@ -4,9 +4,9 @@ breadcrumb-title: Creative Cloud para empresas
 user-guide-description: Ver tutoriales y guías de referencia rápida centrados en Creative Cloud para empresas
 solution: Creative Cloud
 type: Tutorial
-source-git-commit: 9ba263d5a4d9b870653bf0e7cb848b910836cfd8
+source-git-commit: 8776e5bf06700702223c284d5be437019654a793
 workflow-type: tm+mt
-source-wordcount: '393'
+source-wordcount: '396'
 ht-degree: 9%
 
 ---
@@ -32,6 +32,7 @@ ht-degree: 9%
 + [!DNL Adobe Stock] {#stockoverview}
    + [Información general](stock/overview-stock.md)
    + Tutoriales {#stocktutorials}
+      + [Impresionantes activos digitales](stock/stunning-digital-assets.md)
       + [Adobe de búsqueda [!DNL Stock] historial de licencias](stock/searchstock.md)
       + [Añade una estética dibujada a mano al Adobe [!DNL Stock] images](stock/handdrawn.md)
       + [Añade estilo a la tipografía con máscaras y animación](stock/flairtypography.md)
