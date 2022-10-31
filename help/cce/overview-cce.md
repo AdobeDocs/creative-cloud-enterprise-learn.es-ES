@@ -4,9 +4,9 @@ description: Tutorials para ayudarle a familiarizarse con los productos de Creat
 role: User
 level: Beginner, Intermediate
 exl-id: eea91ea5-9adc-4a7f-93c0-6cdfe650cfb7
-source-git-commit: 5ba204bfda788cb616d1576fc6901acbf030a639
+source-git-commit: 5c7eea176959609a3f2fcdc51ed8e02f9f15dec9
 workflow-type: tm+mt
-source-wordcount: '1453'
+source-wordcount: '1456'
 ht-degree: 0%
 
 ---
@@ -141,10 +141,10 @@ Como creativo empresarial, debe colaborar con equipos distribuidos, establecer p
 <tr>
   <td>
    <a href="cc-workflows-cc-libraries.md">
-      <img alt="Mejorar los flujos de trabajo de CC con Bibliotecas CC" src="assets/Improveccworkflowswithcclibraries.png" />
+      <img alt="Mejorar los flujos de trabajo de CC con Bibliotecas CC (PDF)" src="assets/Improveccworkflowswithcclibraries.png" />
    </a>
    <div>
-   <a href="cc-workflows-cc-libraries.md"><strong>Mejorar los flujos de trabajo de CC con Bibliotecas CC</strong></a>
+   <a href="cc-workflows-cc-libraries.md"><strong>Mejorar los flujos de trabajo de CC con Bibliotecas CC (PDF)</strong></a>
     </div>
     <em>Descubre cómo las Bibliotecas Creative Cloud mantienen juntos los elementos de diseño, lo que garantiza la coherencia del proyecto para los diseñadores y los equipos</em>
     <br>
@@ -316,7 +316,7 @@ Como creativo empresarial, debe colaborar con equipos distribuidos, establecer p
 <tr>
 <td>
    <a href="taming-type-anxiety.md">
-      <img alt="Ansiedad de tipo de domesticación" src="assets/TamingTypeAnxiety.png" />
+      <img alt="Ansiedad de tipo de domo (PDF)" src="assets/TamingTypeAnxiety.png" />
    </a>
     <div>
    <a href="taming-type-anxiety.md"><strong>Ansiedad de tipo de domo (PDF)</strong></a>
