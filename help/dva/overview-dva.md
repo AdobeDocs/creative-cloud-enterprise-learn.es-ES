@@ -4,9 +4,9 @@ description: Tutorials para ayudarle a familiarizarse con los productos DVA para
 role: User
 level: Beginner, Intermediate
 exl-id: 4a0c57f5-053f-4e47-a42e-05f2d2a1bd15
-source-git-commit: 5ba204bfda788cb616d1576fc6901acbf030a639
+source-git-commit: ad7b21fc0ba8742117ff09b31e594d8d11dee51d
 workflow-type: tm+mt
-source-wordcount: '87'
+source-wordcount: '121'
 ht-degree: 0%
 
 ---
@@ -20,18 +20,23 @@ Dale vida a tus ideas con las aplicaciones y software de Adobe para edición de 
 <table>
 <tr>
  <td>
+   <a href="motion-graphics-templates.md">
+      <img alt="Plantillas profesionales de gráficos animados" src="assets/MORGTs.png" />
+   </a>
+    <div>
+   <a href="motion-graphics-templates.md"><strong>Plantillas profesionales de gráficos animados</strong></a>
+    </div>
+    <em>Las plantillas de gráficos animados (.mogrt) son una forma eficaz y colaborativa de crear paquetes de gráficos animados personalizables: títulos, animaciones de logotipos, tercios inferiores y compartirlos con equipos editoriales</em>
+    <br>
+  </td>
+  <td>
    <a href="video-review-frame-io.md">
       <img alt="Revisión de vídeo con Frame-io" src="assets/Videoreviewwithframe.png" />
    </a>
     <div>
    <a href="video-review-frame-io.md"><strong>Revisión de vídeo con Frame.io (PDF)</strong></a>
     </div>
-    <em>Descubre cómo la extensión Frame.io para Adobe Premiere Pro te permite centralizar y compartir activos, recibir comentarios en tiempo real, realizar un seguimiento de las revisiones y obtener aprobaciones más rápidas, todo ello sin salir de la cronología </em>
-    <br>
-  </td>
-  <td>
-    <img alt="Separador" src="../assets/acrobat_PDF_whitespacer_96.png" />
-    <div>
+    <em>Descubre cómo la extensión Frame.io para Adobe Premiere Pro te permite centralizar y compartir activos, recibir comentarios en tiempo real, realizar un seguimiento de las revisiones y obtener aprobaciones más rápidas, todo ello sin salir de la cronología</em>
     <br>
   </td>
   <td>
