@@ -4,9 +4,9 @@ description: Tutorials para ayudarle a familiarizarse con los productos de Creat
 role: User
 level: Beginner, Intermediate
 exl-id: eea91ea5-9adc-4a7f-93c0-6cdfe650cfb7
-source-git-commit: ad7b21fc0ba8742117ff09b31e594d8d11dee51d
+source-git-commit: a2319e107b620cc2e0f997dde8cf7235fd5e6779
 workflow-type: tm+mt
-source-wordcount: '1530'
+source-wordcount: '1529'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,7 @@ Como creativo empresarial, debe colaborar con equipos distribuidos, establecer p
       <img alt="Acrobat para creadores de contenido" src="assets/Acrobatforcontentcreators.png" />
    </a>
     <div>
-   <a href="acrobat-content-creators.md"><strong>Acrobat para creadores de contenido (PDF)</strong></a>
+   <a href="acrobat-content-creators.md"><strong>Acrobat para creadores de contenido</strong></a>
     </div>
     <em>Descubre las herramientas de Acrobat que ayudan a agilizar los flujos de trabajo creativos</em>
     <br>
