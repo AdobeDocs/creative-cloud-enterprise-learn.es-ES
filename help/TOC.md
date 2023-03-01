@@ -7,7 +7,7 @@ type: Tutorial
 source-git-commit: ad7b21fc0ba8742117ff09b31e594d8d11dee51d
 workflow-type: tm+mt
 source-wordcount: '415'
-ht-degree: 9%
+ht-degree: 0%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 9%
 
 + [Información general](overview.md)
 + Creative Cloud para empresas {#cceoverview}
-   + [Información general](cce/overview-cce.md)
+   + [Resumen](cce/overview-cce.md)
    + Tutoriales {#ccetutorials}
       + [Acrobat para creadores de contenido](cce/acrobat-content-creators.md)
       + [Mejorar los flujos de trabajo de CC con Bibliotecas CC](cce/cc-workflows-cc-libraries.md)
@@ -32,8 +32,8 @@ ht-degree: 9%
    + Guías de referencia rápida {#ccerefguides}
       + [guías de CCE](quick-reference/overview-ref.md)
 + [!DNL Adobe Stock] {#stockoverview}
-   + [Información general](stock/overview-stock.md)
-   + Tutoriales {#stocktutorials}
+   + [Resumen](stock/overview-stock.md)
+   + Tutorials {#stocktutorials}
       + [Impresionantes activos digitales](stock/stunning-digital-assets.md)
       + [Adobe de búsqueda [!DNL Stock] historial de licencias](stock/searchstock.md)
       + [Añade una estética dibujada a mano al Adobe [!DNL Stock] images](stock/handdrawn.md)
@@ -59,31 +59,31 @@ ht-degree: 9%
       + [Personalizar un Adobe [!DNL Stock] plantilla de presentación para parecer profesional](stock/presentationtemplate.md)
       + [Personalización de los colores de un Adobe [!DNL Stock] ilustración vectorial](stock/customizecolors.md)
 + Adobe 3D y RV {#3doverview}
-   + [Información general](3di/overview-3di.md)
-   + Tutoriales {#3dtutorials}
+   + [Resumen](3di/overview-3di.md)
+   + Tutorials {#3dtutorials}
       + [Diseño y representación en 3D](3di/substance-3d-stager.md)
       + [Sugerencias y técnicas para dominar la iluminación 3D en CGI](3di/mastering3dlighting.md)
       + [Creación de fotografías virtuales fotorrealistas con representación y composición 3D](3di/photorealistic.md)
       + [Personaliza y marca un modelo en 3D con [!DNL Dimension] y Adobe [!DNL Stock]](3di/3ddimensionstock.md)
 + Vídeo de Adobe {#videooverview}
-   + [Información general](dva/overview-dva.md)
-   + Tutoriales {#videotutorials}
+   + [Resumen](dva/overview-dva.md)
+   + Tutorials {#videotutorials}
       + [Plantillas profesionales de gráficos animados](dva/motion-graphics-templates.md)
       + [Revisión de vídeo con Frame.io](dva/video-review-frame-io.md)
    + Guías de referencia rápida {#videorefguides}
       + [Guías de vídeo](dva/overview-dva-ref.md)
 + Adobe XD {#xdoverview}
-   + [Información general](xd/overview-xd.md)
-   + Tutoriales {#xdtutorials}
+   + [Resumen](xd/overview-xd.md)
+   + Tutorials {#xdtutorials}
    + [Ponte cómodo con [!UICONTROL Componentes] en Adobe XD](xd/components.md)
 + Implementación y gestión {#deploy}
-   + [Información general](deploy/overview-deploy.md)
+   + [Resumen](deploy/overview-deploy.md)
    + [Vencimiento del número de serie](deploy/cceserial.md)
    + [Licencias de usuario designadas](deploy/nameduserlicensing.md)
 + MAX 2020 {#max2020}
-   + [Información general](max2020/overview-max.md)
-   + Tutoriales {#tutorials}
-      + [Información general](max2020/maxtutorials.md)
+   + [Resumen](max2020/overview-max.md)
+   + Tutorials {#tutorials}
+      + [Resumen](max2020/maxtutorials.md)
       + Productos de escritorio {#desktop-products}
          + [Acrobat &amp; Sign](max2020/acrobat-sign.md)
          + [[!DNL Dimension]](max2020/dimension.md)
@@ -96,7 +96,7 @@ ht-degree: 9%
          + [[!DNL Capture]](max2020/capture.md)
          + [Fresco](max2020/fresco.md)
          + [Illustrator en iPad](max2020/illustratoripad.md)
-         + [Photoshop en iPad](max2020/photoshopipad.md)
+         + [Photoshop en el iPad](max2020/photoshopipad.md)
       + Integraciones {#integrations}
          + [AEM](max2020/aem.md)
          + [Aplicación de escritorio de Creative Cloud](max2020/creativeclouddesktopapp.md)
