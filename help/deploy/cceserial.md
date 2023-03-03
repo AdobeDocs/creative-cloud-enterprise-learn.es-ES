@@ -4,9 +4,9 @@ description: Descripción de la experiencia de caducidad de números de serie pa
 role: User
 level: Beginner, Intermediate
 exl-id: bc457be0-86dc-4e8a-b6b2-34bc76af2d21
-source-git-commit: 6b819aef801e003e5a160d24ba69522cf6a7e715
+source-git-commit: 524d071b6f4e059823601381f04c337aedc55970
 workflow-type: tm+mt
-source-wordcount: '848'
+source-wordcount: '844'
 ht-degree: 3%
 
 ---
@@ -84,13 +84,13 @@ Una vez que caduque el número de serie, los usuarios ya no tendrán acceso a Ac
 
 En todos los intentos posteriores de iniciar Acrobat, se solicitará al usuario que **Iniciar sesión ahora** seguido de la opción para crear su propio Adobe ID y entrar en el modo de prueba. Sin embargo, cualquier nuevo Adobe ID creado por el usuario final no se asociará a las licencias de su organización y causará confusión adicional a sus usuarios.
 
-![Cuadro de diálogo de inicio de sesión de Acrobat 1](assets/acrobatsignin1.png)
+![Acrobat Sign en el cuadro de diálogo 1](assets/acrobatsignin1.png)
 
-![Cuadro de diálogo 2 de Acrobat Sign](assets/acrobatsignin2.png)
+![Acrobat Sign en el cuadro de diálogo 2](assets/acrobatsignin2.png)
 
 ## Contacte con nosotros si necesita ayuda
 
 Si tiene alguna pregunta sobre el uso de la [AdobeExpiryCheck](https://helpx.adobe.com/enterprise/kb/volume-license-expiration-check.html) o necesita ayuda para migrar de la implementación de números de serie a un usuario designado, tiene varias opciones:
 * Enviar un correo electrónico al equipo de Adobe Enterprise Onboarding: **entonb@adobe.com**
 * Abra un ticket de asistencia en [Admin Console](https://adminconsole.adobe.com/support)
-* Póngase en contacto con el administrador de cuentas de Adobe o el administrador de éxito de clientes
+* Póngase en contacto con el equipo de cuentas de Adobe
