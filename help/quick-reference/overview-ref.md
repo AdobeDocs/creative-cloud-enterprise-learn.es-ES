@@ -171,7 +171,7 @@ Como creativo empresarial, debe colaborar con equipos distribuidos, establecer p
     <div>
    <a href="CreateacompositeusingimagesandshapeswithIllustratorforiPad.pdf" target="_blank"><strong>Crear una composición con imágenes y formas con Illustrator para iPad (PDF)</strong></a>
     </div>
-    <em>Illustrator le permite dar estilo a sus ilustraciones de la misma forma que a su texto</em>
+    <em>Illustrator le permite dar estilo a sus ilustraciones de la misma manera que a su texto</em>
     <br>
   </td>
    <td>

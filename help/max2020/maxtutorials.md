@@ -7,7 +7,7 @@ exl-id: e27874b7-ba02-46b7-a5e4-fe2485d9c148
 source-git-commit: e3982cf31ebb0dac5927baa1352447b3222785c9
 workflow-type: tm+mt
 source-wordcount: '322'
-ht-degree: 6%
+ht-degree: 23%
 
 ---
 
@@ -48,7 +48,7 @@ Como creativo empresarial, tienes que colaborar con equipos distribuidos, establ
     <div>
     <a href="illustrator.md"><strong>Illustrator</strong></a>
     </div>
-    <em>Ilustraciones y gráficos vectoriales</em>
+    <em>Gráficos vectoriales e ilustraciones</em>
     <br>
   </td>
 </tr>
@@ -80,7 +80,7 @@ Como creativo empresarial, tienes que colaborar con equipos distribuidos, establ
     <div>
     <a href="rush.md"><strong>Rush</strong></a>
     </div>
-    <em>Crea y comparte vídeos online desde cualquier parte</em>
+    <em>Crea y comparte vídeos online en cualquier parte</em>
     <br>
   </td>
 </tr>
@@ -139,19 +139,19 @@ Como creativo empresarial, tienes que colaborar con equipos distribuidos, establ
     <div>
     <a href="illustratoripad.md"><strong>Illustrator en iPad</strong></a>
     </div>
-    <em>Ilustraciones y gráficos vectoriales</em>
+    <em>Gráficos vectoriales e ilustraciones</em>
     <br>
   </td>
 </tr>
 <tr>
  <td>
     <a href="photoshopipad.md">
-      <img alt="Photoshop en iPad" src="../assets/PSoniPad.jpg" />
+      <img alt="Photoshop en el iPad" src="../assets/PSoniPad.jpg" />
     </a>
     <div>
-    <a href="photoshopipad.md"><strong>Photoshop en iPad</strong></a>
+    <a href="photoshopipad.md"><strong>Photoshop en el iPad</strong></a>
     </div>
-    <em>Edita, compón y crea bellas imágenes, gráficos e ilustraciones en el escritorio y iPad</em>
+    <em>Edite, componga y cree bonitas imágenes, gráficos e ilustraciones en su equipo de escritorio y su iPad</em>
     <br>
   </td>
   <td>

@@ -1,5 +1,5 @@
 ---
-title: '"[!DNL Rush]"'
+title: "[!DNL Rush]"
 description: Premiere [!DNL Rush] es la primera aplicación integral de edición de vídeo para varios dispositivos que facilita más que nunca la creación y el uso compartido de contenido en línea
 role: User
 level: Beginner, Intermediate

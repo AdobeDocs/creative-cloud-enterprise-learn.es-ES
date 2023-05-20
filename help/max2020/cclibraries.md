@@ -7,7 +7,7 @@ exl-id: e68a8d5b-3dca-4ac8-87d1-b31dbe0e13ce
 source-git-commit: 6b819aef801e003e5a160d24ba69522cf6a7e715
 workflow-type: tm+mt
 source-wordcount: '237'
-ht-degree: 2%
+ht-degree: 3%
 
 ---
 
@@ -58,7 +58,7 @@ Con las Bibliotecas Adobe Creative Cloud, puedes administrar, organizar y accede
 
 En este tutorial, aprenderá a:
 * Mantén tus activos a mano y tus proyectos fieles a la marca
-* Nueva! Integración completa con Adobe XD
+* ¡Nuevo! Integración completa con Adobe XD
 
 **Presentado por:**
 Ashley Dvorin, consultora sénior de soluciones (Digital Media)

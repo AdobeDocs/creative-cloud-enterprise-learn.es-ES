@@ -7,7 +7,7 @@ exl-id: 9533fb1f-a2cc-4c06-b701-67c75a60dbaf
 source-git-commit: 6b819aef801e003e5a160d24ba69522cf6a7e715
 workflow-type: tm+mt
 source-wordcount: '130'
-ht-degree: 0%
+ht-degree: 14%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ![Imagen de héroe de Creative Cloud](../assets/CCEbanner.png)
 
-Creative Cloud para empresas admite implementaciones personalizadas y reajustes de licencias flexibles, y funciona con otras ofertas empresariales de Adobe.
+Creative Cloud para empresas admite implementaciones personalizadas y reajustes de licencias flexibles, y funciona con otras ofertas de Adobe para empresas.
 
 * [Información sobre el Creative Cloud para empresas y la caducidad del número de serie de Acrobat](cceserial.md)
 Obtenga información sobre la experiencia de caducidad de números de serie para Creative Cloud para empresas y Acrobat.

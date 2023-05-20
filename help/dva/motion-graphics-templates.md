@@ -4,9 +4,10 @@ description: 'Las plantillas de gráficos animados (.mogrt) son una forma eficaz
 role: User
 level: Beginner, Intermediate
 thumb: KT-11642.jpg
-source-git-commit: ad7b21fc0ba8742117ff09b31e594d8d11dee51d
+exl-id: bb43c54f-e5d1-431e-bb9b-cddcd37451ac
+source-git-commit: 64ee96d6cb943cdb8bb708ecb89c426d5af1557e
 workflow-type: tm+mt
-source-wordcount: '123'
+source-wordcount: '121'
 ht-degree: 0%
 
 ---
@@ -17,4 +18,4 @@ Las plantillas de gráficos animados (.mogrt) son una forma eficaz y colaborativ
 
 Seleccione la imagen siguiente para ver o descargar este tutorial de PDF.
 
-[![Imagen de la primera página del tutorial](assets/MORGTs.png){&quot;width=680&quot;}](assets/Adobe-Premiere-Pro-Motion-Graphics-Templates.pdf){target=&quot;blank&quot;}
+[![Imagen de la primera página del tutorial](assets/MORGTs.png){&quot;width=680&quot;}](assets/Adobe-Premiere-Pro-Motion-Graphics-Templates.pdf){target="blank"}

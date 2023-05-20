@@ -53,7 +53,7 @@ Cámaras como la Ricoh Theta, Gopro MAX e Insta 360 pueden capturar panoramas de
 
 Para comenzar a capturar entornos para la composición, necesita dos elementos principales; una imagen o imágenes de fondo de alta calidad y un panorama HDR de 360° del entorno en el que se tomó.
 
-Uno de los aspectos más importantes de capturar este tipo de contenido de manera eficaz es aprovechar las habilidades y herramientas existentes de un fotógrafo. La creación de una imagen de fondo hermosa requiere prestar atención a la composición y al detalle. Las imágenes de fondo también requieren una mentalidad especial para crear algo que sea útil para componer elementos 3D.
+Uno de los aspectos más importantes de capturar este tipo de contenido de manera eficaz es aprovechar las habilidades y herramientas existentes de un fotógrafo. La creación de una imagen de fondo preciosa requiere prestar atención a la composición y al detalle. Las imágenes de fondo también requieren una mentalidad especial para crear algo que sea útil para componer elementos 3D.
 
 ### Elegir una ubicación
 

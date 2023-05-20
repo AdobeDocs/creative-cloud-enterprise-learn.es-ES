@@ -1,5 +1,5 @@
 ---
-title: '"[!DNL Dimension]"'
+title: "[!DNL Dimension]"
 description: '"[!DNL Dimension] facilita la creación de visualizaciones de marca, ilustraciones, bocetos de productos, diseños de envases y otros trabajos creativos".'
 role: User
 level: Beginner, Intermediate
