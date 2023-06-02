@@ -4,9 +4,9 @@ breadcrumb-title: Creative Cloud para empresas
 user-guide-description: Ver tutoriales y guías de referencia rápida centrados en Creative Cloud para empresas
 solution: Creative Cloud
 type: Tutorial
-source-git-commit: ad7b21fc0ba8742117ff09b31e594d8d11dee51d
+source-git-commit: 360291c15785a2d0e42295190425f6bb1975662c
 workflow-type: tm+mt
-source-wordcount: '415'
+source-wordcount: '416'
 ht-degree: 10%
 
 ---
@@ -31,6 +31,8 @@ ht-degree: 10%
       + [Descubre Fresco en el iPad y iPhone](cce/frescoworkshop.md)
    + Guías de referencia rápida {#ccerefguides}
       + [guías de CCE](quick-reference/overview-ref.md)
++ [!DNL Adobe Firefly] {#fireflyoverview}
+   + [Información general](firefly/overview-firefly.md)
 + [!DNL Adobe Stock] {#stockoverview}
    + [Información general](stock/overview-stock.md)
    + Tutoriales {#stocktutorials}
