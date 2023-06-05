@@ -3,7 +3,7 @@ title: Adobe [!DNL Firefly] Resumen
 description: Ponte al día con el Adobe [!DNL Firefly]
 role: User
 level: Beginner
-source-git-commit: a42dfb6c3f7bc038c6c090372bd25d3d9d696605
+source-git-commit: 7299bb82c2f481aeadee348d262a136a3f9945b5
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 0%
@@ -29,21 +29,21 @@ Firefly es la nueva familia de modelos de IA creativos y generativos que llega a
 <table>
 <tr>
    <td>
-      <a href="https://firefly.adobe.com/" {target="_blank" }>
-         <img alt="Adobe Firefly (Beta)" src="../assets/firefly-beta.png" />
+      <a href="https://firefly.adobe.com/" target="_blank">
+         <img alt="Adobe Firefly (Beta)" src="assets/firefly-beta.png" />
       </a>
       <div>
-      <a href="https://firefly.adobe.com/" {target="_blank" }><strong>Adobe Firefly (Beta)</strong></a>
+      <a href="https://firefly.adobe.com/" target="_blank"><strong>Adobe Firefly (Beta)</strong></a>
       </div>
       <em>Únase al programa beta Adobe Firefly.</em>
       <br>
   </td>
   <td>
-      <a href="https://www.adobe.com/sensei/generative-ai/firefly.html" {target="_blank" }>
-         <img alt="Explorar Firefly en Photoshop" src="../assets/firefly-photoshop.png" />
+      <a href="https://www.adobe.com/sensei/generative-ai/firefly.html" target="_blank">
+         <img alt="Explorar Firefly en Photoshop" src="assets/firefly-photoshop.png" />
       </a>
       <div>
-      <a href="https://www.adobe.com/sensei/generative-ai/firefly.html" {target="_blank" }><strong>Explorar Firefly en Photoshop</strong></a>
+      <a href="https://www.adobe.com/sensei/generative-ai/firefly.html" target="_blank"><strong>Explorar Firefly en Photoshop</strong></a>
       </div>
       <em>Firefly ya está en Photoshop y la forma en que crees nunca será la misma</em>
       <br>

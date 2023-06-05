@@ -4,9 +4,9 @@ breadcrumb-title: Creative Cloud para empresas
 user-guide-description: Ver tutoriales y guías de referencia rápida centrados en Creative Cloud para empresas
 solution: Creative Cloud
 type: Tutorial
-source-git-commit: 360291c15785a2d0e42295190425f6bb1975662c
+source-git-commit: 65ca74fa255996d8ce81e1d4f5211a3d52c2eb92
 workflow-type: tm+mt
-source-wordcount: '416'
+source-wordcount: '470'
 ht-degree: 10%
 
 ---
@@ -31,6 +31,26 @@ ht-degree: 10%
       + [Descubre Fresco en el iPad y iPhone](cce/frescoworkshop.md)
    + Guías de referencia rápida {#ccerefguides}
       + [guías de CCE](quick-reference/overview-ref.md)
++ [!DNL Adobe Express] {#expressoverview}
+   + [Información general](express/overview-express.md)
+   + Tutoriales {#expresstutorials}
+      + [Introducción a Adobe Express](express/get-started.md)
+      + [Adobe Express para principiantes](express/adobe-express-beginners.md)
+      + [Obtener inspiración rápida](express/get-inspiration.md)
+      + [Creación de plantillas](express/create-templates.md)
+      + [Añadir activos de diseño](express/add-design-assets.md)
+      + [Agrupación de objetos](express/group-objects.md)
+      + [Seleccionar y mover capas](express/layers.md)
+      + [Crear varias páginas](express/multiple-pages.md)
+      + [Deshacer y rehacer](express/undo-redo.md)
+      + [Usar Bibliotecas CC](express/cc-libraries.md)
+      + [Aplicar su marca](express/brand.md)
+      + [Integración con Google Drive](express/google-drive.md)
+      + [Eliminar fondo](express/remove-background.md)
+      + [Perfeccionar un recorte](express/refine-cutout.md)
+      + [Uso de efectos de texto](express/text-effects.md)
+      + [Usar efectos de imagen](express/image-effects.md)
+      + [Crear texto curvo](express/create-curved-text.md)
 + [!DNL Adobe Firefly] {#fireflyoverview}
    + [Información general](firefly/overview-firefly.md)
 + [!DNL Adobe Stock] {#stockoverview}
