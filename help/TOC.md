@@ -4,10 +4,10 @@ breadcrumb-title: Creative Cloud para empresas
 user-guide-description: Ver tutoriales y guías de referencia rápida centrados en Creative Cloud para empresas
 solution: Creative Cloud
 type: Tutorial
-source-git-commit: 65ca74fa255996d8ce81e1d4f5211a3d52c2eb92
+source-git-commit: 91984a5d4fd32db0af0007a65cb9245ff2a5b960
 workflow-type: tm+mt
-source-wordcount: '470'
-ht-degree: 10%
+source-wordcount: '476'
+ht-degree: 9%
 
 ---
 
@@ -36,6 +36,8 @@ ht-degree: 10%
    + Tutoriales {#expresstutorials}
       + [Introducción a Adobe Express](express/get-started.md)
       + [Adobe Express para principiantes](express/adobe-express-beginners.md)
+      + [Programar publicaciones sociales](express/schedule.md)
+      + [Invitar a colaboradores del proyecto](express/collaborate.md)
       + [Obtener inspiración rápida](express/get-inspiration.md)
       + [Creación de plantillas](express/create-templates.md)
       + [Añadir activos de diseño](express/add-design-assets.md)
