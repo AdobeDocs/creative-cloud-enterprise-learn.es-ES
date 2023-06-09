@@ -3,16 +3,16 @@ title: Adobe [!DNL Firefly] Resumen
 description: Ponte al día con el Adobe [!DNL Firefly]
 role: User
 level: Beginner
-source-git-commit: 6a4b1174482f607b70a7e9ac8683325e808aae7e
+source-git-commit: 0697674f779ffe2feba72d64da222a5b0506ce45
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '132'
 ht-degree: 0%
 
 ---
 
 # Adobe [!DNL Firefly] resumen
 
-![Imagen de Firefly Hero](../assets/firefly.png)
+![Imagen de héroe de Firefly](../assets/firefly.png)
 
 Firefly es la nueva familia de modelos de IA creativos y generativos que llega a los productos de Adobe y se centra inicialmente en la generación de imágenes y efectos de texto. Firefly ofrece nuevas formas de idear, crear y comunicarse, al tiempo que mejora significativamente los flujos de trabajo creativos.
 
@@ -52,6 +52,11 @@ Firefly es la nueva familia de modelos de IA creativos y generativos que llega a
       <a href="webinar-experimenting.md">
          <img alt="Experimentar con el Adobe Firefly" src="assets/webinar-experimenting.png" />
       </a>
+      <div>
+      <a href="webinar-experimenting.md"><strong>Experimentación con el seminario web para Firefly</strong></a>
+      </div>
+      <em>Únete a Howard Pinsky mientras se sumerge en la versión beta para Firefly en este seminario web</em>
+      <br>
   </td>
   <td>
     <img alt="Separador" src="../assets/Whitespacer.png" />
