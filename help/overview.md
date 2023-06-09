@@ -4,7 +4,7 @@ description: Bienvenido al centro de aprendizaje de Creative Cloud para empresas
 role: User
 level: Beginner, Intermediate, Experienced
 exl-id: d0223157-24aa-486b-806a-fc6f6a36d7cf
-source-git-commit: 715226411355dce6411212f6d51043afc77998be
+source-git-commit: 2d9140f3143aa8ff3fe2ec940e32930441fbdc5e
 workflow-type: tm+mt
 source-wordcount: '201'
 ht-degree: 9%
@@ -93,11 +93,11 @@ Te damos la bienvenida al centro de aprendizaje de Creative Cloud para empresas.
     <br>
   </td>
   <td>
-    <a href="max2020/overview-max.md">
+    <a href="max/overview-max.md">
       <img alt="MAX 2020: las sesiones empresariales" src="assets/MAX.jpg" />
     </a>
     <div>
-   <a href="max2020/overview-max.md"><strong>MAX 2020: las sesiones empresariales</strong></a>
+   <a href="max/overview-max.md"><strong>MAX 2020: las sesiones empresariales</strong></a>
     </div>
     <em>Más información sobre las sesiones empresariales de MAX 2020</em>
     <br>
