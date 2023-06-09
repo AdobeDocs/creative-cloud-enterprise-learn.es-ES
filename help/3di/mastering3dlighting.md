@@ -5,9 +5,9 @@ role: User
 level: Beginner, Intermediate
 keywords: Iluminación 3D, 600 Global MSV
 exl-id: 05eb729e-35b8-46e2-9c56-590250097d0b
-source-git-commit: 01d80f9b296bc7d13b5e931cf0ca22d1335271dc
+source-git-commit: 5e47268715a213c3bdc58cd61cdc7646ba333dd8
 workflow-type: tm+mt
-source-wordcount: '2739'
+source-wordcount: '2733'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ Aprende sobre la iluminación 3D y cómo crear diferentes condiciones de luz que
 
 Percibimos el mundo que nos rodea usando nuestros sentidos: oímos, sentimos, olemos, vemos. Podemos ver porque nuestros ojos están recogiendo información traída a nosotros por partículas elementales llamadas fotones. Esta información es procesada por nuestro cerebro para producir una imagen. Lo que interpretamos como color de objeto, brillo, translucidez o cualidades metálicas son todos productos de la interacción entre los fotones y la superficie del objeto.
 
-La mecánica de la luz en una escena 3D generada por ordenador sigue el mismo principio natural de dispersión de fotones, a través de un proceso llamado [trazado de rayos](https://en.wikipedia.org/wiki/Ray_tracing_(graphics)). Los rayos rebotan en las formas e interactúan con sus materiales, lo que define de manera efectiva cómo aparecen los objetos en la imagen final. Las luces exponen la dimensionalidad de cualquier cosa que exista en una escena 3D.
+La mecánica de la luz en una escena 3D generada por ordenador sigue el mismo principio natural de la dispersión de fotones, a través de un proceso llamado trazado de rayos. Los rayos rebotan en las formas e interactúan con sus materiales, lo que define de manera efectiva cómo aparecen los objetos en la imagen final. Las luces exponen la dimensionalidad de cualquier cosa que exista en una escena 3D.
 
 Algunos materiales son más sensibles a las condiciones de iluminación que otros. Tomemos los metales por ejemplo: un objeto de chrome refleja básicamente todo lo que lo rodea. Si se mueve una luz, se vuelve más brillante o más grande, toda esa información es visible directamente en la superficie cromada con detalles casi similares a los de un espejo, por lo que puede parecer completamente diferente de una condición de luz a la otra.
 
@@ -43,7 +43,7 @@ Es mejor trabajar en las luces de una en una. La luz activa debe ser la única v
 
 ![Ejemplo de 3 luces que iluminan un modelo de coche 3D individualmente y todas ellas trabajan juntas](assets/Mastering3dlighting_3.gif)
 
-Otro truco útil es crear una esfera con un material metálico brillante (un cromo o un espejo). Esta &quot;bola de espejo&quot; reflejará de manera efectiva toda la escena a su alrededor, para que puedas determinar fácilmente la posición, dirección o tamaño de la luz. En el caso de las luces ambientales, podrás ver su reflejo en la bola del espejo, lo que ayudará a configurar su orientación en el espacio.
+Otro truco útil es crear una esfera con un material metálico brillante (un cromo o un espejo). Esta &quot;bola de espejo&quot; reflejará de manera efectiva toda la escena a su alrededor, para que puedas determinar fácilmente la posición, dirección o tamaño de la luz. En el caso de las luces ambientales, podrás ver su reflejo en la bola de espejo, lo que ayudará a configurar su orientación en el espacio.
 
 ![Uso de una bola de espejo (esfera con textura metálica) para ver y orientar la luz ambiental en una escena 3D](assets/Mastering3dlighting_4.gif)
 
@@ -91,7 +91,7 @@ Puedes cambiar el color y la intensidad de las luces direccionales, así como aj
 
 ![Modificación de la forma de una luz direccional en Adobe [!DNL Dimension]](assets/Mastering3dlighting_12.gif)
 
-Si reduce el tamaño de la fuente de luz respecto al objeto, las sombras serán más nítidas, con un contorno más nítido, porque los rayos no pueden pasar sobre el objeto iluminado. Las fuentes de luz más grandes producen sombras más suaves, porque en este caso los rayos proceden de todos los lados del objeto (marcados como rojos en la ilustración siguiente), lo que crea un conjunto de sombras. Estas sombras se suavizan por los rayos que vienen de la dirección opuesta.
+Si se reduce el tamaño de la fuente de luz respecto al objeto, las sombras serán más nítidas, con un contorno más nítido, porque los rayos no pueden pasar sobre el objeto iluminado. Las fuentes de luz más grandes producen sombras más suaves, porque en este caso los rayos proceden de todos los lados del objeto (marcados como rojos en la ilustración siguiente), lo que crea un conjunto de sombras. Estas sombras se suavizan por los rayos que vienen de la dirección opuesta.
 
 ![Diagrama que ilustra el efecto que tienen la intensidad, la dirección y el tamaño de la iluminación en la forma en que se ilumina un objeto 3D y en la sombra que proyecta](assets/Mastering3dlighting_13.jpg)
 
@@ -147,7 +147,7 @@ Esta configuración consta de tres luces:
 
    ![Ejemplo de una luz de llanta que ilumina un modelo de auriculares 3D](assets/Mastering3dlighting_23.jpg)
 
-1. **Luz de relleno:** menos intensivo y que sirve para rellenar áreas más oscuras, se utiliza para áreas a las que no llegan las dos luces anteriores.
+1. **Luz de relleno:** menos intensivo y que sirve para rellenar áreas más oscuras, esto se utiliza para las áreas que las dos luces anteriores no alcanzan.
 
    ![Ejemplo de luz de relleno que ilumina un modelo de auriculares 3D](assets/Mastering3dlighting_24.jpg)
 
@@ -183,7 +183,7 @@ La forma más fácil de ajustar esta luz es usando planos con materiales brillan
 
 ![Ilustración que muestra cómo se colocan las luces de incrustación y relleno en el interior de una sala de estar en 3D para iluminar la escena](assets/Mastering3dlighting_30.jpg)
 
-La intensidad de la luz está controlada por la propiedad de resplandor de los materiales de los planos. Puedes añadir un color o incluso una textura, que se pueden utilizar para proyectar sombras interesantes. El uso de materiales de resplandor también proporcionará la difuminación de intensidad de luz, que es bastante importante para la iluminación interior.
+La intensidad de la luz se controla mediante la propiedad de resplandor de los materiales de los planos. Puedes añadir un color o incluso una textura, que se pueden utilizar para proyectar sombras interesantes. El uso de materiales de resplandor también proporcionará la difuminación de intensidad de luz, que es bastante importante para la iluminación interior.
 
 ![Ejemplo de luz de ambiente, luz de ambiente y clave, y luces de ambiente, clave y relleno que iluminan una escena de una sala de estar en 3D](assets/Mastering3dlighting_31.gif)
 
