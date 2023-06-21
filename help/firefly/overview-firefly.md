@@ -3,9 +3,10 @@ title: Adobe [!DNL Firefly] Resumen
 description: Ponte al día con el Adobe [!DNL Firefly]
 role: User
 level: Beginner
-source-git-commit: 0a38a173e0b2c14db9eb3a082e1ebd4635058214
+exl-id: 6ba5adc4-b67b-45dd-95e6-13d642b991b8
+source-git-commit: 36effc4e0896ef572130bf3fee4b5059c481f23c
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '174'
 ht-degree: 0%
 
 ---
@@ -69,4 +70,30 @@ Firefly es la nueva familia de modelos de IA creativos y generativos que llega a
       <br>
   </td>
 </tr>
+<tr>
+   <td>
+      <a href="web-banner-ad.md">
+         <img alt="Variaciones de anuncios de banner en Photoshop" src="assets/banner-ad-variations.png" />
+      </a>
+      <div>
+      <a href="web-banner-ad.md"><strong>Variaciones de anuncios de banner en Photoshop</strong></a>
+      </div>
+      <em>Aprenda a utilizar el Relleno generativo para acelerar la creación de banners de anuncios web</em>
+      <br>
+  </td>
+  <td>
+    <img alt="Separador" src="../assets/Gray_thumbnail.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Separador" src="../assets/Gray_thumbnail.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Separador" src="../assets/Gray_thumbnail.png" />
+    <div>
+    <br>
+  </td>
 </table>
