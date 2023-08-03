@@ -4,9 +4,9 @@ breadcrumb-title: Creative Cloud para empresas
 user-guide-description: Ver tutoriales y guías de referencia rápida centrados en Creative Cloud para empresas
 solution: Creative Cloud
 type: Tutorial
-source-git-commit: f67b18917de0c0c0af365cda07b2de94ab877004
+source-git-commit: f6b51be9a78af74e0ff166f36e610ce0d4a5f847
 workflow-type: tm+mt
-source-wordcount: '523'
+source-wordcount: '531'
 ht-degree: 9%
 
 ---
@@ -36,9 +36,10 @@ ht-degree: 9%
    + Tutoriales {#expresstutorials}
       + [Introducción a Adobe Express](express/get-started.md)
       + [Adobe Express para principiantes](express/adobe-express-beginners.md)
+      + [Crea contenido de folletos para una campaña de marketing con Firefly](express/create-local-marketing.md)
       + [Crea contenido de reclutamiento e incorporación con Firefly](express/create-on-boarding.md)
-      + [Creación de contenido gráfico para blogs con Firefly](express/create-blog-graphics.md)
       + [Crea carteles para redes sociales con Firefly](express/create-social-posters.md)
+      + [Creación de contenido gráfico para blogs con Firefly](express/create-blog-graphics.md)
       + [Crea carteles de seminarios web con Firefly](express/create-webinar-poster.md)
       + [Programar publicaciones en redes sociales](express/schedule.md)
       + [Invitar a colaboradores del proyecto](express/collaborate.md)

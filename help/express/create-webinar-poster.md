@@ -1,17 +1,16 @@
 ---
 title: Crear pósters de seminarios web con Firefly
-description: Aprende a crear un cartel de seminario web para un evento de realidad virtual
-role: User
+description: Aprende a usar la función Texto a imagen, con tecnología de Adobe Firefly, en Adobe Express para crear un cartel de seminario web para un evento de realidad virtual
 level: Beginner
-source-git-commit: f67b18917de0c0c0af365cda07b2de94ab877004
+source-git-commit: f6b51be9a78af74e0ff166f36e610ce0d4a5f847
 workflow-type: tm+mt
-source-wordcount: '61'
+source-wordcount: '69'
 ht-degree: 4%
 
 ---
 
 # Crea carteles de seminarios web con Firefly
 
-Aprende a usar la conversión de texto a imagen y los efectos de texto, con tecnología de Adobe Firefly, en Adobe Express para crear un póster de seminario web para un evento de realidad virtual. Este tutorial utiliza el nuevo [Versión beta de Adobe Express](https://www.adobe.com/express/).
+Aprende a usar la función Texto a imagen, con tecnología de Adobe Firefly, en Adobe Express para crear un póster de seminario web para un evento de realidad virtual. Este tutorial utiliza el nuevo [Versión beta de Adobe Express](https://www.adobe.com/express/).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420810?quality=12&learn=on&hidetitle=true)
