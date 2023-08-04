@@ -1,10 +1,11 @@
 ---
 title: Capture
-description: Adobe [!DNL Capture] convierte los teléfonos móviles y tabletas en una herramienta de colección de diseño
+description: Adobe [!DNL Capture] convierte los teléfonos móviles y las tabletas en una herramienta de colección de diseño
+feature: Graphic Design
 role: User
 level: Beginner, Intermediate
 exl-id: dcd379c5-3f60-4056-9d60-589890d4de66
-source-git-commit: 7b202fd4de29e83dd28c40dc6115a1be51c1f384
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '199'
 ht-degree: 1%
@@ -13,9 +14,9 @@ ht-degree: 1%
 
 # [!DNL Capture]
 
-![Tutorial Hero Image](../assets/Capture.jpg)
+![Tutorial de imagen de héroe](../assets/Capture.jpg)
 
-Adobe [!DNL Capture] convierte los teléfonos móviles y tabletas en una herramienta de colección de diseño. Los usuarios pueden crear muchos tipos diferentes de activos (elementos digitales individuales para ilustraciones).   Estos activos se sincronizan automáticamente con otras aplicaciones de Adobe de escritorio y móviles. Los usuarios pueden incorporarlos a sus proyectos creativos o compartirlos fácilmente con colaboradores.
+Adobe [!DNL Capture] convierte los teléfonos móviles y las tabletas en una herramienta de colección de diseño. Los usuarios pueden crear muchos tipos diferentes de activos (elementos digitales individuales para ilustraciones).   Estos activos se sincronizan automáticamente con otras aplicaciones de Adobe de escritorio y móviles. Los usuarios pueden incorporarlos a sus proyectos creativos o compartirlos fácilmente con colaboradores.
 
 ## Buscar Tutorials de productos
 
@@ -51,7 +52,7 @@ Adobe [!DNL Capture] convierte los teléfonos móviles y tabletas en una herrami
 **Descripción**
 Transforma imágenes y vídeos de tu dispositivo móvil en bloques de construcción creativos para todos tus diseños.
 
-En este tutorial, aprenderá a:
+En este tutorial, aprenderás a:
 * Diseña en cualquier parte
 * Integración con aplicaciones de escritorio mediante Bibliotecas CC
 * Acceder a miles de Adobe Fonts

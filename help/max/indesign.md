@@ -1,10 +1,11 @@
 ---
 title: InDesign
 description: Crea experiencias digitales e impresas sofisticadas, desde libros electrónicos y revistas electrónicas hasta libros, informes y artículos técnicos
+feature: Graphic Design
 role: User
 level: Beginner, Intermediate
 exl-id: eae51aea-4c17-4356-bfb0-720f87597ef7
-source-git-commit: 7b202fd4de29e83dd28c40dc6115a1be51c1f384
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '428'
 ht-degree: 0%
@@ -13,7 +14,7 @@ ht-degree: 0%
 
 # InDesign
 
-![Tutorial Hero Image](../assets/InDesign.jpg)
+![Tutorial de imagen de héroe](../assets/InDesign.jpg)
 
 La aplicación estándar del sector para crear documentos atractivos para la publicación digital e impresa. Crea experiencias digitales e impresas sofisticadas, desde libros electrónicos y revistas electrónicas hasta libros, informes y artículos técnicos.
 
@@ -98,11 +99,11 @@ Patti Sokol, consultora principal de soluciones (Digital Media)
 **Descripción**
 InDesign Share for Review ofrece una experiencia de revisión creativa aún más fluida para los diseñadores y los miembros de su equipo.
 
-En este tutorial, aprenderá a:
+En este tutorial, aprenderás a:
 * Iniciar una revisión directamente desde InDesign sin tener que crear un PDF
 * Revisar y comentar desde un navegador web
 * Recopila los comentarios de varios responsables de departamento en un solo lugar
-* Gestiona los comentarios en la aplicación para poder hacer cambios inmediatamente.
+* Administre los comentarios en la aplicación, donde los cambios se pueden realizar inmediatamente.
 
 **PDF de comparación de opciones de comentarios y revisión de Adobes**
 
@@ -118,9 +119,9 @@ Emily Palmer, consultora de soluciones (Digital Media)
 **Descripción**
 Importe comentarios de un PDF directamente en InDesign y aplique rápidamente los cambios solicitados.
 
-En este tutorial, aprenderá a:
+En este tutorial, aprenderás a:
 * Admite flujos de trabajo de comentarios de PDF existentes
-* Funciona para PDF combinados de varias fuentes
+* Funciona para PDF combinados a partir de varias fuentes
 
 **PDF de comparación de opciones de comentarios y revisión de Adobes**
 
@@ -136,7 +137,7 @@ Michael Murphy, consultor sénior de soluciones (medios digitales)
 **Descripción**
 Añade vídeo al InDesign. Enviar al PDF y publicar en línea.
 
-En este tutorial, aprenderá a:
+En este tutorial, aprenderás a:
 * Añadir vídeo al InDesign
 * Enviar al PDF y publicar en línea
 
@@ -147,7 +148,7 @@ Patti Sokol, consultora principal de soluciones (Digital Media)
 
 **Recursos de InDesign**
 
-[Información y asistencia](https://helpx.adobe.com/support/indesign.html) es el centro de tutoriales adicionales, [Novedades del sector](https://helpx.adobe.com/indesign/user-guide.html/indesign/using/whats-new.ug.html)y vínculos a foros de la comunidad.
+[Información y asistencia](https://helpx.adobe.com/support/indesign.html) es el centro de tutoriales adicionales, [Novedades de la aplicación](https://helpx.adobe.com/indesign/user-guide.html/indesign/using/whats-new.ug.html)y vínculos a foros de la comunidad.
 
 **Versión de octubre de 2020**
 

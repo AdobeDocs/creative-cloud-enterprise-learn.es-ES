@@ -1,10 +1,11 @@
 ---
 title: 'Plugin de diseño para imprimir: personalizar una máscara facial'
 description: Proyecto práctico para personalizar una máscara de cara
+feature: Graphic Design
 role: User
 level: Beginner, Intermediate
 exl-id: 7f755c1b-e45e-45a6-9dde-3ac81259aaf8
-source-git-commit: 7b202fd4de29e83dd28c40dc6115a1be51c1f384
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '372'
 ht-degree: 0%
@@ -13,11 +14,11 @@ ht-degree: 0%
 
 # Plugin de diseño para imprimir: personalizar una máscara facial
 
-![Tutorial Hero Image](../assets/faceMaskSplash.jpg)
+![Tutorial de imagen de héroe](../assets/faceMaskSplash.jpg)
 
-¿No sería genial poder personalizar una máscara facial con tu propia ilustración? Con el plugin Adobe Design to Print, puedes visualizar tus diseños en cientos de productos Zazzle y publicarlos directamente en su tienda online.
+¿No sería genial si pudieras personalizar una máscara facial con tu propia ilustración? Con el plugin Adobe Design to Print, puedes visualizar tus diseños en cientos de productos Zazzle y publicarlos directamente en su tienda online.
 
-## Examinar Tutorials de proyectos de máscara
+## Examinar Tutorials de proyectos de máscara facial
 
 <table style="table-layout:fixed">
 <tr>
@@ -61,7 +62,7 @@ ht-degree: 0%
 **Descripción**
 Obtenga información sobre cómo instalar el plugin Design to Print para Photoshop.
 
-En este tutorial, aprenderá a:
+En este tutorial, aprenderás a:
 * Visualiza tus diseños en productos como ropa, accesorios, artículos de papelería y cuadros en tiempo real.
 * Publica en el mercado online de Dazzle
 
@@ -75,7 +76,7 @@ Patti Sokol, consultora principal de soluciones (Digital Media)
 **Descripción**
 Personaliza tu propia máscara facial Zazzle
 
-En este tutorial, aprenderá a:
+En este tutorial, aprenderás a:
 * Visualiza tus diseños en productos como ropa, accesorios, artículos de papelería y cuadros en tiempo real.
 * Publica en el mercado online de Dazzle
 
@@ -93,7 +94,7 @@ Patti Sokol, consultora principal de soluciones (Digital Media)
 **Descripción**
 Crea una visualización en 3D de tu máscara facial para la galería de eventos
 
-En este tutorial, aprenderá a:
+En este tutorial, aprenderás a:
 * Crea fácilmente visualizaciones fotorrealistas en 3D
 * Añade materiales e iluminación de control para lograr un aspecto profesional
 * Importar activos para aplicar su marca u otros diseños

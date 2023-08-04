@@ -1,10 +1,11 @@
 ---
 title: Photoshop en el iPad
 description: Crea cualquier cosa que puedas imaginar, allá donde te venga la inspiración con Photoshop en iPad
+feature: Image Editing
 role: User
 level: Beginner, Intermediate
 exl-id: 5be50d97-3ff5-4b10-b186-109473c3bd32
-source-git-commit: 7b202fd4de29e83dd28c40dc6115a1be51c1f384
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '207'
 ht-degree: 2%
@@ -13,7 +14,7 @@ ht-degree: 2%
 
 # Photoshop en el iPad
 
-![Tutorial Hero Image](../assets/PSoniPad.jpg)
+![Tutorial de imagen de héroe](../assets/PSoniPad.jpg)
 
 Photoshop es el mejor software de diseño gráfico e imágenes del mundo, y permite una creatividad ilimitada para los profesionales de todos los dispositivos. Ahora cualquiera puede crear cualquier cosa que se imagine, en cualquier lugar en el que surja la inspiración. Si puedes pensarlo, puedes hacerlo con Photoshop.
 
@@ -51,7 +52,7 @@ Photoshop es el mejor software de diseño gráfico e imágenes del mundo, y perm
 **Descripción**
 Date una vuelta por la interfaz y descubre algunas de las funciones de Photoshop rediseñadas para su uso en Apple iPad.
 
-En este tutorial, aprenderá a:
+En este tutorial, aprenderás a:
 * Accede a tus herramientas favoritas de Photoshop en el
 * Edición precisa en dispositivos móviles sin sacrificar la calidad
 * Experiencia más envolvente y natural

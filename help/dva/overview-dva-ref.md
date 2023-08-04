@@ -1,10 +1,11 @@
 ---
 title: Guías de referencia rápida de vídeo
 description: Guías de referencia rápida para ayudarle a ponerse al día sobre los productos DVA de Adobe
+feature: Video Editing
 role: User
 level: Beginner, Intermediate
 exl-id: 513a5b86-fd31-42c5-aed3-82669889248f
-source-git-commit: 92b250d685ff39430d4ee4c3bb816ed8d7eb043f
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '500'
 ht-degree: 1%
@@ -23,7 +24,7 @@ Dale vida a tus ideas con las aplicaciones y software de Adobe para edición de 
 <tr>
    <td>
       <a href="assets/QuicklyRemoveUnwantedAudioContentwiththeSpotHealingBrushinAdobeAudition.pdf" target="_blank">
-         <img alt="Elimine rápidamente contenido de audio no deseado con el pincel corrector puntual de Adobe Audition" src="assets/QuicklyRemoveUnwantedAudioContentwiththeSpotHealingBrushinAdobeAudition.jpg" />
+         <img alt="Elimine rápidamente el contenido de audio no deseado con el pincel corrector puntual de Adobe Audition" src="assets/QuicklyRemoveUnwantedAudioContentwiththeSpotHealingBrushinAdobeAudition.jpg" />
       </a>
       <div>
       <a href="assets/QuicklyRemoveUnwantedAudioContentwiththeSpotHealingBrushinAdobeAudition.pdf" target="_blank"><strong>Elimine rápidamente el contenido de audio no deseado con el pincel corrector puntual de Adobe Audition (PDF)</strong></a>
@@ -97,10 +98,10 @@ Dale vida a tus ideas con las aplicaciones y software de Adobe para edición de 
   </td>
   <td>
    <a href="assets/CinemagraphsTheMesmerizingPlaceBetweenaPhotoandaVideo.pdf" target="_blank">
-      <img alt="Cinemagramas: El fascinante lugar entre una foto y un vídeo" src="assets/CinemagraphsTheMesmerizingPlaceBetweenaPhotoandaVideo.jpg" />
+      <img alt="Cine: el fascinante lugar entre una foto y un vídeo" src="assets/CinemagraphsTheMesmerizingPlaceBetweenaPhotoandaVideo.jpg" />
    </a>
     <div>
-   <a href="assets/CinemagraphsTheMesmerizingPlaceBetweenaPhotoandaVideo.pdf" target="_blank"><strong>Cinemagramas: El fascinante lugar entre una foto y un vídeo (PDF)</strong></a>
+   <a href="assets/CinemagraphsTheMesmerizingPlaceBetweenaPhotoandaVideo.pdf" target="_blank"><strong>Cinemagramas: el fascinante lugar entre una foto y un vídeo (PDF)</strong></a>
     </div>
     <em>Obtén más información sobre los cinemógrafos: esos llamativos híbridos que existen en algún lugar entre una foto y un vídeo</em>
     <br>
@@ -112,7 +113,7 @@ Dale vida a tus ideas con las aplicaciones y software de Adobe para edición de 
     <div>
    <a href="assets/CreateanIllustrationfromanAdobeStockPhotowithAfterEffects.pdf" target="_blank"><strong>Creación de una ilustración a partir de un Adobe [!DNL Stock] Foto con After Effects (PDF)</strong></a>
     </div>
-    <em>Combine los efectos Tono/Saturación y Niveles con los efectos Dibujos animados en After Effects para crear una ilustración estilizada única a partir de un Adobe [!DNL Stock] foto</em>
+    <em>Combine los efectos Tono/Saturación y Niveles con los efectos Dibujos animados en After Effects para crear una ilustración estilizada única desde un Adobe [!DNL Stock] foto</em>
     <br>
   </td>
    <td>
@@ -132,7 +133,7 @@ Dale vida a tus ideas con las aplicaciones y software de Adobe para edición de 
       <img alt="Cree una transparencia intrincada en sus fotografías con la incrustación en After Effects" src="assets/CreateIntricateTransparencyinyourPhotographswithKeyinginAfterEffects.jpg" />
    </a>
     <div>
-   <a href="assets/CreateIntricateTransparencyinyourPhotographswithKeyinginAfterEffects.pdf" target="_blank"><strong>Crear una transparencia compleja en las fotografías con la incrustación en After Effects (PDF)</strong></a>
+   <a href="assets/CreateIntricateTransparencyinyourPhotographswithKeyinginAfterEffects.pdf" target="_blank"><strong>Crear una transparencia intrincada en las fotografías con la incrustación en After Effects (PDF)</strong></a>
     </div>
     <em>La incrustación se usa mucho para vídeo; también puede ser de gran ayuda cuando se necesitan fotografías para proyectos de diseño</em>
     <br>

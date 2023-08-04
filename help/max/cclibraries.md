@@ -1,10 +1,11 @@
 ---
 title: Bibliotecas CC
 description: Mantén tus activos a mano y tus proyectos fieles a la marca
+feature: Integrations
 role: User
 level: Beginner, Intermediate
 exl-id: e68a8d5b-3dca-4ac8-87d1-b31dbe0e13ce
-source-git-commit: 7b202fd4de29e83dd28c40dc6115a1be51c1f384
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '237'
 ht-degree: 3%
@@ -13,7 +14,7 @@ ht-degree: 3%
 
 # Bibliotecas CC
 
-![Tutorial Hero Image](../assets/CCLibs.jpg)
+![Tutorial de imagen de héroe](../assets/CCLibs.jpg)
 
 Mantén tus activos a mano y tus proyectos fieles a la marca.
 
@@ -33,10 +34,10 @@ Mantén tus activos a mano y tus proyectos fieles a la marca.
   </td>
    <td>
    <a href="cclibraries.md#tutorial2">
-      <img alt="Compartir bibliotecas CC" src="../assets/libraries_share_dvorin_thumbnail.jpg" />
+      <img alt="Compartir Bibliotecas CC" src="../assets/libraries_share_dvorin_thumbnail.jpg" />
    </a>
     <div>
-   <a href="cclibraries.md#tutorial2"><strong>Compartir bibliotecas CC</strong></a>
+   <a href="cclibraries.md#tutorial2"><strong>Compartir Bibliotecas CC</strong></a>
     </div>
     <em>Trabaja de forma más eficaz, garantiza la coherencia creativa y sincronízate fácilmente con tu equipo</em>
     <br>
@@ -56,9 +57,9 @@ Mantén tus activos a mano y tus proyectos fieles a la marca.
 **Descripción**
 Con las Bibliotecas Adobe Creative Cloud, puedes administrar, organizar y acceder a tus logotipos, colores y mucho más en tus aplicaciones de Creative Cloud favoritas.
 
-En este tutorial, aprenderá a:
+En este tutorial, aprenderás a:
 * Mantén tus activos a mano y tus proyectos fieles a la marca
-* ¡Nuevo! Integración completa con Adobe XD
+* ¡Novedad! Integración completa con Adobe XD
 
 **Presentado por:**
 Ashley Dvorin, consultora sénior de soluciones (Digital Media)
@@ -70,7 +71,7 @@ Ashley Dvorin, consultora sénior de soluciones (Digital Media)
 **Descripción**
 Trabaja de forma más eficaz, garantiza la coherencia creativa y sincronízate fácilmente con tu equipo.
 
-En este tutorial, aprenderá a:
+En este tutorial, aprenderás a:
 * Mantén tus activos a mano y tus proyectos fieles a la marca
 * Colabore fácilmente en proyectos directamente desde sus aplicaciones favoritas
 

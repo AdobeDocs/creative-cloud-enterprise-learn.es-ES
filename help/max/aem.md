@@ -1,10 +1,11 @@
 ---
 title: AEM Assets y Asset Link
 description: Una lista de AEM activos y vínculos
+feature: Integrations
 role: User
 level: Beginner, Intermediate
 exl-id: 1c14d3e8-2d4b-45a2-9a4a-efc044f2af1e
-source-git-commit: 7b202fd4de29e83dd28c40dc6115a1be51c1f384
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '386'
 ht-degree: 1%
@@ -13,7 +14,7 @@ ht-degree: 1%
 
 # AEM Assets y Asset Link
 
-![Tutorial Hero Image](../assets/AEM.jpg)
+![Tutorial de imagen de héroe](../assets/AEM.jpg)
 
 Adobe Experience Manager es la solución de administración de experiencias digitales líder del sector para empresas y organizaciones medianas. Proporciona una base moderna y ampliable para ofrecer experiencias atractivas que promueven la participación de la marca, impulsan la demanda y aumentan la lealtad del cliente. Experience Manager incluye un completo conjunto de herramientas para crear, gestionar y ofrecer experiencias digitales en todos los canales.
 
@@ -56,7 +57,7 @@ Adobe Experience Manager es la solución de administración de experiencias digi
 **Descripción**
 Haz actualizaciones en tiempo real de los activos almacenados en AEM con Asset Link.
 
-En este tutorial, aprenderá a:
+En este tutorial, aprenderás a:
 * Encuentre lo que necesite, cuando lo necesite, con un panel dedicado para buscar y explorar activos dentro de sus programas de diseño
 * Cargue activos fácilmente directamente desde sus programas de diseño
 * Retirar y devolver activos del DAM a su programa de diseño para realizar actualizaciones en tiempo real
@@ -71,7 +72,7 @@ Eric Rowse, consultor sénior de soluciones (Digital Media)
 **Descripción**
 Aloje su documento de InDesign en AEM para que varios usuarios puedan crear variaciones de contenido al mismo tiempo.
 
-En este tutorial, aprenderá a:
+En este tutorial, aprenderás a:
 * Cargar archivo de InDesign en AEM para el acceso común al almacenamiento
 * Crea variaciones de forma segura sin miedo a arruinar el archivo de origen
 * Los campos de documento están preformateados, lo que permite realizar modificaciones o cambios rápidos en el contenido
@@ -93,7 +94,7 @@ Eric Rowse, consultor sénior de soluciones (Digital Media)
   </td>
   <td>
    <a href="https://www.adobe.com/marketing/experience-manager-assets.html">
-      <img alt="InDesign Server: Encuentra un partner" src="../assets/AEM_Thumbnail.jpg" />
+      <img alt="InDesign Server: Encuentra un socio" src="../assets/AEM_Thumbnail.jpg" />
    </a>
     <div>
    <a href="https://www.adobe.com/marketing/experience-manager-assets.html"><strong>AEM Assets</strong></a>
@@ -103,7 +104,7 @@ Eric Rowse, consultor sénior de soluciones (Digital Media)
   </td>
   <td>
    <a href="https://www.adobe.com/marketing/experience-manager-assets/benefits.html">
-      <img alt="InDesign Server: Encuentra un partner" src="../assets/AEM_Thumbnail.jpg" />
+      <img alt="InDesign Server: Encuentra un socio" src="../assets/AEM_Thumbnail.jpg" />
    </a>
     <div>
    <a href="https://www.adobe.com/marketing/experience-manager-assets/benefits.html"><strong>AEM Assets: Ventajas</strong></a>
@@ -114,7 +115,7 @@ Eric Rowse, consultor sénior de soluciones (Digital Media)
 </tr>
 </table>
 
-![Logotipo de AEM](../assets/aem_appicon_noshadow_96.png)
+![Logotipo AEM](../assets/aem_appicon_noshadow_96.png)
 
 **Recursos de Asset Link y AEM**
 

@@ -1,19 +1,20 @@
 ---
 title: InDesign Server
-description: El software Adobe Adobe® InDesign® Server proporciona un motor potente y escalable que aprovecha el diseño, la composición y las funciones tipográficas del InDesign para permitirle programar la creación de documentos automatizados atractivos
+description: Adobe Adobe&reg; InDesign&reg; El software de servidor ofrece un motor robusto y escalable que aprovecha el diseño, la maquetación y las funciones tipográficas de InDesign para permitirle programar la creación de documentos automatizados atractivos
+feature: Graphic Design
 role: User
 level: Beginner, Intermediate
 exl-id: 534124fb-a903-430e-ad56-f124e4f024a0
-source-git-commit: 7b202fd4de29e83dd28c40dc6115a1be51c1f384
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '272'
 ht-degree: 1%
 
 ---
 
 # InDesign Server
 
-![Tutorial Hero Image](../assets/InDesignServer.jpg)
+![Tutorial de imagen de héroe](../assets/InDesignServer.jpg)
 
 El software Adobe InDesign® Server proporciona un motor potente y escalable que aprovecha el diseño, la composición y las funciones tipográficas de InDesign para permitirle programar la creación de documentos automatizados atractivos.
 
@@ -49,9 +50,9 @@ El software Adobe InDesign® Server proporciona un motor potente y escalable que
 >[!VIDEO](https://video.tv.adobe.com/v/326901?hidetitle=true)
 
 **Descripción**
-El diseño basado en datos se puede lograr, mediante programación, con InDesign Server.
+El diseño basado en datos se puede lograr, mediante programación, con el InDesign Server.
 
-En este tutorial, aprenderá a:
+En este tutorial, aprenderás a:
 * Creación de plantillas de InDesign con estilos de texto u objeto previamente formateados
 * Flujo en contenido basado en datos externos para una personalización más rápida del contenido
 * Genere PDF de tinta plana del diseño o vincúlelos a otros formatos de salida AEM
@@ -75,10 +76,10 @@ Eric Rowse, consultor sénior de soluciones (Digital Media)
   </td>
   <td>
    <a href="https://www.adobe.com/products/indesignserver/partner.html">
-      <img alt="InDesign Server: Encuentra un partner" src="../assets/IDS_Thumbnail.jpg" />
+      <img alt="InDesign Server: Encuentra un socio" src="../assets/IDS_Thumbnail.jpg" />
    </a>
     <div>
-   <a href="https://www.adobe.com/products/indesignserver/partner.html"><strong>InDesign Server: Encuentra un partner</strong></a>
+   <a href="https://www.adobe.com/products/indesignserver/partner.html"><strong>InDesign Server: Encuentra un socio</strong></a>
     </div>
     <em>Si bien tienes la experiencia para desarrollar internamente, Adobe recomienda trabajar con socios para encontrar la solución para satisfacer tus necesidades</em>
     <br>

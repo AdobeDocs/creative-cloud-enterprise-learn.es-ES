@@ -1,10 +1,11 @@
 ---
 title: "[!DNL Rush]"
 description: Premiere [!DNL Rush] es la primera aplicación integral de edición de vídeo para varios dispositivos que facilita más que nunca la creación y el uso compartido de contenido en línea
+feature: Video Editing
 role: User
 level: Beginner, Intermediate
 exl-id: ae79e935-53e0-4873-9c6f-d464925df68f
-source-git-commit: 7b202fd4de29e83dd28c40dc6115a1be51c1f384
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '241'
 ht-degree: 0%
@@ -13,7 +14,7 @@ ht-degree: 0%
 
 # [!DNL Rush]
 
-![Tutorial Hero Image](../assets/Rush.jpg)
+![Tutorial de imagen de héroe](../assets/Rush.jpg)
 
 Premiere [!DNL Rush] es la primera aplicación integral de edición de vídeo para varios dispositivos que facilita más que nunca la creación y el uso compartido de contenido en línea. Esta solución integrada para escritorio y dispositivos móviles sincroniza automáticamente tus proyectos y ediciones en la nube, lo que te permite trabajar en cualquier lugar y dispositivo.
 
@@ -51,7 +52,7 @@ Premiere [!DNL Rush] es la primera aplicación integral de edición de vídeo pa
 **Descripción**
 Cuenta tu historia con vídeo y audio de Adobe [!DNL Stock]. Adobe [!DNL Rush] te permite trabajar en cualquier dispositivo y facilita a los principiantes el trabajo profesional.
 
-En este tutorial, aprenderá a:
+En este tutorial, aprenderás a:
 * Edita vídeos sin problemas en ordenadores de escritorio, tabletas y teléfonos
 * Mantén tu sujeto centrado en los factores de forma horizontales, cuadrados y verticales con la función de tecnología de IA Enmarcado automático
 * Las plantillas de gráficos animados (MoGRTS) ofrecen un aspecto profesional y permiten personalizar títulos y tercios inferiores de forma sencilla
@@ -65,7 +66,7 @@ A.J. Wood, consultor de soluciones (Digital Media)
 
 **[!DNL Rush]Recursos**
 
-[Información y asistencia](https://helpx.adobe.com/support/premiere-rush.html) es el centro de tutoriales adicionales, [Novedades del sector](https://helpx.adobe.com/premiere-rush/user-guide.html/premiere-rush/help/whats-new.ug.html)y vínculos a foros de la comunidad.
+[Información y asistencia](https://helpx.adobe.com/support/premiere-rush.html) es el centro de tutoriales adicionales, [Novedades de la aplicación](https://helpx.adobe.com/premiere-rush/user-guide.html/premiere-rush/help/whats-new.ug.html)y vínculos a foros de la comunidad.
 
 **Versión de octubre de 2020**
 

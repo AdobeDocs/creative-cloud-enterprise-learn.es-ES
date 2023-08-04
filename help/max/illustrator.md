@@ -2,9 +2,10 @@
 title: Illustrator
 description: Crea logotipos, iconos, ilustraciones y cualquier otro diseño que puedas imaginar para la web, los dispositivos móviles o la impresión
 role: User
+feature: Vector Editing
 level: Beginner, Intermediate
 exl-id: b1b8e424-7e08-42a6-b370-cfee1b76b036
-source-git-commit: 7b202fd4de29e83dd28c40dc6115a1be51c1f384
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '219'
 ht-degree: 0%
@@ -13,7 +14,7 @@ ht-degree: 0%
 
 # Illustrator
 
-![Tutorial Hero Image](../assets/Illustrator.jpg)
+![Tutorial de imagen de héroe](../assets/Illustrator.jpg)
 
 La aplicación moderna para ilustraciones y gráficos. Crea logotipos, iconos, ilustraciones y cualquier otro diseño que puedas imaginar para la web, los dispositivos móviles o la impresión.
 
@@ -56,20 +57,20 @@ La aplicación moderna para ilustraciones y gráficos. Crea logotipos, iconos, i
 **Descripción**
 Reduce el trabajo manual y mantén la coherencia con los símbolos.
 
-En este tutorial, aprenderá a:
+En este tutorial, aprenderás a:
 * Reducir el trabajo manual y mantener la coherencia con los símbolos
 
 **Presentado por:**
 Patti Sokol, consultora principal de soluciones (Digital Media)
 
-## Alinear texto e imágenes con ajuste de pictograma (6:48) {#tutorial2}
+## Alinear texto e imágenes con el ajuste de pictogramas (6:48) {#tutorial2}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326817?hidetitle=true)
 
 **Descripción**
 Ajuste rápidamente los pictogramas a regiones importantes del documento.
 
-En este tutorial, aprenderá a:
+En este tutorial, aprenderás a:
 * Ajuste rápidamente los pictogramas a regiones importantes del documento
 
 **Presentado por:**

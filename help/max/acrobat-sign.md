@@ -1,10 +1,11 @@
 ---
 title: Acrobat & Sign
 description: Lista de tutoriales de Acrobat y Adobe Sign
+feature: Collaboration, Share, Integrations
 role: User
 level: Beginner, Intermediate
 exl-id: 7b7defa1-d2fb-4908-a605-4696fceeb467
-source-git-commit: 7b202fd4de29e83dd28c40dc6115a1be51c1f384
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '614'
 ht-degree: 0%
@@ -13,7 +14,7 @@ ht-degree: 0%
 
 # Acrobat &amp; Sign
 
-![Tutorial Hero Image](../assets/DC.jpg)
+![Tutorial de imagen de héroe](../assets/DC.jpg)
 
 Con Adobe Document Cloud, que incluye las principales soluciones de PDF y firma electrónica del mundo, puedes convertir los procesos de documentos manuales en procesos digitales eficientes. Ahora tu equipo puede tomar medidas rápidas sobre documentos, flujos de trabajo y tareas, en varias pantallas y dispositivos, en cualquier lugar y momento, y dentro de tus aplicaciones empresariales y de Microsoft favoritas.
 
@@ -38,7 +39,7 @@ Con Adobe Document Cloud, que incluye las principales soluciones de PDF y firma 
     <div>
     <a href="acrobat-sign.md#tutorial2"><strong>Crear una renuncia online a Forms con Adobe Sign</strong></a>
     </div>
-    <em>Convierte rápidamente los documentos en formularios online y publícalos en Internet para que cualquiera que los necesite pueda rellenarlos y firmarlos</em>
+    <em>Convierte rápidamente los documentos en formularios online y publícalos en Internet para que cualquier persona que los necesite pueda rellenarlos y firmarlos</em>
     <br>
   </td>
   <td>
@@ -88,7 +89,7 @@ Con Adobe Document Cloud, que incluye las principales soluciones de PDF y firma 
 **Descripción**
 Invita a los revisores a añadir sus comentarios a un documento de PDF.
 
-En este tutorial, aprenderá a:
+En este tutorial, aprenderás a:
 * Comentarios del PDF anfitrión en el Document Cloud
 * Recopilar comentarios en un único lugar
 * Los comentarios simultáneos alientan la colaboración
@@ -105,9 +106,9 @@ Dan Armstrong, Asesor de soluciones (medios digitales) Rick Borstein, director s
 >[!VIDEO](https://video.tv.adobe.com/v/326776?hidetitle=true)
 
 **Descripción**
-Convierte rápidamente los documentos en formularios online y publícalos en Internet para que cualquiera que los necesite pueda rellenarlos y firmarlos.
+Convierte rápidamente los documentos en formularios online y publícalos en Internet para que cualquier persona que los necesite pueda rellenarlos y firmarlos.
 
-En este tutorial, aprenderá a:
+En este tutorial, aprenderás a:
 * Pásate a lo digital convirtiendo los formularios en papel en documentos digitales
 * Publica formularios digitales en tu sitio web para que los clientes puedan acceder a ellos desde su propio dispositivo
 * Los formularios completados se archivan automáticamente para sus registros
@@ -120,9 +121,9 @@ Taylor Kobey, Consultora de soluciones (Digital Media) Emily Palmer, Consultora 
 >[!VIDEO](https://video.tv.adobe.com/v/326801?hidetitle=true)
 
 **Descripción**
-Pasa de Word a PDF y envíalo para que se firme con Adobe Sign.
+Pase de Word a PDF y envíelo para firmar con Adobe Sign.
 
-En este tutorial, aprenderá a:
+En este tutorial, aprenderás a:
 * Aprovecha las herramientas que utilizas a diario para enviar documentos digitales para su firma
 
 **Presentado por:**
@@ -133,9 +134,9 @@ Rick Borstein, director sénior de consultoría de soluciones (medios digitales)
 >[!VIDEO](https://video.tv.adobe.com/v/327093?hidetitle=true)
 
 **Descripción**
-Utilice Liquid Mode para mejorar la experiencia de lectura del PDF en dispositivos móviles.
+Utilice Liquid Mode para mejorar la experiencia de lectura de PDF en dispositivos móviles.
 
-En este tutorial, aprenderá a:
+En este tutorial, aprenderás a:
 * Hacer que los archivos de PDF sean interactivos para dispositivos móviles
 * Mejorar el diseño del PDF
 * Añade funciones sobre la marcha para ayudarte a leer fácilmente documentos en tu teléfono y tablet
@@ -150,7 +151,7 @@ Emilie Enke, consultora asociada de soluciones (Digital Media)
 **Descripción**
 Con Adobe Scan, captura y convierte documentos, formularios, tarjetas de presentación y pizarras en PDF de Adobes de alta calidad fácilmente.
 
-En este tutorial, aprenderá a:
+En este tutorial, aprenderás a:
 * Utiliza tu teléfono móvil para capturar y convertir documentos, formularios, tarjetas de presentación y pizarras en PDF de Adobe de alta calidad
 * Identifica y enfoca automáticamente el texto escrito a mano o impreso, eliminando al mismo tiempo los elementos que no deseas, como los reflejos y las sombras
 * Abra el PDF digitalizado en Acrobat Reader para incluir notas y comentarios y revisarlos con su equipo
@@ -162,7 +163,7 @@ Emilie Enke, consultora asociada de soluciones (Digital Media)
 
 **Recursos de Acrobat y Adobe Sign**
 
-[Información y asistencia](https://helpx.adobe.com/support/document-cloud.html) es el centro de tutoriales adicionales, [Novedades del sector](https://helpx.adobe.com/acrobat/using/whats-new.html)y vínculos a foros de la comunidad.
+[Información y asistencia](https://helpx.adobe.com/support/document-cloud.html) es el centro de tutoriales adicionales, [Novedades de la aplicación](https://helpx.adobe.com/acrobat/using/whats-new.html)y vínculos a foros de la comunidad.
 
 **Versión de octubre de 2020**
 

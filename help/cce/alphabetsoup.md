@@ -1,12 +1,13 @@
 ---
 title: Descodificación de la sopa de alfabeto de formatos gráficos
 description: Los archivos de JPG, PNG, SVG, GIF y EPS se suelen utilizar en el diseño, algunos para páginas web y otros para presentaciones, publicaciones y proyectos creativos. Pero, ¿qué significan y qué debes elegir?
+feature: Image Editing
 role: User
 level: Beginner, Intermediate
 kt: 8038
 thumbnail: KT-8038.jpg
 exl-id: a6bccd09-d4e6-43ec-9bf9-58c34f215267
-source-git-commit: 87830322955c0d4a6b7f6c31676f6dc651e63943
+source-git-commit: 4c30508fb4bc09bd36bcbda1d77c335c5b928614
 workflow-type: tm+mt
 source-wordcount: '149'
 ht-degree: 0%

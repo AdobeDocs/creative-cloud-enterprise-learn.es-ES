@@ -1,10 +1,11 @@
 ---
 title: Illustrator en iPad
 description: Adobe Illustrator para el iPad es una experiencia de diseño vectorial rediseñada para el diseño táctil, el Apple Pencil y el iPad
+feature: Vector Editing
 role: User
 level: Beginner, Intermediate
 exl-id: 268b9891-77f6-4606-964c-343c443eafcb
-source-git-commit: 7b202fd4de29e83dd28c40dc6115a1be51c1f384
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '232'
 ht-degree: 0%
@@ -13,7 +14,7 @@ ht-degree: 0%
 
 # Illustrator en iPad
 
-![Tutorial Hero Image](../assets/AIoniPad.jpg)
+![Tutorial de imagen de héroe](../assets/AIoniPad.jpg)
 
 Adobe Illustrator para el iPad es una experiencia de diseño vectorial rediseñada para el diseño táctil, el Apple Pencil y el iPad.
 
@@ -51,7 +52,7 @@ Adobe Illustrator para el iPad es una experiencia de diseño vectorial rediseña
 **Descripción**
 Esta introducción rápida a Illustrator para iPad le ayudará a empezar a trabajar rápidamente para crear un icono de ubicación con problemas y convertirlo en un patrón que pueda aplicar a su [!DNL Dimension] y el proyecto Zazzle!
 
-En este tutorial, aprenderá a:
+En este tutorial, aprenderás a:
 * Illustrator rediseñado para iPad transforma la productividad, acelera la colaboración, amplía las habilidades creativas y potencia la creatividad para todos
 * La interfaz táctil permite una experiencia más táctil y precisa con Apple Pencil
 * Acceder a gráficos y colores desde Bibliotecas CC
@@ -64,7 +65,7 @@ Dave Weinberg, consultor sénior de soluciones (Digital Media)
 
 **Recursos de Illustrator en iPad**
 
-[Información y asistencia](https://helpx.adobe.com/support/illustrator.html) es el centro de tutoriales adicionales, [Novedades del sector](https://helpx.adobe.com/illustrator/using/whats-new/mobile-2021.html)y vínculos a foros de la comunidad.
+[Información y asistencia](https://helpx.adobe.com/support/illustrator.html) es el centro de tutoriales adicionales, [Novedades de la aplicación](https://helpx.adobe.com/illustrator/using/whats-new/mobile-2021.html)y vínculos a foros de la comunidad.
 
 **Versión de octubre de 2020**
 

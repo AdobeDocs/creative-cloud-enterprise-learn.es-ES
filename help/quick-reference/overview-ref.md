@@ -1,10 +1,11 @@
 ---
 title: Guías de referencia rápida de Creative Cloud para empresas
-description: Tutorials para ayudarle a familiarizarse con los productos de Creative Cloud para empresas
+description: Tutorials que te ayuden a ponerte al día sobre los productos de Creative Cloud para empresas
 role: User
 level: Beginner, Intermediate
+jira: KT-7013
 exl-id: 5c981e46-7599-4b49-99be-f5dcee60636d
-source-git-commit: 70e1e436f8fe439259fea2c48b263f255002fb10
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '1194'
 ht-degree: 0%
@@ -68,7 +69,7 @@ Como creativo empresarial, debe colaborar con equipos distribuidos, establecer p
       <img alt="Escanea, comparte y revisa PDF con Creative Cloud" src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
-   <a href="ScanShareandReviewPDFswithCreativeCloud.pdf" target="_blank"><strong>Escanea, comparte y revisa PDF con Creative Cloud (PDF)</strong></a>
+   <a href="ScanShareandReviewPDFswithCreativeCloud.pdf" target="_blank"><strong>Escanea, comparte y revisa PDF con el Creative Cloud (PDF)</strong></a>
     </div>
     <em>Aprende a capturar, recortar y convertir un formulario en papel en un archivo de PDF totalmente funcional con Adobe Scan y Document Cloud; después, utiliza Acrobat para rellenar, firmar y compartir tu información</em>
     <br>
@@ -139,7 +140,7 @@ Como creativo empresarial, debe colaborar con equipos distribuidos, establecer p
     <div>
    <a href="Frescoworkshop.pdf" target="_blank"><strong>Descubre Fresco en el iPad (y iPhone) (PDF)</strong></a>
     </div>
-    <em>Explora un mundo completamente nuevo del dibujo y la pintura digitales con Adobe Fresca en este taller práctico de 15 minutos</em>
+    <em>Explora un mundo completamente nuevo del dibujo y la pintura digitales con Adobe Fresco en este taller práctico de 15 minutos</em>
     <br>
   </td>
   <td>
@@ -228,7 +229,7 @@ Como creativo empresarial, debe colaborar con equipos distribuidos, establecer p
     <div>
    <a href="CreatingCinemagraphswithPhotoshop.pdf" target="_blank"><strong>Creación de cinematografías con Photoshop (PDF)</strong></a>
     </div>
-    <em>Crea una fotografía viva combinando vídeo de Adobe [!DNL Stock] con técnicas de enmascaramiento inteligentes en Photoshop. Da vida a tus imágenes con movimiento y un punto de bucle estratégico</em>
+    <em>Crea una fotografía viva combinando el vídeo de Adobe [!DNL Stock] con técnicas de enmascaramiento inteligentes en Photoshop. Da vida a tus imágenes con movimiento y un punto de bucle estratégico</em>
     <br>
   </td>
   <td>
@@ -334,7 +335,7 @@ Como creativo empresarial, debe colaborar con equipos distribuidos, establecer p
     <div>
    <a href="TipsforCreatingAnimationinEmailwithAdobeStock.pdf" target="_blank"><strong>Sugerencias para crear animaciones en el correo electrónico con Adobe [!DNL Stock] (PDF)</strong></a>
     </div>
-    <em>Combina imágenes estáticas y vídeos en Photoshop para crear un atractivo GIF animado para tu campaña que se adapte a una amplia gama de aplicaciones de correo electrónico de clientes</em>
+    <em>Combina imágenes estáticas y vídeos en Photoshop para crear un atractivo GIF animado para tu campaña que se adapte a una amplia variedad de aplicaciones de correo electrónico de los clientes</em>
     <br>
   </td>
   <td>
@@ -356,10 +357,10 @@ Como creativo empresarial, debe colaborar con equipos distribuidos, establecer p
 <tr>
   <td>
    <a href="CreatingRealistic3DMock-upswithAdobeStockandDimension.pdf" target="_blank">
-      <img alt="Creación de bocetos 3D realistas con Adobe [!DNL Stock] y [!DNL Dimension]" src="../assets/acrobat_PDF_96.png" />
+      <img alt="Creación de bocetos en 3D realistas con Adobe [!DNL Stock] y [!DNL Dimension]" src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
-   <a href="CreatingRealistic3DMock-upswithAdobeStockandDimension.pdf" target="_blank"><strong>Creación de bocetos 3D realistas con Adobe [!DNL Stock] y [!DNL Dimension] (PDF)</strong></a>
+   <a href="CreatingRealistic3DMock-upswithAdobeStockandDimension.pdf" target="_blank"><strong>Creación de bocetos en 3D realistas con Adobe [!DNL Stock] y [!DNL Dimension] (PDF)</strong></a>
     </div>
     <em>Descubre cómo tu diseño se traduce en objetos del mundo real combinando modelos en 3D desde Adobe [!DNL Stock] con pegatinas personalizadas en [!DNL Dimension]</em>
     <br>
@@ -440,20 +441,20 @@ Como creativo empresarial, debe colaborar con equipos distribuidos, establecer p
 <tr>
    <td>
    <a href="AdobeXDAdvancedVoicePrototyping.pdf" target="_blank">
-      <img alt="Adobe XD: Prototipos de voz avanzados" src="../assets/acrobat_PDF_96.png" />
+      <img alt="Adobe XD: creación avanzada de prototipos por voz" src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
-   <a href="AdobeXDAdvancedVoicePrototyping.pdf" target="_blank"><strong>Adobe XD: Prototipado de voz avanzado (PDF)</strong></a>
+   <a href="AdobeXDAdvancedVoicePrototyping.pdf" target="_blank"><strong>Adobe XD: creación avanzada de prototipos por voz (PDF)</strong></a>
     </div>
     <em>Crea un prototipo interactivo que pueda responder a las acciones de clic, toque y audio de tus usuarios</em>
     <br>
   </td>
    <td>
    <a href="CoeditingReal-TimeDesignCollaborationUsingAdobeXD.pdf" target="_blank">
-      <img alt="Coedición: Colaboración En Diseño En Tiempo Real Con Adobe XD" src="../assets/acrobat_PDF_96.png" />
+      <img alt="Coedición: colaboración en diseño en tiempo real con Adobe XD" src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
-   <a href="CoeditingReal-TimeDesignCollaborationUsingAdobeXD.pdf" target="_blank"><strong>Coedición: Colaboración En Diseño En Tiempo Real Con Adobe XD (PDF)</strong></a>
+   <a href="CoeditingReal-TimeDesignCollaborationUsingAdobeXD.pdf" target="_blank"><strong>Coedición: Colaboración En El Diseño En Tiempo Real Con Adobe XD (PDF)</strong></a>
     </div>
     <em>Aprende a colaborar mediante un prototipo interactivo con tus compañeros, clientes y desarrolladores con las herramientas de uso compartido únicas integradas en Adobe XD y Creative Cloud</em>
     <br>

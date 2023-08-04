@@ -1,10 +1,11 @@
 ---
 title: Photoshop
 description: Lista de tutoriales de Photoshop
+feature: Image Editing
 role: User
 level: Beginner, Intermediate
 exl-id: f42f9f4c-072d-496a-842a-3da503bdaca1
-source-git-commit: 7b202fd4de29e83dd28c40dc6115a1be51c1f384
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '340'
 ht-degree: 0%
@@ -13,7 +14,7 @@ ht-degree: 0%
 
 # Photoshop
 
-![Tutorial Hero Image](../assets/Photoshop.jpg)
+![Tutorial de imagen de héroe](../assets/Photoshop.jpg)
 
 Photoshop es el mejor software de diseño gráfico e imágenes del mundo, y permite una creatividad ilimitada para los profesionales de todos los dispositivos. Ahora cualquiera puede crear cualquier cosa que se imagine, en cualquier lugar en el que surja la inspiración. Si puedes pensarlo, puedes hacerlo con Photoshop.
 
@@ -56,8 +57,8 @@ Photoshop es el mejor software de diseño gráfico e imágenes del mundo, y perm
 **Descripción**
 Utiliza las potentes herramientas de selección y edición de color de Adobe Photoshop para cambiar drásticamente una imagen que se ajuste a tus necesidades de marca corporativa.
 
-En este tutorial, aprenderá a:
-* La herramienta Selección de objetos hace que la selección de elementos sea más rápida y sencilla
+En este tutorial, aprenderás a:
+* La herramienta Selección de objetos agiliza y simplifica la selección de elementos
 * El Relleno según el contenido permite un mayor control de las áreas de muestra de una imagen de origen para una mejor clonación y aplicación de parches en las áreas de destino
 * Los pinceles pueden tener diferentes formas para obtener mejores resultados
 * Adobe Sensei ayuda a aprovechar la inteligencia artificial para tareas rutinarias
@@ -72,7 +73,7 @@ A.J Wood, consultor sénior de soluciones (Digital Media)
 **Descripción**
 Selecciona automáticamente el cielo de una imagen y sustitúyelo por el que más te guste, ajustando automáticamente los colores de la imagen para que coincidan con tu selección.
 
-En este tutorial, aprenderá a:
+En este tutorial, aprenderás a:
 * Sustitución de cielo proporciona una solución con un solo clic para intercambiar al instante los cielos de las imágenes
 * Sustitución de cielo guarda la salida como un grupo de capas con cada máscara, ajuste e imagen para perfeccionarla aún más
 
@@ -84,7 +85,7 @@ A.J Wood, consultor sénior de soluciones (Digital Media)
 
 **Recursos de Photoshop**
 
-[Información y asistencia](https://helpx.adobe.com/support/photoshop.html) es el centro de tutoriales adicionales, [Novedades del sector](https://helpx.adobe.com/photoshop/using/whats-new.html)y vínculos a foros de la comunidad.
+[Información y asistencia](https://helpx.adobe.com/support/photoshop.html) es el centro de tutoriales adicionales, [Novedades de la aplicación](https://helpx.adobe.com/photoshop/using/whats-new.html)y vínculos a foros de la comunidad.
 
 **Versión de octubre de 2020**
 

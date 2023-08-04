@@ -1,20 +1,22 @@
 ---
 title: 'Colaboración: el futuro de la creatividad'
-description: 'Descubra las muchas ventajas de una suscripción a Adobe Creative Cloud: el acceso gratuito a más de 20 000 fuentes seleccionadas y de diseño profesional de Adobe Fonts'
+description: Descubra cómo añadir comentarios y compartir comentarios sobre carpetas y archivos de Creative Cloud con miembros del equipo, responsables y clientes, y fuentes seleccionadas de Adobe Fonts
+feature: Collaboration, Share
 role: User
 level: Beginner, Intermediate
+jira: KT-11640
 thumb: KT-11640.jpg
 exl-id: 3018dc2f-eb21-41e3-ac61-28021492080e
-source-git-commit: 64ee96d6cb943cdb8bb708ecb89c426d5af1557e
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
-source-wordcount: '98'
-ht-degree: 0%
+source-wordcount: '93'
+ht-degree: 22%
 
 ---
 
-# Colaboración: El futuro de la creatividad
+# Colaboración: el futuro de la creatividad
 
-Entre las muchas ventajas de una suscripción a Adobe Creative Cloud se encuentra el acceso gratuito a más de 20 000 fuentes de Adobe Fonts diseñadas y seleccionadas de forma profesional. Originalmente conocidos como Typekit, Adobe Fonts están disponibles mediante un único acuerdo de licencia que ofrece a los diseñadores un uso creativo ilimitado para proyectos personales o comerciales.
+Descubra cómo dejar comentarios en archivos y carpetas de Creative Cloud y compartirlos con miembros del equipo, responsables y clientes. Comparte desde el sitio web de Adobe Creative Cloud o compártelo para revisarlo desde aplicaciones como Illustrator, InDesign o Photoshop.
 
 Seleccione la imagen siguiente para ver o descargar este tutorial de PDF.
 

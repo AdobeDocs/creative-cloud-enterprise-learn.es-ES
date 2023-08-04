@@ -3,8 +3,9 @@ title: Tutoriales de Adobe 3D y RV
 description: Tutorials que te ayudan a ponerte al día sobre Adobe 3D y RV
 role: User
 level: Beginner, Intermediate
+jira: KT-6945
 exl-id: f9d03c3d-0767-476f-a7e1-0b283cf16cd3
-source-git-commit: ad7b21fc0ba8742117ff09b31e594d8d11dee51d
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '305'
 ht-degree: 0%
@@ -46,7 +47,7 @@ Crea contenido en 3D atractivo más rápido con iluminación, materiales y model
     <div>
    <a href="assets/VisualizeTextileDesignsorPatternson3DObjectswithAdobeDimension.pdf"><strong>Visualiza diseños o patrones textiles en objetos 3D con Adobe [!DNL Dimension] (PDF)</strong></a>
     </div>
-    <em>Crea una representación ultrarrealista de tu producto final en cuestión de minutos</em>
+    <em>Crea una representación ultra realista de tu producto final en cuestión de minutos</em>
     <br>
   </td>
   <td>
@@ -68,7 +69,7 @@ Crea contenido en 3D atractivo más rápido con iluminación, materiales y model
     <div>
    <a href="mastering3dlighting.md"><strong>Sugerencias y técnicas para dominar la iluminación 3D en CGI</strong></a>
     </div>
-    <em>Aprende sobre la iluminación 3D y cómo crear diferentes condiciones de luz que pueden alterar completamente una escena generada por ordenador y la forma en que los objetos se ven en ella</em>
+    <em>Aprende sobre la iluminación 3D y cómo crear diferentes condiciones de luz que pueden alterar por completo una escena generada por ordenador y la forma en que los objetos se ven en ella</em>
     <br>
   </td>
   <td>
@@ -83,10 +84,10 @@ Crea contenido en 3D atractivo más rápido con iluminación, materiales y model
   </td>
   <td>
    <a href="3ddimensionstock.md">
-      <img alt="Personaliza y marca un modelo en 3D con [!DNL Dimension] y Adobe [!DNL Stock]" src="assets/3ddimensionstock.jpg" />
+      <img alt="Personaliza y marca un modelo en 3D con [!DNL Dimension] y ADOBE [!DNL Stock]" src="assets/3ddimensionstock.jpg" />
    </a>
     <div>
-   <a href="3ddimensionstock.md"><strong>Personaliza y marca un modelo en 3D con [!DNL Dimension] y Adobe [!DNL Stock]</strong></a>
+   <a href="3ddimensionstock.md"><strong>Personaliza y marca un modelo en 3D con [!DNL Dimension] y ADOBE [!DNL Stock]</strong></a>
     </div>
     <em>Personaliza y marca un modelo en 3D en [!DNL Dimension] el uso de materiales, propiedades medioambientales, iluminación y fotografía para crear imágenes fotorrealistas para cualquier proyecto de diseño</em>
     <br>

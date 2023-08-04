@@ -1,10 +1,12 @@
 ---
 title: Tutoriales de Adobe XD
 description: Tutorials que te ayuden a ponerte al día sobre Adobe XD
+feature: UI Design
 role: User
 level: Beginner, Intermediate
+jira: KT-6944
 exl-id: 411ef3da-42c1-4c98-a75d-dca990546eb4
-source-git-commit: a7687756cd036f756810314b3dedfa63d5aea2a9
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '459'
 ht-degree: 0%
@@ -110,7 +112,7 @@ Adobe XD es una herramienta de diseño de experiencias de usuario y creación de
     <div>
    <a href="assets/PrototypeaMobileWebExperiencewithAdobeXD.pdf" target="_blank"><strong>Crear un prototipo de una experiencia web móvil con Adobe XD (PDF)</strong></a>
     </div>
-    <em>El diseño de experiencias requiere una estrategia, un diseño y prototipos funcionales, y Adobe XD te ofrece la potencia necesaria para todo</em>
+    <em>El diseño de experiencias requiere una estrategia, un diseño y prototipos funcionales, y Adobe XD te ofrece la potencia necesaria para hacerlo todo</em>
     <br>
   </td>
   <td>
@@ -130,7 +132,7 @@ Adobe XD es una herramienta de diseño de experiencias de usuario y creación de
     <div>
    <a href="assets/BehindtheScenesofMAXMadnesswithAdobeXD.pdf" target="_blank"><strong>Entre bastidores de la locura de MAX con Adobe XD (PDF)</strong></a>
     </div>
-    <em>Ofrecer una experiencia web móvil optimizada puede llamar la atención de los usuarios</em>
+    <em>Ofrecer una experiencia web móvil optimizada puede llamar mucho la atención de los usuarios</em>
     <br>
   </td>
   <td>

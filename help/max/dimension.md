@@ -1,10 +1,11 @@
 ---
 title: "[!DNL Dimension]"
 description: '"[!DNL Dimension] facilita la creación de visualizaciones de marca, ilustraciones, bocetos de productos, diseños de envases y otros trabajos creativos".'
+feature: 3D
 role: User
 level: Beginner, Intermediate
 exl-id: 5e23b3f2-d246-4993-948c-5c687dabcd8b
-source-git-commit: 7b202fd4de29e83dd28c40dc6115a1be51c1f384
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 0%
@@ -13,7 +14,7 @@ ht-degree: 0%
 
 # [!DNL Dimension]
 
-![Tutorial Hero Image](../assets/Dimenio.jpg)
+![Tutorial de imagen de héroe](../assets/Dimenio.jpg)
 
 Crea contenido en 3D atractivo más rápido con iluminación, materiales y modelos de alta calidad. [!DNL Dimension] facilita la creación de visualizaciones de marca, ilustraciones, bocetos de productos, diseños de envases y otros trabajos creativos.
 
@@ -51,7 +52,7 @@ Crea contenido en 3D atractivo más rápido con iluminación, materiales y model
 **Descripción**
 Los materiales Substance admiten miles de variaciones de patrones y diseños en un solo material.
 
-En este tutorial, aprenderá a:
+En este tutorial, aprenderás a:
 * Crea contenido en 3D atractivo más rápido con iluminación, materiales y modelos de alta calidad
 
 **Presentado por:**
@@ -61,7 +62,7 @@ Jim Babbage, Consultor Sénior de Soluciones (Medios Digitales)
 
 **Recursos de Dimension**
 
-[Información y asistencia](https://helpx.adobe.com/support/dimension.html) es el centro de tutoriales adicionales, [Novedades del sector](https://helpx.adobe.com/dimension/user-guide.html/dimension/using/whats-new.ug.html)y vínculos a foros de la comunidad.
+[Información y asistencia](https://helpx.adobe.com/support/dimension.html) es el centro de tutoriales adicionales, [Novedades de la aplicación](https://helpx.adobe.com/dimension/user-guide.html/dimension/using/whats-new.ug.html)y vínculos a foros de la comunidad.
 
 **Versión de octubre de 2020**
 

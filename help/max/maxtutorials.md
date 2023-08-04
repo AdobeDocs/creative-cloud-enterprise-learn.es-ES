@@ -1,10 +1,11 @@
 ---
 title: Tutorials de MAX 2020
 description: Estos tutoriales le ayudarán a conocer las nuevas funciones de la versión de 2021 de Creative Cloud desde una perspectiva empresarial
+feature: 3D, Graphic Design, Image Editing, Workspace, Collaboration, Integrations
 role: User
 level: Beginner, Intermediate
 exl-id: e27874b7-ba02-46b7-a5e4-fe2485d9c148
-source-git-commit: 7b202fd4de29e83dd28c40dc6115a1be51c1f384
+source-git-commit: 4c30508fb4bc09bd36bcbda1d77c335c5b928614
 workflow-type: tm+mt
 source-wordcount: '322'
 ht-degree: 23%
@@ -23,10 +24,10 @@ Como creativo empresarial, tienes que colaborar con equipos distribuidos, establ
 <tr>
  <td>
     <a href="acrobat-sign.md">
-      <img alt="Acrobat y Adobe Sign" src="../assets/DC.jpg" />
+      <img alt="ACROBAT y ADOBE SIGN" src="../assets/DC.jpg" />
     </a>
     <div>
-    <a href="acrobat-sign.md"><strong>Acrobat y Adobe Sign</strong></a>
+    <a href="acrobat-sign.md"><strong>ACROBAT y ADOBE SIGN</strong></a>
     </div>
     <em>Crear, editar y firmar documentos y formularios de PDF</em>
     <br>
@@ -119,7 +120,7 @@ Como creativo empresarial, tienes que colaborar con equipos distribuidos, establ
     <div>
     <a href="capture.md"><strong>Capture</strong></a>
     </div>
-    <em>Convierte cualquier imagen en un tema de color, un gráfico vectorial, un pincel y mucho más</em>
+    <em>Convierte cualquier imagen en un tema de color, gráfico vectorial, pincel y mucho más</em>
     <br>
   </td>
   <td>
@@ -215,7 +216,7 @@ Como creativo empresarial, tienes que colaborar con equipos distribuidos, establ
   </td>
  <td>
     <a href="stock.md">
-      <img alt="Adobe Stock" src="../assets/Stock.jpg" />
+      <img alt="Adobe Stock" src="../assets/Stock.jpg" />
     </a>
     <div>
     <a href="stock.md"><strong>Adobe [!DNL Stock]</strong></a>
@@ -242,7 +243,7 @@ Como creativo empresarial, tienes que colaborar con equipos distribuidos, establ
     <div>
     <a href="handsonproject.md"><strong>Crea tu propia máscara facial</strong></a>
     </div>
-    <em>Con el complemento Diseño de Adobe para imprimir, puede visualizar sus diseños en cientos de productos de Zazzle y publicarlos directamente en su tienda en línea</em>
+    <em>Con el plugin Adobe Design to Print, puede visualizar sus diseños en cientos de productos Zazzle y publicarlos directamente en su tienda online</em>
     <br>
   </td>
   <td>

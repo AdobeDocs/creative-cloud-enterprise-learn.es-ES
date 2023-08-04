@@ -1,11 +1,12 @@
 ---
 title: Impresionantes activos digitales
 description: Aprenda a integrar Adobe Stock con las Bibliotecas CC para crear resultados de diseño uniformes y profesionales para impresión y pantalla en este tutorial práctico
+feature: Licensable Assets
 role: User
 level: Beginner, Intermediate
 thumb: KT-11314.jpg
 exl-id: 02e1c735-1956-4cb4-a3c4-200b7ef1fc1d
-source-git-commit: 92b250d685ff39430d4ee4c3bb816ed8d7eb043f
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '153'
 ht-degree: 0%

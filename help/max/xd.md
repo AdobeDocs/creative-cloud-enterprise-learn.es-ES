@@ -1,10 +1,11 @@
 ---
 title: XD
 description: Adobe XD es una herramienta de diseño de experiencias de usuario y creación de prototipos para diseñar sitios web, aplicaciones, interfaces de voz, juegos y otros tipos de experiencias digitales
+feature: UI Design
 role: User
 level: Beginner, Intermediate
 exl-id: 89b621a6-083c-4e1b-b23a-f4ba73e6755f
-source-git-commit: 7b202fd4de29e83dd28c40dc6115a1be51c1f384
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '712'
 ht-degree: 0%
@@ -13,7 +14,7 @@ ht-degree: 0%
 
 # XD
 
-![Tutorial Hero Image](../assets/XD.jpg)
+![Tutorial de imagen de héroe](../assets/XD.jpg)
 
 Adobe XD es una herramienta de diseño de experiencias de usuario y creación de prototipos para diseñar sitios web, aplicaciones, interfaces de voz, juegos y otros tipos de experiencias digitales.
 
@@ -115,7 +116,7 @@ Adobe XD es una herramienta de diseño de experiencias de usuario y creación de
 **Descripción**
 Crea botones reutilizables y redimensionables dinámicamente para tus diseños interactivos.
 
-En este tutorial, aprenderá a:
+En este tutorial, aprenderás a:
 * Realice cambios en un componente principal de origen y dichos cambios se aplicarán automáticamente a todas las instancias de dicho componente
 * Usa componentes para mantener la coherencia, ahorrar tiempo y reducir el número de clics
 
@@ -129,7 +130,7 @@ Michael Murphy, consultor sénior de soluciones (medios digitales)
 **Descripción**
 Convierte un solo elemento en cuadrículas de repetición con solo hacer clic y arrastrar.
 
-En este tutorial, aprenderá a:
+En este tutorial, aprenderás a:
 * Aumenta tu flujo de trabajo y arrastra cualquier tamaño de cuadrícula que necesites, al instante
 * Introduce contenido y datos reales, y la XD colocará por arte de magia todas las imágenes y el texto en tu cuadrícula
 * Haz cambios una vez y aplícalos donde quieras, en cualquier dirección
@@ -144,7 +145,7 @@ Ashley Dvorin, consultora sénior de soluciones (Digital Media)
 **Descripción**
 Utilice la propiedad stack para reorganizar fácilmente los elementos.
 
-En este tutorial, aprenderá a:
+En este tutorial, aprenderás a:
 * Mantén la alineación y el espaciado entre los objetos de tu lienzo aunque cambie el diseño
 * Inserta nuevos objetos o reordénalos en una pila y todo se ajustará automáticamente
 
@@ -158,7 +159,7 @@ Michael Murphy, consultor sénior de soluciones (medios digitales)
 **Descripción**
 Añadir navegación y desplazamiento a un prototipo.
 
-En este tutorial, aprenderá a:
+En este tutorial, aprenderás a:
 * Añada vínculos a sus prototipos con una acción que permita a los usuarios saltar a diferentes puntos de la misma mesa de trabajo
 * Crea feeds de actividad, presentaciones de imágenes, listados de productos y más mediante la definición de áreas que se desplacen de forma independiente con respecto al resto de los diseños
 * Crear grupos que se desplazan vertical, horizontalmente o ambos
@@ -173,7 +174,7 @@ Michael Murphy, consultor sénior de soluciones (medios digitales)
 **Descripción**
 Añada interactividad y un menú superpuesto a un prototipo.
 
-En este tutorial, aprenderá a:
+En este tutorial, aprenderás a:
 * Crear una experiencia de usuario animada e interactiva no lineal sin necesidad de mesas de trabajo adicionales
 * Crea varios flujos de prototipo o de interacción en un solo documento XD y publica vínculos únicos para cada flujo que se pueden compartir
 
@@ -187,7 +188,7 @@ Emilie Enke, consultora asociada de soluciones (Digital Media)
 **Descripción**
 Convierte un solo elemento en cuadrículas de repetición con solo hacer clic y arrastrar.
 
-En este tutorial, aprenderá a:
+En este tutorial, aprenderás a:
 * Aumenta tu flujo de trabajo y arrastra cualquier tamaño de cuadrícula que necesites, al instante
 * Introduce contenido y datos reales, y la XD colocará por arte de magia todas las imágenes y el texto en tu cuadrícula
 * Haz cambios una vez y aplícalos donde quieras, en cualquier dirección
@@ -202,18 +203,18 @@ Victoria Torres, consultora de soluciones (Digital Media)
 **Descripción**
 Utilice la propiedad stack para reorganizar fácilmente los elementos.
 
-En este tutorial, aprenderá a:
+En este tutorial, aprenderás a:
 * Mantén la alineación y el espaciado entre los objetos de tu lienzo aunque cambie el diseño
 * Inserta nuevos objetos o reordénalos en una pila y todo se ajustará automáticamente
 
 **Presentado por:**
 Victoria Torres, consultora de soluciones (Digital Media)
 
-![Logotipo de XD](../assets/xd_appicon_96.png)
+![Logotipo XD](../assets/xd_appicon_96.png)
 
-**Recursos XD**
+**Recursos de XD**
 
-[Información y asistencia](https://helpx.adobe.com/support/xd.html) es el centro de tutoriales adicionales, [Novedades del sector](https://helpx.adobe.com/xd/user-guide.html/xd/help/whats-new.ug.html)y vínculos a foros de la comunidad.
+[Información y asistencia](https://helpx.adobe.com/support/xd.html) es el centro de tutoriales adicionales, [Novedades de la aplicación](https://helpx.adobe.com/xd/user-guide.html/xd/help/whats-new.ug.html)y vínculos a foros de la comunidad.
 
 **Versión de octubre de 2020**
 
