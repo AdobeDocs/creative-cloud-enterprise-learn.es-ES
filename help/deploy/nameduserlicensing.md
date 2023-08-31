@@ -1,10 +1,10 @@
 ---
 title: ¿Caduca números de serie? Por qué es el momento de las licencias de usuario designadas
 description: La obtención de licencias de productos de Adobe a través de licencias de usuario designadas (NUL) permite a los administradores de TI implementar y administrar fácilmente herramientas de Adobe mediante el Admin Console y da a los usuarios finales acceso a aplicaciones creativas y de productividad de primera clase y servicios de Adobe Cloud, incluso si toda la plantilla es remota
-role: User
+role: Admin
 level: Beginner, Intermediate
 exl-id: 9dbdb057-6684-4750-bf9d-8af7a32bfe14
-source-git-commit: 82f7d93855e57500669e83af6b1a73f5335ae813
+source-git-commit: 245f753d62fe83e76fad6e1d7c3d820a5550464a
 workflow-type: tm+mt
 source-wordcount: '633'
 ht-degree: 2%
@@ -17,32 +17,32 @@ En el clima actual, la gestión de TI ha tenido que cambiar rápidamente a una e
 
 La obtención de licencias de productos de Adobe a través de licencias de usuario designadas (NUL) permite a los administradores de TI implementar y administrar fácilmente herramientas de Adobe mediante el Admin Console y da a los usuarios finales acceso a aplicaciones creativas y de productividad de primera clase y servicios de Adobe Cloud, incluso si toda la plantilla es remota.
 
-Si su organización no está usando NUL y sigue usando la implementación serializada para productos de Adobe, es posible que los números de serie caduquen pronto. Para evitar interrupciones del servicio, es importante planificar la migración a NUL antes de que caduquen los números de serie.
+Si su organización no está usando NUL y sigue usando la implementación serializada para productos de Adobe, es posible que los números de serie estén a punto de caducar. Para evitar interrupciones del servicio, es importante planificar la migración a NUL antes de que caduquen los números de serie.
 
 ## Acerca de las licencias de usuario designadas
 
-[Licencias de usuario designadas](https://helpx.adobe.com/enterprise/using/licensing.html) es un modelo de licencia de software que permite asignar software a un individuo en lugar de a un número de serie o dispositivo. NUL ofrece a los administradores de TI seguridad de nivel empresarial con administración avanzada de identidades de usuario y permite una implementación y administración sencillas de aplicaciones mediante Adobe Admin Console.
+[Licencias de usuario designadas](https://helpx.adobe.com/enterprise/using/licensing.html) es un modelo de licencia de software que permite asignar el software a un individuo en lugar de a un número de serie o dispositivo. NUL ofrece a los administradores de TI seguridad de nivel empresarial con administración avanzada de identidades de usuario y permite una implementación y administración sencillas de aplicaciones mediante Adobe Admin Console.
 
 ## Ventajas de las licencias de usuario designadas:
 
 * Gestión de TI simplificada gracias a Admin Console.
 
-   Admin Console es una consola centralizada y basada en la Web, alojada por Adobe, que permite a los administradores de TI crear y administrar usuarios y conceder acceso a aplicaciones y servicios tanto de Creative Cloud como de Document Cloud. La gestión de usuarios desde Admin Console facilita la incorporación y la desincorporación, y proporciona a los administradores de TI las herramientas que necesitan.
+  Admin Console es una consola centralizada y basada en la Web, alojada por Adobe, que permite a los administradores de TI crear y administrar usuarios y conceder acceso a aplicaciones y servicios tanto de Creative Cloud como de Document Cloud. La gestión de usuarios desde Admin Console facilita la incorporación y la desincorporación, y proporciona a los administradores de TI las herramientas que necesitan.
 
 * Aprovecha el servicio de expertos.
 
-   El Contrato de licencias de duración determinada para empresas con Adobe ofrece sesiones ilimitadas de 30 minutos por teléfono o conferencia web con un experto en Adobe para ayudarle en cualquier problema. Para reservar una sesión, vaya a la pestaña Soporte en Admin Console y haga clic en **Solicitar sesión con el experto**.
+  El Contrato de licencias de duración determinada para empresas con Adobe ofrece sesiones ilimitadas de 30 minutos por teléfono o conferencia web con un experto en Adobe para ayudarle en cualquier problema. Para reservar una sesión, vaya a la pestaña Asistencia técnica de Admin Console y haga clic en **Solicitar una sesión con un experto**.
 
 * ¿Un gran número de usuarios? No hay problema.
 
-   Si tiene un gran número de usuarios, considere utilizar otra ventaja de Admin Console. La herramienta de sincronización de usuarios le permite automatizar el proceso de creación de usuarios y asignaciones de productos, y los mantiene actualizados en el Admin Console mediante la sincronización con información de Active Directory de su organización.
+  Si tiene un gran número de usuarios, considere utilizar otra ventaja de Admin Console. La herramienta de sincronización de usuarios le permite automatizar el proceso de creación de usuarios y asignaciones de productos y los mantiene actualizados en el Admin Console mediante la sincronización con información de Active Directory de su organización.
 
 * Experimenta procesos más rápidos, incluso de forma remota.
 
-   No solo se nos reta a trabajar de forma más rápida y eficaz, sino que también se nos pide que hagamos este trabajo de forma remota. Pasar por una transformación digital no tiene por qué resultar difícil, y las capacidades e integraciones de NUL con los servicios de Adobe PDF permiten a las empresas convertir los procesos basados en papel en capacidades digitales completas. Esto también significa que los empleados pueden mantener fácilmente la continuidad del negocio desde cualquier lugar, incluso si están trabajando desde casa.
+  No solo se nos está retando a trabajar de manera más rápida y eficiente, sino que también se nos está pidiendo que realicemos este trabajo de forma remota. Pasar por una transformación digital no tiene por qué ser difícil, y las capacidades e integraciones de NUL con los servicios de Adobe PDF permiten a las empresas convertir los procesos basados en papel en capacidades digitales completas. Esto también significa que los empleados pueden mantener fácilmente la continuidad del negocio desde cualquier lugar, incluso si están trabajando desde casa.
 
-* Las mejores herramientas para la productividad y la colaboración
+* Las mejores herramientas de productividad y colaboración
 
-   Al aprovechar NUL, los usuarios tendrán acceso a las principales empresas productivas, como Adobe Creative Cloud y Adobe Document Cloud. Hay muchas cosas que puedes hacer: crear y firmar documentos de forma segura; crear PDF personalizados rápidamente; iniciar un proyecto creativo en una tableta antes de llevarlo a un escritorio; compartir documentos con un equipo a través de Document Cloud; y trabajar en nuevos proyectos de equipo en Adobe XD. Nuestros servicios basados en la nube facilitan el uso compartido de activos y la colaboración como equipo remoto.
+  Al aprovechar NUL, los usuarios tendrán acceso a las principales empresas productivas, como Adobe Creative Cloud y Adobe Document Cloud. Puedes hacer muchas cosas: crear y firmar documentos de forma segura; crear rápidamente PDF personalizados; iniciar un proyecto creativo en una tablet antes de llevarlo al escritorio; compartir documentos con un equipo a través de Document Cloud; y trabajar en nuevos proyectos de equipo en Adobe XD. Nuestros servicios basados en la nube facilitan el uso compartido de activos y la colaboración como equipo remoto.
 
 Los desafíos del flujo de trabajo moderno requieren soluciones modernas. Deja que te ayudemos a realizar la transición a las licencias de usuario designadas. Echa un vistazo al [Guía sobre migración de licencias de usuario designadas](https://offers.adobe.com/content/dam/offer-manager/en/na/marketing/CCE/Adobe_Named_User_Licensing_Migration_Guide.pdf) para empezar con la transición.

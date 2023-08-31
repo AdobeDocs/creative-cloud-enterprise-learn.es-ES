@@ -1,10 +1,10 @@
 ---
 title: Información sobre la caducidad de los números de serie de Creative Cloud para empresas y Acrobat
 description: Descripción de la experiencia de caducidad de números de serie para Creative Cloud para empresas y Acrobat
-role: User
+role: Admin
 level: Beginner, Intermediate
 exl-id: bc457be0-86dc-4e8a-b6b2-34bc76af2d21
-source-git-commit: 524d071b6f4e059823601381f04c337aedc55970
+source-git-commit: 245f753d62fe83e76fad6e1d7c3d820a5550464a
 workflow-type: tm+mt
 source-wordcount: '844'
 ht-degree: 3%
@@ -27,7 +27,7 @@ Las licencias de número de serie asociadas a su acuerdo de ETLA están disponib
 1. (Opcional) Seleccione una **Nombre del producto**, **Versión del producto**, o **Platform** para filtrar resultados.
 1. Haga clic en Buscar.
 1. Se muestran los números de serie y el nombre del producto.
-1. (Opcional) Seleccione &quot;EXPORTAR A CSV&quot; para descargar la lista de números de serie.
+1. (Opcional) Seleccione EXPORTAR A CSV para descargar la lista de números de serie.
 
 ![Buscar los números de serie](assets/retrieveserialnumbers.png)
 
@@ -47,7 +47,7 @@ La siguiente información describe la experiencia del usuario final. A continuac
 
 **Antes del vencimiento**
 
-A partir de 60 días antes de que caduque el número de serie, todas las aplicaciones de Creative Cloud para empresas muestran un cuadro de diálogo en el producto al usuario final. Este mensaje aparecerá semanalmente, hasta 30 días antes del vencimiento, y luego aparecerá diariamente hasta la fecha de vencimiento que comience *Su licencia está a punto de caducar. Este producto de Adobe utiliza una licencia que caducará el 29 de noviembre de 2020. Póngase en contacto con el administrador para asegurarse de que sigue teniendo acceso*.
+A partir de 60 días antes de que caduque el número de serie, todas las aplicaciones de Creative Cloud para empresas muestran un cuadro de diálogo en el producto al usuario final. Este mensaje aparecerá semanalmente, hasta 30 días antes del vencimiento, y luego aparecerá diariamente hasta la fecha de vencimiento que comience *Su licencia está a punto de caducar. Este producto de Adobe está usando una licencia que caducará el 29 de noviembre de 2020. Póngase en contacto con el administrador para asegurarse de que sigue teniendo acceso*.
 
 ![CCE antes del mensaje de caducidad](assets/cceexpiring.png)
 
@@ -63,7 +63,7 @@ En todos los intentos posteriores de iniciar las aplicaciones, se solicitará al
 
 ![CCE Iniciar sesión diálogo 2](assets/ccesignin2.png)
 
-### Experiencia de Acrobat
+### Experiencia Acrobat
 
 La siguiente información describe la experiencia del usuario final. A continuación se muestra un breve vídeo seguido de una revisión de la experiencia del usuario final.
 
@@ -72,7 +72,7 @@ La siguiente información describe la experiencia del usuario final. A continuac
 
 **Antes del vencimiento**
 
-A partir de los 60 días antes de que caduque el número de serie, Acrobat muestra un mensaje emergente del producto al usuario final. Esto aparecerá una vez a la semana hasta 7 días antes del vencimiento. Entonces comenzará a aparecer diariamente comenzando *Su licencia de Adobe Acrobat caduca el 11/30/2020. Póngase en contacto con el administrador para seguir utilizando Acrobat sin interrupciones.*
+A partir de los 60 días antes de que caduque el número de serie, Acrobat muestra un mensaje emergente del producto al usuario final. Esto aparecerá una vez a la semana hasta 7 días antes del vencimiento. Luego comenzará a aparecer diariamente comenzando por *Su licencia de Adobe Acrobat caduca el 11/30/2020. Póngase en contacto con el administrador para seguir utilizando Acrobat sin interrupciones.*
 
 ![Mensaje de caducidad de Acrobat](assets/acrobatexpiring.png)
 
@@ -82,7 +82,7 @@ Una vez que caduque el número de serie, los usuarios ya no tendrán acceso a Ac
 
 ![Mensaje de Acrobat tras la caducidad](assets/acrobatafterexpire.png)
 
-En todos los intentos posteriores de iniciar Acrobat, se solicitará al usuario que **Iniciar sesión ahora** seguido de la opción para crear su propio Adobe ID y entrar en el modo de prueba. Sin embargo, cualquier nuevo Adobe ID creado por el usuario final no se asociará a las licencias de su organización y causará confusión adicional a sus usuarios.
+En todos los intentos posteriores de iniciar Acrobat, se solicitará al usuario final que **Iniciar sesión ahora** seguido de la opción para crear su propio Adobe ID y entrar en el modo de prueba. Sin embargo, cualquier nuevo Adobe ID creado por el usuario final no se asociará a las licencias de su organización y causará confusión adicional a sus usuarios.
 
 ![Acrobat Sign en el cuadro de diálogo 1](assets/acrobatsignin1.png)
 
