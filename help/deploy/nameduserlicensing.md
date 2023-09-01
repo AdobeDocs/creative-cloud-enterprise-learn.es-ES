@@ -3,8 +3,9 @@ title: ¿Caduca números de serie? Por qué es el momento de las licencias de us
 description: La obtención de licencias de productos de Adobe a través de licencias de usuario designadas (NUL) permite a los administradores de TI implementar y administrar fácilmente herramientas de Adobe mediante el Admin Console y da a los usuarios finales acceso a aplicaciones creativas y de productividad de primera clase y servicios de Adobe Cloud, incluso si toda la plantilla es remota
 role: Admin
 level: Beginner, Intermediate
+feature: Deploy
 exl-id: 9dbdb057-6684-4750-bf9d-8af7a32bfe14
-source-git-commit: 245f753d62fe83e76fad6e1d7c3d820a5550464a
+source-git-commit: f17ea20ac8623dae0c681753b4bde250a1c9b06e
 workflow-type: tm+mt
 source-wordcount: '633'
 ht-degree: 2%

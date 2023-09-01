@@ -1,11 +1,11 @@
 ---
 title: Tutorials de MAX 2020
 description: Estos tutoriales le ayudarán a conocer las nuevas funciones de la versión de 2021 de Creative Cloud desde una perspectiva empresarial
-feature: 3D, Graphic Design, Image Editing, Workspace, Collaboration, Integrations
+feature: 3D, Graphic Design, Image Editing, Workspace, Collaboration, Integrations, Workflow
 role: User
 level: Beginner, Intermediate
 exl-id: e27874b7-ba02-46b7-a5e4-fe2485d9c148
-source-git-commit: 4c30508fb4bc09bd36bcbda1d77c335c5b928614
+source-git-commit: f17ea20ac8623dae0c681753b4bde250a1c9b06e
 workflow-type: tm+mt
 source-wordcount: '322'
 ht-degree: 23%
