@@ -6,9 +6,9 @@ role: User
 level: Beginner
 jira: KT-13380
 exl-id: 0feb9a09-008e-4d38-a5c2-23f8d001eeb4
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+source-git-commit: c57212d39b2e613964bc15d2967a1958dc0c8c8e
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '121'
 ht-degree: 0%
 
 ---
@@ -37,43 +37,50 @@ Adobe Express es una herramienta creativa fácil de usar, sin necesidad de exper
       </a>
   </td>
   <td>
+      <a href="jumpstart-ideation.md">
+         <img alt="Impulsa la idea creativa" src="assets/marketing-ideation.png" />
+      </a>
+   </td>     
+   <td>
       <a href="create-local-marketing.md">
          <img alt="Crea contenido de folletos para una campaña de marketing con Firefly" src="assets/local-marketing.png" />
       </a>
-  <td>
+   </td>    
+   <td>
       <a href="create-on-boarding.md">
          <img alt="Crea contenido de reclutamiento e incorporación con Firefly" src="assets/on-boarding.png" />
       </a>
-  <td>
+   </td>
+</tr>
+<tr>
+   <td>
       <a href="create-social-posters.md">
          <img alt="Crea carteles para redes sociales con Firefly" src="assets/social-firefly.png" />
       </a>
-  </td>
-</tr>
-<tr>
- <td>
+   </td>
+   <td>
       <a href="create-blog-graphics.md">
          <img alt="Creación de contenido gráfico para blogs con Firefly" src="assets/blog-graphic.png" />
       </a>
-  </td>
-  <td>
+   </td>
+   <td>
       <a href="create-webinar-poster.md">
          <img alt="Crea carteles de seminarios web con Firefly" src="assets/webinar-poster.png" />
       </a>
-  </td>
-  <td>
+   </td>
+   <td>
       <a href="schedule.md">
          <img alt="Programar publicaciones en redes sociales" src="assets/schedule.png" />
       </a>
-  </td>
- <td>
+   </td>
+</tr>
+<tr>
+  <td>
    <a href="collaborate.md">
       <img alt="Invitar a colaboradores del proyecto" src="assets/collaborate.png" />
    </a>
   </td>
-</tr>
-<tr>
-   <td>
+    <td>
       <a href="get-inspiration.md">
          <img alt="Obtener inspiración rápida" src="assets/inspiration.png" />
       </a>
@@ -88,13 +95,13 @@ Adobe Express es una herramienta creativa fácil de usar, sin necesidad de exper
             <img alt="Añadir activos de diseño" src="assets/design-assets.png" />
          </a>
    </td>
-   <td>
+</tr>
+<tr>
+  <td>
          <a href="group-objects.md">
             <img alt="Agrupación de objetos" src="assets/group-objects.png" />
          </a>
    </td>
-</tr>
-<tr>
   <td>
          <a href="layers.md">
             <img alt="Seleccionar y mover capas" src="assets/layers.png" />
@@ -110,14 +117,14 @@ Adobe Express es una herramienta creativa fácil de usar, sin necesidad de exper
          <img alt="Deshacer y rehacer" src="assets/undo-redo.png" />
       </a>
    </td>
+</tr>
+<tr>
  <td>
       <a href="cc-libraries.md">
          <img alt="Usar Bibliotecas CC" src="assets/cc-libraries.png" />
       </a>
   </td>
-</tr>
-<tr>
-  <td>
+   <td>
       <a href="brand.md">
          <img alt="Aplicar su marca" src="assets/brand.png" />
       </a>
@@ -132,14 +139,14 @@ Adobe Express es una herramienta creativa fácil de usar, sin necesidad de exper
          <img alt="Eliminar fondo" src="assets/background.png" />
       </a>
   </td>
-  <td>
-      <a href="refine-cutout.md">
-         <img alt="Perfeccionar un recorte" src="assets/cutouts.png" />
-      </a>
-  </td>
 </tr>
 <tr>
  <td>
+      <a href="text-effects.md">
+         <img alt="Uso de efectos de texto" src="assets/text-effects.png" />
+      </a>
+  </td>
+  <td>
       <a href="text-effects.md">
          <img alt="Uso de efectos de texto" src="assets/text-effects.png" />
       </a>
@@ -153,11 +160,6 @@ Adobe Express es una herramienta creativa fácil de usar, sin necesidad de exper
       <a href="create-curved-text.md">
          <img alt="Crear texto curvo" src="assets/curved-text.png" />
       </a>
-   </td>
-   <td>
-      <img alt="Separador" src="../assets/Gray_thumbnail.png" />
-      <div>
-      <br>
    </td>
 </tr>
 </table>
