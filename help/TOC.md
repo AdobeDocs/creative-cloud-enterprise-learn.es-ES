@@ -7,9 +7,9 @@ feature-set: Creative Cloud
 feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable Assets, Gen AI, Video Editing, 3D
 role: User
 type: Tutorial
-source-git-commit: c57212d39b2e613964bc15d2967a1958dc0c8c8e
+source-git-commit: ef203983789b9b18796dc210308047c7c604d249
 workflow-type: tm+mt
-source-wordcount: '534'
+source-wordcount: '540'
 ht-degree: 9%
 
 ---
@@ -36,32 +36,34 @@ ht-degree: 9%
       + [guías de CCE](quick-reference/overview-ref.md)
 + [!DNL Adobe Express] {#expressoverview}
    + [Información general](express/overview-express.md)
-   + Tutoriales {#expresstutorials}
-      + [Introducción a Adobe Express](express/get-started.md)
-      + [Impulsa la idea creativa](express/jumpstart-ideation.md)
-      + [Adobe Express para principiantes](express/adobe-express-beginners.md)
-      + [Crea contenido de folletos para una campaña de marketing con Firefly](express/create-local-marketing.md)
-      + [Crea contenido de reclutamiento e incorporación con Firefly](express/create-on-boarding.md)
-      + [Crea carteles para redes sociales con Firefly](express/create-social-posters.md)
-      + [Creación de contenido gráfico para blogs con Firefly](express/create-blog-graphics.md)
-      + [Crea carteles de seminarios web con Firefly](express/create-webinar-poster.md)
-      + [Programar publicaciones en redes sociales](express/schedule.md)
-      + [Invitar a colaboradores del proyecto](express/collaborate.md)
-      + [Obtener inspiración rápida](express/get-inspiration.md)
-      + [Creación de plantillas](express/create-templates.md)
-      + [Añadir activos de diseño](express/add-design-assets.md)
-      + [Agrupación de objetos](express/group-objects.md)
-      + [Seleccionar y mover capas](express/layers.md)
-      + [Crear varias páginas](express/multiple-pages.md)
-      + [Deshacer y rehacer](express/undo-redo.md)
-      + [Usar Bibliotecas CC](express/cc-libraries.md)
-      + [Aplicar su marca](express/brand.md)
-      + [Integración con Google Drive](express/google-drive.md)
-      + [Eliminar fondo](express/remove-background.md)
-      + [Perfeccionar un recorte](express/refine-cutout.md)
-      + [Uso de efectos de texto](express/text-effects.md)
-      + [Usar efectos de imagen](express/image-effects.md)
-      + [Crear texto curvo](express/create-curved-text.md)
+   + Tutoriales de instrucciones {#expresshowto}
+      + [Información general](express/overview-express-how-to.md)
+         + [Introducción a Adobe Express](express/get-started.md)
+         + [Programar publicaciones en redes sociales](express/schedule.md)
+         + [Invitar a colaboradores del proyecto](express/collaborate.md)
+         + [Obtener inspiración rápida](express/get-inspiration.md)
+         + [Creación de plantillas](express/create-templates.md)
+         + [Añadir activos de diseño](express/add-design-assets.md)
+         + [Agrupación de objetos](express/group-objects.md)
+         + [Seleccionar y mover capas](express/layers.md)
+         + [Crear varias páginas](express/multiple-pages.md)
+         + [Deshacer y rehacer](express/undo-redo.md)
+         + [Usar Bibliotecas CC](express/cc-libraries.md)
+         + [Aplicar su marca](express/brand.md)
+         + [Integración con Google Drive](express/google-drive.md)
+         + [Eliminar fondo](express/remove-background.md)
+         + [Perfeccionar un recorte](express/refine-cutout.md)
+         + [Uso de efectos de texto](express/text-effects.md)
+         + [Usar efectos de imagen](express/image-effects.md)
+         + [Crear texto curvo](express/create-curved-text.md)
+      + Tutoriales de casos de uso {expressusecase}
+         + [Impulsa la idea creativa](express/jumpstart-ideation.md)
+         + [Adobe Express para principiantes](express/adobe-express-beginners.md)
+         + [Crea contenido de folletos para una campaña de marketing con Firefly](express/create-local-marketing.md)
+         + [Crea contenido de reclutamiento e incorporación con Firefly](express/create-on-boarding.md)
+         + [Crea carteles para redes sociales con Firefly](express/create-social-posters.md)
+         + [Creación de contenido gráfico para blogs con Firefly](express/create-blog-graphics.md)
+         + [Crea carteles de seminarios web con Firefly](express/create-webinar-poster.md)
 + [!DNL Adobe Firefly] {#fireflyoverview}
    + [Información general](firefly/overview-firefly.md)
    + Tutoriales {#firefly-tutorials}
