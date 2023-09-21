@@ -5,10 +5,10 @@ feature: Graphic Design, Image Editing, Integrations, Gen AI
 role: User
 level: Intermediate
 jira: KT-13995
-source-git-commit: 58b151de4487c2636fe28dce610f84d27a99a7ca
+source-git-commit: 358e7cb886829fbd3e25cd6d33f220f038fede0a
 workflow-type: tm+mt
-source-wordcount: '82'
-ht-degree: 0%
+source-wordcount: '160'
+ht-degree: 1%
 
 ---
 
@@ -18,11 +18,24 @@ ht-degree: 0%
 
 Descubre cómo los diferentes equipos de tu organización pueden beneficiarse del Adobe Express.
 
+## Novedades
+
+* [Crea contenido atractivo de comercialización](compelling-merchandise.md)
+Descubre cómo un equipo comercial puede crear fácilmente imágenes atractivas para un nuevo conjunto de inventario en su tienda online
+* [Capacita a los equipos de marketing para crear contenido multicanal](multi-channel-marketing-content.md)
+Descubre cómo los equipos de marketing de eventos pueden crear contenido único para atraer espectadores a eventos online
+* [Capacita a los equipos distribuidos para localizar contenido](localized-marketing-content.md)
+Descubre cómo los equipos de marketing de campo distribuidos pueden personalizar fácilmente el contenido a su región para las campañas de marketing locales
+
 ## Tutoriales de casos prácticos de Adobe Express
 
 <table style="table-layout:fixed">
 <tr>
    <td>
+      <a href="compelling-merchandise.md">
+         <img alt="Crea contenido atractivo de comercialización" src="assets/merchandise.png" />
+      </a>
+  <td>
       <a href="multi-channel-marketing-content.md">
          <img alt="Capacita a los equipos de marketing para crear contenido multicanal" src="assets/multi-channel.png" />
       </a>
@@ -35,14 +48,14 @@ Descubre cómo los diferentes equipos de tu organización pueden beneficiarse de
       <a href="jumpstart-ideation.md">
          <img alt="Impulsa la idea creativa" src="assets/marketing-ideation.png" />
       </a>
-   </td>     
+   </td>
+</tr>
+<tr>
    <td>
       <a href="create-local-marketing.md">
          <img alt="Crea contenido de folletos para una campaña de marketing con Firefly" src="assets/local-marketing.png" />
       </a>
    </td>
-</tr>
-<tr>
    <td>
       <a href="create-on-boarding.md">
          <img alt="Crea contenido de reclutamiento e incorporación con Firefly" src="assets/on-boarding.png" />
@@ -58,10 +71,27 @@ Descubre cómo los diferentes equipos de tu organización pueden beneficiarse de
          <img alt="Creación de contenido gráfico para blogs con Firefly" src="assets/blog-graphic.png" />
       </a>
    </td>
-   <td>
+</tr>
+<tr>
+      <td>
       <a href="create-webinar-poster.md">
          <img alt="Crea carteles de seminarios web con Firefly" src="assets/webinar-poster.png" />
       </a>
+   </td>
+<td>
+      <img alt="Separador" src="../assets/Whitespacer.png" />
+      <div>
+      <br>
+   </td>
+   <td>
+      <img alt="Separador" src="../assets/Whitespacer.png" />
+      <div>
+      <br>
+   </td>
+   <td>
+      <img alt="Separador" src="../assets/Whitespacer.png" />
+      <div>
+      <br>
    </td>
 </tr>
 </table>
