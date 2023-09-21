@@ -3,11 +3,11 @@ title: Adobe [!DNL Express] Tutorials de casos de uso
 description: Ponte al día con el Adobe [!DNL Express] casos prácticos
 feature: Graphic Design, Image Editing, Integrations, Gen AI
 role: User
-level: Beginner
+level: Intermediate
 jira: KT-13995
-source-git-commit: 6f60c1d99b3143341a43ab0aa44bad469d564fc6
+source-git-commit: 58b151de4487c2636fe28dce610f84d27a99a7ca
 workflow-type: tm+mt
-source-wordcount: '76'
+source-wordcount: '82'
 ht-degree: 0%
 
 ---
@@ -23,6 +23,10 @@ Descubre cómo los diferentes equipos de tu organización pueden beneficiarse de
 <table style="table-layout:fixed">
 <tr>
    <td>
+      <a href="multi-channel-marketing-content.md">
+         <img alt="Capacita a los equipos de marketing para crear contenido multicanal" src="assets/multi-channel.png" />
+      </a>
+  <td>
       <a href="localized-marketing-content.md">
          <img alt="Capacita a los equipos distribuidos para localizar contenido" src="assets/marketing-regional-content.png" />
       </a>
@@ -37,13 +41,13 @@ Descubre cómo los diferentes equipos de tu organización pueden beneficiarse de
          <img alt="Crea contenido de folletos para una campaña de marketing con Firefly" src="assets/local-marketing.png" />
       </a>
    </td>
-    <td>
+</tr>
+<tr>
+   <td>
       <a href="create-on-boarding.md">
          <img alt="Crea contenido de reclutamiento e incorporación con Firefly" src="assets/on-boarding.png" />
       </a>
    </td>
-</tr>
-<tr>
    <td>
       <a href="create-social-posters.md">
          <img alt="Crea carteles para redes sociales con Firefly" src="assets/social-firefly.png" />
@@ -59,10 +63,5 @@ Descubre cómo los diferentes equipos de tu organización pueden beneficiarse de
          <img alt="Crea carteles de seminarios web con Firefly" src="assets/webinar-poster.png" />
       </a>
    </td>
-   <td>
-    <img alt="Separador" src="../assets/GrayBanner_Spacer.png" />
-    <div>
-    <br>
-  </td>
 </tr>
 </table>
