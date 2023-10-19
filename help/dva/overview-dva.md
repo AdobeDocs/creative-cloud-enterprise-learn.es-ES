@@ -6,16 +6,14 @@ role: User
 level: Beginner, Intermediate
 jira: KT-6946
 exl-id: 4a0c57f5-053f-4e47-a42e-05f2d2a1bd15
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+source-git-commit: c54f203aa1e3dddbfd973b1cc668b56b7f54d9b1
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '116'
 ht-degree: 0%
 
 ---
 
 # Tutoriales de vídeo de Adobe
-
-![Imagen de héroe de Creative Cloud](../assets/CCEbanner-DVA.png)
 
 Dale vida a tus ideas con las aplicaciones y software de Adobe para edición de vídeo, gráficos en movimiento, efectos visuales, animación y mucho más. Seleccione una imagen para ver un tutorial.
 

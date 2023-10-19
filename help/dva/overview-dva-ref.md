@@ -5,16 +5,14 @@ feature: Video Editing
 role: User
 level: Beginner, Intermediate
 exl-id: 513a5b86-fd31-42c5-aed3-82669889248f
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '500'
+source-wordcount: '496'
 ht-degree: 1%
 
 ---
 
 # Guías de referencia rápida de vídeo
-
-![Imagen de héroe de Creative Cloud](../assets/CCEbanner-DVA.png)
 
 Dale vida a tus ideas con las aplicaciones y software de Adobe para edición de vídeo, gráficos en movimiento, efectos visuales, animación y mucho más. Seleccione una imagen para descargar o ver un PDF de la guía de referencia rápida.
 

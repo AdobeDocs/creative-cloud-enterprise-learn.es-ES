@@ -5,16 +5,14 @@ feature: Vector Editing
 role: User
 level: Beginner, Intermediate
 exl-id: b1b8e424-7e08-42a6-b370-cfee1b76b036
-source-git-commit: 245f753d62fe83e76fad6e1d7c3d820a5550464a
+source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '219'
+source-wordcount: '216'
 ht-degree: 0%
 
 ---
 
 # Illustrator
-
-![Tutorial de imagen de héroe](../assets/Illustrator.jpg)
 
 La aplicación moderna para ilustraciones y gráficos. Crea logotipos, iconos, ilustraciones y cualquier otro diseño que puedas imaginar para la web, los dispositivos móviles o la impresión.
 

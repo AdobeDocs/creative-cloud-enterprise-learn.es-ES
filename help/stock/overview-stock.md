@@ -6,16 +6,14 @@ role: User
 level: Beginner, Intermediate
 jira: KT-6943
 exl-id: 83e1af30-489f-474c-874a-8cd8b36d4a38
-source-git-commit: 245f753d62fe83e76fad6e1d7c3d820a5550464a
+source-git-commit: c54f203aa1e3dddbfd973b1cc668b56b7f54d9b1
 workflow-type: tm+mt
-source-wordcount: '1242'
+source-wordcount: '1238'
 ht-degree: 0%
 
 ---
 
 # Adobe [!DNL Stock] tutoriales
-
-![Imagen de héroe de Creative Cloud](../assets/Stock.jpg)
 
 Los creativos se encuentran bajo presión para distribuir rápidamente contenido visual atractivo. Adobe Stock ofrece a los equipos creativos acceso a más de 300 millones de imágenes, vídeos, archivos de audio, plantillas, ilustraciones y contenidos 3D libres de derechos de autor, dentro de las aplicaciones de Creative Cloud que usan a diario. Obtén acceso ilimitado a los contenidos estándar de Adobe Stock con Creative Cloud Edición Pro. Descubra las colecciones más recientes en stock.adobe.com. Seleccione una imagen para ver un tutorial.
 

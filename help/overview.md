@@ -5,16 +5,14 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 level: Beginner, Intermediate, Experienced
 exl-id: d0223157-24aa-486b-806a-fc6f6a36d7cf
-source-git-commit: 4c30508fb4bc09bd36bcbda1d77c335c5b928614
+source-git-commit: c54f203aa1e3dddbfd973b1cc668b56b7f54d9b1
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 10%
+source-wordcount: '88'
+ht-degree: 13%
 
 ---
 
 # Tutoriales de Creative Cloud para empresas
-
-![Imagen de héroe de Creative Cloud](assets/hero_cce.jpg)
 
 Te damos la bienvenida al centro de aprendizaje de Creative Cloud para empresas. Aquí puede encontrar una amplia gama de experiencias de aprendizaje centradas en Creative Cloud para empresas. Nuestros tutoriales, seminarios web y casos prácticos están diseñados para poner al día rápidamente a los principiantes y administradores sobre los productos de Creative Cloud para empresas.
 

@@ -5,16 +5,14 @@ feature: Graphic Design
 role: User
 level: Beginner, Intermediate
 exl-id: eae51aea-4c17-4356-bfb0-720f87597ef7
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '428'
+source-wordcount: '425'
 ht-degree: 0%
 
 ---
 
 # InDesign
-
-![Tutorial de imagen de héroe](../assets/InDesign.jpg)
 
 La aplicación estándar del sector para crear documentos atractivos para la publicación digital e impresa. Crea experiencias digitales e impresas sofisticadas, desde libros electrónicos y revistas electrónicas hasta libros, informes y artículos técnicos.
 
