@@ -8,10 +8,10 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: c54f203aa1e3dddbfd973b1cc668b56b7f54d9b1
+source-git-commit: 640c9ff5155574286e24e57b7d7644a0a303c529
 workflow-type: tm+mt
-source-wordcount: '572'
-ht-degree: 8%
+source-wordcount: '579'
+ht-degree: 5%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 8%
 + [Información general](overview.md)
 + Creative Cloud para empresas {#cceoverview}
    + [Información general](cce/overview-cce.md)
-   + Tutoriales {#ccetutorials}
+   + Tutorials {#ccetutorials}
       + [Acrobat para creadores de contenido](cce/acrobat-content-creators.md)
       + [Mejorar los flujos de trabajo de CC con Bibliotecas CC](cce/cc-workflows-cc-libraries.md)
       + [Ansiedad de tipo dominante](cce/taming-type-anxiety.md)
@@ -39,7 +39,9 @@ ht-degree: 8%
    + [Información general](express/overview-express.md)
    + Tutoriales de instrucciones {#expresshowto}
       + [Información general](express/overview-express-how-to.md)
-      + [Introducción a Adobe Express](express/get-started.md)
+      + [Qué hay en la página de inicio](express/get-started.md)
+      + [Introducción a las acciones rápidas](express/quick-actions.md)
+      + [Introducción a las plantillas](express/introduction-templates.md)
       + [Programar publicaciones en redes sociales](express/schedule.md)
       + [Invitar a colaboradores del proyecto](express/collaborate.md)
       + [Obtener inspiración rápida](express/get-inspiration.md)
@@ -71,7 +73,7 @@ ht-degree: 8%
       + [Crea carteles de seminarios web con Firefly](express/create-webinar-poster.md)
 + [!DNL Adobe Firefly] {#fireflyoverview}
    + [Información general](firefly/overview-firefly.md)
-   + Tutoriales {#firefly-tutorials}
+   + Tutorials {#firefly-tutorials}
       + [Visión general del Adobe Firefly](firefly/overview-of-firefly.md)
       + [Activar la eficacia creativa](firefly/enable-creative-efficiency.md)
       + [Variaciones de anuncios de banner en [!DNL Photoshop]](firefly/web-banner-ad.md)
@@ -82,7 +84,7 @@ ht-degree: 8%
       + [Experimentar con el Adobe Firefly](firefly/webinar-experimenting.md)
 + [!DNL Adobe Stock] {#stockoverview}
    + [Información general](stock/overview-stock.md)
-   + Tutoriales {#stocktutorials}
+   + Tutorials {#stocktutorials}
       + [Impresionantes activos digitales](stock/stunning-digital-assets.md)
       + [Adobe de búsqueda [!DNL Stock] historial de licencias](stock/searchstock.md)
       + [Añade una estética dibujada a mano al Adobe [!DNL Stock] images](stock/handdrawn.md)
@@ -109,21 +111,21 @@ ht-degree: 8%
       + [Personalizar los colores de un Adobe [!DNL Stock] ilustración vectorial](stock/customizecolors.md)
 + Adobe 3D y RV {#3doverview}
    + [Información general](3di/overview-3di.md)
-   + Tutoriales {#3dtutorials}
+   + Tutorials {#3dtutorials}
       + [Diseño y representación en 3D](3di/substance-3d-stager.md)
       + [Sugerencias y técnicas para dominar la iluminación 3D en CGI](3di/mastering3dlighting.md)
       + [Creación de fotografías virtuales fotorrealistas con representación y composición 3D](3di/photorealistic.md)
       + [Personaliza y marca un modelo en 3D con [!DNL Dimension] y ADOBE [!DNL Stock]](3di/3ddimensionstock.md)
 + Vídeo de Adobe {#videooverview}
    + [Información general](dva/overview-dva.md)
-   + Tutoriales {#videotutorials}
+   + Tutorials {#videotutorials}
       + [Plantillas profesionales de gráficos animados](dva/motion-graphics-templates.md)
       + [Revisión de vídeo con Frame.io](dva/video-review-frame-io.md)
    + Guías de referencia rápida {#videorefguides}
       + [Guías de vídeo](dva/overview-dva-ref.md)
 + Adobe XD {#xdoverview}
    + [Información general](xd/overview-xd.md)
-   + Tutoriales {#xdtutorials}
+   + Tutorials {#xdtutorials}
    + [Ponte cómodo con [!UICONTROL Componentes] en Adobe XD](xd/components.md)
 + Implementación y gestión {#deploy}
    + [Información general](deploy/overview-deploy.md)
@@ -131,7 +133,7 @@ ht-degree: 8%
    + [Licencias de usuario designadas.](deploy/nameduserlicensing.md)
 + Adobe MAX {#max}
    + [Información general](max/overview-max.md)
-   + Tutoriales {#tutorials}
+   + Tutorials {#tutorials}
       + [Información general](max/maxtutorials.md)
       + Productos de escritorio {#desktop-products}
          + [Acrobat &amp; Sign](max/acrobat-sign.md)
