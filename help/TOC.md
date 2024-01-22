@@ -8,9 +8,9 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 7c07e7b6ae9668e6bb86799f41e735414d4f4ca7
+source-git-commit: 1e0bf73f3f6aa0ea96cb15d26fb31ec1a48f2d79
 workflow-type: tm+mt
-source-wordcount: '588'
+source-wordcount: '602'
 ht-degree: 5%
 
 ---
@@ -48,13 +48,16 @@ ht-degree: 5%
       + [Cómo añadir texto](express/text-effects.md)
       + [Cómo añadir una imagen](express/image-effects.md)
       + [Cómo añadir una imagen de IA general](express/add-gen-ai-image.md)
+      + [Cómo usar cuadrículas](express/grids.md)
+      + [Cómo usar elementos](express/add-design-assets.md)
+      + [Uso de capas y mesas de trabajo](express/layers.md)
+      + [Cómo colaborar](express/collaborate.md)
+      + [Cómo compartir y descargar](express/share.md)
+      + [Cómo usar el historial de versiones](express/version-history.md)
       + [Programar publicaciones en redes sociales](express/schedule.md)
-      + [Invitar a colaboradores del proyecto](express/collaborate.md)
       + [Obtener inspiración rápida](express/get-inspiration.md)
       + [Creación de plantillas](express/create-templates.md)
-      + [Añadir activos de diseño](express/add-design-assets.md)
       + [Agrupación de objetos](express/group-objects.md)
-      + [Seleccionar y mover capas](express/layers.md)
       + [Crear varias páginas](express/multiple-pages.md)
       + [Deshacer y rehacer](express/undo-redo.md)
       + [Usar Bibliotecas CC](express/cc-libraries.md)
