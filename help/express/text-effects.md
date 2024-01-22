@@ -1,19 +1,20 @@
 ---
-title: Uso de efectos de texto
-description: Aprenda a añadir sombras paralelas, formas y texto de contorno
+title: Cómo añadir texto
+description: Descubre todas las formas diferentes en las que puedes añadir texto a tus proyectos creativos
 feature: Graphic Design
 role: User
 level: Beginner
-exl-id: 6dfab6fe-897e-4914-b9f4-4306eebec6a2
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+jira: KT-13421
+exl-id: 38a01482-11c9-4117-8626-59679eca2c4f
+source-git-commit: 6324cb0dce5ba7278f1e9a92090d87c2f75f4cf9
 workflow-type: tm+mt
-source-wordcount: '26'
+source-wordcount: '37'
 ht-degree: 0%
 
 ---
 
-# Uso de efectos de texto
+# Cómo añadir texto
 
-Aprenda a añadir sombras paralelas, formas y texto de contorno.
+Descubra todas las diferentes formas en las que puede añadir texto y efectos de texto a sus proyectos creativos.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420222?quality=12&learn=on&hidetitle=true)

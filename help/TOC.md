@@ -8,9 +8,9 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 640c9ff5155574286e24e57b7d7644a0a303c529
+source-git-commit: 7c07e7b6ae9668e6bb86799f41e735414d4f4ca7
 workflow-type: tm+mt
-source-wordcount: '579'
+source-wordcount: '588'
 ht-degree: 5%
 
 ---
@@ -42,6 +42,12 @@ ht-degree: 5%
       + [Qué hay en la página de inicio](express/get-started.md)
       + [Introducción a las acciones rápidas](express/quick-actions.md)
       + [Introducción a las plantillas](express/introduction-templates.md)
+      + [Configuración de un kit de marca](express/brand.md)
+      + [Inicio de un proyecto](express/new-project.md)
+      + [Experiencia de un proyecto](express/workspace.md)
+      + [Cómo añadir texto](express/text-effects.md)
+      + [Cómo añadir una imagen](express/image-effects.md)
+      + [Cómo añadir una imagen de IA general](express/add-gen-ai-image.md)
       + [Programar publicaciones en redes sociales](express/schedule.md)
       + [Invitar a colaboradores del proyecto](express/collaborate.md)
       + [Obtener inspiración rápida](express/get-inspiration.md)
@@ -52,12 +58,9 @@ ht-degree: 5%
       + [Crear varias páginas](express/multiple-pages.md)
       + [Deshacer y rehacer](express/undo-redo.md)
       + [Usar Bibliotecas CC](express/cc-libraries.md)
-      + [Aplicar su marca](express/brand.md)
       + [Integración con Google Drive](express/google-drive.md)
       + [Cómo eliminar un fondo de una foto con un solo clic](express/remove-background.md)
       + [Perfeccionar un recorte](express/refine-cutout.md)
-      + [Uso de efectos de texto](express/text-effects.md)
-      + [Cómo añadir efectos y ajustes a una foto](express/image-effects.md)
       + [Crear texto curvo](express/create-curved-text.md)
    + Tutoriales de casos de uso {#expressusecase}
       + [Información general](express/overview-express-use-case-tutorials.md)
@@ -65,7 +68,6 @@ ht-degree: 5%
       + [Capacita a los equipos de marketing para crear contenido multicanal](express/multi-channel-marketing-content.md)
       + [Capacita a los equipos distribuidos para localizar contenido](express/localized-marketing-content.md)
       + [Impulsa la idea creativa](express/jumpstart-ideation.md)
-      + [Adobe Express para principiantes](express/adobe-express-beginners.md)
       + [Crea contenido de folletos para una campaña de marketing con Firefly](express/create-local-marketing.md)
       + [Crea contenido de reclutamiento e incorporación con Firefly](express/create-on-boarding.md)
       + [Crea carteles para redes sociales con Firefly](express/create-social-posters.md)
