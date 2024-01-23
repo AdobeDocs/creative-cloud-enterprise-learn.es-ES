@@ -8,9 +8,9 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 1e0bf73f3f6aa0ea96cb15d26fb31ec1a48f2d79
+source-git-commit: 94cf805a26f6e5a127795fb9f145ddd6dc3e06aa
 workflow-type: tm+mt
-source-wordcount: '602'
+source-wordcount: '620'
 ht-degree: 5%
 
 ---
@@ -54,12 +54,16 @@ ht-degree: 5%
       + [Cómo colaborar](express/collaborate.md)
       + [Cómo compartir y descargar](express/share.md)
       + [Cómo usar el historial de versiones](express/version-history.md)
-      + [Programar publicaciones en redes sociales](express/schedule.md)
+      + [Deshacer y rehacer](express/undo-redo.md)
       + [Obtener inspiración rápida](express/get-inspiration.md)
+      + [Introducción a las animaciones](express/intro-animation.md)
+      + [Diferentes tipos de animación](express/different-types-animation.md)
+      + [Ajuste de la configuración de las animaciones](express/tweak-animation.md)
+      + [¿Qué es la cronología de animación?](express/animation-timeline.md)
+      + [Programar publicaciones en redes sociales](express/schedule.md)
       + [Creación de plantillas](express/create-templates.md)
       + [Agrupación de objetos](express/group-objects.md)
       + [Crear varias páginas](express/multiple-pages.md)
-      + [Deshacer y rehacer](express/undo-redo.md)
       + [Usar Bibliotecas CC](express/cc-libraries.md)
       + [Integración con Google Drive](express/google-drive.md)
       + [Cómo eliminar un fondo de una foto con un solo clic](express/remove-background.md)
