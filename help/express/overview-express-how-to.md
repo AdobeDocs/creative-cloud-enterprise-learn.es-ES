@@ -6,9 +6,9 @@ role: User
 level: Beginner
 jira: KT-13994
 exl-id: f2cc51b1-b0be-4ca7-9723-92d851250463
-source-git-commit: 9ac4e6bef84f5020e18188c2a9e5fccb6f73bbb4
+source-git-commit: 825bff22978949e0bb47c6194af4d68f8cb38aa9
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '179'
 ht-degree: 2%
 
 ---
@@ -148,7 +148,7 @@ Empieza a crear trabajos sorprendentes que destaquen con IA generativa impulsada
    </td>
   <td>
          <a href="different-types-animation.md">
-            <img alt="Diferentes tipos de animación" src="assets/different-animations.png" />
+            <img alt="Diferentes tipos de animaciones" src="assets/different-animations.png" />
          </a>
    </td>
    <td>
@@ -160,6 +160,50 @@ Empieza a crear trabajos sorprendentes que destaquen con IA generativa impulsada
          <a href="animation-timeline.md">
             <img alt="¿Qué es la cronología de animación?" src="assets/what-is-animation-timeline.png" />
          </a>
+   </td>
+</tr>
+<tr>
+   <td>
+         <a href="stagger-animations.md">
+            <img alt="Cómo escalonar las animaciones" src="assets/stagger-animations.png" />
+         </a>
+   </td>
+   <td>
+         <a href="add-sections-animation.md">
+            <img alt="Adición de secciones a la animación" src="assets/add-sections.png" />
+         </a>
+   </td>
+   <td>
+         <a href="audio-animation.md">
+            <img alt="Añadir audio a las animaciones" src="assets/add-audio.png" />
+         </a>
+   </td>
+   <td>
+         <a href="resize-animations.md">
+            <img alt="Cómo cambiar el tamaño de las animaciones" src="assets/resize-animations.png" />
+         </a>
+   </td>
+</tr>
+<tr>
+   <td>
+         <a href="export-animations.md">
+            <img alt="Exportación de animaciones" src="assets/exporting-animations.png" />
+         </a>
+   </td>
+   <td>
+      <img alt="Separador" src="../assets/Whitespacer.png" />
+      <div>
+      <br>
+   </td>
+    <td>
+      <img alt="Separador" src="../assets/Whitespacer.png" />
+      <div>
+      <br>
+   </td>
+    <td>
+      <img alt="Separador" src="../assets/Whitespacer.png" />
+      <div>
+      <br>
    </td>
 </tr>
 </table>
