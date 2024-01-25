@@ -6,10 +6,10 @@ role: User
 level: Beginner
 jira: KT-13994
 exl-id: f2cc51b1-b0be-4ca7-9723-92d851250463
-source-git-commit: 825bff22978949e0bb47c6194af4d68f8cb38aa9
+source-git-commit: d1f45cf8f40f601e77ca752e0ac1d369e22db664
 workflow-type: tm+mt
-source-wordcount: '179'
-ht-degree: 2%
+source-wordcount: '235'
+ht-degree: 1%
 
 ---
 
@@ -213,8 +213,52 @@ Empieza a crear trabajos sorprendentes que destaquen con IA generativa impulsada
 <table style="table-layout:fixed">
 <tr>
    <td>
+         <a href="remove-background.md">
+            <img alt="Cómo eliminar el fondo de cualquier imagen" src="assets/background.png" />
+         </a>
+   </td>
+   <td>
+         <a href="intro-gen-ai.md">
+            <img alt="¿Cuáles son las nuevas funciones de IA de generación en Adobe Express?" src="assets/intro-gen-ai.png" />
+         </a>
+   </td>
+   <td>
+         <a href="object-eraser.md">
+            <img alt="Cómo usar la herramienta Borrador de objetos" src="assets/object-eraser.png" />
+         </a>
+   </td>
+   <td>
+         <a href="generative-fill.md">
+            <img alt="Cómo usar el relleno generativo" src="assets/gen-fill.png" />
+         </a>
+   </td>      
+</tr>
+<tr>
+   <td>
+      <a href="gen-text.md">
+         <img alt="Mejora del diseño de textos con la IA general" src="assets/text-design.png" />
+      </a>
+   </td>
+   <td>
+      <a href="text-to-template.md">
+         <img alt="Cómo usar la IA general de conversión de texto a plantilla" src="assets/text-to-template.png" />
+      </a>
+   </td>
+   <td>
+      <a href="bulk-translate.md">
+         <img alt="Cómo traducir tu contenido de forma masiva" src="assets/bulk-translate.png" />
+      </a>
+   </td>
+   <td>
+      <a href="edit-a-pdf.md">
+         <img alt="Cómo editar un PDF" src="assets/edit-pdf.png" />
+      </a>
+   </td>
+</tr>
+<tr>
+   <td>
       <a href="schedule.md">
-         <img alt="Programar publicaciones en redes sociales" src="assets/schedule.png" />
+         <img alt="Cómo utilizar el programador para el registro" src="assets/schedule.png" />
       </a>
    </td>
    <td>
@@ -244,15 +288,15 @@ Empieza a crear trabajos sorprendentes que destaquen con IA generativa impulsada
          <img alt="Integración con Google Drive" src="assets/google-drive.png" />
       </a>
   </td>
-   <td>
-         <a href="remove-background.md">
-            <img alt="Eliminar fondo" src="assets/background.png" />
-         </a>
-   </td>
   <td>
          <a href="create-curved-text.md">
             <img alt="Crear texto curvo" src="assets/curved-text.png" />
          </a>
    </td>
+   <td>
+    <img alt="Separador" src="../assets/Gray_thumbnail.png" />
+    <div>
+    <br>
+  </td>
 </tr>
 </table>
