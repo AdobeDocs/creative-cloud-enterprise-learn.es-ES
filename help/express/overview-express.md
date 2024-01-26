@@ -1,31 +1,52 @@
 ---
 title: Adobe [!DNL Express] Resumen
 description: Ponte al día con el Adobe [!DNL Express]
-feature: Graphic Design, Image Editing, Integrations
+feature: Graphic Design, Image Editing, Integrations, Gen AI
 role: User
 level: Beginner
 jira: KT-13380
 exl-id: 3c144e1a-f823-4551-b705-aa9dbca548f2
-source-git-commit: 640c9ff5155574286e24e57b7d7644a0a303c529
+source-git-commit: 35064a3ada3219c9fd28b8f87d3ffa20817f30c0
 workflow-type: tm+mt
-source-wordcount: '34'
-ht-degree: 11%
+source-wordcount: '72'
+ht-degree: 5%
 
 ---
 
 # Adobe [!DNL Express] visión general
 
-Adobe Express es una herramienta creativa fácil de usar, sin necesidad de experiencia.
+Diseña carretes y vídeos para TikTok, folletos, currículums, banners, logotipos y mucho más con la nueva aplicación de Adobe Express todo en uno para crear contenido de forma rápida y sencilla. Crea trabajos sorprendentes que destaquen con funciones de IA generativas basadas en el Adobe Firefly.
 
-## Rutas de aprendizaje
+## ¿Qué es Adobe Express?
+
+>[!VIDEO](https://video.tv.adobe.com/v/3420225?quality=12&learn=on&hidetitle=true)
+
+## Adobe [!DNL Express] tutoriales
 
 <table style="table-layout:fixed">
 <tr>
    <td>
-      <a href="overview-express-how-to.md">
-         <img alt="Tutorials de procedimientos de Adobe Express" src="assets/how-to-tutorials.png" />
+      <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to.html?#getting-started">
+         <img alt="Tutoriales de introducción" src="assets/get-started.png" />
       </a>
   </td>
+  <td>
+      <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to.html#basic-tasks">
+         <img alt="Tutoriales de tareas básicas" src="assets/basic-tasks.png" />
+      </a>
+  </td>
+   <td>
+      <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to.html#animation">
+         <img alt="Tutoriales de animación" src="assets/advanced-tasks.png" />
+      </a>
+  </td>
+  <td>
+      <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to.html#advanced-tasks">
+         <img alt="Tutoriales de animación" src="assets/animation.png" />
+      </a>
+  </td>
+  </tr>
+  <tr>
   <td>
       <a href="overview-express-use-case-tutorials.md">
          <img alt="Tutoriales de casos de uso de Adobes Express" src="assets/use-case-tutorials.png" />
@@ -41,9 +62,10 @@ Adobe Express es una herramienta creativa fácil de usar, sin necesidad de exper
     <div>
     <br>
   </td>
+  <td>
+    <img alt="Separador" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
 </tr>
 </table>
-
-## ¿Qué es Adobe Express?
-
->[!VIDEO](https://video.tv.adobe.com/v/3420225?quality=12&learn=on&hidetitle=true)
