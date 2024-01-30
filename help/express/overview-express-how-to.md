@@ -3,12 +3,12 @@ title: Adobe [!DNL Express] Tutorials de procedimientos
 description: Ponte al día con el Adobe [!DNL Express]
 feature: Graphic Design, Image Editing, Integrations
 role: User
-level: Beginner
+level: Beginner, Intermediate
 jira: KT-13994
 exl-id: f2cc51b1-b0be-4ca7-9723-92d851250463
-source-git-commit: 2ede4e3a049d839baf82116c06714a8d516bc54b
+source-git-commit: 4f03535f48b3ae4dc2b19529c2d96135c5e257ec
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: '265'
 ht-degree: 1%
 
 ---
@@ -289,14 +289,63 @@ Empieza a crear trabajos sorprendentes que destaquen con IA generativa impulsada
       </a>
   </td>
   <td>
+         <a href="refine-cutout.md">
+            <img alt="Perfeccionar un recorte" src="assets/cutouts.png" />
+         </a>
+   </td>
+   <td>
          <a href="create-curved-text.md">
             <img alt="Crear texto curvo" src="assets/curved-text.png" />
+         </a>
+   </td>
+</tr>
+</table>
+
+## Vídeo
+
+<table style="table-layout:fixed">
+<tr>
+   <td>
+         <a href="start-video.md">
+            <img alt="Cómo iniciar un proyecto de vídeo" src="assets/start-video.png" />
+         </a>
+   </td>
+  <td>
+         <a href="add-video-clips.md">
+            <img alt="Cómo añadir clips de vídeo" src="assets/add-video-clips.png" />
+         </a>
+   </td>
+   <td>
+         <a href="video-timeline.md">
+            <img alt="¿Qué es una línea de tiempo de vídeo?" src="assets/video-timeline.png" />
+         </a>
+   </td>
+   <td>
+         <a href="add-audio-video.md">
+            <img alt="Cómo añadir audio" src="assets/add-audio-video.png" />
+         </a>
+   </td>
+</tr>
+<tr>
+   <td>
+         <a href="export-video.md">
+            <img alt="Cómo exportar un vídeo" src="assets/export-video.png" />
          </a>
    </td>
    <td>
     <img alt="Separador" src="../assets/Gray_thumbnail.png" />
     <div>
     <br>
-  </td>
+   </td>
+   <td>
+    <img alt="Separador" src="../assets/Gray_thumbnail.png" />
+    <div>
+    <br>
+   </td>
+   <td>
+    <img alt="Separador" src="../assets/Gray_thumbnail.png" />
+    <div>
+    <br>
+   </td>
 </tr>
 </table>

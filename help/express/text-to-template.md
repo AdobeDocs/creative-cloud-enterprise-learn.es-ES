@@ -3,9 +3,9 @@ title: Cómo usar la IA general de conversión de texto a plantilla
 description: Aprenda a generar plantillas editables a partir de una descripción de texto en cuestión de segundos
 feature: Gen AI, Graphic Design
 role: User
-level: Beginner
+level: Intermediate
 jira: KT-14848
-source-git-commit: d4290715dc87b65a96942a38d5ab96b76f82d52b
+source-git-commit: 4f03535f48b3ae4dc2b19529c2d96135c5e257ec
 workflow-type: tm+mt
 source-wordcount: '43'
 ht-degree: 0%
