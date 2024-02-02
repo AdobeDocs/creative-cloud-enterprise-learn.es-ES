@@ -5,15 +5,15 @@ feature: Graphic Design
 role: User
 level: Beginner
 jira: KT-14828
-source-git-commit: 1e0bf73f3f6aa0ea96cb15d26fb31ec1a48f2d79
+source-git-commit: 409e067ded1abd3bdf5b7bedc7616112b4589a60
 workflow-type: tm+mt
-source-wordcount: '34'
+source-wordcount: '68'
 ht-degree: 0%
 
 ---
 
 # Cómo compartir y descargar
 
-Aprenda a compartir su proyecto con un compañero o con un cliente.
+Conoce las opciones para descargar y compartir proyectos en diferentes formatos de archivo como PNG, JPEG o PDF. Publica proyectos en la web y genera un enlace para acceder a ellos de forma sencilla, o programa y comparte contenido multimedia directamente en las plataformas de redes sociales, con opciones para personalizar las publicaciones en cada plataforma.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426936?quality=12&learn=on&hidetitle=true)

@@ -5,15 +5,15 @@ feature: Image Editing
 role: User
 level: Intermediate
 jira: KT-14892
-source-git-commit: b2ac01f2094dcf454ca322d14d0f3fe1340b530d
+source-git-commit: 409e067ded1abd3bdf5b7bedc7616112b4589a60
 workflow-type: tm+mt
-source-wordcount: '34'
+source-wordcount: '59'
 ht-degree: 0%
 
 ---
 
 # Creación de fondos para presentaciones
 
-Aprende a crear fondos atractivos para presentaciones de PowerPoint con la tecnología de Adobe Firefly de texto a imagen.
+Aprende a crear fondos atractivos para presentaciones de PowerPoint. Con texto a imagen, con la tecnología de Adobe Firefox, puede generar una imagen personalizada para su presentación y, a continuación, realizar más cambios en la imagen, aplicar efectos y descargarla para utilizarla en la presentación.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427117?quality=12&learn=on&hidetitle=true)

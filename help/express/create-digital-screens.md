@@ -5,15 +5,15 @@ feature: Image Editing
 role: User
 level: Intermediate
 jira: KT-14893
-source-git-commit: b2ac01f2094dcf454ca322d14d0f3fe1340b530d
+source-git-commit: 409e067ded1abd3bdf5b7bedc7616112b4589a60
 workflow-type: tm+mt
-source-wordcount: '40'
+source-wordcount: '65'
 ht-degree: 0%
 
 ---
 
 # Crear anuncios de pantalla digital para la oficina
 
-Aprende a usar la conversión de texto a plantilla con la tecnología del Adobe Firefly para crear anuncios de pantalla digital atractivos.
+Aprenda a crear anuncios de pantalla digital atractivos para la oficina. Con texto a plantilla, con tecnología de Adobe Firefly, puede generar una imagen personalizada con espacio para copia de texto. Se han añadido animaciones y rellenos generativos para hacer que el anuncio sea más atractivo.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427119?quality=12&learn=on&hidetitle=true)

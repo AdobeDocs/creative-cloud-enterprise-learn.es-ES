@@ -1,19 +1,19 @@
 ---
 title: Adición de secciones a la animación
-description: Aumenta la participación añadiendo nuevas escenas a la línea de tiempo
+description: Aumenta la participación añadiendo elementos como imágenes y encabezados a una animación
 feature: Graphic Design
 role: User
 level: Beginner
 jira: KT-14836
-source-git-commit: fcf6d4b5c663d7f03bb53ffc910edf3ef62d68e2
+source-git-commit: 409e067ded1abd3bdf5b7bedc7616112b4589a60
 workflow-type: tm+mt
-source-wordcount: '30'
+source-wordcount: '55'
 ht-degree: 0%
 
 ---
 
 # Adición de secciones a la animación
 
-Sube de nivel la animación añadiendo nuevas escenas a la línea de tiempo.
+Sube de nivel tu animación añadiendo elementos como imágenes y encabezados a una animación. Aprenda a añadir, duplicar, reorganizar o reemplazar elementos en una escena mientras mantiene las animaciones intactas.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426982?quality=12&learn=on&hidetitle=true)

@@ -5,15 +5,15 @@ feature: Graphic Design
 role: User
 level: Beginner
 jira: KT-14834
-source-git-commit: 94cf805a26f6e5a127795fb9f145ddd6dc3e06aa
+source-git-commit: 409e067ded1abd3bdf5b7bedc7616112b4589a60
 workflow-type: tm+mt
-source-wordcount: '24'
+source-wordcount: '48'
 ht-degree: 0%
 
 ---
 
-# c
+# ¿Qué es la cronología de animación?
 
-Obtenga más información sobre todos los componentes de la línea de tiempo de animación.
+Aprenda a navegar por la línea de tiempo de la animación y ajustarla. La cronología es una vista general de toda la animación, donde puede previsualizar y reducir/ampliar la duración de la animación.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426978?quality=12&learn=on&hidetitle=true)
