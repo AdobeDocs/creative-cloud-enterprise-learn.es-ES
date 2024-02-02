@@ -5,9 +5,9 @@ feature: Video Editing
 role: User
 level: Beginner
 jira: KT-14873
-source-git-commit: 79b9f6ba419663b707519aa6f62d0a265b8da38d
+source-git-commit: 38b45451db2c09b1e0080d370ef8002ad5fc914c
 workflow-type: tm+mt
-source-wordcount: '72'
+source-wordcount: '77'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,8 @@ ht-degree: 0%
 Aprende a añadir nuevos clips de vídeo a la línea de tiempo, ajustar su longitud, añadir transiciones y dividir clips para crear nuevas escenas.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427091?quality=12&learn=on&hidetitle=true)
+
+## Vídeos adicionales de esta serie
 
 <table style="table-layout:fixed">
 <tr>

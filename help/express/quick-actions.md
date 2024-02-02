@@ -5,9 +5,9 @@ feature: Graphic Design
 role: User
 level: Beginner
 jira: KT-14818
-source-git-commit: 409e067ded1abd3bdf5b7bedc7616112b4589a60
+source-git-commit: 38b45451db2c09b1e0080d370ef8002ad5fc914c
 workflow-type: tm+mt
-source-wordcount: '52'
+source-wordcount: '68'
 ht-degree: 0%
 
 ---
@@ -17,3 +17,30 @@ ht-degree: 0%
 Las acciones rápidas ahorran tiempo y proporcionan herramientas básicas de edición para el trabajo creativo diario. Entre los ejemplos de acciones rápidas se incluyen combinar y recortar vídeos, quitar fondos, cambiar el tamaño de imágenes y vídeos, convertir vídeos en GIF y editar PDF.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426925?quality=12&learn=on&hidetitle=true)
+
+## Vídeos adicionales de esta serie
+
+<table style="table-layout:fixed">
+<tr>
+ <td>
+      <a href="get-started.md">
+         <img alt="¿Qué hay en la página de inicio?" src="assets/home-page.png" />
+      </a>
+ </td>
+ <td>
+      <a href="introduction-templates.md">
+         <img alt="Introducción a las acciones rápidas" src="assets/introduction-templates.png" />
+      </a>
+ </td>
+ <td>
+      <img alt="Separador" src="../assets/Whitespacer.png" />
+      <div>
+      <br>
+   </td>
+   <td>
+      <img alt="Separador" src="../assets/Whitespacer.png" />
+      <div>
+      <br>
+   </td>
+</tr>
+</table>
