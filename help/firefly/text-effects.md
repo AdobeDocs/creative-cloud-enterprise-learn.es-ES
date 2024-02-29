@@ -1,20 +1,21 @@
 ---
 title: Efectos de texto
-description: Aprenda a utilizar los efectos de texto, con tecnología de Adobe Firefly
+description: Aprenda a crear texto único e inspirador para sus proyectos utilizando sencillos mensajes de texto
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
 jira: KT-13526
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+exl-id: e3d55ec7-e7f5-44dd-a633-09e64ec23b60
+source-git-commit: eb56f9ef10efa4155a6c96928048baaa966a5f92
 workflow-type: tm+mt
-source-wordcount: '42'
-ht-degree: 4%
+source-wordcount: '54'
+ht-degree: 1%
 
 ---
 
 # Efectos de texto
 
-Aprenda a utilizar los efectos de texto, con tecnología de Adobe Firefly, para crear imágenes de título únicas e inspiradoras para un boletín. Unirse al Adobe Firefly (beta) [aquí](https://firefly.adobe.com/).
+Aprenda a crear texto único e inspirador para sus proyectos utilizando sencillos mensajes de texto. Los efectos de texto le permiten mejorar su creatividad y crear texto extraordinario para sus proyectos. Probar Adobe Firefly [aquí](https://firefly.adobe.com/).
 
 <br> 
 
