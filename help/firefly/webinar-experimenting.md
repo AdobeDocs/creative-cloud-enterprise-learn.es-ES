@@ -1,21 +1,21 @@
 ---
 title: Experimentación con el seminario web de Firefly Beta
-description: Únete a Howard Pinsky mientras se sumerge en la versión beta de Firefly
+description: Únete a Howard Pinsky mientras se sumerge en Firefly
 feature: Image Editing, Gen AI
 role: User
 level: Beginner
 jira: KT-13427
-exl-id: e75836e5-206a-4fe1-807e-0ab973ea62ea
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+exl-id: ede87fb6-3a34-40e5-b29c-92f626452ccf
+source-git-commit: 3dd3f81266103593478531c789beda40ceb38b90
 workflow-type: tm+mt
-source-wordcount: '33'
+source-wordcount: '29'
 ht-degree: 0%
 
 ---
 
 # Experimentación con el seminario web de Firefly beta
 
-Únete a Howard Pinsky en este seminario web mientras profundiza en la versión beta de Firefly.
+Únete a Howard Pinsky en este seminario web mientras se sumerge en Firefly.
 
 <br> 
 
