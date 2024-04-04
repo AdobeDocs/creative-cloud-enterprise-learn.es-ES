@@ -5,7 +5,8 @@ feature: Graphic Design, Gen AI
 role: User
 level: Beginner
 jira: KT-15269
-source-git-commit: 88fe17c839859a4fdc39f1ebc7494cc226beaab8
+exl-id: ba38dcbf-5ccd-4060-a193-8773358b275a
+source-git-commit: d775ef25e6354d1f98d3b1a1afed0d946330e983
 workflow-type: tm+mt
 source-wordcount: '72'
 ht-degree: 1%
