@@ -7,14 +7,14 @@ level: Beginner, Intermediate
 exl-id: dcd379c5-3f60-4056-9d60-589890d4de66
 source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '196'
-ht-degree: 1%
+source-wordcount: '194'
+ht-degree: 0%
 
 ---
 
 # [!DNL Capture]
 
-Adobe [!DNL Capture] convierte los teléfonos móviles y las tabletas en una herramienta de colección de diseño. Los usuarios pueden crear muchos tipos diferentes de activos (elementos digitales individuales para ilustraciones).   Estos activos se sincronizan automáticamente con otras aplicaciones de Adobe de escritorio y móviles. Los usuarios pueden incorporarlos a sus proyectos creativos o compartirlos fácilmente con colaboradores.
+El Adobe [!DNL Capture] convierte los teléfonos móviles y las tabletas en una herramienta de colección de diseño. Los usuarios pueden crear muchos tipos diferentes de activos (elementos digitales individuales para ilustraciones).   Estos activos se sincronizan automáticamente con otras aplicaciones de Adobe de escritorio y móviles. Los usuarios pueden incorporarlos a sus proyectos creativos o compartirlos fácilmente con colaboradores.
 
 ## Buscar Tutorials de productos
 
@@ -27,7 +27,7 @@ Adobe [!DNL Capture] convierte los teléfonos móviles y las tabletas en una her
     <div>
    <a href="capture.md#tutorial1"><strong>Inspírate en el mundo que te rodea</strong></a>
     </div>
-    <em>Utiliza las potentes herramientas de selección y edición de color de Adobe Capture para cambiar drásticamente una imagen que se ajuste a tus necesidades de marca corporativa</em>
+    <em>Usa las potentes herramientas de selección y edición de color de Adobe Capture para cambiar drásticamente una imagen que se ajuste a tus necesidades de construcción de marca corporativas</em>
     <br>
   </td>
   <td>
@@ -52,7 +52,7 @@ Transforma imágenes y vídeos de tu dispositivo móvil en bloques de construcci
 
 En este tutorial, aprenderás a:
 * Diseña en cualquier parte
-* Integración con aplicaciones de escritorio mediante Bibliotecas CC
+* Integración con aplicaciones de escritorio mediante CC Libraries
 * Acceder a miles de Adobe Fonts
 
 **Presentado por:**
@@ -60,7 +60,7 @@ Emily Palmer, consultora de soluciones (Digital Media)
 
 ![Logotipo de Capture](../assets/ca_appicon_96.png)
 
-**[!DNL Capture]Recursos**
+**[!DNL Capture]recursos**
 
 [Información y asistencia](https://helpx.adobe.com/mobile-apps/help/capture-faq.html) es el centro de tutoriales adicionales y vínculos a foros de la comunidad.
 

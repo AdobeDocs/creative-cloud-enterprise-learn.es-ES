@@ -7,7 +7,7 @@ level: Beginner, Intermediate
 exl-id: f42f9f4c-072d-496a-842a-3da503bdaca1
 source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '337'
+source-wordcount: '333'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ Photoshop es el mejor software de diseño gráfico e imágenes del mundo, y perm
     <div>
    <a href="photoshop.md#tutorial1"><strong>Editar imágenes para que coincidan con tu campaña</strong></a>
     </div>
-    <em>Utiliza las potentes herramientas de selección y edición de color de Adobe Photoshop para cambiar drásticamente una imagen que se ajuste a tus necesidades de marca corporativa</em>
+    <em>Usa las potentes herramientas de selección y edición de color de Adobe Photoshop para cambiar drásticamente una imagen que se ajuste a tus necesidades de construcción de marca corporativas</em>
     <br>
   </td>
   <td>
@@ -83,7 +83,7 @@ A.J Wood, consultor sénior de soluciones (Digital Media)
 
 **Recursos de Photoshop**
 
-[Información y asistencia](https://helpx.adobe.com/support/photoshop.html) es el centro de tutoriales adicionales, [Novedades de la aplicación](https://helpx.adobe.com/photoshop/using/whats-new.html)y vínculos a foros de la comunidad.
+[Información y asistencia](https://helpx.adobe.com/support/photoshop.html) es el centro de tutoriales adicionales, [Novedades](https://helpx.adobe.com/photoshop/using/whats-new.html) y vínculos a foros de la comunidad.
 
 **Versión de octubre de 2020**
 

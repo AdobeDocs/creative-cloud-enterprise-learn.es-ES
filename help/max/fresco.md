@@ -7,7 +7,7 @@ level: Beginner, Intermediate
 exl-id: 1e621e3a-ce7b-4cb1-8fdb-2f20e70be017
 source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '324'
+source-wordcount: '320'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ Adobe Fresco es una aplicación multiplataforma para crear dibujos y pinturas me
     <div>
    <a href="fresco.md#tutorial1"><strong>Introducción al dibujo con Adobe Fresco</strong></a>
     </div>
-    <em>Utiliza las potentes herramientas de selección y edición de color de Adobe fresco para cambiar drásticamente una imagen que se ajuste a tus necesidades de marca corporativas</em>
+    <em>Usa las potentes herramientas de edición de color y selección de Adobe Fresco para cambiar drásticamente una imagen que se ajuste a tus necesidades de construcción de marca corporativas</em>
     <br>
   </td>
   <td>
@@ -35,9 +35,9 @@ Adobe Fresco es una aplicación multiplataforma para crear dibujos y pinturas me
       <img alt="Crear ilustraciones con textura: Fresco a Illustrator" src="../assets/fresco_textureToVector_tanonis_thumbnail.jpg" />
    </a>
     <div>
-   <a href="fresco.md#tutorial2"><strong>Crear ilustraciones con textura: Fresco a Illustrator</strong></a>
+   <a href="fresco.md#tutorial2"><strong>Crear ilustración con textura: Fresco a Illustrator</strong></a>
     </div>
-    <em>Pinte y dibuje texturas en Adobe Fresco y aprenda a utilizarlas en Illustrator</em>
+    <em>Pinta y dibuja texturas en Adobe Fresco y aprende a usarlas en Illustrator</em>
     <br>
   </td>
   <td>
@@ -83,7 +83,7 @@ Liz Tanonis, consultora de soluciones (Digital Media)
 
 **Recursos de Fresco**
 
-[Información y asistencia](https://helpx.adobe.com/support/adobe-fresco.html) es el centro de tutoriales adicionales, [Novedades de la aplicación](https://helpx.adobe.com/fresco/using/whats-new.html)y vínculos a foros de la comunidad.
+[Información y asistencia](https://helpx.adobe.com/support/adobe-fresco.html) es el centro de tutoriales adicionales, [Novedades](https://helpx.adobe.com/fresco/using/whats-new.html) y vínculos a foros de la comunidad.
 
 **Versión de octubre de 2020**
 

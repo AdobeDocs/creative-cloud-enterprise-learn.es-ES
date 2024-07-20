@@ -1,5 +1,5 @@
 ---
-title: Creación de gráficos web atractivos combinando Adobe [!DNL Stock] imágenes con CSS
+title: Crea gráficos web atractivos combinando imágenes de Adobe  [!DNL Stock] con CSS
 description: Crea la unidad de marca con imágenes variables combinando colores y degradados en tu campaña publicitaria
 feature: Licensable Assets
 role: User
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 ---
 
-# Creación de gráficos web atractivos combinando Adobe [!DNL Stock] imágenes con CSS
+# Crear gráficos web atractivos combinando imágenes de Adobe [!DNL Stock] con CSS
 
 Crea la unidad de marca con distintas imágenes combinando colores y degradados en tu campaña publicitaria.
 

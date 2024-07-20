@@ -1,5 +1,5 @@
 ---
-title: Creación de un gráfico comparativo de funciones de productos con Adobe [!DNL Stock]
+title: Crear un gráfico comparativo de características de productos usando el Adobe  [!DNL Stock]
 description: Crea un gráfico que compare los planes de precios de los productos para ofrecer a los clientes potenciales la información que necesitan de un vistazo
 feature: Licensable Assets
 role: User
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 ---
 
-# Creación de un gráfico comparativo de funciones de productos con Adobe [!DNL Stock]
+# Crear un gráfico comparativo de características de productos usando el Adobe [!DNL Stock]
 
 Crea un gráfico que compare los planes de precios de los productos para ofrecer a los clientes potenciales la información que necesitan de un vistazo.
 

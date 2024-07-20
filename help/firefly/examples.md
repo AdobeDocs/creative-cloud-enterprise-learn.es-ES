@@ -5,7 +5,8 @@ feature: Graphic Design, Gen AI
 role: User
 level: Beginner
 jira: KT-15042
-source-git-commit: eb56f9ef10efa4155a6c96928048baaa966a5f92
+exl-id: 878bda70-04d0-4dae-b3f1-997bf31d9a0b
+source-git-commit: 5067e02da7d74d366c797e81a6a5d0ee9ac69feb
 workflow-type: tm+mt
 source-wordcount: '43'
 ht-degree: 2%
@@ -14,9 +15,8 @@ ht-degree: 2%
 
 # Ejemplos de cómo usar Firefly
 
-Aprende a usar Firefly para crear presentaciones de PowerPoint inspiradoras, paneles de fotografías, ideas, protectores de pantalla y mucho más. Probar Adobe Firefly [aquí](https://firefly.adobe.com/).
+Aprende a usar Firefly para crear presentaciones de PowerPoint inspiradoras, paneles de fotografías, ideas, protectores de pantalla y mucho más. Pruebe el Adobe Firefly [aquí](https://firefly.adobe.com/).
 
 <br> 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427611?quality=12&learn=on&hidetitle=true)
-

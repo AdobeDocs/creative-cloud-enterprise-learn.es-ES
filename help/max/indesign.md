@@ -7,7 +7,7 @@ level: Beginner, Intermediate
 exl-id: eae51aea-4c17-4356-bfb0-720f87597ef7
 source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '425'
+source-wordcount: '421'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ La aplicación estándar del sector para crear documentos atractivos para la pub
     <div>
     <a href="indesign.md#tutorial1"><strong>Generar códigos QR</strong></a>
     </div>
-    <em>Generar código QR que vincule a un sitio web</em>
+    <em>Generar código QR vinculado a un sitio web</em>
     <br>
   </td>
   <td>
@@ -35,19 +35,21 @@ La aplicación estándar del sector para crear documentos atractivos para la pub
       <img alt="Compartir para revisión desde InDesign" src="../assets/indesign_shareforreview_palmer_thumbnail.jpg" />
    </a>
     <div>
-   <a href="indesign.md#tutorial2"><strong>Compartir para revisión desde InDesign</strong></a>
+   <a href="indesign.md#tutorial2"><strong>Compartir para revisión desde el InDesign</strong></a>
     </div>
-    <em>Experiencia de revisión creativa perfecta para diseñadores y miembros de su equipo</em>
+    <em>Experiencia perfecta de revisión creativa para diseñadores y miembros de su equipo</em>
     <br>
   </td>
   <td>
     <a href="indesign.md#tutorial3">
-        <img alt="Importar comentarios del PDF desde una revisión del Document Cloud" src="../assets/indesign_pdfcomments_murphy_thumbnail.jpg" />
+        <img alt="Importar comentarios del PDF desde un documento 
+Cloud Review" src="../assets/indesign_pdfcomments_murphy_thumbnail.jpg" />
     </a>
     <div>
-    <a href="indesign.md#tutorial3"><strong>Importar comentarios del PDF desde una revisión del Document Cloud</strong></a>
+    <a href="indesign.md#tutorial3"><strong>Importar comentarios del PDF desde un documento 
+Revisión de la nube</strong></a>
     </div>
-    <em>Importar comentarios de un PDF directamente en InDesign y aplicar rápidamente los cambios solicitados</em>
+    <em>Importa comentarios de un PDF directamente en InDesign y aplica rápidamente los cambios solicitados</em>
     <br>
   </td>
 </tr>
@@ -59,7 +61,7 @@ La aplicación estándar del sector para crear documentos atractivos para la pub
     <div>
    <a href="indesign.md#tutorial4"><strong>Agregar archivo de vídeo al documento de InDesign</strong></a>
     </div>
-    <em>Añade vídeo al InDesign. Enviar al PDF y publicar en línea</em>
+    <em>Agregar vídeo al InDesign. Enviar al PDF y publicar en línea</em>
     <br>
   </td>
  <td>
@@ -142,11 +144,11 @@ En este tutorial, aprenderás a:
 **Presentado por:**
 Patti Sokol, consultora principal de soluciones (Digital Media)
 
-![Logotipo de InDesign](../assets/id_appicon_96.png)
+![InDesignLogo](../assets/id_appicon_96.png)
 
 **Recursos de InDesign**
 
-[Información y asistencia](https://helpx.adobe.com/support/indesign.html) es el centro de tutoriales adicionales, [Novedades de la aplicación](https://helpx.adobe.com/indesign/user-guide.html/indesign/using/whats-new.ug.html)y vínculos a foros de la comunidad.
+[Información y asistencia](https://helpx.adobe.com/support/indesign.html) es el centro de tutoriales adicionales, [Novedades](https://helpx.adobe.com/indesign/user-guide.html/indesign/using/whats-new.ug.html) y vínculos a foros de la comunidad.
 
 **Versión de octubre de 2020**
 

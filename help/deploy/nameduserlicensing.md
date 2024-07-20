@@ -7,8 +7,8 @@ feature: Deploy
 exl-id: 9dbdb057-6684-4750-bf9d-8af7a32bfe14
 source-git-commit: f17ea20ac8623dae0c681753b4bde250a1c9b06e
 workflow-type: tm+mt
-source-wordcount: '633'
-ht-degree: 2%
+source-wordcount: '615'
+ht-degree: 0%
 
 ---
 
@@ -22,7 +22,7 @@ Si su organización no está usando NUL y sigue usando la implementación serial
 
 ## Acerca de las licencias de usuario designadas
 
-[Licencias de usuario designadas](https://helpx.adobe.com/enterprise/using/licensing.html) es un modelo de licencia de software que permite asignar el software a un individuo en lugar de a un número de serie o dispositivo. NUL ofrece a los administradores de TI seguridad de nivel empresarial con administración avanzada de identidades de usuario y permite una implementación y administración sencillas de aplicaciones mediante Adobe Admin Console.
+[Licencias de usuario designadas](https://helpx.adobe.com/enterprise/using/licensing.html) es un modelo de licencia de software que permite asignar software a un individuo en lugar de a un número de serie o dispositivo. NUL ofrece a los administradores de TI seguridad de nivel empresarial con administración avanzada de identidades de usuario y permite una implementación y administración sencillas de aplicaciones mediante Adobe Admin Console.
 
 ## Ventajas de las licencias de usuario designadas:
 
@@ -32,7 +32,7 @@ Si su organización no está usando NUL y sigue usando la implementación serial
 
 * Aprovecha el servicio de expertos.
 
-  El Contrato de licencias de duración determinada para empresas con Adobe ofrece sesiones ilimitadas de 30 minutos por teléfono o conferencia web con un experto en Adobe para ayudarle en cualquier problema. Para reservar una sesión, vaya a la pestaña Asistencia técnica de Admin Console y haga clic en **Solicitar una sesión con un experto**.
+  El Contrato de licencias de duración determinada para empresas con Adobe ofrece sesiones ilimitadas de 30 minutos por teléfono o conferencia web con un experto en Adobe para ayudarle en cualquier problema. Para reservar una sesión, ve a la pestaña Asistencia técnica en Admin Console y haz clic en **Solicitar sesión con el servicio de expertos**.
 
 * ¿Un gran número de usuarios? No hay problema.
 
@@ -46,4 +46,4 @@ Si su organización no está usando NUL y sigue usando la implementación serial
 
   Al aprovechar NUL, los usuarios tendrán acceso a las principales empresas productivas, como Adobe Creative Cloud y Adobe Document Cloud. Puedes hacer muchas cosas: crear y firmar documentos de forma segura; crear rápidamente PDF personalizados; iniciar un proyecto creativo en una tablet antes de llevarlo al escritorio; compartir documentos con un equipo a través de Document Cloud; y trabajar en nuevos proyectos de equipo en Adobe XD. Nuestros servicios basados en la nube facilitan el uso compartido de activos y la colaboración como equipo remoto.
 
-Los desafíos del flujo de trabajo moderno requieren soluciones modernas. Deja que te ayudemos a realizar la transición a las licencias de usuario designadas. Echa un vistazo al [Guía sobre migración de licencias de usuario designadas](https://offers.adobe.com/content/dam/offer-manager/en/na/marketing/CCE/Adobe_Named_User_Licensing_Migration_Guide.pdf) para empezar con la transición.
+Los desafíos del flujo de trabajo moderno requieren soluciones modernas. Deja que te ayudemos a realizar la transición a las licencias de usuario designadas. Consulta la [Guía de migración de licencias de usuario designadas](https://offers.adobe.com/content/dam/offer-manager/en/na/marketing/CCE/Adobe_Named_User_Licensing_Migration_Guide.pdf) para empezar tu transición.

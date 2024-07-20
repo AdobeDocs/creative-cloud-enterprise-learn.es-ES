@@ -15,7 +15,7 @@ ht-degree: 0%
 
 # Tutoriales de Adobe 3D y RV
 
-Crea contenido en 3D atractivo más rápido con iluminación, materiales y modelos de alta calidad. [!DNL Dimension] facilita la creación de visualizaciones de marca, ilustraciones, bocetos de productos, diseños de envases y otros trabajos creativos. Seleccione una imagen para ver un tutorial.
+Crea contenido en 3D atractivo más rápido con iluminación, materiales y modelos de alta calidad. [!DNL Dimension] facilita la creación de visualizaciones de marca, ilustraciones, bocetos de productos, diseños de empaquetado y otros trabajos creativos. Seleccione una imagen para ver un tutorial.
 
 <table>
 <tr>
@@ -31,12 +31,12 @@ Crea contenido en 3D atractivo más rápido con iluminación, materiales y model
   </td>
   <td>
    <a href="assets/CreateRealistic3DMockupswithAdobeStockandDimension.pdf">
-      <img alt="Crea bocetos en 3D realistas con Adobe [!DNL Stock] y [!DNL Dimension]" src="assets/CreateRealistic3DMockupswithAdobeStockandDimension.jpg" />
+      <img alt="Crear bocetos 3D realistas con Adobe [!DNL Stock] y [!DNL Dimension]" src="assets/CreateRealistic3DMockupswithAdobeStockandDimension.jpg" />
    </a>
     <div>
-   <a href="assets/CreateRealistic3DMockupswithAdobeStockandDimension.pdf"><strong>Crea bocetos en 3D realistas con Adobe [!DNL Stock] y [!DNL Dimension] (PDF)</strong></a>
+   <a href="assets/CreateRealistic3DMockupswithAdobeStockandDimension.pdf"><strong>Crear bocetos 3D realistas con el Adobe [!DNL Stock] y [!DNL Dimension] (PDF)</strong></a>
     </div>
-    <em>Combina fácilmente un diseño 2D con un modelo 3D mediante Adobe [!DNL Stock] y gráficos colocados en Adobe [!DNL Dimension]</em>
+    <em>Combina fácilmente un diseño 2D con un modelo 3D usando el Adobe [!DNL Stock] y coloca gráficos en el Adobe [!DNL Dimension]</em>
     <br>
   </td>
   <td>
@@ -44,9 +44,9 @@ Crea contenido en 3D atractivo más rápido con iluminación, materiales y model
       <img alt="Visualiza diseños o patrones textiles en objetos 3D con Adobe [!DNL Dimension]" src="assets/VisualizeTextileDesignsorPatternson3DObjectswithAdobeDimension.jpg" />
    </a>
     <div>
-   <a href="assets/VisualizeTextileDesignsorPatternson3DObjectswithAdobeDimension.pdf"><strong>Visualiza diseños o patrones textiles en objetos 3D con Adobe [!DNL Dimension] (PDF)</strong></a>
+   <a href="assets/VisualizeTextileDesignsorPatternson3DObjectswithAdobeDimension.pdf"><strong>Visualizar diseños o patrones textiles en objetos 3D con Adobe [!DNL Dimension] (PDF)</strong></a>
     </div>
-    <em>Crea una representación ultra realista de tu producto final en cuestión de minutos</em>
+    <em>Crea una representación ultrarrealista de tu producto final en cuestión de minutos</em>
     <br>
   </td>
   <td>
@@ -56,7 +56,7 @@ Crea contenido en 3D atractivo más rápido con iluminación, materiales y model
     <div>
    <a href="../cce/assets/VisualizeyourProductinaRealisticEnvironment.pdf"><strong>Visualiza tu producto en un entorno realista (PDF)</strong></a>
     </div>
-    <em>Cuando quieras ver cómo quedarán tus productos en el mundo real, utiliza Adobe [!DNL Dimension] es tu aplicación de referencia</em>
+    <em>Cuando quieras ver cómo quedarán tus productos en el mundo real, el Adobe [!DNL Dimension] es tu aplicación de referencia</em>
     <br>
   </td>
 </tr>
@@ -68,7 +68,7 @@ Crea contenido en 3D atractivo más rápido con iluminación, materiales y model
     <div>
    <a href="mastering3dlighting.md"><strong>Sugerencias y técnicas para dominar la iluminación 3D en CGI</strong></a>
     </div>
-    <em>Aprende sobre la iluminación 3D y cómo crear diferentes condiciones de luz que pueden alterar por completo una escena generada por ordenador y la forma en que los objetos se ven en ella</em>
+    <em>Descubre la iluminación 3D y cómo crear diferentes condiciones de luz que pueden alterar por completo una escena generada por ordenador y el aspecto que tienen los objetos en ella</em>
     <br>
   </td>
   <td>
@@ -76,19 +76,19 @@ Crea contenido en 3D atractivo más rápido con iluminación, materiales y model
       <img alt="Creación de fotografías virtuales fotorrealistas con representación y composición 3D" src="assets/Photorealistic_TOC.png" />
    </a>
     <div>
-   <a href="photorealistic.md"><strong>Creación de fotografías virtuales fotorrealistas con representación y composición 3D</strong></a>
+   <a href="photorealistic.md"><strong>Creación de fotografía virtual con realismo fotográfico con representación y composición en 3D</strong></a>
     </div>
-    <em>Aprende a crear fotos virtuales increíblemente engañosas y fotorrealistas con la composición y representación de imágenes en 3D en Adobe [!DNL Dimension]</em>
+    <em>Aprende a crear fotografías virtuales increíblemente engañosas y fotorrealistas con la composición y representación de imágenes en 3D en el Adobe [!DNL Dimension]</em>
     <br>
   </td>
   <td>
    <a href="3ddimensionstock.md">
-      <img alt="Personaliza y marca un modelo en 3D con [!DNL Dimension] y ADOBE [!DNL Stock]" src="assets/3ddimensionstock.jpg" />
+      <img alt="Personaliza y marca un modelo en 3D con [!DNL Dimension] y Adobe [!DNL Stock]" src="assets/3ddimensionstock.jpg" />
    </a>
     <div>
-   <a href="3ddimensionstock.md"><strong>Personaliza y marca un modelo en 3D con [!DNL Dimension] y ADOBE [!DNL Stock]</strong></a>
+   <a href="3ddimensionstock.md"><strong>Personaliza y marca un modelo 3D con [!DNL Dimension] y el Adobe [!DNL Stock]</strong></a>
     </div>
-    <em>Personaliza y marca un modelo en 3D en [!DNL Dimension] el uso de materiales, propiedades medioambientales, iluminación y fotografía para crear imágenes fotorrealistas para cualquier proyecto de diseño</em>
+    <em>Personaliza y marca un modelo en 3D en [!DNL Dimension] usando materiales, propiedades ambientales, iluminación y fotografía, para crear imágenes fotorrealistas para cualquier proyecto de diseño</em>
     <br>
   </td>
   <td>

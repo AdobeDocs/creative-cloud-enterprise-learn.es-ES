@@ -15,7 +15,7 @@ ht-degree: 1%
 
 # Creación de un modelo personalizado con estilos
 
-Aprenda a crear modelos personalizados en Firefly para crear nuevas imágenes para la marca de su organización utilizando tipos específicos de estilos, como fondos, colores y tonos. Los modelos personalizados te permiten crear contenido relevante y personalizado a escala. Probar Adobe Firefly [aquí](https://firefly.adobe.com/).
+Aprenda a crear modelos personalizados en Firefly para crear nuevas imágenes para la marca de su organización utilizando tipos específicos de estilos, como fondos, colores y tonos. Los modelos personalizados te permiten crear contenido relevante y personalizado a escala. Pruebe el Adobe Firefly [aquí](https://firefly.adobe.com/).
 
 <br> 
 
@@ -23,4 +23,4 @@ Aprenda a crear modelos personalizados en Firefly para crear nuevas imágenes pa
 
 >[!IMPORTANT]
 >
->Más información sobre la [arquitectura de seguridad y flujo de datos de modelos personalizados](https://www.adobe.com/content/dam/cc/en/trust-center/ungated/whitepapers/creative-cloud/adobe-firefly-custom-models-security-fact-sheet.pdf).
+>Obtén más información sobre la [arquitectura de seguridad y el flujo de datos de los modelos personalizados](https://www.adobe.com/content/dam/cc/en/trust-center/ungated/whitepapers/creative-cloud/adobe-firefly-custom-models-security-fact-sheet.pdf).

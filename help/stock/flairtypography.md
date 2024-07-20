@@ -1,6 +1,6 @@
 ---
 title: Añade estilo a la tipografía con máscaras y animación
-description: Da vida a tu texto con elementos de Adobe [!DNL Stock] y estilos de animación de After Effects
+description: Da vida a tu texto con elementos de Adobe [!DNL Stock]  y estilos de animación de After Effects
 feature: Licensable Assets
 role: User
 level: Beginner, Intermediate
@@ -15,6 +15,6 @@ ht-degree: 0%
 
 # Añade estilo a la tipografía con máscaras y animación
 
-Da vida a tu texto con elementos de Adobe [!DNL Stock] y estilos de animación de After Effects.
+Dale vida a tu texto con elementos del Adobe [!DNL Stock] y estilos de animación de After Effects.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331807?hidetitle=true)

@@ -25,7 +25,7 @@ La aplicación moderna para ilustraciones y gráficos. Crea logotipos, iconos, i
       <img alt="Utilizar símbolos para actualizar varias instancias de icono" src="../assets/Illustrator_symbols_sokol_thumbnail.jpg" />
    </a>
     <div>
-   <a href="illustrator.md#tutorial1"><strong>Utilizar símbolos para actualizar varias instancias de icono</strong></a>
+   <a href="illustrator.md#tutorial1"><strong>Usar símbolos para actualizar varias instancias de icono</strong></a>
     </div>
     <em>Reducir el trabajo manual y mantener la coherencia con los símbolos</em>
     <br>
@@ -35,7 +35,7 @@ La aplicación moderna para ilustraciones y gráficos. Crea logotipos, iconos, i
         <img alt="Alineación de texto e imágenes con el ajuste de pictogramas" src="../assets/illustrator_glyphAlign_sokol_thumbnail.jpg" />
     </a>
     <div>
-    <a href="illustrator.md#tutorial2"><strong>Alineación de texto e imágenes con el ajuste de pictogramas</strong></a>
+    <a href="illustrator.md#tutorial2"><strong>Alinear texto e imágenes con ajuste de pictograma</strong></a>
     </div>
     <em>Ajuste rápidamente los pictogramas a regiones importantes del documento</em>
     <br>

@@ -7,7 +7,7 @@ level: Beginner, Intermediate
 exl-id: 89b621a6-083c-4e1b-b23a-f4ba73e6755f
 source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '709'
+source-wordcount: '708'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ Adobe XD es una herramienta de diseño de experiencias de usuario y creación de
       <img alt="Crear componentes con estados con cursor encima" src="../assets/Xd_hoverstates_components_thumbnail.jpg" />
    </a>
     <div>
-   <a href="xd.md#tutorial1"><strong>Crear componentes con estados con cursor encima</strong></a>
+   <a href="xd.md#tutorial1"><strong>Crear componentes con estados del ratón sobre el vínculo</strong></a>
     </div>
     <em>Crea botones reutilizables y redimensionables dinámicamente para tus diseños interactivos</em>
     <br>
@@ -47,19 +47,21 @@ Adobe XD es una herramienta de diseño de experiencias de usuario y creación de
     <div>
     <a href="xd.md#tutorial3"><strong>Trabajar con pilas</strong></a>
     </div>
-    <em>Utilice la propiedad stack para reorganizar fácilmente los elementos</em>
+    <em>Usar la propiedad de pila para reorganizar fácilmente los elementos</em>
     <br>
   </td>
 </tr>
 <tr>
  <td>
     <a href="xd.md#tutorial4">
-        <img alt="Crear un prototipo: vínculos de anclaje y grupos de desplazamiento" src="../assets/XD_Scrolls_Thumbnail_Murphy.jpg" />
+        <img alt="Crear un prototipo: vínculos de anclaje y 
+Desplazar grupos" src="../assets/XD_Scrolls_Thumbnail_Murphy.jpg" />
     </a>
     <div>
-    <a href="xd.md#tutorial4"><strong>Crear un prototipo: vínculos de anclaje y grupos de desplazamiento</strong></a>
+    <a href="xd.md#tutorial4"><strong>Crear un prototipo: vínculos de anclaje y 
+Desplazar grupos</strong></a>
     </div>
-    <em>Añadir navegación y desplazamiento a un prototipo</em>
+    <em>Agregar navegación y desplazamiento a un prototipo</em>
     <br>
   </td>
   <td>
@@ -69,7 +71,7 @@ Adobe XD es una herramienta de diseño de experiencias de usuario y creación de
     <div>
     <a href="xd.md#tutorial5"><strong>Crear un prototipo: estados de componentes interactivos</strong></a>
     </div>
-    <em>Añadir interactividad y un menú superpuesto a un prototipo</em>
+    <em>Agregar interactividad y un menú superpuesto a un prototipo</em>
     <br>
   </td>
   <td>
@@ -77,7 +79,7 @@ Adobe XD es una herramienta de diseño de experiencias de usuario y creación de
       <img alt="Correo electrónico: Crear y rellenar una cuadrícula de repetición" src="../assets/xd_repeat_torres.jpg" />
    </a>
     <div>
-   <a href="xd.md#tutorial7"><strong>Correo electrónico: Crear y rellenar una cuadrícula de repetición</strong></a>
+   <a href="xd.md#tutorial7"><strong>Correo electrónico: crear y rellenar una cuadrícula de repetición</strong></a>
     </div>
     <em>Convierte un solo elemento en cuadrículas de repetición con solo hacer clic y arrastrar</em>
     <br>
@@ -91,7 +93,7 @@ Adobe XD es una herramienta de diseño de experiencias de usuario y creación de
     <div>
     <a href="xd.md#tutorial7"><strong>Correo electrónico: trabajar con pilas</strong></a>
     </div>
-    <em>Utilice la propiedad stack para reorganizar fácilmente los elementos</em>
+    <em>Usar la propiedad de pila para reorganizar fácilmente los elementos</em>
     <br>
   </td>
   <td>
@@ -107,7 +109,7 @@ Adobe XD es una herramienta de diseño de experiencias de usuario y creación de
 </tr>
 </table>
 
-## Crear [!UICONTROL Componentes] con los estados del ratón (7:35) {#tutorial1}
+## Crear [!UICONTROL componentes] con estados de desplazamiento (7:35) {#tutorial1}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326874?hidetitle=true)
 
@@ -210,9 +212,9 @@ Victoria Torres, consultora de soluciones (Digital Media)
 
 ![Logotipo XD](../assets/xd_appicon_96.png)
 
-**Recursos de XD**
+**Recursos XD**
 
-[Información y asistencia](https://helpx.adobe.com/support/xd.html) es el centro de tutoriales adicionales, [Novedades de la aplicación](https://helpx.adobe.com/xd/user-guide.html/xd/help/whats-new.ug.html)y vínculos a foros de la comunidad.
+[Información y asistencia](https://helpx.adobe.com/support/xd.html) es el centro de tutoriales adicionales, [Novedades](https://helpx.adobe.com/xd/user-guide.html/xd/help/whats-new.ug.html) y vínculos a foros de la comunidad.
 
 **Versión de octubre de 2020**
 

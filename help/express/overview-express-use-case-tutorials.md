@@ -1,6 +1,6 @@
 ---
 title: Adobe [!DNL Express] Tutorials de casos de uso
-description: Ponte al día con el Adobe [!DNL Express] casos prácticos
+description: Familiarízate con los casos prácticos del Adobe  [!DNL Express]
 feature: Graphic Design, Image Editing, Integrations, Gen AI
 role: User
 level: Intermediate
@@ -13,7 +13,7 @@ ht-degree: 1%
 
 ---
 
-# Adobe [!DNL Express] tutoriales de casos prácticos
+# Tutoriales del caso de uso del Adobe [!DNL Express]
 
 Descubre cómo los diferentes equipos de tu organización pueden beneficiarse del Adobe Express.
 
@@ -21,7 +21,7 @@ Descubre cómo los diferentes equipos de tu organización pueden beneficiarse de
 
 * [Creación de un elemento visual promocional para un curso de aprendizaje en línea](promo-visual.md)
 Aprenda a crear un efecto visual atractivo para un curso de aprendizaje en línea
-* [Creación de un vídeo de fin de año](end-of-year-video.md)
+* [Creando un vídeo de fin de año](end-of-year-video.md)
 Aprende a crear un vídeo inspirador de fin de año
 * [Cómo crear un boletín](newsletter.md)
 Aprenda a crear la página principal de un boletín que se pueda utilizar para imprimirlo, enviarlo por correo electrónico o publicarlo en la web

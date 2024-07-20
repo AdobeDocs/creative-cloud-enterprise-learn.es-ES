@@ -1,5 +1,5 @@
 ---
-title: Creación de un collage en 3D para un póster con Adobe [!DNL Stock] images
+title: Crea un collage en 3D para un póster con imágenes de Adobe [!DNL Stock]
 description: Diseña un collage en Adobe Illustrator que ofrezca un efecto 3D llamativo a partir de imágenes en Adobe [!DNL Stock]
 feature: Licensable Assets, 3D
 role: User
@@ -13,8 +13,8 @@ ht-degree: 0%
 
 ---
 
-# Creación de un collage en 3D para un póster con Adobe [!DNL Stock] images
+# Crear un collage 3D para un póster usando imágenes de Adobe [!DNL Stock]
 
-Crea carteles que llamen la atención. Buscar imágenes relevantes en Adobe [!DNL Stock] y diseña un collage en Adobe Illustrator que ofrezca un efecto 3D llamativo.
+Crea carteles que llamen la atención. Encuentra imágenes relevantes en el Adobe [!DNL Stock] y diseña un collage en Adobe Illustrator que incluya un efecto 3D llamativo.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331805?hidetitle=true)

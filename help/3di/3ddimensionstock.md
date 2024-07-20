@@ -1,6 +1,6 @@
 ---
-title: Personaliza y marca un modelo en 3D con [!DNL Dimension] y ADOBE [!DNL Stock]
-description: Personalizar y marcar un modelo 3D en [!DNL [!DNL Dimension]] el uso de materiales, propiedades medioambientales, iluminación y fotografía para crear imágenes fotorrealistas para cualquier proyecto de diseño
+title: Personaliza y marca un modelo en 3D con [!DNL Dimension]  y Adobe [!DNL Stock]
+description: Personaliza y marca un modelo en 3D en [!DNL [!DNL Dimension]] con materiales, propiedades ambientales, iluminación y fotografía para crear imágenes fotorrealistas para cualquier proyecto de diseño
 feature: 3D
 role: User
 level: Beginner, Intermediate
@@ -12,9 +12,9 @@ ht-degree: 0%
 
 ---
 
-# Personaliza y marca un modelo en 3D con [!DNL Dimension] y ADOBE [!DNL Stock]
+# Personalizar y marcar un modelo 3D con [!DNL Dimension] y el Adobe [!DNL Stock]
 
-Personaliza y marca un modelo en 3D en [!DNL Dimension] el uso de materiales, propiedades medioambientales, iluminación y fotografía para crear imágenes fotorrealistas para cualquier proyecto de diseño.
+Personaliza y marca un modelo 3D en [!DNL Dimension] mediante materiales, propiedades ambientales, iluminación y fotografía, para crear imágenes fotorrealistas para cualquier proyecto de diseño.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331005?hidetitle=true)
 

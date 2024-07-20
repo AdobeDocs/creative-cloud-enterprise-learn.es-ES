@@ -15,7 +15,7 @@ ht-degree: 2%
 
 # Agiliza la idea creativa
 
-Aprende a visualizar rápidamente las ideas y explorar los conceptos para las campañas empresariales. Acelerar la idea creativa permite a las organizaciones producir contenido de alta calidad a un ritmo rápido. Probar Adobe Firefly [aquí](https://firefly.adobe.com/).
+Aprende a visualizar rápidamente las ideas y explorar los conceptos para las campañas empresariales. Acelerar la idea creativa permite a las organizaciones producir contenido de alta calidad a un ritmo rápido. Pruebe el Adobe Firefly [aquí](https://firefly.adobe.com/).
 
 <br> 
 

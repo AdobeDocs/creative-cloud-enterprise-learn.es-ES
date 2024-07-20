@@ -1,5 +1,5 @@
 ---
-title: Crea paneles de estilo inspirador en apenas tiempo con Adobe [!DNL Stock]
+title: Crea paneles de estado de ánimo inspiradores en apenas tiempo con Adobe [!DNL Stock]
 description: Crea un panel de estado de ánimo del proyecto para retransmitir información, ideas, elementos visuales y paletas de colores a los equipos o clientes
 feature: Licensable Assets
 role: User
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 ---
 
-# Crea paneles de estilo inspirador en apenas tiempo con Adobe [!DNL Stock]
+# Crea paneles de estado de ánimo inspiradores en apenas tiempo con el Adobe [!DNL Stock]
 
 Crea un panel de fotografías del proyecto para retransmitir información, ideas, elementos visuales y paletas de colores a los equipos o clientes.
 

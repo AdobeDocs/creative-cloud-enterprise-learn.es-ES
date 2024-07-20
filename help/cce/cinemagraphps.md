@@ -1,6 +1,6 @@
 ---
 title: Creación de cinematografías con Photoshop
-description: En este tutorial en vídeo de taller paso a paso, crea una fotografía viva combinando el vídeo de Adobe [!DNL Stock] con técnicas de enmascaramiento inteligentes en Photoshop
+description: En este tutorial de vídeo paso a paso en el taller, crea una fotografía dinámica combinando el vídeo de Adobe [!DNL Stock] con técnicas ingeniosas de aplicación de máscaras en Photoshop
 feature: Image Editing
 role: User
 level: Beginner, Intermediate
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 # Creación de cinematografías con Photoshop
 
-En este tutorial en vídeo de taller paso a paso, crea una fotografía viva combinando el vídeo de Adobe [!DNL Stock] con técnicas de enmascaramiento inteligentes en Photoshop.
+En este tutorial de vídeo paso a paso en el taller, crea una fotografía viva combinando el vídeo del Adobe [!DNL Stock] con técnicas de enmascaramiento inteligentes en Photoshop.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331002?hidetitle=true)
 

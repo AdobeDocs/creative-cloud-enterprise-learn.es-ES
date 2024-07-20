@@ -1,6 +1,6 @@
 ---
 title: Adobe [!DNL Express] Tutorials de procedimientos
-description: Ponte al día con el Adobe [!DNL Express]
+description: Ponte al día en el Adobe  [!DNL Express]
 feature: Graphic Design, Image Editing, Integrations
 role: User
 level: Beginner, Intermediate
@@ -13,7 +13,7 @@ ht-degree: 1%
 
 ---
 
-# Adobe [!DNL Express] tutoriales de procedimientos
+# Tutoriales de instrucciones del Adobe [!DNL Express]
 
 Empieza a crear trabajos sorprendentes que destaquen con IA generativa impulsada por el Adobe Firefly. Diseña folletos, TikToks, currículums y carretes con Adobe Express.
 
@@ -273,7 +273,7 @@ Empieza a crear trabajos sorprendentes que destaquen con IA generativa impulsada
   </td>
   <td>
       <a href="cc-libraries.md">
-         <img alt="Usar Bibliotecas CC" src="assets/cc-libraries.png" />
+         <img alt="Usar CC Libraries" src="assets/cc-libraries.png" />
       </a>
   </td>
 </tr>

@@ -7,8 +7,8 @@ level: Beginner, Intermediate
 exl-id: 68b2cb27-22b4-4be0-a4b1-210c208778ec
 source-git-commit: c54f203aa1e3dddbfd973b1cc668b56b7f54d9b1
 workflow-type: tm+mt
-source-wordcount: '500'
-ht-degree: 1%
+source-wordcount: '510'
+ht-degree: 0%
 
 ---
 
@@ -30,7 +30,8 @@ En esta sesión grabada en directo, verá ejemplos de flujos de trabajo basados 
 
 **Presentado por:**
 
-Eric Rowse, consultor sénior de soluciones (medios digitales) Derek Lu, consultor de soluciones principales (prueba de concepto)
+Eric Rowse, consultor sénior de soluciones (Digital Media)
+Derek Lu, Consultor principal de soluciones (Prueba de concepto)
 
 ## Nuevas herramientas para la nueva normalidad (29:57)
 
@@ -47,9 +48,11 @@ En esta sesión grabada en directo, aprenderá a:
 
 **Presentado por:**
 
-Dave Weinberg, consultor sénior de soluciones (Digital Media) Liz Tanonis, consultora de soluciones (Digital Media) Emilie Enke, consultora de soluciones (Digital Media)
+Dave Weinberg, consultor sénior de soluciones (Digital Media)
+Liz Tanonis, consultora de soluciones (Digital Media)
+Emilie Enke, consultora de soluciones (Digital Media)
 
-## Colaboración con Bibliotecas CC (27:58)
+## Colaboración con CC Libraries (27:58)
 
 >[!VIDEO](https://video.tv.adobe.com/v/328199?hidetitle=true)
 
@@ -63,7 +66,8 @@ En este tutorial, aprenderás a:
 
 **Presentado por:**
 
-Ashley Dvorin, consultora sénior de soluciones (Digital Media) Emily Palmer, consultora de soluciones (Digital Media)
+Ashley Dvorin, consultora sénior de soluciones (Digital Media)
+Emily Palmer, consultora de soluciones (Digital Media)
 
 ## Acerca de los Demo Assets: LOCAL
 
@@ -71,4 +75,4 @@ El equipo se puso en contacto para crear los activos de demostración como lo ha
 
 En respuesta a la COVID-19, LOCAL, una empresa que organiza eventos en directo para celebrar unas vacaciones divertidas y extravagantes, ha pasado a las reuniones online y se ha asociado con pequeños camiones de comida y restaurantes locales para promocionar sus negocios y ayudarlos a mantenerse abiertos.
 
-![Recursos de demostración LOCALES](../assets/demo_local_assets-WIP-v1.jpg)
+![Recursos de demostración LOCAL](../assets/demo_local_assets-WIP-v1.jpg)

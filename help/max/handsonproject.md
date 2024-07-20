@@ -7,7 +7,7 @@ level: Beginner, Intermediate
 exl-id: 7f755c1b-e45e-45a6-9dde-3ac81259aaf8
 source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '369'
+source-wordcount: '349'
 ht-degree: 0%
 
 ---
@@ -25,9 +25,9 @@ ht-degree: 0%
       <img alt="Instalar el plugin Photoshop Design to Print" src="../assets/d2p_install_sokol_thumbnail.jpg" />
    </a>
     <div>
-   <a href="handsonproject.md#tutorial1"><strong>Instalar el plugin Photoshop Design to Print</strong></a>
+   <a href="handsonproject.md#tutorial1"><strong>Instalar el complemento Diseño de Photoshop para imprimir</strong></a>
     </div>
-    <em>Utiliza las potentes herramientas de selección y edición de color de Adobe Photoshop para cambiar drásticamente una imagen que se ajuste a tus necesidades de marca corporativa</em>
+    <em>Usa las potentes herramientas de selección y edición de color de Adobe Photoshop para cambiar drásticamente una imagen que se ajuste a tus necesidades de construcción de marca corporativas</em>
     <br>
   </td>
   <td>
@@ -35,7 +35,7 @@ ht-degree: 0%
         <img alt="Personalizar una máscara facial con el diseño para imprimir" src="../assets/d2p_faceMask_sokol_thumbnail.jpg" />
     </a>
     <div>
-    <a href="handsonproject.md#tutorial2"><strong>Personalizar una máscara facial con el diseño para imprimir</strong></a>
+    <a href="handsonproject.md#tutorial2"><strong>Personalizar una máscara facial con diseño para imprimir</strong></a>
     </div>
     <em>Personaliza tu propia máscara facial Zazzle</em>
     <br>
@@ -62,7 +62,7 @@ Obtenga información sobre cómo instalar el plugin Design to Print para Photosh
 
 En este tutorial, aprenderás a:
 * Visualiza tus diseños en productos como ropa, accesorios, artículos de papelería y cuadros en tiempo real.
-* Publica en el mercado online de Dazzle
+* Publish a la deslumbrante tienda online
 
 **Presentado por:**
 Patti Sokol, consultora principal de soluciones (Digital Media)
@@ -76,11 +76,11 @@ Personaliza tu propia máscara facial Zazzle
 
 En este tutorial, aprenderás a:
 * Visualiza tus diseños en productos como ropa, accesorios, artículos de papelería y cuadros en tiempo real.
-* Publica en el mercado online de Dazzle
+* Publish a la deslumbrante tienda online
 
-**Haga clic en Imagen para descargar el PDF Aprender diseño para imprimir**
+**Haga clic en la imagen para descargar el PDF de aprendizaje de diseño para imprimir**
 
-[![Aprende diseño para imprimir](../assets/LearnDesigntoPrint_96.png)](../assets/LearnDesigntoPrint.pdf)
+[![Aprender a imprimir](../assets/LearnDesigntoPrint_96.png)](../assets/LearnDesigntoPrint.pdf)
 
 **Presentado por:**
 Patti Sokol, consultora principal de soluciones (Digital Media)
@@ -97,7 +97,7 @@ En este tutorial, aprenderás a:
 * Añade materiales e iluminación de control para lograr un aspecto profesional
 * Importar activos para aplicar su marca u otros diseños
 
-**Haga clic en Imagen para descargar [!DNL Dimension] Archivo con modelo 3D de máscara blanca**
+**Hacer clic en la imagen para descargar el archivo [!DNL Dimension] con el modelo 3D de la máscara blanca**
 
 [![Imagen de comparación](../assets/whitemask_96.png)](https://stock.adobe.com/search/3d-assets?load_type=search&amp;native_visual_search=&amp;similar_content_id=&amp;is_recent_search=&amp;search_type=usertyped&amp;k=face+mask&amp;asset_id=324075591)
 

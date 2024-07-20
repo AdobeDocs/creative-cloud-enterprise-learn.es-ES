@@ -1,5 +1,5 @@
 ---
-title: Crear una etiqueta en negrita con Adobe [!DNL Stock] plantillas y objetos inteligentes de Photoshop
+title: Crear una etiqueta en negrita con plantillas de Adobe [!DNL Stock] y objetos inteligentes de Photoshop
 description: Diseña y visualiza tus diseños personalizados con plantillas de empaquetado realistas de Adobe [!DNL Stock]
 feature: Licensable Assets, Image Editing
 role: User
@@ -13,8 +13,8 @@ ht-degree: 0%
 
 ---
 
-# Crear una etiqueta en negrita con Adobe [!DNL Stock] plantillas y objetos inteligentes de Photoshop
+# Crear una etiqueta en negrita con plantillas de Adobe [!DNL Stock] y objetos inteligentes de Photoshop
 
-Diseña y visualiza tus diseños personalizados con plantillas de empaquetado realistas de Adobe [!DNL Stock]    .
+Diseña y visualiza tus diseños personalizados con plantillas de empaquetado realistas del Adobe [!DNL Stock]    .
 
 >[!VIDEO](https://video.tv.adobe.com/v/331823?hidetitle=true)

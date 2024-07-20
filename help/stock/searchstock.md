@@ -1,6 +1,6 @@
 ---
-title: Adobe de búsqueda [!DNL Stock] historial de licencias
-description: Aprenda a buscar rápidamente en el Adobe de su organización [!DNL Stock] historial de licencias en Creative Cloud para empresas
+title: Buscar en el Adobe  [!DNL Stock] historial de licencias
+description: Aprende a buscar rápidamente en el historial de licencias de Adobe [!DNL Stock] de tu organización en Creative Cloud para empresas
 feature: Licensable Assets
 role: User
 level: Beginner
@@ -14,8 +14,8 @@ ht-degree: 0%
 
 ---
 
-# Adobe de búsqueda [!DNL Stock] historial de licencias
+# Historial de licencias del Adobe de búsqueda [!DNL Stock]
 
-En este tutorial de vídeo, aprenderá a buscar rápidamente en el Adobe de su organización [!DNL Stock] historial de licencias en Creative Cloud para empresas.
+En este tutorial de vídeo, aprenderá a buscar rápidamente en el historial de licencias de Adobe [!DNL Stock] de su organización en Creative Cloud para empresas.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335327?hidetitle=true)

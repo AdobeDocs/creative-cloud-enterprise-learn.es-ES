@@ -7,8 +7,8 @@ level: Beginner, Intermediate
 exl-id: 1c14d3e8-2d4b-45a2-9a4a-efc044f2af1e
 source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '383'
-ht-degree: 1%
+source-wordcount: '363'
+ht-degree: 0%
 
 ---
 
@@ -37,7 +37,7 @@ Adobe Experience Manager es la solución de administración de experiencias digi
     <div>
    <a href="aem.md#tutorial2"><strong>Archivos de InDesign alojados en AEM</strong></a>
     </div>
-    <em>Aloje su documento de InDesign en AEM para que varios usuarios puedan crear variaciones de contenido al mismo tiempo</em>
+    <em>Aloja tu documento de InDesign en AEM para que varios usuarios puedan crear variaciones de contenido al mismo tiempo</em>
     <br>
   </td>
   <td>
@@ -87,7 +87,7 @@ Eric Rowse, consultor sénior de soluciones (Digital Media)
     <div>
    <a href="https://www.adobe.com/marketing/experience-manager.html"><strong>Adobe Experience Manager</strong></a>
     </div>
-    <em>Una potente combinación que cubrirá tus necesidades de gestión de contenidos y activos digitales</em>
+    <em>Una potente combinación que cubrirá tus necesidades de administración de contenidos y activos digitales</em>
     <br>
   </td>
   <td>
@@ -97,7 +97,7 @@ Eric Rowse, consultor sénior de soluciones (Digital Media)
     <div>
    <a href="https://www.adobe.com/marketing/experience-manager-assets.html"><strong>AEM Assets</strong></a>
     </div>
-    <em>Gestión de activos digitales de última generación</em>
+    <em>Administración de activos digitales de próxima generación</em>
     <br>
   </td>
   <td>
@@ -107,7 +107,7 @@ Eric Rowse, consultor sénior de soluciones (Digital Media)
     <div>
    <a href="https://www.adobe.com/marketing/experience-manager-assets/benefits.html"><strong>AEM Assets: Ventajas</strong></a>
     </div>
-    <em>Pon tus activos digitales a tu servicio</em>
+    <em>Pon en marcha tus activos digitales</em>
     <br>
   </td>
 </tr>
@@ -117,7 +117,7 @@ Eric Rowse, consultor sénior de soluciones (Digital Media)
 
 **Recursos de Asset Link y AEM**
 
-[Información y asistencia](https://helpx.adobe.com/support/experience-manager.html) es el centro de tutoriales adicionales, Novedades y vínculos a foros de la comunidad.
+[Información y asistencia](https://helpx.adobe.com/support/experience-manager.html) es el centro de tutoriales adicionales, novedades y vínculos a foros de la comunidad.
 
 **Versión de octubre de 2020**
 

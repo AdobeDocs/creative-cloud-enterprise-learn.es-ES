@@ -1,6 +1,6 @@
 ---
-title: Personalización de una animación de pantalla de carga con Adobe [!DNL Stock] y XD
-description: Personalizar ilustraciones vectoriales de Adobe [!DNL Stock] para crear una animación de pantalla de carga escalofriante para una aplicación móvil
+title: Personalizar una animación de pantalla de carga con Adobe [!DNL Stock] y XD
+description: Personaliza ilustraciones vectoriales de Adobe [!DNL Stock]  para crear una escalofriante animación de pantalla de carga para una aplicación móvil
 feature: Licensable Assets, UI Design
 role: User
 level: Beginner, Intermediate
@@ -13,8 +13,8 @@ ht-degree: 0%
 
 ---
 
-# Personalización de una animación de pantalla de carga con Adobe [!DNL Stock] y XD
+# Personalizar una animación de pantalla de carga con el Adobe [!DNL Stock] y XD
 
-Personalizar ilustraciones vectoriales de Adobe [!DNL Stock] para crear una animación de pantalla de carga escalofriante para una aplicación móvil.
+Personalice ilustraciones vectoriales del Adobe [!DNL Stock] para crear una escalofriante animación de pantalla de carga para una aplicación móvil.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331814?hidetitle=true)

@@ -1,5 +1,5 @@
 ---
-title: Crea imágenes de marca coherentes con bonitos degradados y Adobe [!DNL Stock] assets
+title: Crea imágenes de marca coherentes con bellos degradados y activos de Adobe [!DNL Stock] s
 description: Crea la unidad de marca con imágenes variables combinando colores y degradados en tu campaña publicitaria
 feature: Licensable Assets
 role: User
@@ -13,8 +13,8 @@ ht-degree: 0%
 
 ---
 
-# Crea imágenes de marca coherentes con bonitos degradados y Adobe [!DNL Stock] assets
+# Crea imágenes de marca coherentes con hermosos degradados y activos de Adobe [!DNL Stock]
 
-Añade animación a los gráficos de tu boletín con vectores editables para Adobe [!DNL Stock].
+Añada animación a los gráficos del boletín con vectores editables para el Adobe [!DNL Stock].
 
 >[!VIDEO](https://video.tv.adobe.com/v/331809?hidetitle=true)

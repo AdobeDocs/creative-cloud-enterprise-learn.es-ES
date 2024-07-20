@@ -1,5 +1,5 @@
 ---
-title: Mejorar los flujos de trabajo de CC con Bibliotecas CC
+title: Mejorar los flujos de trabajo de CC con CC Libraries
 description: Descubre cómo las Bibliotecas Creative Cloud mantienen juntos los elementos de diseño, lo que garantiza la coherencia del proyecto para los diseñadores y los equipos
 feature: Integrations, Workflow
 role: User
@@ -8,12 +8,12 @@ thumb: KT-11193.jpg
 exl-id: 358e0681-b722-4a58-b1eb-0eb2c813d50f
 source-git-commit: f17ea20ac8623dae0c681753b4bde250a1c9b06e
 workflow-type: tm+mt
-source-wordcount: '63'
+source-wordcount: '64'
 ht-degree: 0%
 
 ---
 
-# Mejorar los flujos de trabajo de CC con Bibliotecas CC
+# Mejorar los flujos de trabajo de CC con CC Libraries
 
 Descubre cómo las Bibliotecas Creative Cloud mantienen juntos los elementos de diseño, lo que garantiza la coherencia del proyecto para los diseñadores y equipos en estos tutoriales prácticos.
 

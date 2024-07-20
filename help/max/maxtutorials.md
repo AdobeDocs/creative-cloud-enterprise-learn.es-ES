@@ -7,8 +7,8 @@ level: Beginner, Intermediate
 exl-id: e27874b7-ba02-46b7-a5e4-fe2485d9c148
 source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '319'
-ht-degree: 24%
+source-wordcount: '322'
+ht-degree: 9%
 
 ---
 
@@ -25,7 +25,7 @@ Como creativo empresarial, tienes que colaborar con equipos distribuidos, establ
       <img alt="ACROBAT y ADOBE SIGN" src="../assets/DC.jpg" />
     </a>
     <div>
-    <a href="acrobat-sign.md"><strong>ACROBAT y ADOBE SIGN</strong></a>
+    <a href="acrobat-sign.md"><strong>Acrobat &amp; Adobe Sign</strong></a>
     </div>
     <em>Crear, editar y firmar documentos y formularios de PDF</em>
     <br>
@@ -37,7 +37,7 @@ Como creativo empresarial, tienes que colaborar con equipos distribuidos, establ
     <div>
     <a href="dimension.md"><strong>Dimension</strong></a>
     </div>
-    <em>Crea imágenes en 3D fotorrealistas para construcción de marca, instantáneas de productos y diseños de paquetes</em>
+    <em>Crea imágenes 3D fotorrealistas para construcción de marca, instantáneas de productos y diseños de paquetes</em>
     <br>
   </td>
   <td>
@@ -47,7 +47,7 @@ Como creativo empresarial, tienes que colaborar con equipos distribuidos, establ
     <div>
     <a href="illustrator.md"><strong>Illustrator</strong></a>
     </div>
-    <em>Gráficos vectoriales e ilustraciones</em>
+    <em>Ilustraciones y gráficos vectoriales</em>
     <br>
   </td>
 </tr>
@@ -59,7 +59,7 @@ Como creativo empresarial, tienes que colaborar con equipos distribuidos, establ
     <div>
     <a href="indesign.md"><strong>InDesign</strong></a>
     </div>
-    <em>Diseño y maquetación de páginas para la publicación digital e impresa</em>
+    <em>Diseño y maquetación de páginas para publicación digital e impresa</em>
     <br>
   </td>
   <td>
@@ -69,7 +69,7 @@ Como creativo empresarial, tienes que colaborar con equipos distribuidos, establ
     <div>
     <a href="photoshop.md"><strong>Photoshop</strong></a>
     </div>
-    <em>Edita, compón y crea bellas imágenes, gráficos y obras de arte en el escritorio</em>
+    <em>Edita, compón y crea bellas imágenes, gráficos e ilustraciones en el escritorio</em>
     <br>
   </td>
   <td>
@@ -79,7 +79,7 @@ Como creativo empresarial, tienes que colaborar con equipos distribuidos, establ
     <div>
     <a href="rush.md"><strong>Rush</strong></a>
     </div>
-    <em>Crea y comparte vídeos online en cualquier parte</em>
+    <em>Crea y comparte vídeos online desde cualquier parte</em>
     <br>
   </td>
 </tr>
@@ -91,7 +91,7 @@ Como creativo empresarial, tienes que colaborar con equipos distribuidos, establ
     <div>
     <a href="xd.md"><strong>XD</strong></a>
     </div>
-    <em>Diseñar, crear prototipos y compartir experiencias de usuario</em>
+    <em>Diseña, crea prototipos y comparte experiencias de usuario</em>
     <br>
   </td>
   <td>
@@ -118,7 +118,7 @@ Como creativo empresarial, tienes que colaborar con equipos distribuidos, establ
     <div>
     <a href="capture.md"><strong>Capture</strong></a>
     </div>
-    <em>Convierte cualquier imagen en un tema de color, gráfico vectorial, pincel y mucho más</em>
+    <em>Convierte cualquier imagen en un tema de color, gráfico vectorial, pincel y más</em>
     <br>
   </td>
   <td>
@@ -138,7 +138,7 @@ Como creativo empresarial, tienes que colaborar con equipos distribuidos, establ
     <div>
     <a href="illustratoripad.md"><strong>Illustrator en iPad</strong></a>
     </div>
-    <em>Gráficos vectoriales e ilustraciones</em>
+    <em>Ilustraciones y gráficos vectoriales</em>
     <br>
   </td>
 </tr>
@@ -148,9 +148,9 @@ Como creativo empresarial, tienes que colaborar con equipos distribuidos, establ
       <img alt="Photoshop en el iPad" src="../assets/PSoniPad.jpg" />
     </a>
     <div>
-    <a href="photoshopipad.md"><strong>Photoshop en el iPad</strong></a>
+    <a href="photoshopipad.md"><strong>Photoshop en iPad</strong></a>
     </div>
-    <em>Edite, componga y cree bonitas imágenes, gráficos e ilustraciones en su equipo de escritorio y su iPad</em>
+    <em>Edita, compón y crea bellas imágenes, gráficos e ilustraciones en el escritorio y iPad</em>
     <br>
   </td>
   <td>
@@ -177,7 +177,7 @@ Como creativo empresarial, tienes que colaborar con equipos distribuidos, establ
     <div>
     <a href="aem.md"><strong>AEM Assets y Asset Link</strong></a>
     </div>
-    <em>Gestión de activos digitales de última generación</em>
+    <em>Administración de activos digitales de próxima generación</em>
     <br>
   </td>
   <td>
@@ -187,7 +187,7 @@ Como creativo empresarial, tienes que colaborar con equipos distribuidos, establ
     <div>
     <a href="creativeclouddesktopapp.md"><strong>Aplicación de escritorio de Creative Cloud</strong></a>
     </div>
-    <em>La aplicación de escritorio de Creative Cloud es el centro para administrar las aplicaciones, los servicios y la colaboración de CC, ¡y mucho más!</em>
+    <em>La aplicación de escritorio de Creative Cloud es tu plataforma para administrar aplicaciones, servicios y colaboración de CC, ¡y mucho más!</em>
     <br>
   </td>
   <td>
@@ -209,7 +209,7 @@ Como creativo empresarial, tienes que colaborar con equipos distribuidos, establ
     <div>
     <a href="indesignserver.md"><strong>InDesign Server</strong></a>
     </div>
-    <em>Las sofisticadas herramientas de InDesign combinadas con la automatización personalizada</em>
+    <em>Las sofisticadas herramientas de InDesign combinadas con automatización personalizada</em>
     <br>
   </td>
  <td>
@@ -219,7 +219,7 @@ Como creativo empresarial, tienes que colaborar con equipos distribuidos, establ
     <div>
     <a href="stock.md"><strong>Adobe [!DNL Stock]</strong></a>
     </div>
-    <em>Imágenes digitales de alta calidad, ilustraciones, vídeos, audio, plantillas y mucho más</em>
+    <em>Imágenes digitales de alta calidad, ilustraciones, vídeos, audio, plantillas y más</em>
     <br>
   </td>
   <td>
@@ -241,7 +241,7 @@ Como creativo empresarial, tienes que colaborar con equipos distribuidos, establ
     <div>
     <a href="handsonproject.md"><strong>Crea tu propia máscara facial</strong></a>
     </div>
-    <em>Con el plugin Adobe Design to Print, puede visualizar sus diseños en cientos de productos Zazzle y publicarlos directamente en su tienda online</em>
+    <em>Con el complemento Diseño de Adobe para imprimir, puedes visualizar tus diseños en cientos de productos de Zazzle y publicarlos directamente en su tienda en línea</em>
     <br>
   </td>
   <td>

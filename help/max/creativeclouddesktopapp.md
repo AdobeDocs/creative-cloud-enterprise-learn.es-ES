@@ -7,7 +7,7 @@ level: Beginner, Intermediate
 exl-id: 5a45d334-3581-4b85-acb6-57764efa6f0a
 source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '150'
+source-wordcount: '151'
 ht-degree: 8%
 
 ---
@@ -22,12 +22,14 @@ La aplicación de escritorio de Creative Cloud es el centro para administrar las
 <tr>
  <td>
    <a href="creativeclouddesktopapp.md#tutorial1">
-      <img alt="Explora la aplicación de escritorio de CC: tu hub para Creative Cloud" src="../assets/ccda_overview_sokol_thumbnail.jpg" />
+      <img alt="Explora la aplicación de escritorio de CC: tu hub para 
+Creative Cloud" src="../assets/ccda_overview_sokol_thumbnail.jpg" />
    </a>
     <div>
-   <a href="creativeclouddesktopapp.md#tutorial1"><strong>Explora la aplicación de escritorio de CC: tu hub para Creative Cloud</strong></a>
+   <a href="creativeclouddesktopapp.md#tutorial1"><strong>Explora la aplicación de escritorio de CC: tu hub para 
+Creative Cloud</strong></a>
     </div>
-    <em>La aplicación de escritorio de Creative Cloud es el centro para administrar las aplicaciones, los servicios y la colaboración de CC, ¡y mucho más!</em>
+    <em>La aplicación de escritorio de Creative Cloud es tu plataforma para administrar aplicaciones, servicios y colaboración de CC, ¡y mucho más!</em>
     <br>
   </td>
   <td>

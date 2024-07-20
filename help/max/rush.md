@@ -1,20 +1,20 @@
 ---
 title: "[!DNL Rush]"
-description: Premiere [!DNL Rush] es la primera aplicación integral de edición de vídeo para varios dispositivos que facilita más que nunca la creación y el uso compartido de contenido en línea
+description: Premiere [!DNL Rush]  es la primera aplicación de edición de vídeo todo en uno para varios dispositivos que hace que crear y compartir contenido online sea más fácil que nunca
 feature: Video Editing
 role: User
 level: Beginner, Intermediate
 exl-id: ae79e935-53e0-4873-9c6f-d464925df68f
 source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '231'
 ht-degree: 0%
 
 ---
 
 # [!DNL Rush]
 
-Premiere [!DNL Rush] es la primera aplicación integral de edición de vídeo para varios dispositivos que facilita más que nunca la creación y el uso compartido de contenido en línea. Esta solución integrada para escritorio y dispositivos móviles sincroniza automáticamente tus proyectos y ediciones en la nube, lo que te permite trabajar en cualquier lugar y dispositivo.
+Premiere [!DNL Rush] es la primera aplicación integral de edición de vídeo para varios dispositivos que hace que crear y compartir contenido en línea sea más fácil que nunca. Esta solución integrada para escritorio y dispositivos móviles sincroniza automáticamente tus proyectos y ediciones en la nube, lo que te permite trabajar en cualquier lugar y dispositivo.
 
 ## Buscar Tutorials de productos
 
@@ -25,9 +25,9 @@ Premiere [!DNL Rush] es la primera aplicación integral de edición de vídeo pa
       <img alt="Crea un vídeo para las redes sociales" src="../assets/rush_socialMediaAd_wood_thumbnail.jpg" />
    </a>
     <div>
-   <a href="rush.md#tutorial1"><strong>Crea un vídeo para las redes sociales</strong></a>
+   <a href="rush.md#tutorial1"><strong>Crear un vídeo para redes sociales</strong></a>
     </div>
-    <em>Adobe [!DNL Rush] te permite trabajar en cualquier dispositivo y facilita a los principiantes el trabajo profesional</em>
+    El <em>Adobe [!DNL Rush] te permite trabajar en cualquier dispositivo y facilita lo suficiente la salida profesional para los principiantes</em>
     <br>
   </td>
   <td>
@@ -48,7 +48,7 @@ Premiere [!DNL Rush] es la primera aplicación integral de edición de vídeo pa
 >[!VIDEO](https://video.tv.adobe.com/v/326900?hidetitle=true)
 
 **Descripción**
-Cuenta tu historia con vídeo y audio de Adobe [!DNL Stock]. Adobe [!DNL Rush] te permite trabajar en cualquier dispositivo y facilita a los principiantes el trabajo profesional.
+Cuenta tu historia con vídeo y audio del Adobe [!DNL Stock]. El Adobe [!DNL Rush] te permite trabajar en cualquier dispositivo y facilita lo suficiente la salida profesional para los principiantes.
 
 En este tutorial, aprenderás a:
 * Edita vídeos sin problemas en ordenadores de escritorio, tabletas y teléfonos
@@ -62,9 +62,9 @@ A.J. Wood, consultor de soluciones (Digital Media)
 
 ![Logotipo de Rush](../assets/ru_appicon_96.png)
 
-**[!DNL Rush]Recursos**
+**[!DNL Rush]recursos**
 
-[Información y asistencia](https://helpx.adobe.com/support/premiere-rush.html) es el centro de tutoriales adicionales, [Novedades de la aplicación](https://helpx.adobe.com/premiere-rush/user-guide.html/premiere-rush/help/whats-new.ug.html)y vínculos a foros de la comunidad.
+[Información y asistencia](https://helpx.adobe.com/support/premiere-rush.html) es el centro de tutoriales adicionales, [Novedades](https://helpx.adobe.com/premiere-rush/user-guide.html/premiere-rush/help/whats-new.ug.html) y vínculos a foros de la comunidad.
 
 **Versión de octubre de 2020**
 

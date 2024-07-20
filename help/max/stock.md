@@ -1,20 +1,20 @@
 ---
 title: "[!DNL Stock]"
-description: Adobe [!DNL Stock] para empresas proporciona a los equipos creativos acceso a más de 200 millones de imágenes, vídeos, plantillas, ilustraciones, archivos de audio y activos 3D
+description: Adobe [!DNL Stock] for enterprise ofrece a los equipos creativos acceso a más de 200 millones de imágenes, vídeos, plantillas, ilustraciones, archivos de audio y recursos 3D
 feature: Licensable Assets
 role: User
 level: Beginner, Intermediate
 exl-id: 0a0f5cf8-0326-48fc-a833-0f531617cc41
 source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '331'
+source-wordcount: '333'
 ht-degree: 0%
 
 ---
 
 # [!DNL Stock]
 
-Los creativos se encuentran bajo presión para ofrecer rápidamente contenido nuevo y visualmente atractivo que capte y mantenga la atención. Adobe [!DNL Stock] para empresas proporciona a los equipos creativos acceso a más de 200 millones de imágenes, vídeos, plantillas, ilustraciones, archivos de audio y contenidos 3D, todo ello desde dentro de las aplicaciones creativas de Adobe que utilizan a diario.
+Los creativos se encuentran bajo presión para ofrecer rápidamente contenido nuevo y visualmente atractivo que capte y mantenga la atención. Adobe [!DNL Stock] para empresas da acceso a los equipos creativos a más de 200 millones de imágenes, vídeos, plantillas, ilustraciones, archivos de audio y contenidos 3D, todo ello desde las aplicaciones creativas de Adobe que usan a diario.
 
 ## Buscar Tutorials de productos
 
@@ -25,19 +25,20 @@ Los creativos se encuentran bajo presión para ofrecer rápidamente contenido nu
       <img alt="Encuentra los mejores recursos más rápido con Adobe [!DNL Stock]" src="../assets/stock_torres_thumbnail.jpg" />
    </a>
     <div>
-   <a href="stock.md#tutorial1"><strong>Encuentra los mejores recursos más rápido con Adobe [!DNL Stock]</strong></a>
+   <a href="stock.md#tutorial1"><strong>Encuentra los mejores activos más rápido con el Adobe [!DNL Stock]</strong></a>
     </div>
-    <em>Encuentra la imagen de stock perfecta y sin derechos de autor para mejorar tu proyecto creativo mediante unos resultados de búsqueda mejores y más rápidos, con la tecnología de Adobe Sensei, nuestro motor de inteligencia artificial</em>
+    <em>Encuentra la imagen de stock perfecta sin derechos de autor para mejorar tu proyecto creativo mediante resultados de búsqueda mejores y más rápidos con la tecnología de Adobe Sensei, nuestro motor de inteligencia artificial</em>
     <br>
   </td>
   <td>
    <a href="stock.md#tutorial2">
-      <img alt="Buscar y comprar licencia [!DNL Stock] Activos en AEM" src="../assets/stock_aemintegration_palmer_thumbnail.jpg" />
+      <img alt="Buscar y comprar licencia de activos [!DNL Stock] en AEM" src="../assets/stock_aemintegration_palmer_thumbnail.jpg" />
    </a>
     <div>
-   <a href="stock.md#tutorial2"><strong>Buscar y comprar licencia [!DNL Stock] Activos en Adobe Experience Manager</strong></a>
+   <a href="stock.md#tutorial2"><strong>Buscar y comprar licencia de activos [!DNL Stock] en 
+Adobe Experience Manager</strong></a>
     </div>
-    <em>Simplificar el proceso de carga del Adobe con licencia [!DNL Stock] activos en su sistema de administración de activos digitales</em>
+    <em>Simplifica el proceso de carga de tus activos de Adobe con licencia [!DNL Stock] en tu sistema de administración de activos digitales</em>
     <br>
   </td>
   <td>
@@ -48,7 +49,7 @@ Los creativos se encuentran bajo presión para ofrecer rápidamente contenido nu
 </tr>
 </table>
 
-## Encuentra los mejores recursos más rápido con Adobe [!DNL Stock] (10:49) {#tutorial1}
+## Buscar los mejores recursos más rápido con el Adobe [!DNL Stock] (10:49) {#tutorial1}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326951?hidetitle=true)
 
@@ -62,26 +63,26 @@ En este tutorial, aprenderás a:
 
 **Presentado por:**
 
-Victoria Torres, [!DNL Stock] Asesor de soluciones (medios digitales)
+Victoria Torres, [!DNL Stock] Consultora de soluciones (Digital Media)
 
-## Buscar y comprar licencia [!DNL Stock] Activos en AEM (6:46) {#tutorial2}
+## Buscar y comprar licencia de [!DNL Stock] activos en AEM (6:46) {#tutorial2}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326952?hidetitle=true)
 
 **Descripción**
-Simplificar el proceso de carga del Adobe con licencia [!DNL Stock] activos en tu sistema de gestión de activos digitales.
+Simplifica el proceso de carga de tus activos con licencia de Adobe [!DNL Stock] en tu sistema de administración de activos digitales.
 
 En este tutorial, aprenderás a:
-* Realizar Adobe [!DNL Stock] búsqueda de activos sin salir AEM espacio de trabajo
+* Realizar una búsqueda de recursos de Adobe [!DNL Stock] sin salir AEM espacio de trabajo
 * Guardar los contenidos con licencia directamente en una carpeta de AEM en el momento de comprar la licencia
-* Ver los contenidos cuya licencia haya comprado AEM en su [!DNL Stock] historial de licencias en el [!DNL Stock] sitio web.
+* Ver los activos con licencia de AEM en el historial de licencias de [!DNL Stock] en el sitio web de [!DNL Stock].
 
 **Presentado por:**
 Emily Palmer, consultora de soluciones (Digital Media)
 
-![[!DNL Stock] Logotipo](../assets/st_appicon_96.png)
+Logotipo de ![[!DNL Stock]](../assets/st_appicon_96.png)
 
-**Adobe [!DNL Stock] Recursos**
+**Recursos del Adobe [!DNL Stock]**
 
 [Información y asistencia](https://helpx.adobe.com/support/stock.html) es el centro de tutoriales adicionales y vínculos a foros de la comunidad.
 

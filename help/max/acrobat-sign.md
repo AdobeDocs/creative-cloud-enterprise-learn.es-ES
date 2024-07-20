@@ -7,7 +7,7 @@ level: Beginner, Intermediate
 exl-id: 7b7defa1-d2fb-4908-a605-4696fceeb467
 source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '611'
+source-wordcount: '610'
 ht-degree: 0%
 
 ---
@@ -25,9 +25,9 @@ Con Adobe Document Cloud, que incluye las principales soluciones de PDF y firma 
       <img alt="Iniciar una revisión compartida de Acrobat" src="../assets/acrobat_sharedreview_armstrong.jpg" />
    </a>
     <div>
-   <a href="acrobat-sign.md#tutorial1"><strong>Iniciar una revisión compartida de Acrobat</strong></a>
+   <a href="acrobat-sign.md#tutorial1"><strong>Iniciando una revisión compartida de Acrobat</strong></a>
     </div>
-    <em>Invitar a revisores a añadir sus comentarios a un documento de PDF</em>
+    <em>Invitar a revisores a agregar sus comentarios a un documento de PDF</em>
     <br>
   </td>
   <td>
@@ -35,9 +35,9 @@ Con Adobe Document Cloud, que incluye las principales soluciones de PDF y firma 
         <img alt="Crear una renuncia online a Forms con Adobe Sign" src="../assets/sign_webforms_palmer-kobey_thumbnail.jpg" />
     </a>
     <div>
-    <a href="acrobat-sign.md#tutorial2"><strong>Crear una renuncia online a Forms con Adobe Sign</strong></a>
+    <a href="acrobat-sign.md#tutorial2"><strong>Crear Forms de renuncia en línea con Adobe Sign</strong></a>
     </div>
-    <em>Convierte rápidamente los documentos en formularios online y publícalos en Internet para que cualquier persona que los necesite pueda rellenarlos y firmarlos</em>
+    <em>Convierte rápidamente los documentos en formularios online y publícalos online para que cualquiera que los necesite pueda rellenarlos y firmarlos</em>
     <br>
   </td>
   <td>
@@ -47,7 +47,7 @@ Con Adobe Document Cloud, que incluye las principales soluciones de PDF y firma 
     <div>
     <a href="acrobat-sign.md#tutorial3"><strong>Solicitar una firma con Adobe Sign</strong></a>
     </div>
-    <em>Pasa de Word a PDF y envíalo para que se firme con Adobe Sign</em>
+    <em>Ve de Word al PDF y envíalo para firmar con Adobe Sign</em>
     <br>
   </td>
 </tr>
@@ -59,7 +59,7 @@ Con Adobe Document Cloud, que incluye las principales soluciones de PDF y firma 
     <div>
    <a href="acrobat-sign.md#tutorial4"><strong>Ver menús en dispositivos móviles con Liquid Mode</strong></a>
     </div>
-    <em>Utilice Liquid Mode para mejorar la experiencia de lectura del PDF en dispositivos móviles</em>
+    <em>Usar Liquid Mode para mejorar la experiencia de lectura del PDF en dispositivos móviles</em>
     <br>
   </td>
   <td>
@@ -69,7 +69,7 @@ Con Adobe Document Cloud, que incluye las principales soluciones de PDF y firma 
     <div>
     <a href="acrobat-sign.md#tutorial5"><strong>Escanea documentos para PDF desde tu teléfono móvil</strong></a>
     </div>
-    <em>Con Adobe Scan, captura y convierte documentos, formularios, tarjetas de presentación y pizarras en PDF de Adobe de alta calidad fácilmente</em>
+    <em>Con Adobe Scan, captura y convierte documentos, formularios, tarjetas de presentación y pizarras en PDF de Adobes de alta calidad</em> fácilmente
     <br>
   </td>
   <td>
@@ -97,7 +97,8 @@ En este tutorial, aprenderás a:
 [![Imagen de comparación](../assets/ComparisonPDF_thumbnail_96.png)](../assets/Adobe_Review_and_Comment_Comparisons.pdf)
 
 **Presentado por:**
-Dan Armstrong, Asesor de soluciones (medios digitales) Rick Borstein, director sénior de consultoría de soluciones (medios digitales)
+Dan Armstrong, consultor de soluciones (medios digitales)
+Rick Borstein, director sénior de consultoría de soluciones (medios digitales)
 
 ## Crear renuncia en línea Forms con Adobe Sign (5:19) {#tutorial2}
 
@@ -112,7 +113,8 @@ En este tutorial, aprenderás a:
 * Los formularios completados se archivan automáticamente para sus registros
 
 **Presentado por:**
-Taylor Kobey, Consultora de soluciones (Digital Media) Emily Palmer, Consultora de soluciones (Digital Media)
+Taylor Kobey, consultor de soluciones (Digital Media)
+Emily Palmer, consultora de soluciones (Digital Media)
 
 ## Solicitar una firma con Adobe Sign (3:21) {#tutorial3}
 
@@ -161,7 +163,7 @@ Emilie Enke, consultora asociada de soluciones (Digital Media)
 
 **Recursos de Acrobat y Adobe Sign**
 
-[Información y asistencia](https://helpx.adobe.com/support/document-cloud.html) es el centro de tutoriales adicionales, [Novedades de la aplicación](https://helpx.adobe.com/acrobat/using/whats-new.html)y vínculos a foros de la comunidad.
+[Información y asistencia](https://helpx.adobe.com/support/document-cloud.html) es el centro de tutoriales adicionales, [Novedades](https://helpx.adobe.com/acrobat/using/whats-new.html) y vínculos a foros de la comunidad.
 
 **Versión de octubre de 2020**
 

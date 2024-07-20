@@ -7,7 +7,7 @@ level: Beginner, Intermediate
 exl-id: 268b9891-77f6-4606-964c-343c443eafcb
 source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '229'
+source-wordcount: '222'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ Adobe Illustrator para el iPad es una experiencia de diseño vectorial rediseña
     <div>
    <a href="illustratoripad.md#tutorial1"><strong>Introducción a Illustrator para el iPad</strong></a>
     </div>
-    <em>Cree un icono de ubicación de dificultad y conviértalo en un patrón que pueda aplicar a su [!DNL Dimension] y el proyecto Zazzle!</em>
+    <em>Crea un icono de ubicación con dificultades y conviértelo en un patrón que puedas aplicar a tu proyecto de [!DNL Dimension] y Zazzle.</em>
     <br>
   </td>
   <td>
@@ -48,22 +48,22 @@ Adobe Illustrator para el iPad es una experiencia de diseño vectorial rediseña
 >[!VIDEO](https://video.tv.adobe.com/v/326823?hidetitle=true)
 
 **Descripción**
-Esta introducción rápida a Illustrator para iPad le ayudará a empezar a trabajar rápidamente para crear un icono de ubicación con problemas y convertirlo en un patrón que pueda aplicar a su [!DNL Dimension] y el proyecto Zazzle!
+Esta rápida introducción a Illustrator para iPad te ayudará a ponerte en marcha rápidamente para crear un icono de ubicación con problemas y convertirlo en un patrón que puedes aplicar a tu proyecto de [!DNL Dimension] y Zazzle.
 
 En este tutorial, aprenderás a:
 * Illustrator rediseñado para iPad transforma la productividad, acelera la colaboración, amplía las habilidades creativas y potencia la creatividad para todos
 * La interfaz táctil permite una experiencia más táctil y precisa con Apple Pencil
-* Acceder a gráficos y colores desde Bibliotecas CC
+* Acceder a gráficos y colores desde CC Libraries
 * Flujo de trabajo de ida y vuelta en Illustrator móvil y de escritorio
 
 **Presentado por:**
 Dave Weinberg, consultor sénior de soluciones (Digital Media)
 
-![Logotipo de Illustrator en iPad](../assets/ai_appicon_96.png)
+Logotipo de ![Illustrator en iPad](../assets/ai_appicon_96.png)
 
 **Recursos de Illustrator en iPad**
 
-[Información y asistencia](https://helpx.adobe.com/support/illustrator.html) es el centro de tutoriales adicionales, [Novedades de la aplicación](https://helpx.adobe.com/illustrator/using/whats-new/mobile-2021.html)y vínculos a foros de la comunidad.
+[Información y asistencia](https://helpx.adobe.com/support/illustrator.html) es el centro de tutoriales adicionales, [Novedades](https://helpx.adobe.com/illustrator/using/whats-new/mobile-2021.html) y vínculos a foros de la comunidad.
 
 **Versión de octubre de 2020**
 

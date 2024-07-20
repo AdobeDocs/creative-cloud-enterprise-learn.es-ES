@@ -15,7 +15,7 @@ ht-degree: 8%
 
 # Texto a imagen
 
-Aprenda a crear una imagen a partir de descripciones de texto. [Generación de imágenes](https://www.adobe.com/products/firefly/features/text-to-image.html) según tus necesidades específicas te permite crear contenido personalizado e inspirador. Probar Adobe Firefly [aquí](https://firefly.adobe.com/).
+Aprenda a crear una imagen a partir de descripciones de texto. [Generar imágenes](https://www.adobe.com/products/firefly/features/text-to-image.html) según tus necesidades específicas te permite crear contenido personalizado e inspirador. Pruebe el Adobe Firefly [aquí](https://firefly.adobe.com/).
 
 <br> 
 

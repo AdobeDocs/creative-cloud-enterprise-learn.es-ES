@@ -1,14 +1,14 @@
 ---
 title: InDesign Server
-description: Adobe Adobe&reg; InDesign&reg; El software de servidor ofrece un motor robusto y escalable que aprovecha el diseño, la maquetación y las funciones tipográficas de InDesign para permitirle programar la creación de documentos automatizados atractivos
+description: El software Adobe Adobe&reg; InDesign&reg; Server ofrece un motor potente y escalable que aprovecha el diseño, la maquetación y las funciones tipográficas del InDesign para permitirle programar la creación de documentos automatizados atractivos
 feature: Graphic Design
 role: User
 level: Beginner, Intermediate
 exl-id: 534124fb-a903-430e-ad56-f124e4f024a0
 source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '269'
-ht-degree: 1%
+source-wordcount: '250'
+ht-degree: 0%
 
 ---
 
@@ -27,7 +27,7 @@ El software Adobe InDesign® Server proporciona un motor potente y escalable que
     <div>
    <a href="indesignserver.md#tutorial1"><strong>Contenido de InDesign Server basado en datos</strong></a>
     </div>
-    <em>El diseño basado en datos se puede lograr, mediante programación, con InDesign Server</em>
+    <em>El diseño basado en datos se puede lograr mediante programación con el InDesign Server</em>
     <br>
   </td>
   <td>
@@ -77,9 +77,9 @@ Eric Rowse, consultor sénior de soluciones (Digital Media)
       <img alt="InDesign Server: Encuentra un socio" src="../assets/IDS_Thumbnail.jpg" />
    </a>
     <div>
-   <a href="https://www.adobe.com/products/indesignserver/partner.html"><strong>InDesign Server: Encuentra un socio</strong></a>
+   <a href="https://www.adobe.com/products/indesignserver/partner.html"><strong>InDesign Server: Buscar un partner</strong></a>
     </div>
-    <em>Si bien tienes la experiencia para desarrollar internamente, Adobe recomienda trabajar con socios para encontrar la solución para satisfacer tus necesidades</em>
+    <em>Aunque tengas la experiencia para desarrollar internamente, Adobe recomienda trabajar con socios para encontrar la solución que cumpla tus requisitos</em>
     <br>
   </td>
   <td>
@@ -94,7 +94,7 @@ Eric Rowse, consultor sénior de soluciones (Digital Media)
 
 **Recursos de InDesign Server**
 
-[Información y asistencia](https://www.adobe.com/products/indesignserver.html) es el centro de tutoriales adicionales, Novedades y vínculos a foros de la comunidad.
+[Información y asistencia](https://www.adobe.com/products/indesignserver.html) es el centro de tutoriales adicionales, novedades y vínculos a foros de la comunidad.
 
 **Versión de octubre de 2020**
 

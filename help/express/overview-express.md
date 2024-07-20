@@ -1,6 +1,6 @@
 ---
-title: Adobe [!DNL Express] Resumen
-description: Ponte al día con el Adobe [!DNL Express]
+title: Adobe [!DNL Express] Información general
+description: Ponte al día en el Adobe  [!DNL Express]
 feature: Graphic Design, Image Editing, Integrations, Gen AI
 role: User
 level: Beginner, Intermediate
@@ -13,7 +13,7 @@ ht-degree: 10%
 
 ---
 
-# Adobe [!DNL Express] visión general
+# Introducción al Adobe [!DNL Express]
 
 Diseña carretes y vídeos para TikTok, folletos, currículums, banners, logotipos y mucho más con la nueva aplicación de Adobe Express todo en uno para crear contenido de forma rápida y sencilla. Crea trabajos sorprendentes que destaquen con funciones de IA generativas basadas en el Adobe Firefly.
 
@@ -21,7 +21,7 @@ Diseña carretes y vídeos para TikTok, folletos, currículums, banners, logotip
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420225?quality=12&learn=on&hidetitle=true)
 
-## Adobe [!DNL Express] tutoriales
+## Tutoriales de Adobe [!DNL Express]
 
 <table style="table-layout:fixed">
 <tr>

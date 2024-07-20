@@ -1,6 +1,6 @@
 ---
-title: Crea un patrón semisurrealista con Adobe [!DNL Stock]
-description: Crea un hermoso patrón fluido basado en imágenes surrealistas de Adobe [!DNL Stock]
+title: Crear un patrón semisurrealista con Adobe [!DNL Stock]
+description: Crea un hermoso patrón perfecto basado en imágenes surrealistas del Adobe  [!DNL Stock]
 feature: Licensable Assets
 role: User
 level: Beginner, Intermediate
@@ -13,8 +13,8 @@ ht-degree: 0%
 
 ---
 
-# Crea un patrón semisurrealista con Adobe [!DNL Stock]
+# Crear un patrón semisurrealista con el Adobe [!DNL Stock]
 
-Crea un hermoso patrón fluido basado en imágenes surrealistas de Adobe [!DNL Stock].
+Crea un hermoso patrón perfecto basado en imágenes surrealistas del Adobe [!DNL Stock].
 
 >[!VIDEO](https://video.tv.adobe.com/v/331825?hidetitle=true)

@@ -36,7 +36,7 @@ Dale vida a tus ideas con las aplicaciones y software de Adobe para edición de 
     <div>
    <a href="video-review-frame-io.md"><strong>Revisión de vídeo con Frame.io</strong></a>
     </div>
-    <em>Descubre cómo la extensión Frame.io para Adobe Premiere Pro te permite centralizar y compartir activos, recibir comentarios en tiempo real, realizar un seguimiento de las revisiones y obtener aprobaciones más rápidas, todo ello sin salir de la línea de tiempo</em>
+    <em>Descubre cómo la extensión Frame.io para Adobe Premiere Pro te permite centralizar y compartir activos, recibir comentarios en tiempo real, hacer un seguimiento de las revisiones y obtener aprobaciones más rápidas, todo ello sin salir de la línea de tiempo</em>
     <br>
   </td>
   <td>

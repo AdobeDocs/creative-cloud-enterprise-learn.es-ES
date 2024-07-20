@@ -13,7 +13,7 @@ ht-degree: 0%
 
 ---
 
-# Crear un compuesto semisurrealista con Adobe [!DNL Stock]
+# Crear un compuesto semisurrealista con el Adobe [!DNL Stock]
 
 Crea una imagen editorial memorable combinando varias imágenes con color, movimiento y efectos de máscara.
 

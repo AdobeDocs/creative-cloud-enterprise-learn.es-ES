@@ -15,7 +15,7 @@ ht-degree: 1%
 
 # Efectos de texto
 
-Aprenda a crear texto único e inspirador para sus proyectos utilizando sencillos mensajes de texto. Los efectos de texto le permiten mejorar su creatividad y crear texto extraordinario para sus proyectos. Probar Adobe Firefly [aquí](https://firefly.adobe.com/).
+Aprenda a crear texto único e inspirador para sus proyectos utilizando sencillos mensajes de texto. Los efectos de texto le permiten mejorar su creatividad y crear texto extraordinario para sus proyectos. Pruebe el Adobe Firefly [aquí](https://firefly.adobe.com/).
 
 <br> 
 
