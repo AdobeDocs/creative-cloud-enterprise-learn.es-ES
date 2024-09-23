@@ -8,9 +8,9 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 1fc995e8be33317f0d9200bb421fcff0f77a568c
+source-git-commit: a6239fe87239003e2730d402d8ae1c2cda52bd87
 workflow-type: tm+mt
-source-wordcount: '797'
+source-wordcount: '803'
 ht-degree: 4%
 
 ---
@@ -92,6 +92,7 @@ ht-degree: 4%
       + [Cómo utilizar las plantillas](express/use-templates.md)
    + Tutoriales de casos de uso {#expressusecase}
       + [Información general](express/overview-express-use-case-tutorials.md)
+      + [Creación de contenido de recursos humanos multicanal para eventos](express/create-hr-content.md)
       + [Creación de un elemento visual promocional para un curso de aprendizaje en línea](express/promo-visual.md)
       + [Creación de un vídeo de fin de año](express/end-of-year-video.md)
       + [Cómo crear un boletín](express/newsletter.md)
