@@ -1,5 +1,5 @@
 ---
-title: "[!DNL Stock]"
+title: '[!DNL Stock]'
 description: Adobe [!DNL Stock] for enterprise ofrece a los equipos creativos acceso a más de 200 millones de imágenes, vídeos, plantillas, ilustraciones, archivos de audio y recursos 3D
 feature: Licensable Assets
 role: User
@@ -88,4 +88,4 @@ Logotipo de ![[!DNL Stock]](../assets/st_appicon_96.png)
 
 **Versión de octubre de 2020**
 
-Empiece a utilizar estas funciones (¡y mucho más!) descargando la actualización más reciente de la aplicación de escritorio de Creative Cloud.
+Empiece a utilizar estas funciones (y muchas más) descargando la actualización más reciente desde la aplicación de escritorio de Creative Cloud.

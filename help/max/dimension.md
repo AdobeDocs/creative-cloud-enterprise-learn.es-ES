@@ -1,6 +1,6 @@
 ---
-title: "[!DNL Dimension]"
-description: "[!DNL Dimension] facilita la creación de visualizaciones de marca, ilustraciones, bocetos de productos, diseños de empaquetado y otros trabajos creativos"
+title: '[!DNL Dimension]'
+description: '[!DNL Dimension] facilita la creación de visualizaciones de marca, ilustraciones, bocetos de productos, diseños de empaquetado y otros trabajos creativos'
 feature: 3D
 role: User
 level: Beginner, Intermediate
@@ -64,4 +64,4 @@ Jim Babbage, Consultor Sénior de Soluciones (Medios Digitales)
 
 **Versión de octubre de 2020**
 
-Empiece a utilizar estas funciones (¡y mucho más!) descargando la actualización más reciente de la aplicación de escritorio de Creative Cloud.
+Empiece a utilizar estas funciones (y muchas más) descargando la actualización más reciente desde la aplicación de escritorio de Creative Cloud.
