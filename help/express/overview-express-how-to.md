@@ -6,9 +6,9 @@ role: User
 level: Beginner, Intermediate
 jira: KT-13994
 exl-id: f2cc51b1-b0be-4ca7-9723-92d851250463
-source-git-commit: 55946f53633e679f1c7242e54fe07b41b1e626a3
+source-git-commit: 4485af9f7684ab028b5d135a9dfdaad98fa47b65
 workflow-type: tm+mt
-source-wordcount: '284'
+source-wordcount: '360'
 ht-degree: 1%
 
 ---
@@ -355,24 +355,44 @@ Empieza a crear trabajos sorprendentes que destaquen con IA generativa impulsada
 <table style="table-layout:fixed">
 <tr>
    <td>
-         <a href="lock-layers.md">
+        <a href="lock-layers.md">
             <img alt="Cómo y por qué bloquear capas" src="assets/lock-layers.png" />
-         </a>
-   </td>
-   <td>
+        </a>
+        <div>
+            <a href="lock-layers.md"><strong>Cómo y por qué bloquear capas</strong></a>
+            </div>
+            <em>Descubre por qué es importante bloquear varios elementos de tu plantilla</em>
+            <br>
+    </td>
+    <td>
          <a href="create-templates.md">
-            <img alt="Creación de una plantilla" src="assets/create-template.png" />
+            <img alt="Maximizar la eficiencia: cree plantillas reutilizables" src="assets/create-template.png" />
          </a>
+         <div>
+         <a href="create-templates.md"><strong>Maximizar la eficiencia: crear plantillas reutilizables</strong></a>
+         </div>
+         <em>Descubre cómo aportar coherencia de marca, eficiencia y ahorros de costes a tu organización con las plantillas</em>
+         <br>
    </td>
    <td>
          <a href="share-templates.md">
             <img alt="Guardar y compartir plantillas" src="assets/share-templates.png" />
          </a>
+         <div>
+         <a href="share-templates.md"><strong>Guardar y compartir plantillas</strong></a>
+         </div>
+         <em>Descubre cómo guardar y compartir plantillas en un kit de marca o biblioteca para tu equipo</em>
+         <br>
    </td>
    <td>
          <a href="use-templates.md">
-            <img alt="Cómo utilizar las plantillas" src="assets/use-templates.png" />
+            <img alt="Coherencia de marca sin esfuerzo con plantillas" src="assets/use-templates.png" />
          </a>
+         <div>
+         <a href="use-templates.md"><strong>Coherencia de marca sin esfuerzo con las plantillas</strong></a>
+         </div>
+         <em>Aprende a crear contenido acorde con la marca de forma rápida y eficaz en toda tu organización</em>
+         <br>
    </td>
 </tr>
 </table>
