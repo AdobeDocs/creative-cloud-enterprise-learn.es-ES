@@ -1,21 +1,21 @@
 ---
-title: Cómo utilizar las plantillas
-description: Tu marca es única en su clase y el uso de plantillas te ayuda a mantenerte fiel a la marca
+title: Coherencia de marca sin esfuerzo con plantillas
+description: Aprende a crear contenido acorde con la marca de forma rápida y eficaz en toda tu organización
 feature: Graphic Design
 role: User
 level: Beginner
 jira: KT-14887
 exl-id: 00b8d83a-630f-48a1-a87f-c6f43ad5f992
-source-git-commit: 5067e02da7d74d366c797e81a6a5d0ee9ac69feb
+source-git-commit: 319704f89f9bae809313e53cbd6d45158f146b76
 workflow-type: tm+mt
-source-wordcount: '48'
+source-wordcount: '130'
 ht-degree: 0%
 
 ---
 
-# Cómo utilizar las plantillas
+# Coherencia de marca sin esfuerzo con plantillas
 
-Tu marca es única en su clase y el uso de plantillas te ayuda a mantenerte fiel a la marca.
+Aprende a crear contenido acorde con la marca de forma rápida y eficaz en toda tu organización. Este tutorial explica cómo crear nuevo contenido nuevo para la marca que se pueda compartir y localizar de inmediato.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427099?quality=12&learn=on&hidetitle=true)
 
@@ -24,20 +24,35 @@ Tu marca es única en su clase y el uso de plantillas te ayuda a mantenerte fiel
 <table style="table-layout:fixed">
 <tr>
     <td>
-            <a href="lock-layers.md">
-                <img alt="Cómo y por qué bloquear capas" src="assets/lock-layers.png" />
-            </a>
+        <a href="lock-layers.md">
+            <img alt="Cómo y por qué bloquear capas" src="assets/lock-layers.png" />
+        </a>
+        <div>
+            <a href="lock-layers.md"><strong>Cómo y por qué bloquear capas</strong></a>
+            </div>
+            <em>Descubre por qué es importante bloquear varios elementos de tu plantilla</em>
+            <br>
     </td>
     <td>
          <a href="create-templates.md">
-            <img alt="Creación de una plantilla" src="assets/create-template.png" />
+            <img alt="Maximizar la eficiencia: cree plantillas reutilizables" src="assets/create-template.png" />
          </a>
-    </td>
-    <td>
-            <a href="share-templates.md">
-                <img alt="Guardar y compartir plantillas" src="assets/share-templates.png" />
-            </a>
-    </td>
+         <div>
+         <a href="create-templates.md"><strong>Maximizar la eficiencia: crear plantillas reutilizables</strong></a>
+         </div>
+         <em>Descubre cómo aportar uniformidad de marca, eficiencia, profesionalismo y ahorro de costes a tu organización con las plantillas</em>
+         <br>
+   </td>
+   <td>
+         <a href="share-templates.md">
+            <img alt="Guardar y compartir plantillas" src="assets/share-templates.png" />
+         </a>
+         <div>
+         <a href="share-templates.md"><strong>Guardar y compartir plantillas</strong></a>
+         </div>
+         <em>Descubre cómo guardar y compartir plantillas en un kit de marca o biblioteca para tu equipo</em>
+         <br>
+   </td>
     <td>
       <img alt="Separador" src="../assets/Whitespacer.png" />
       <div>

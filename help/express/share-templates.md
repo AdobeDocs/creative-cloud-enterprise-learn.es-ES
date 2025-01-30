@@ -6,9 +6,9 @@ role: User
 level: Beginner
 jira: KT-14886
 exl-id: 7fd2e120-a797-466a-ab5e-1f6dfd8223a1
-source-git-commit: 5067e02da7d74d366c797e81a6a5d0ee9ac69feb
+source-git-commit: 319704f89f9bae809313e53cbd6d45158f146b76
 workflow-type: tm+mt
-source-wordcount: '57'
+source-wordcount: '115'
 ht-degree: 0%
 
 ---
@@ -24,20 +24,35 @@ Aprende a guardar y compartir plantillas en un kit de marca o biblioteca para tu
 <table style="table-layout:fixed">
 <tr>
     <td>
-            <a href="lock-layers.md">
-                <img alt="Cómo y por qué bloquear capas" src="assets/lock-layers.png" />
-            </a>
+        <a href="lock-layers.md">
+            <img alt="Cómo y por qué bloquear capas" src="assets/lock-layers.png" />
+        </a>
+        <div>
+            <a href="lock-layers.md"><strong>Cómo y por qué bloquear capas</strong></a>
+            </div>
+            <em>Descubre por qué es importante bloquear varios elementos de tu plantilla</em>
+            <br>
     </td>
     <td>
          <a href="create-templates.md">
-            <img alt="Creación de una plantilla" src="assets/create-template.png" />
+            <img alt="Maximizar la eficiencia: cree plantillas reutilizables" src="assets/create-template.png" />
          </a>
-    </td>
+         <div>
+         <a href="create-templates.md"><strong>Maximizar la eficiencia: crear plantillas reutilizables</strong></a>
+         </div>
+         <em>Descubre cómo aportar uniformidad de marca, eficiencia, profesionalismo y ahorro de costes a tu organización con las plantillas</em>
+         <br>
+   </td>
     <td>
-            <a href="use-templates.md">
-                <img alt="Cómo utilizar las plantillas" src="assets/use-templates.png" />
-            </a>
-    </td>
+         <a href="use-templates.md">
+            <img alt="Coherencia de marca sin esfuerzo con plantillas" src="assets/use-templates.png" />
+         </a>
+         <div>
+         <a href="use-templates.md"><strong>Coherencia de marca sin esfuerzo con las plantillas</strong></a>
+         </div>
+         <em>Aprende a crear contenido acorde con la marca de forma rápida y eficaz en toda tu organización</em>
+         <br>
+   </td>
     <td>
       <img alt="Separador" src="../assets/Whitespacer.png" />
       <div>
