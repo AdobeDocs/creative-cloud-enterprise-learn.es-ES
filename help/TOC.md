@@ -8,9 +8,9 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: a6239fe87239003e2730d402d8ae1c2cda52bd87
+source-git-commit: f7eb9a548da23db3afcb3e6dfeb378f40181e1e0
 workflow-type: tm+mt
-source-wordcount: '803'
+source-wordcount: '806'
 ht-degree: 4%
 
 ---
@@ -87,7 +87,7 @@ ht-degree: 4%
       + [Cómo añadir audio](express/add-audio-video.md)
       + [Cómo exportar un vídeo](express/export-video.md)
       + [Cómo y por qué bloquear capas](express/lock-layers.md)
-      + [Creación de una plantilla](express/create-templates.md)
+      + [Maximizar la eficiencia: Cree una plantilla reutilizable](express/create-templates.md)
       + [Guardar y compartir plantillas](express/share-templates.md)
       + [Cómo utilizar las plantillas](express/use-templates.md)
    + Tutoriales de casos de uso {#expressusecase}

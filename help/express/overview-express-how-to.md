@@ -6,9 +6,9 @@ role: User
 level: Beginner, Intermediate
 jira: KT-13994
 exl-id: f2cc51b1-b0be-4ca7-9723-92d851250463
-source-git-commit: 4485af9f7684ab028b5d135a9dfdaad98fa47b65
+source-git-commit: f7eb9a548da23db3afcb3e6dfeb378f40181e1e0
 workflow-type: tm+mt
-source-wordcount: '360'
+source-wordcount: '362'
 ht-degree: 1%
 
 ---
@@ -366,10 +366,10 @@ Empieza a crear trabajos sorprendentes que destaquen con IA generativa impulsada
     </td>
     <td>
          <a href="create-templates.md">
-            <img alt="Maximizar la eficiencia: cree plantillas reutilizables" src="assets/create-template.png" />
+            <img alt="Maximizar la eficiencia: Cree una plantilla reutilizable" src="assets/create-template.png" />
          </a>
          <div>
-         <a href="create-templates.md"><strong>Maximizar la eficiencia: crear plantillas reutilizables</strong></a>
+         <a href="create-templates.md"><strong>Maximizar la eficiencia: Crear una plantilla reutilizable</strong></a>
          </div>
          <em>Descubre cómo aportar coherencia de marca, eficiencia y ahorros de costes a tu organización con las plantillas</em>
          <br>

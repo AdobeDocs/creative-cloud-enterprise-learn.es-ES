@@ -6,9 +6,9 @@ role: User
 level: Beginner
 jira: KT-14885
 exl-id: f7aba5fa-40dd-48f2-afe3-d65ecc9a666c
-source-git-commit: 4485af9f7684ab028b5d135a9dfdaad98fa47b65
+source-git-commit: f7eb9a548da23db3afcb3e6dfeb378f40181e1e0
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '138'
 ht-degree: 0%
 
 ---
@@ -25,10 +25,10 @@ Descubra por qué es importante bloquear varios elementos de la plantilla para q
 <tr>
    <td>
          <a href="create-templates.md">
-            <img alt="Maximizar la eficiencia: cree plantillas reutilizables" src="assets/create-template.png" />
+            <img alt="Maximizar la eficiencia: Cree una plantilla reutilizable" src="assets/create-template.png" />
          </a>
          <div>
-         <a href="create-templates.md"><strong>Maximizar la eficiencia: crear plantillas reutilizables</strong></a>
+         <a href="create-templates.md"><strong>Maximizar la eficiencia: Crear una plantilla reutilizable</strong></a>
          </div>
          <em>Descubre cómo aportar coherencia de marca, eficiencia y ahorros de costes a tu organización con las plantillas</em>
          <br>

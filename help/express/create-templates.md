@@ -1,19 +1,19 @@
 ---
-title: 'Maximice la eficiencia: cree plantillas reutilizables'
+title: 'Maximice la eficiencia: cree una plantilla reutilizable'
 description: Descubre cómo aportar uniformidad de marca, eficacia, profesionalidad y ahorro de costes a tu organización con las plantillas de Adobe Express
 feature: Graphic Design
 role: User
 level: Beginner
 jira: KT-13410
 exl-id: f044b41b-e7f8-4c0a-86fe-83b82a332334
-source-git-commit: 319704f89f9bae809313e53cbd6d45158f146b76
+source-git-commit: f7eb9a548da23db3afcb3e6dfeb378f40181e1e0
 workflow-type: tm+mt
-source-wordcount: '140'
+source-wordcount: '142'
 ht-degree: 0%
 
 ---
 
-# Maximizar la eficiencia: cree plantillas reutilizables
+# Maximizar la eficiencia: Cree una plantilla reutilizable
 
 Descubre cómo aportar uniformidad de marca, eficacia, profesionalidad y ahorro de costes a tu organización con las plantillas de Adobe Express. En este tutorial se explica cómo crear un archivo reutilizable a partir de cualquier contenido existente, ya sea un archivo de Photoshop, Illustrator, InDesign o incluso PowerPoint.
 
