@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Aprende a crear contenido acorde con la marca de forma rápida y eficaz en toda tu organización. Este tutorial explica cómo crear nuevo contenido nuevo para la marca que se pueda compartir y localizar de inmediato.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427099?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3436127?quality=12&learn=on&hidetitle=true&captions=spa)
 
 ## Vídeos adicionales de esta serie
 

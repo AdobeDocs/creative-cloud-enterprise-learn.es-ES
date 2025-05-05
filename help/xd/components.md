@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Aprende a usar [!UICONTROL Componentes] para que puedas disfrutar de una flexibilidad sin precedentes para aplicar velocidad y coherencia a tu flujo de trabajo de diseño.
 
->[!VIDEO](https://video.tv.adobe.com/v/331003?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3410474?hidetitle=true&captions=spa)
 
 Haga clic en el icono de archivo del PDF para descargar un PDF de este tutorial.
 

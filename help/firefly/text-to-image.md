@@ -19,4 +19,4 @@ Aprenda a crear una imagen a partir de descripciones de texto. [Generar imágene
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3427608?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3447673?quality=12&learn=on&hidetitle=true&captions=spa)

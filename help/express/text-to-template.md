@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Aprenda a generar plantillas editables para publicaciones en redes sociales, carteles, folletos y tarjetas a partir de una descripción de texto en cuestión de segundos. Puede editar el diseño, cambiar las fuentes y dar más marca al proyecto antes de descargarlo o compartirlo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427022?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3438120?quality=12&learn=on&hidetitle=true&captions=spa)
 
 ## Vídeos adicionales de esta serie
 

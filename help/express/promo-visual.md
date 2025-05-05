@@ -17,4 +17,4 @@ ht-degree: 0%
 
 Aprende a crear atractivos elementos visuales para un curso de aprendizaje online. Empieza mezclando una de las miles de plantillas diseñadas de forma profesional. A continuación, añade una foto y utiliza técnicas de edición para fusionarla en la composición antes de redimensionar y distribuir los elementos visuales finales.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427122?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3433934?quality=12&learn=on&hidetitle=true&captions=spa)

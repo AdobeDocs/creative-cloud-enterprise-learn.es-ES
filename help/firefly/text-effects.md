@@ -19,4 +19,4 @@ Aprenda a crear texto único e inspirador para sus proyectos utilizando sencillo
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3420829?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3432214?quality=12&learn=on&hidetitle=true&captions=spa)

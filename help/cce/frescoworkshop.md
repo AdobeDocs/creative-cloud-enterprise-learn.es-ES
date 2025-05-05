@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Explora un mundo completamente nuevo del dibujo y la pintura digitales con Adobe Fresco en este taller práctico de 15 minutos. Aprende rápidamente a trabajar con capas y máscaras de recorte para conformar la pintura y las texturas con una forma base. Sigue al diseñador/desarrollador Chris Converse para recrear parte de una ilustración de bodegón con Fresco y Adobe Stock.
 
->[!VIDEO](https://video.tv.adobe.com/v/333804?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3410419?hidetitle=true&captions=spa)
 
 <br> 
 

@@ -19,4 +19,4 @@ Descubre cómo un equipo comercial puede crear fácilmente imágenes atractivas 
 
 Este tutorial utiliza el nuevo [Adobe Express](https://www.adobe.com/express/).
 
->[!VIDEO](https://video.tv.adobe.com/v/3424458?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3447134?quality=12&learn=on&hidetitle=true&captions=spa)

@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Aprende a crear proyectos atractivos e inolvidables añadiendo audio. Puede cargar sus propios archivos de audio o elegir entre audio de archivo libre de derechos. También puede grabar voces en off y ajustar el volumen del audio y las voces en off.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427092?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3436846?quality=12&learn=on&hidetitle=true&captions=spa)
 
 ## Vídeos adicionales de esta serie
 

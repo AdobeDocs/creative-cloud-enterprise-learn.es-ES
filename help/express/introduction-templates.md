@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Explora miles de plantillas diseñadas de forma profesional para todas tus necesidades de marketing y redes sociales. Las plantillas proporcionan una forma rápida de crear contenido personalizado mediante la remezcla con sus propias palabras y fotos.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426927?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3443537?quality=12&learn=on&hidetitle=true&captions=spa)
 
 ## Vídeos adicionales de esta serie
 

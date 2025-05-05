@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Aprenda a optimizar el tamaño de la animación mediante los ajustes preestablecidos integrados para publicaciones en redes sociales como Instagram. Independientemente de cómo cambie el tamaño de sus animaciones, la configuración se conserva, por lo que no necesita reconstruirlas.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426984?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437725?quality=12&learn=on&hidetitle=true&captions=spa)
 
 ## Vídeos adicionales de esta serie
 

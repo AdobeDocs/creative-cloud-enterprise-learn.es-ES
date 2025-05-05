@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Aprende a usar cuadrículas para crear collages de fotos, paneles de fotografías y pósteres llamativos. Hay 40 diseños de cuadrícula diferentes disponibles para que los personalice con sus propias imágenes o fotografías de Adobe Stock.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426934?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3439995?quality=12&learn=on&hidetitle=true&captions=spa)
 
 ## Vídeos adicionales de esta serie
 

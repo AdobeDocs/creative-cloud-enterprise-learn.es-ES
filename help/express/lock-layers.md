@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Descubra por qué es importante bloquear varios elementos de la plantilla para que no se puedan cambiar. Algunos elementos, como los logotipos, no se deben cambiar, por lo que se pueden bloquear antes de compartir la plantilla.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427095?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437069?quality=12&learn=on&hidetitle=true&captions=spa)
 
 ## Vídeos adicionales de esta serie
 

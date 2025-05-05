@@ -19,4 +19,4 @@ Descubre cómo acelerar la creación de contenido con herramientas generativas i
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3425036?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3446240?quality=12&learn=on&hidetitle=true&captions=spa)

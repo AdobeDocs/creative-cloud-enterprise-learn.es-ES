@@ -16,7 +16,7 @@ ht-degree: 0%
 
 En este tutorial de vídeo paso a paso en el taller, crea una fotografía viva combinando el vídeo del Adobe [!DNL Stock] con técnicas de enmascaramiento inteligentes en Photoshop.
 
->[!VIDEO](https://video.tv.adobe.com/v/331002?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3410686?hidetitle=true&captions=spa)
 
 <br> 
 

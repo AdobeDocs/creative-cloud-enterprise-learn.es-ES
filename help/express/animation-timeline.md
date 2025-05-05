@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Aprenda a navegar por la línea de tiempo de la animación y ajustarla. La cronología es una vista general de toda la animación, donde puede previsualizar y reducir/ampliar la duración de la animación.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426978?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437604?quality=12&learn=on&hidetitle=true&captions=spa)
 
 ## Vídeos adicionales de esta serie
 

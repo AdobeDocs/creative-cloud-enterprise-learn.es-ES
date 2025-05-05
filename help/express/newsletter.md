@@ -17,4 +17,4 @@ ht-degree: 0%
 
 Aprenda a iniciar la creación de un boletín mediante la búsqueda de plantillas diseñadas profesionalmente con palabras clave. Después de cambiar el logotipo y la copia de texto, puede invitar a sus colegas a colaborar y agregar su propio contenido.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427120?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3439206?quality=12&learn=on&hidetitle=true&captions=spa)

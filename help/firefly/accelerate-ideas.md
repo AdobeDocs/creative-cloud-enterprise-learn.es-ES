@@ -19,4 +19,4 @@ Aprende a visualizar rápidamente las ideas y explorar los conceptos para las ca
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3428827?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3452517?quality=12&learn=on&hidetitle=true&captions=spa)

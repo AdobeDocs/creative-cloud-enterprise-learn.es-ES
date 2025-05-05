@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Descubre cómo aportar uniformidad de marca, eficacia, profesionalidad y ahorro de costes a tu organización con las plantillas de Adobe Express. En este tutorial se explica cómo crear un archivo reutilizable a partir de cualquier contenido existente, ya sea un archivo de Photoshop, Illustrator, InDesign o incluso PowerPoint.
 
->[!VIDEO](https://video.tv.adobe.com/v/3420208?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3433967?quality=12&learn=on&hidetitle=true&captions=spa)
 
 ## Vídeos adicionales de esta serie
 

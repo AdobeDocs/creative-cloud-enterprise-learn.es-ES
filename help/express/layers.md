@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Aprenda a trabajar con mesas de trabajo y capas en un proyecto de diseño. Añada, elimine, duplique, reordene y cambie el tamaño de las mesas de trabajo para los diferentes canales sociales. También puede cambiar el orden de los elementos de la pila de capas.
 
->[!VIDEO](https://video.tv.adobe.com/v/3420214?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3447068?quality=12&learn=on&hidetitle=true&captions=spa)
 
 ## Vídeos adicionales de esta serie
 

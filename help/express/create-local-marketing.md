@@ -17,4 +17,4 @@ ht-degree: 1%
 
 Aprende a usar Text to Image, con tecnología de Adobe Firefly, en Adobe Express para crear contenido localizado a partir de una campaña global de marketing hotelero. Este tutorial utiliza el nuevo [Adobe Express](https://www.adobe.com/express/).
 
->[!VIDEO](https://video.tv.adobe.com/v/3422426?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3443587?quality=12&learn=on&hidetitle=true&captions=spa)

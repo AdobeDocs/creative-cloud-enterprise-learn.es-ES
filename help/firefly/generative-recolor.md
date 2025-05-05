@@ -19,4 +19,4 @@ Aprende a usar Generative Recolor, con tecnología de Adobe Firefly, en Adobe Il
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3420872?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3442070?quality=12&learn=on&hidetitle=true&captions=spa)

@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Los archivos de JPG, PNG, SVG, GIF y EPS se suelen utilizar en el diseño, algunos para páginas web y otros para presentaciones, publicaciones y proyectos creativos. Pero, ¿qué significan, y qué debes elegir? Descubre en este taller práctico de 15 minutos. Aprende rápidamente a aplicar efectos de transparencia en Photoshop que pueden llevar tus habilidades de presentación a un nuevo nivel mientras exploras diferentes configuraciones de exportación y optimización de gráficos. Siga a Chris Converse, diseñador y desarrollador, para crear una animación atractiva en PowerPoint mediante gráficos personalizados exportados desde Photoshop.
 
->[!VIDEO](https://video.tv.adobe.com/v/333805?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3410413?hidetitle=true&captions=spa)
 
 <br> 
 

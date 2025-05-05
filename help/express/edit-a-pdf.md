@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Descubre cómo puedes cambiar el estilo de tus PDF estáticos y obsoletos añadiendo texto, imágenes, marcas, colores, animaciones y mucho más que llamativos. Una vez finalizada la edición, puede descargar el PDF, compartirlo o convertirlo a otros formatos de archivo como JPEG.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427024?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437901?quality=12&learn=on&hidetitle=true&captions=spa)
 
 ## Vídeos adicionales de esta serie
 

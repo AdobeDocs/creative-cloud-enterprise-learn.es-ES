@@ -17,4 +17,4 @@ ht-degree: 0%
 
 Aprende a crear fondos atractivos para presentaciones de PowerPoint. Con texto a imagen, con tecnología de Adobe Firefly, puede generar una imagen personalizada para su presentación y, a continuación, realizar más cambios en la imagen, aplicar efectos y descargarla para utilizarla en su presentación.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427117?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3433978?quality=12&learn=on&hidetitle=true&captions=spa)

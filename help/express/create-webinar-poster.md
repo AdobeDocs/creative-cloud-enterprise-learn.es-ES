@@ -16,4 +16,4 @@ ht-degree: 1%
 
 Aprende a usar la función Texto a imagen, con tecnología de Adobe Firefly, en Adobe Express para crear un póster de seminario web para un evento de realidad virtual. Este tutorial utiliza el nuevo [Adobe Express](https://www.adobe.com/express/).
 
->[!VIDEO](https://video.tv.adobe.com/v/3420810?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3446866?quality=12&learn=on&hidetitle=true&captions=spa)

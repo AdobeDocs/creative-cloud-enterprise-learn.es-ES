@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Descubre cómo añadir animación a una publicación en las redes sociales para aumentar la participación. Para acceder al panel Animación, seleccione cualquier elemento de la página, como una imagen, y aplique distintos tipos de animación.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426975?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3436588?quality=12&learn=on&hidetitle=true&captions=spa)
 
 ## Vídeos adicionales de esta serie
 
