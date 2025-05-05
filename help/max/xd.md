@@ -214,7 +214,7 @@ Victoria Torres, consultora de soluciones (Digital Media)
 
 **Recursos XD**
 
-[Información y asistencia](https://helpx.adobe.com/support/xd.html) es el centro de tutoriales adicionales, [Novedades](https://helpx.adobe.com/xd/user-guide.html/xd/help/whats-new.ug.html) y vínculos a foros de la comunidad.
+[Información y asistencia](https://helpx.adobe.com/es/support/xd.html) es el centro de tutoriales adicionales, [Novedades](https://helpx.adobe.com/xd/user-guide.html/xd/help/whats-new.ug.html) y vínculos a foros de la comunidad.
 
 **Versión de octubre de 2020**
 

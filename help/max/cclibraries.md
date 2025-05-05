@@ -80,7 +80,7 @@ Ashley Dvorin, consultora sénior de soluciones (Digital Media)
 
 **Recursos de CC Libraries**
 
-[Información y asistencia](https://helpx.adobe.com/creative-cloud/help/libraries.html) es el centro de tutoriales adicionales, novedades y vínculos a foros de la comunidad.
+[Información y asistencia](https://helpx.adobe.com/es/creative-cloud/help/libraries.html) es el centro de tutoriales adicionales, novedades y vínculos a foros de la comunidad.
 
 **Versión de octubre de 2020**
 

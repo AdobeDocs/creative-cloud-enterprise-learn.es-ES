@@ -83,7 +83,7 @@ A.J Wood, consultor sénior de soluciones (Digital Media)
 
 **Recursos de Photoshop**
 
-[Información y asistencia](https://helpx.adobe.com/support/photoshop.html) es el centro de tutoriales adicionales, [Novedades](https://helpx.adobe.com/photoshop/using/whats-new.html) y vínculos a foros de la comunidad.
+[Información y asistencia](https://helpx.adobe.com/es/support/photoshop.html) es el centro de tutoriales adicionales, [Novedades](https://helpx.adobe.com/es/photoshop/using/whats-new.html) y vínculos a foros de la comunidad.
 
 **Versión de octubre de 2020**
 

@@ -22,7 +22,7 @@ Si su organización no está usando NUL y sigue usando la implementación serial
 
 ## Acerca de las licencias de usuario designadas
 
-[Licencias de usuario designadas](https://helpx.adobe.com/enterprise/using/licensing.html) es un modelo de licencia de software que permite asignar software a un individuo en lugar de a un número de serie o dispositivo. NUL ofrece a los administradores de TI seguridad de nivel empresarial con administración avanzada de identidades de usuario y permite una implementación y administración sencillas de aplicaciones mediante Adobe Admin Console.
+[Licencias de usuario designadas](https://helpx.adobe.com/es/enterprise/using/licensing.html) es un modelo de licencia de software que permite asignar software a un individuo en lugar de a un número de serie o dispositivo. NUL ofrece a los administradores de TI seguridad de nivel empresarial con administración avanzada de identidades de usuario y permite una implementación y administración sencillas de aplicaciones mediante Adobe Admin Console.
 
 ## Ventajas de las licencias de usuario designadas:
 

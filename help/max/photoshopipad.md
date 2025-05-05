@@ -63,7 +63,7 @@ Logotipo de ![Photoshop en el iPad](../assets/ps_appicon_96.png)
 
 **Recursos de Photoshop para el iPad**
 
-[Información y asistencia](https://helpx.adobe.com/support/photoshop.html) es el centro de tutoriales adicionales y vínculos a foros de la comunidad.
+[Información y asistencia](https://helpx.adobe.com/es/support/photoshop.html) es el centro de tutoriales adicionales y vínculos a foros de la comunidad.
 
 **Versión de octubre de 2020**
 

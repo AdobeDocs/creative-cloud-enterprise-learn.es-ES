@@ -163,7 +163,7 @@ Emilie Enke, consultora asociada de soluciones (Digital Media)
 
 **Recursos de Acrobat y Adobe Sign**
 
-[Información y asistencia](https://helpx.adobe.com/support/document-cloud.html) es el centro de tutoriales adicionales, [Novedades](https://helpx.adobe.com/acrobat/using/whats-new.html) y vínculos a foros de la comunidad.
+[Información y asistencia](https://helpx.adobe.com/es/support/document-cloud.html) es el centro de tutoriales adicionales, [Novedades](https://helpx.adobe.com/es/acrobat/using/whats-new.html) y vínculos a foros de la comunidad.
 
 **Versión de octubre de 2020**
 

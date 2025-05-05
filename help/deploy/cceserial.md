@@ -34,7 +34,7 @@ Las licencias con número de serie asociadas a tu contrato de ETLA están dispon
 
 ### Comprobar la fecha de caducidad
 
-[AdobeExpiryCheck](https://helpx.adobe.com/enterprise/kb/volume-license-expiration-check.html) es una utilidad de línea de comandos para administradores de TI que permite comprobar si los productos de Adobe de un equipo están usando números de serie que han caducado o van a caducar. La herramienta mostrará información como el identificador de licencia del producto (LEID), el número de serie cifrado y la fecha de caducidad. Esta [página](https://helpx.adobe.com/enterprise/kb/volume-license-expiration-check.html) contiene instrucciones sobre cómo descargar y usar la herramienta en equipos Mac o Windows.
+[AdobeExpiryCheck](https://helpx.adobe.com/es/enterprise/kb/volume-license-expiration-check.html) es una utilidad de línea de comandos para administradores de TI que permite comprobar si los productos de Adobe de un equipo están usando números de serie que han caducado o van a caducar. La herramienta mostrará información como el identificador de licencia del producto (LEID), el número de serie cifrado y la fecha de caducidad. Esta [página](https://helpx.adobe.com/es/enterprise/kb/volume-license-expiration-check.html) contiene instrucciones sobre cómo descargar y usar la herramienta en equipos Mac o Windows.
 
 ## Conocer la experiencia del usuario final antes y después de que caduque el número de serie
 
@@ -91,7 +91,7 @@ En todos los intentos posteriores de iniciar Acrobat, se solicitará al usuario 
 
 ## Contacte con nosotros si necesita ayuda
 
-Si tienes alguna pregunta sobre el uso de la herramienta [AdobeExpiryCheck](https://helpx.adobe.com/enterprise/kb/volume-license-expiration-check.html) o necesitas ayuda para migrar de la implementación del número de serie al usuario designado, tienes varias opciones:
+Si tienes alguna pregunta sobre el uso de la herramienta [AdobeExpiryCheck](https://helpx.adobe.com/es/enterprise/kb/volume-license-expiration-check.html) o necesitas ayuda para migrar de la implementación del número de serie al usuario designado, tienes varias opciones:
 * Enviar un correo electrónico al equipo de incorporación empresarial de Adobe: **entonb@adobe.com**
 * Abra un ticket de asistencia en [Admin Console](https://adminconsole.adobe.com/support)
 * Póngase en contacto con el equipo de cuentas de Adobe

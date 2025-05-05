@@ -78,7 +78,7 @@ Patti Sokol, consultora principal de soluciones (Digital Media)
 
 **Recursos de Illustrator**
 
-[Información y asistencia](https://helpx.adobe.com/support/illustrator.html) es el centro de tutoriales adicionales y vínculos a foros de la comunidad.
+[Información y asistencia](https://helpx.adobe.com/es/support/illustrator.html) es el centro de tutoriales adicionales y vínculos a foros de la comunidad.
 
 **Versión de octubre de 2020**
 
