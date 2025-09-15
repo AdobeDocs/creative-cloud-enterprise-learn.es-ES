@@ -19,4 +19,4 @@ Aprenda a utilizar Relleno generativo para añadir, expandir o quitar contenido 
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3427609?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3473992?quality=12&learn=on&hidetitle=true&captions=spa)
