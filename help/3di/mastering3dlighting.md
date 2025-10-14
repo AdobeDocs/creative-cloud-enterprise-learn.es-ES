@@ -23,7 +23,7 @@ La mecánica de la luz en una escena 3D generada por ordenador sigue el mismo pr
 
 Algunos materiales son más sensibles a las condiciones de iluminación que otros. Tomemos los metales por ejemplo: un objeto cromado es básicamente un reflejo de todo lo que lo rodea. Si se mueve una luz, se vuelve más brillante o más grande, toda esa información es visible directamente en la superficie cromada con detalles casi similares a los de un espejo, por lo que puede parecer completamente diferente de una condición de luz a la otra.
 
-![Escena en 3D de un auto en un estacionamiento con un letrero de neón en la pared. La iluminación cambia de la luz diurna a un LED de neón que emana de la señal ](assets/Mastering3dlighting_1.gif)
+![Escena en 3D de un auto en un estacionamiento con un letrero de neón en la pared. La iluminación cambia de la luz diurna a un LED de neón que emana de la señal &#x200B;](assets/Mastering3dlighting_1.gif)
 
 ## Cómo trabajar con luces 3D para crear representaciones 3D eficaces
 
