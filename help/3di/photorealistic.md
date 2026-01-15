@@ -6,9 +6,9 @@ role: User
 level: Beginner, Intermediate
 keywords: fotografía virtual, 100 MSV global
 exl-id: 6c4b13c6-aab8-4df0-bb05-eb5d90aafbe4
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+source-git-commit: f8798caa7e5d44b8289d16d65b5dd12f28abe3ea
 workflow-type: tm+mt
-source-wordcount: '2387'
+source-wordcount: '2376'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,7 @@ Esta técnica de superposición de capas, o &#39;composición&#39; de modelos 3D
 
 ![Editando el plano de un modelo de esfera metálica en una composición de Adobe [!DNL Dimension]](assets/Photorealistic_3.png)
 
-El Adobe [!DNL Dimension] ha permitido a los usuarios combinar elementos 2D y 3D directamente en la aplicación mediante la función de coincidencia de imagen impulsada por Adobe Sensei. La principal ventaja de componer elementos de esta forma es que el turbo impulsa el proceso de creación de una imagen de aspecto realista al sustituir una escena 3D totalmente realizada por una imagen de fondo que se puede capturar desde la realidad.
+El Adobe [!DNL Dimension] ha permitido a los usuarios combinar elementos 2D y 3D directamente en la aplicación mediante la IA de Adobe. La principal ventaja de componer elementos de esta forma es que el turbo impulsa el proceso de creación de una imagen de aspecto realista al sustituir una escena 3D totalmente realizada por una imagen de fondo que se puede capturar desde la realidad.
 
 ![La función Hacer coincidir con la imagen del Adobe [!DNL Dimension] analiza la imagen de fondo y calcula la distancia focal y la posición de la cámara que se utilizó para capturarla](assets/Photorealistic_4.gif)
 
@@ -38,7 +38,7 @@ Pero, ¿qué pasa con todo lo que no está capturado dentro del encuadre de la c
 
 ![Imagen compuesta 3D con realismo fotográfico de un ciclomotor en una sala de estar](assets/Photorealistic_5.png)
 
-Match Image intentará &#39;alucinar&#39; el entorno de iluminación en el que se tomó una imagen de fondo. Realiza un trabajo impresionante que producirá excelentes resultados en poco tiempo, pero capturar el entorno junto con la imagen de fondo producirá resultados aún más realistas. Este es incluso el método utilizado para entrenar la función de Adobe Sensei para que lo haga por sí misma.
+Match Image intentará &#39;alucinar&#39; el entorno de iluminación en el que se tomó una imagen de fondo. Realiza un trabajo impresionante que producirá excelentes resultados en poco tiempo, pero capturar el entorno junto con la imagen de fondo producirá resultados aún más realistas. Este es incluso el método utilizado para entrenar la IA de Adobe.
 
 ![Panorámica HDR de 360 grados del espacio de oficina](assets/Photorealistic_6.png)
 

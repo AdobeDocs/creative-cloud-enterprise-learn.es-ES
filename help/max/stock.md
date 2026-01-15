@@ -5,9 +5,9 @@ feature: Licensable Assets
 role: User
 level: Beginner, Intermediate
 exl-id: 0a0f5cf8-0326-48fc-a833-0f531617cc41
-source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
+source-git-commit: f8798caa7e5d44b8289d16d65b5dd12f28abe3ea
 workflow-type: tm+mt
-source-wordcount: '333'
+source-wordcount: '325'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ Los creativos se encuentran bajo presión para ofrecer rápidamente contenido nu
     <div>
    <a href="stock.md#tutorial1"><strong>Encuentra los mejores activos más rápido con el Adobe [!DNL Stock]</strong></a>
     </div>
-    <em>Encuentra la imagen de stock perfecta sin derechos de autor para mejorar tu proyecto creativo mediante resultados de búsqueda mejores y más rápidos con la tecnología de Adobe Sensei, nuestro motor de inteligencia artificial</em>
+    <em>Encuentra la imagen de stock perfecta sin derechos de autor para mejorar tu proyecto creativo mediante resultados de búsqueda mejores y más rápidos con la tecnología de la inteligencia artificial de Adobe</em>
     <br>
   </td>
   <td>
@@ -49,14 +49,15 @@ Adobe Experience Manager</strong></a>
 </tr>
 </table>
 
-## Buscar los mejores recursos más rápido con el Adobe [!DNL Stock] (10:49) {#tutorial1}
+## Encuentra los mejores activos más rápido con el Adobe [!DNL Stock] (10:49) {#tutorial1}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326951?hidetitle=true)
 
 **Descripción**
-Encuentra la imagen de stock perfecta y sin derechos de autor para mejorar tu proyecto creativo mediante unos resultados de búsqueda mejores y más rápidos, con la tecnología de Adobe Sensei, nuestro motor de inteligencia artificial.
+Encuentra la imagen de stock perfecta y sin derechos de autor para mejorar tu proyecto creativo mediante unos resultados de búsqueda mejores y más rápidos, con la tecnología de la IA de Adobe.
 
 En este tutorial, aprenderás a:
+
 * Dedica tiempo y esfuerzo a tu búsqueda de imágenes y vídeos de gran calidad
 * Gestiona y supervisa fácilmente las licencias y el uso de activos en toda tu empresa
 * Busca, previsualiza y obtén licencias directamente desde tus aplicaciones de Adobe Creative Cloud
@@ -65,7 +66,7 @@ En este tutorial, aprenderás a:
 
 Victoria Torres, [!DNL Stock] Consultora de soluciones (Digital Media)
 
-## Buscar y comprar licencia de [!DNL Stock] activos en AEM (6:46) {#tutorial2}
+## Buscar y comprar licencias de [!DNL Stock] activos en AEM (6:46) {#tutorial2}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326952?hidetitle=true)
 
@@ -84,7 +85,7 @@ Logotipo de ![[!DNL Stock]](../assets/st_appicon_96.png)
 
 **Recursos del Adobe [!DNL Stock]**
 
-[Información y asistencia](https://helpx.adobe.com/es/support/stock.html) es el centro de tutoriales adicionales y vínculos a foros de la comunidad.
+[Información y asistencia](https://helpx.adobe.com/support/stock.html) es el centro de tutoriales adicionales y vínculos a foros de la comunidad.
 
 **Versión de octubre de 2020**
 

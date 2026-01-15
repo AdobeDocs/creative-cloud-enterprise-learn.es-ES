@@ -5,9 +5,9 @@ feature: Image Editing
 role: User
 level: Beginner, Intermediate
 exl-id: f42f9f4c-072d-496a-842a-3da503bdaca1
-source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
+source-git-commit: f8798caa7e5d44b8289d16d65b5dd12f28abe3ea
 workflow-type: tm+mt
-source-wordcount: '333'
+source-wordcount: '329'
 ht-degree: 0%
 
 ---
@@ -55,11 +55,11 @@ Photoshop es el mejor software de diseño gráfico e imágenes del mundo, y perm
 **Descripción**
 Utiliza las potentes herramientas de selección y edición de color de Adobe Photoshop para cambiar drásticamente una imagen que se ajuste a tus necesidades de marca corporativa.
 
-En este tutorial, aprenderás a:
+En este tutorial, aprenderá lo siguiente:
 * La herramienta Selección de objetos agiliza y simplifica la selección de elementos
 * El Relleno según el contenido permite un mayor control de las áreas de muestra de una imagen de origen para una mejor clonación y aplicación de parches en las áreas de destino
 * Los pinceles pueden tener diferentes formas para obtener mejores resultados
-* Adobe Sensei ayuda a aprovechar la inteligencia artificial para tareas rutinarias
+* La IA de Adobe aprovecha la inteligencia artificial para las tareas rutinarias
 
 **Presentado por:**
 A.J Wood, consultor sénior de soluciones (Digital Media)
@@ -83,8 +83,8 @@ A.J Wood, consultor sénior de soluciones (Digital Media)
 
 **Recursos de Photoshop**
 
-[Información y asistencia](https://helpx.adobe.com/es/support/photoshop.html) es el centro de tutoriales adicionales, [Novedades](https://helpx.adobe.com/es/photoshop/using/whats-new.html) y vínculos a foros de la comunidad.
+[Información y asistencia](https://helpx.adobe.com/support/photoshop.html) es el centro de tutoriales adicionales, [Novedades](https://helpx.adobe.com/photoshop/using/whats-new.html) y vínculos a foros de la comunidad.
 
 **Versión de octubre de 2020**
 
-Empiece a utilizar estas funciones (¡y mucho más!) descargando la actualización más reciente de la aplicación de escritorio de Creative Cloud.
+Empiece a utilizar estas funciones (y muchas más) descargando la actualización más reciente desde la aplicación de escritorio de Creative Cloud.
