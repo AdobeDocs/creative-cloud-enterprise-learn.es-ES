@@ -85,7 +85,7 @@ Logotipo de ![[!DNL Stock]](../assets/st_appicon_96.png)
 
 **Recursos del Adobe [!DNL Stock]**
 
-[Información y asistencia](https://helpx.adobe.com/support/stock.html) es el centro de tutoriales adicionales y vínculos a foros de la comunidad.
+[Información y asistencia](https://helpx.adobe.com/es/support/stock.html) es el centro de tutoriales adicionales y vínculos a foros de la comunidad.
 
 **Versión de octubre de 2020**
 
