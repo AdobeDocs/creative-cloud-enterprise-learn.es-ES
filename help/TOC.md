@@ -136,13 +136,13 @@ ht-degree: 6%
    + Tutoriales {#stocktutorials}
       + [Impresionantes activos digitales](stock/stunning-digital-assets.md)
       + [Buscar en el Adobe  [!DNL Stock] historial de licencias](stock/searchstock.md)
-      + [Añade una estética dibujada a mano a las imágenes de Adobe [!DNL Stock] ](stock/handdrawn.md)
+      + [Añade una estética dibujada a mano a las imágenes de Adobe [!DNL Stock] &#x200B;](stock/handdrawn.md)
       + [Añade estilo a la tipografía con máscaras y animación](stock/flairtypography.md)
       + [Animar un Adobe [!DNL Stock] ilustración vectorial en Photoshop](stock/animatevector.md)
       + [Empieza tu informe anual con un vídeo creado con Adobe [!DNL Stock]  y Spark Video](stock/annualreport.md)
       + [Da vida a tu creatividad con animaciones personalizadas de Adobe [!DNL Stock]](stock/customanimations.md)
       + [Cambia los colores de una imagen [!DNL Stock] de Adobe para que coincidan con tu historia](stock/changecolors.md)
-      + [Crea un collage en 3D para un póster con imágenes de Adobe [!DNL Stock] ](stock/collage.md)
+      + [Crea un collage en 3D para un póster con imágenes de Adobe [!DNL Stock] &#x200B;](stock/collage.md)
       + [Crear una etiqueta en negrita con plantillas de Adobe [!DNL Stock] y objetos inteligentes de Photoshop](stock/boldlabel.md)
       + [Crear una infografía de directrices de la empresa con Adobe [!DNL Stock]](stock/infographic.md)
       + [Crear un gráfico comparativo de características de productos usando el Adobe  [!DNL Stock]](stock/featurecomparison.md)
@@ -157,7 +157,7 @@ ht-degree: 6%
       + [Crea composiciones fotográficas realistas con imágenes de Adobe [!DNL Stock] e](stock/realisticcomposite.md)
       + [Personalizar una animación de pantalla de carga con Adobe [!DNL Stock] y XD](stock/loadingscreen.md)
       + [Personaliza una plantilla de presentación de Adobe [!DNL Stock] para que parezca profesional](stock/presentationtemplate.md)
-      + [Personalizar los colores de una ilustración vectorial de Adobe [!DNL Stock] ](stock/customizecolors.md)
+      + [Personalizar los colores de una ilustración vectorial de Adobe [!DNL Stock] &#x200B;](stock/customizecolors.md)
 + Adobe 3D y RV {#3doverview}
    + [Información general](3di/overview-3di.md)
    + Tutoriales {#3dtutorials}
