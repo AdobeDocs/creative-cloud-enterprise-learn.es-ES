@@ -6,9 +6,9 @@ role: User
 level: Beginner
 jira: KT-13379
 exl-id: 3c4244db-f46d-4682-ac5a-f1dd075bf15c
-source-git-commit: 0af8b51fcfb15486bb72e6a40bbb65ab06a429ab
+source-git-commit: 10dcd7a20e5f1e3fa649531559791e4dc804a7e5
 workflow-type: tm+mt
-source-wordcount: '549'
+source-wordcount: '1286'
 ht-degree: 0%
 
 ---
@@ -20,8 +20,9 @@ Firefly es la nueva familia de modelos de IA creativos y generativos que llega a
 ## Tutoriales de Firefly
 
 <!-- COMMENT -->
-<!-- CARDS
+<!-- CARDS -->
 
+<!--
 * https://experienceleague.adobe.com/es/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/overview-of-firefly
   {title = Overview of Adobe Firefly}
   {description = Learn what you can create with Adobe Firefly}
@@ -242,7 +243,7 @@ Firefly es la nueva familia de modelos de IA creativos y generativos que llega a
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/es/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/custom-model" title="Crear un modelo personalizado" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3474934?quality=12&hidetitle=true&format=jpeg&nocache=1758117649719&captions=spa" alt="Crear un modelo personalizado"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3474934?captions=spa&quality=12&hidetitle=true&format=jpeg&nocache=1758117649719" alt="Crear un modelo personalizado"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -311,7 +312,7 @@ Firefly es la nueva familia de modelos de IA creativos y generativos que llega a
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/es/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/text-effects" title="Efectos de texto" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432214?quality=12&hidetitle=true&format=jpeg&nocache=1758117649937&captions=spa" alt="Efectos de texto"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432214?captions=spa&quality=12&hidetitle=true&format=jpeg&nocache=1758117649937" alt="Efectos de texto"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

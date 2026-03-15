@@ -1,26 +1,27 @@
 ---
-title: Tutorials Creative Cloud para empresas
+title: Tutoriales de Creative Cloud para empresas
 description: Bienvenido al centro de aprendizaje de Creative Cloud para empresas
 feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable Assets, Gen AI, Video Editing, 3D
 role: User
 level: Beginner, Intermediate, Experienced
 exl-id: d0223157-24aa-486b-806a-fc6f6a36d7cf
-source-git-commit: a596540deb715b3ef158456d7c3c989d235da468
+source-git-commit: 10dcd7a20e5f1e3fa649531559791e4dc804a7e5
 workflow-type: tm+mt
-source-wordcount: '261'
-ht-degree: 11%
+source-wordcount: '586'
+ht-degree: 5%
 
 ---
 
-# Tutorials para Creative Cloud para empresas
+# Tutoriales de Creative Cloud para empresas
 
-Te damos la bienvenida al centro de aprendizaje de Creative Cloud para empresas. Aquí puede encontrar una amplia gama de experiencias de aprendizaje centradas en Creative Cloud para empresas. Nuestros tutoriales, seminarios web y casos prácticos están diseñados para poner al día rápidamente a los principiantes y administradores sobre los productos de Creative Cloud para empresas.
+Bienvenido al centro de aprendizaje de Creative Cloud para empresas. Aquí puede encontrar una amplia gama de experiencias de aprendizaje centradas en Creative Cloud para empresas. Nuestros tutoriales, seminarios web y casos de uso están diseñados para ofrecer rápidamente a los principiantes y administradores la máxima velocidad en Creative Cloud para productos empresariales.
 
 ## Examinar temas
 
 <!-- COMMENT -->
-<!-- CARDS
+<!-- CARDS -->
 
+<!--
 * https://experienceleague.adobe.com/es/docs/creative-cloud-enterprise-learn/cce-learning-hub/cceoverview/overview-cce
   {target = _self}
   {title = Creative Cloud for enterprise tutorials}
@@ -69,8 +70,8 @@ Te damos la bienvenida al centro de aprendizaje de Creative Cloud para empresas.
   {description = Learn all about the MAX 2020 enterprise sessions}
   {image = https://experienceleague.adobe.com/es/docs/creative-cloud-enterprise-learn/cce-learning-hub/media_123d1f364e7b955b6abb56e8708e22f080254474d.png?width=400&format=webply&optimize=medium}
   {cta = Browse tutorials}
-  
 -->
+
 <!-- END CARDS -->
 <!-- END COMMENT -->
 
@@ -91,10 +92,10 @@ Te damos la bienvenida al centro de aprendizaje de Creative Cloud para empresas.
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="https://experienceleague.adobe.com/es/docs/creative-cloud-enterprise-learn/cce-learning-hub/cceoverview/overview-cce" target="_self" rel="referrer" title="Tutoriales de Creative Cloud para empresas">Tutoriales de Creative Cloud para empresas</a>
                     </p>
-                    <p class="is-size-6">Descubre las nuevas funciones de la última versión de Creative Cloud desde una perspectiva empresarial</p>
+                    <p class="is-size-6">Conozca las nuevas funciones de la última versión de Creative Cloud, desde una perspectiva empresarial</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/es/docs/creative-cloud-enterprise-learn/cce-learning-hub/cceoverview/overview-cce" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Examinar tutoriales</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Tutoriales de exploración</span>
                 </a>
             </div>
         </div>
@@ -114,10 +115,10 @@ Te damos la bienvenida al centro de aprendizaje de Creative Cloud para empresas.
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="https://experienceleague.adobe.com/es/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to" target="_self" rel="referrer" title="Adobe Express">Adobe Express</a>
                     </p>
-                    <p class="is-size-6">Empezar a crear trabajos sorprendentes que destaquen</p>
+                    <p class="is-size-6">Empiece a crear un trabajo increíble que se destaque</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/es/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Examinar tutoriales</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Tutoriales de exploración</span>
                 </a>
             </div>
         </div>
@@ -137,7 +138,7 @@ Te damos la bienvenida al centro de aprendizaje de Creative Cloud para empresas.
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="https://experienceleague.adobe.com/es/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/overview-firefly" target="_self" rel="referrer" title="Adobe Firefly">Adobe Firefly</a>
                     </p>
-                    <p class="is-size-6">Familia de modelos creativos y generativos de IA en productos de Adobe</p>
+                    <p class="is-size-6">Familia de modelos de IA creativos y generativos en productos de Adobe</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/es/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/overview-firefly" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Examinar tutoriales</span>
@@ -149,8 +150,8 @@ Te damos la bienvenida al centro de aprendizaje de Creative Cloud para empresas.
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/es/docs/creative-cloud-enterprise-learn/cce-learning-hub/stockoverview/overview-stock" title="Adobe Stock" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/es/docs/creative-cloud-enterprise-learn/cce-learning-hub/media_1269d469351bf3a67311794f9b3dce2e0b342429e.png?width=400&format=webply&optimize=medium" alt="Adobe Stock"
+                    <a href="https://experienceleague.adobe.com/es/docs/creative-cloud-enterprise-learn/cce-learning-hub/stockoverview/overview-stock" title="Adobe Stock" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/es/docs/creative-cloud-enterprise-learn/cce-learning-hub/media_1269d469351bf3a67311794f9b3dce2e0b342429e.png?width=400&format=webply&optimize=medium" alt="Adobe Stock"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -158,7 +159,7 @@ Te damos la bienvenida al centro de aprendizaje de Creative Cloud para empresas.
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/es/docs/creative-cloud-enterprise-learn/cce-learning-hub/stockoverview/overview-stock" target="_self" rel="referrer" title="Adobe Stock">Adobe Stock</a>
+                        <a href="https://experienceleague.adobe.com/es/docs/creative-cloud-enterprise-learn/cce-learning-hub/stockoverview/overview-stock" target="_self" rel="referrer" title="Adobe Stock">Adobe Stock</a>
                     </p>
                     <p class="is-size-6">Imágenes digitales de alta calidad, ilustraciones, vídeo, audio, plantillas y mucho más</p>
                 </div>

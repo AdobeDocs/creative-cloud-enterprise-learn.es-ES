@@ -6,10 +6,10 @@ role: User
 level: Beginner, Intermediate
 jira: KT-13380
 exl-id: 3c144e1a-f823-4551-b705-aa9dbca548f2
-source-git-commit: d529664e5d0bb6f97c2624e6ce6e655cfc1e0ac9
+source-git-commit: 10dcd7a20e5f1e3fa649531559791e4dc804a7e5
 workflow-type: tm+mt
-source-wordcount: '251'
-ht-degree: 10%
+source-wordcount: '621'
+ht-degree: 4%
 
 ---
 
@@ -34,8 +34,9 @@ Descubre cómo aportar coherencia de marca, eficiencia, profesionalismo y ahorro
 ## Tutoriales de Adobe [!DNL Express]
 
 <!-- COMMENT -->
-<!-- CARDS
+<!-- CARDS -->
 
+<!--
 * https://experienceleague.adobe.com/es/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to#getting-started
   {target = _self}
   {title = Getting started}
@@ -78,8 +79,8 @@ Descubre cómo aportar coherencia de marca, eficiencia, profesionalismo y ahorro
   {description = Learn how different teams within your organization can benefit from using Adobe Express}
   {https://experienceleague.adobe.com/es/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/media_1bf41d6490283a6dd13de00d05c2860c9b389a3fe.png?width=400&format=webply&optimize=medium}
   {cta = Browse tutorials}
-  
 -->
+
 <!-- END CARDS -->
 <!-- END COMMENT -->
 
@@ -146,10 +147,10 @@ Descubre cómo aportar coherencia de marca, eficiencia, profesionalismo y ahorro
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="https://experienceleague.adobe.com/es/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to#animation" target="_self" rel="referrer" title="Animación">Animación</a>
                     </p>
-                    <p class="is-size-6">Lleva tu contenido al siguiente nivel con animaciones personalizadas</p>
+                    <p class="is-size-6">Lleve el contenido al siguiente nivel con animaciones personalizadas</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/es/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to#animation" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Examinar tutoriales</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Tutoriales de exploración</span>
                 </a>
             </div>
         </div>
@@ -169,10 +170,10 @@ Descubre cómo aportar coherencia de marca, eficiencia, profesionalismo y ahorro
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="https://experienceleague.adobe.com/es/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to#advanced-tasks" target="_self" rel="referrer" title="Tareas avanzadas">Tareas avanzadas</a>
                     </p>
-                    <p class="is-size-6">Profundiza en la IA general, la edición de PDF y mucho más</p>
+                    <p class="is-size-6">Profundice en la IA general, la edición de PDF y mucho más</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/es/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to#advanced-tasks" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Examinar tutoriales</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Tutoriales de exploración</span>
                 </a>
             </div>
         </div>
@@ -192,10 +193,10 @@ Descubre cómo aportar coherencia de marca, eficiencia, profesionalismo y ahorro
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="https://experienceleague.adobe.com/es/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to#video" target="_self" rel="referrer" title="Vídeo">Vídeo</a>
                     </p>
-                    <p class="is-size-6">El vídeo resulta sencillo. Añade vídeos y música de Adobe Stock a un contenido que destaque de verdad</p>
+                    <p class="is-size-6">El vídeo es fácil. Añada vídeos y música de Adobe Stock a contenido que realmente destaque</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/es/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to#video" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Examinar tutoriales</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Tutoriales de exploración</span>
                 </a>
             </div>
         </div>
@@ -215,10 +216,10 @@ Descubre cómo aportar coherencia de marca, eficiencia, profesionalismo y ahorro
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="https://experienceleague.adobe.com/es/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to#templates" target="_self" rel="referrer" title="Plantillas">Plantillas</a>
                     </p>
-                    <p class="is-size-6">Descubre cómo aportar uniformidad de marca, eficiencia y ahorro de costes a tu organización</p>
+                    <p class="is-size-6">Descubra cómo aportar coherencia de marca, eficiencia y ahorros de costes a su organización</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/es/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to#templates" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Examinar tutoriales</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Tutoriales de exploración</span>
                 </a>
             </div>
         </div>
@@ -236,12 +237,12 @@ Descubre cómo aportar coherencia de marca, eficiencia, profesionalismo y ahorro
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/es/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/overview-express-use-case-tutorials" target="_self" rel="referrer" title="Casos prácticos">Casos prácticos</a>
+                        <a href="https://experienceleague.adobe.com/es/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/overview-express-use-case-tutorials" target="_self" rel="referrer" title="Casos prácticos">Casos de uso</a>
                     </p>
-                    <p class="is-size-6">Descubre cómo los diferentes equipos de tu organización pueden beneficiarse del uso de Adobe Express</p>
+                    <p class="is-size-6">Descubra cómo los distintos equipos de su organización pueden beneficiarse del uso de Adobe Express</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/es/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/overview-express-use-case-tutorials" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Examinar tutoriales</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Tutoriales de exploración</span>
                 </a>
             </div>
         </div>
