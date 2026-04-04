@@ -21,7 +21,7 @@ Mirando las imágenes de arriba, te perdonarían por asumir que todo lo que ves 
 
 ![Una escena de El abismo de James Cameron en la que Mary Mastrantonio toca el tentáculo de agua del CGI](assets/Photorealistic_2.jpg)
 
-Esta técnica de superposición de capas, o &#39;composición&#39; de modelos 3D en una imagen o vídeo, no es nueva, y de hecho sus orígenes se remontan a los primeros días de VFX (ya en la década de 1980). Lo que es nuevo y emocionante es que esta técnica se ha convertido en una poderosa herramienta para los usuarios de [Adobe [!DNL Dimension]](https://www.adobe.com/products/dimension.html), y en un nuevo e intrigante flujo de trabajo para los fotógrafos.
+Esta técnica de superposición de capas, o &#39;composición&#39; de modelos 3D en una imagen o vídeo, no es nueva, y de hecho sus orígenes se remontan a los primeros días de VFX (ya en la década de 1980). Lo que es nuevo y emocionante es que esta técnica se ha convertido en una poderosa herramienta para los usuarios de [Adobe [!DNL Dimension]](https://www.adobe.com/es/products/dimension.html), y en un nuevo e intrigante flujo de trabajo para los fotógrafos.
 
 
 ## La tecnología subyacente a la creación de imágenes compuestas en el Adobe [!DNL Dimension]
@@ -58,7 +58,7 @@ Uno de los aspectos más importantes de capturar este tipo de contenido de maner
 
 ### Elegir una ubicación
 
-Busca ubicaciones que sean interesantes tanto para su contexto como para su iluminación. Al considerar el contexto, puede resultar útil imaginar el uso potencial de una escena. Por ejemplo, una vista de una carretera vacía se podría usar para agregar en un automóvil 3D, mientras que una vista de una mesa en una cafetería se podría usar para [mostrar el empaquetado](https://www.adobe.com/products/dimension/packaging-design-mockup.html) de productos alimenticios.
+Busca ubicaciones que sean interesantes tanto para su contexto como para su iluminación. Al considerar el contexto, puede resultar útil imaginar el uso potencial de una escena. Por ejemplo, una vista de una carretera vacía se podría usar para agregar en un automóvil 3D, mientras que una vista de una mesa en una cafetería se podría usar para [mostrar el empaquetado](https://www.adobe.com/es/products/dimension/packaging-design-mockup.html) de productos alimenticios.
 
 ![4 escenas de ubicación para una fotografía virtual se contrastan con las mismas escenas con una composición 3D](assets/Photorealistic_8.png)
 
