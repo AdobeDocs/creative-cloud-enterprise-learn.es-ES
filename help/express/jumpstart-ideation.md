@@ -30,4 +30,4 @@ Descubre cómo sacar ventaja al desarrollar contenido creativo para una campaña
 
 Este tutorial utiliza el nuevo [Adobe Express](https://www.adobe.com/express/).
 
->[!VIDEO](https://video.tv.adobe.com/v/3424296?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3446163?captions=spa&quality=12&learn=on&hidetitle=true)

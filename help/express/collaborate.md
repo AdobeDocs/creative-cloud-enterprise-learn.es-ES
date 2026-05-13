@@ -24,7 +24,7 @@ ht-degree: 0%
 
 Aprenda a colaborar con compañeros en proyectos creativos, por ejemplo invitarlos, establecer permisos, resolver comentarios y trabajar en el proyecto simultáneamente.
 
->[!VIDEO](https://video.tv.adobe.com/v/3420253?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3439540?captions=spa&quality=12&learn=on&hidetitle=true)
 
 ## Vídeos adicionales de esta serie
 

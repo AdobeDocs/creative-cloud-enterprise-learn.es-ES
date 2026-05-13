@@ -28,4 +28,4 @@ ht-degree: 4%
 
 Aprende a utilizar la función Texto a imagen, con tecnología de Adobe Firefly, en Adobe Express para crear una campaña de promoción para las redes sociales. Este tutorial utiliza el nuevo [Adobe Express](https://www.adobe.com/express/).
 
->[!VIDEO](https://video.tv.adobe.com/v/3420533?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3430564?captions=spa&quality=12&learn=on&hidetitle=true)

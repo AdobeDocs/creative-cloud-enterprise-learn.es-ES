@@ -24,7 +24,7 @@ ht-degree: 0%
 
 Aprende a crear diseños impactantes con efectos de texto impulsados por Adobe Firefly. Con un mensaje de texto, puede generar efectos de texto extraordinarios que puede perfeccionar y adornar.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427021?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3438813?captions=spa&quality=12&learn=on&hidetitle=true)
 
 ## Vídeos adicionales de esta serie
 

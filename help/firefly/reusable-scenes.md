@@ -26,4 +26,4 @@ Aprende a crear escenas reutilizables para artículos como bolsos y accesorios. 
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3428765?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3448470?captions=spa&quality=12&learn=on&hidetitle=true)

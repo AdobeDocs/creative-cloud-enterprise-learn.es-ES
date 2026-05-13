@@ -30,4 +30,4 @@ Descubre lo que puedes crear con Adobe Firefly. Descubre cómo puedes acelerar l
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3420929?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3423652?captions=spa&quality=12&learn=on&hidetitle=true)

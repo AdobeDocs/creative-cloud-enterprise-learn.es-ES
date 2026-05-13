@@ -24,7 +24,7 @@ ht-degree: 0%
 
 Aprenda a crear un proyecto nuevo a partir de cero utilizando un tamaño de lienzo específico, como una publicación cuadrada de Instagram.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426931?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3441416?captions=spa&quality=12&learn=on&hidetitle=true)
 
 ## Vídeos adicionales de esta serie
 

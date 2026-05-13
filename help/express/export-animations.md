@@ -24,7 +24,7 @@ ht-degree: 0%
 
 Descubra cómo invitar a gente a editar, publicar en la web, programar una publicación en redes sociales o descargar la animación. Adobe Express proporciona recomendaciones sobre el formato de archivo que se va a exportar en función de la situación.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426985?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3433956?captions=spa&quality=12&learn=on&hidetitle=true)
 
 ## Vídeos adicionales de esta serie
 

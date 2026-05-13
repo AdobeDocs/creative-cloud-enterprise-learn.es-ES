@@ -26,7 +26,7 @@ ht-degree: 0%
 
 Las acciones rápidas ahorran tiempo y proporcionan herramientas básicas de edición para el trabajo creativo diario. Entre los ejemplos de acciones rápidas se incluyen combinar y recortar vídeos, quitar fondos, cambiar el tamaño de imágenes y vídeos, convertir vídeos en GIF y editar PDF.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426925?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3446301?captions=spa&quality=12&learn=on&hidetitle=true)
 
 ## Vídeos adicionales de esta serie
 

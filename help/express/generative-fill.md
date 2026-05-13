@@ -24,7 +24,7 @@ ht-degree: 0%
 
 Aprenda a utilizar el Relleno generativo, con tecnología de Adobe Firefly, para añadir y quitar elementos de una imagen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427020?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437835?captions=spa&quality=12&learn=on&hidetitle=true)
 
 ## Vídeos adicionales de esta serie
 

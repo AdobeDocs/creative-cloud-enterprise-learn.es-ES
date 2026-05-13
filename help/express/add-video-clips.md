@@ -28,7 +28,7 @@ ht-degree: 0%
 
 Aprende a hacer vídeos sorprendentes de forma rápida y sencilla con la creación de vídeos mediante arrastrar y soltar. Empieza con plantillas o tus propios diseños estáticos y añade tu marca, activos de diseño, vídeos y música de Adobe Stock, y mucho más.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427071?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3436421?captions=spa&quality=12&learn=on&hidetitle=true)
 
 ## Vídeos adicionales de esta serie
 

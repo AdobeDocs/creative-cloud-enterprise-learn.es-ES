@@ -32,4 +32,4 @@ Aprenda a compartir activos dentro de un grupo o equipo mediante Bibliotecas Cre
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/335325?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3410395?captions=spa&hidetitle=true)

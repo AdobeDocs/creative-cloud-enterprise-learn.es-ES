@@ -32,4 +32,4 @@ Aprenda a crear, usar y compartir recursos de marca para su grupo o equipo media
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/335333?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3449191?captions=spa&hidetitle=true)

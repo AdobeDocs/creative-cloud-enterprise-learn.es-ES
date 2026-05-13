@@ -30,4 +30,4 @@ Aprende a usar [!DNL Firefly] Producción creativa para eliminar o reemplazar fo
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3472916?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3472922?captions=spa&quality=12&learn=on&hidetitle=true)

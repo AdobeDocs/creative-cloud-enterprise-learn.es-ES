@@ -24,7 +24,7 @@ ht-degree: 0%
 
 Sube de nivel tu animación añadiendo elementos como imágenes y encabezados a una animación. Aprenda a añadir, duplicar, reorganizar o reemplazar elementos en una escena mientras mantiene las animaciones intactas.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426982?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3433923?captions=spa&quality=12&learn=on&hidetitle=true)
 
 ## Vídeos adicionales de esta serie
 

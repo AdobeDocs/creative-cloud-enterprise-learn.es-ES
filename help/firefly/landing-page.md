@@ -26,4 +26,4 @@ Aprende a usar Adobe Firefly en [firefly.adobe.com](https://firefly.adobe.com/?l
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3427607?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437813?captions=spa&quality=12&learn=on&hidetitle=true)

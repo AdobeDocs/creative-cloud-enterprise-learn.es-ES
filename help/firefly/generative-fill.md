@@ -30,4 +30,4 @@ Aprende a usar el Relleno generativo, con tecnología de Adobe Firefly, en Adobe
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3420537?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3448537?captions=spa&quality=12&learn=on&hidetitle=true)

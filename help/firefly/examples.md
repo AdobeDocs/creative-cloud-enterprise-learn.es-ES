@@ -26,4 +26,4 @@ Aprende a usar Firefly para crear presentaciones de PowerPoint inspiradoras, pan
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3427611?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437059?captions=spa&quality=12&learn=on&hidetitle=true)

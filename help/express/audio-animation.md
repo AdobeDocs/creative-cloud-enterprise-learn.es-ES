@@ -24,7 +24,7 @@ ht-degree: 0%
 
 Aprenda a crear proyectos atractivos e inolvidables añadiendo audio, incluidos los archivos de audio de Stock gratuitos disponibles con Express.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426983?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3433912?captions=spa&quality=12&learn=on&hidetitle=true)
 
 ## Vídeos adicionales de esta serie
 

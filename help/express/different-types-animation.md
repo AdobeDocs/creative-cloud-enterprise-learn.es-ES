@@ -24,7 +24,7 @@ ht-degree: 0%
 
 Descubre los tres tipos diferentes de animaciones (intro, bucle y outro) que puedes añadir a tus proyectos para hacerlos más atractivos. Cada animación tiene un estilo diferente que puede previsualizar y seleccionar.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426976?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3433945?captions=spa&quality=12&learn=on&hidetitle=true)
 
 ## Vídeos adicionales de esta serie
 
