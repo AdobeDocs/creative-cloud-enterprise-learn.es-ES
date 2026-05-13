@@ -6,9 +6,21 @@ role: User
 level: Beginner, Intermediate
 jira: KT-6942
 exl-id: eea91ea5-9adc-4a7f-93c0-6cdfe650cfb7
-source-git-commit: 64f061905203642776cd23e18a4a9f379a95fb83
+TQID: https://experienceleague.adobe.com/eeIW5Efbwzp7NrLzxzLuNAMj5l-lE3Zg0XqfLFnHpGQ
+product_v2:
+  - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+feature_v2:
+  - id: fec89bf3-1b77-4b07-a0b9-96726856a0ad
+subfeature_v2:
+  - id: b29e1156-4668-4c0c-84e3-9347e94225ed
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
 workflow-type: tm+mt
-source-wordcount: '1394'
+source-wordcount: 1412
 ht-degree: 1%
 
 ---
@@ -173,10 +185,10 @@ Como creativo empresarial, debe colaborar con equipos distribuidos, establecer p
 <tr>
  <td>
    <a href="collaboration-the-future-of-creativity.md">
-      <img alt="Colaboración: el futuro de la creatividad" src="assets/Collaboration-The-Future-of-Creativity.png" />
+      <img alt="Colaboración: El futuro de la creatividad" src="assets/Collaboration-The-Future-of-Creativity.png" />
    </a>
     <div>
-   <a href="collaboration-the-future-of-creativity.md"><strong>Colaboración: el futuro de la creatividad</strong></a>
+   <a href="collaboration-the-future-of-creativity.md"><strong>Colaboración: El futuro de la creatividad</strong></a>
     </div>
     <em>Una de las muchas ventajas de una suscripción a Adobe Creative Cloud es el acceso gratuito a más de 20 000 fuentes seleccionadas y de diseño profesional de Adobe Fonts</em>
     <br>
@@ -252,7 +264,7 @@ Como creativo empresarial, debe colaborar con equipos distribuidos, establecer p
     <div>
    <a href="frescoworkshop.md"><strong>Echa un vistazo al Fresco en el iPad (y iPhone)</strong></a>
     </div>
-    <em>Explora todo un nuevo mundo de dibujo y pintura digital con Adobe Fresco en este taller práctico de 15 minutos</em>
+    <em>Explora todo un nuevo mundo de dibujo y pintura digital con Adobe Fresca en este taller práctico de 15 minutos</em>
     <br>
   </td>
   <td>
@@ -397,10 +409,10 @@ Como creativo empresarial, debe colaborar con equipos distribuidos, establecer p
   </td>
   <td>
    <a href="assets/InteractivePDFBookmarksandLinkedTOCsfromInDesign.pdf">
-      <img alt="PDF interactivo: marcadores y tablas de contenido vinculadas de InDesign" src="assets/InteractivePDFBookmarksandLinkedTOCsfromInDesign.jpg" />
+      <img alt="PDF interactivo: Marcadores y tablas de contenido vinculadas de InDesign" src="assets/InteractivePDFBookmarksandLinkedTOCsfromInDesign.jpg" />
    </a>
     <div>
-   <a href="assets/InteractivePDFBookmarksandLinkedTOCsfromInDesign.pdf"><strong>PDF interactivo: marcadores y tablas de contenido vinculadas del InDesign (PDF)</strong></a>
+   <a href="assets/InteractivePDFBookmarksandLinkedTOCsfromInDesign.pdf"><strong>PDF interactivo: Marcadores y tablas de contenido vinculadas del InDesign (PDF)</strong></a>
     </div>
     <em>Aprende a usar la función Tabla de contenido en InDesign para generar marcadores e hipervínculos que ayuden a tus lectores a encontrar información rápidamente en tus archivos de PDF</em>
     <br>
@@ -409,10 +421,10 @@ Como creativo empresarial, debe colaborar con equipos distribuidos, establecer p
 <tr>
   <td>
    <a href="assets/InteractivePDFGraphicalHyperlinksandNestedMasterPagesinInDesign.pdf">
-      <img alt="PDF interactivo: hipervínculos gráficos y páginas maestras anidadas en InDesign" src="assets/InteractivePDFGraphicalHyperlinksandNestedMasterPagesinInDesign.jpg" />
+      <img alt="PDF interactivo: Hipervínculos gráficos y páginas maestras anidadas en InDesign" src="assets/InteractivePDFGraphicalHyperlinksandNestedMasterPagesinInDesign.jpg" />
    </a>
     <div>
-   <a href="assets/InteractivePDFGraphicalHyperlinksandNestedMasterPagesinInDesign.pdf"><strong>PDF interactivo: hipervínculos gráficos y páginas maestras anidadas en InDesign (PDF)</strong></a>
+   <a href="assets/InteractivePDFGraphicalHyperlinksandNestedMasterPagesinInDesign.pdf"><strong>PDF interactivo: Hipervínculos gráficos y páginas maestras anidadas en el InDesign (PDF)</strong></a>
     </div>
     <em>La aplicación de hipervínculos con páginas maestras te permite administrar rápidamente un sistema de navegación en todas tus páginas</em>
     <br>
@@ -516,7 +528,7 @@ Como creativo empresarial, debe colaborar con equipos distribuidos, establecer p
     <img alt="Photoshop + After Effects = Impresionancia: Resumen de laboratorio de Adobe MAX 2018" src="assets/PhotoshopAfterEffectsAwesomenessAdobeMAX2018LabRecap.jpg" />
     </a>
     <div>
-    <a href="assets/PhotoshopAfterEffectsAwesomenessAdobeMAX2018LabRecap.pdf"><strong>Photoshop + After Effects = Impresionancia: Resumen de laboratorio de Adobe MAX 2018 (PDF)</strong></a>
+    <a href="assets/PhotoshopAfterEffectsAwesomenessAdobeMAX2018LabRecap.pdf"><strong>Photoshop + After Effects = Impresionancia: Adobe MAX 2018 Lab Recap (PDF)</strong></a>
     </div>
     <em>En este práctico laboratorio paso a paso, combina Photoshop con After Effects para crear imágenes y efectos que dejen boquiabiertos al público y que se puedan usar en cualquier medio</em>
     <br>

@@ -5,10 +5,18 @@ role: Admin
 level: Beginner, Intermediate
 feature: Deploy
 exl-id: bc457be0-86dc-4e8a-b6b2-34bc76af2d21
-source-git-commit: c57212d39b2e613964bc15d2967a1958dc0c8c8e
+TQID: https://experienceleague.adobe.com/itIkGEEJ-V0HT-g0WMngm-zZbcFdYiITBFofwKUHTMY
+product_v2:
+  - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
 workflow-type: tm+mt
-source-wordcount: '840'
-ht-degree: 1%
+source-wordcount: 871
+ht-degree: 4%
 
 ---
 
@@ -44,7 +52,7 @@ Tanto Acrobat como Creative Cloud para aplicaciones empresariales empezarán a m
 
 La siguiente información describe la experiencia del usuario final. A continuación se muestra un breve vídeo seguido de una revisión de la experiencia del usuario final.
 
->[!VIDEO](https://video.tv.adobe.com/v/3441278?hidetitle=true&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3441278?captions=spa&hidetitle=true)
 
 **Antes del vencimiento**
 
@@ -93,5 +101,5 @@ En todos los intentos posteriores de iniciar Acrobat, se solicitará al usuario 
 
 Si tienes alguna pregunta sobre el uso de la herramienta [AdobeExpiryCheck](https://helpx.adobe.com/es/enterprise/kb/volume-license-expiration-check.html) o necesitas ayuda para migrar de la implementación del número de serie al usuario designado, tienes varias opciones:
 * Enviar un correo electrónico al equipo de incorporación empresarial de Adobe: **entonb@adobe.com**
-* Abra un ticket de asistencia en [Admin Console](https://adminconsole.adobe.com/support)
+* Abra un ticket de asistencia en [Admin Console](https://adminconsole.adobe.com/support/?locale=es)
 * Póngase en contacto con el equipo de cuentas de Adobe

@@ -6,9 +6,16 @@ role: User
 level: Beginner
 jira: KT-14826
 exl-id: a8e11845-ad80-4f40-93e1-12b05e3c4201
-source-git-commit: 5067e02da7d74d366c797e81a6a5d0ee9ac69feb
+TQID: https://experienceleague.adobe.com/llP1jCSiv2ZbBj9Fy8ijmbmNe5i7gff8LS92D-ANC1c
+product_v2:
+  - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: 111
 ht-degree: 0%
 
 ---
@@ -17,7 +24,7 @@ ht-degree: 0%
 
 Aprende a usar cuadrículas para crear collages de fotos, paneles de fotografías y pósteres llamativos. Hay 40 diseños de cuadrícula diferentes disponibles para que los personalice con sus propias imágenes o fotografías de Adobe Stock.
 
->[!VIDEO](https://video.tv.adobe.com/v/3439995?quality=12&learn=on&hidetitle=true&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3439995?captions=spa&quality=12&learn=on&hidetitle=true)
 
 ## Vídeos adicionales de esta serie
 

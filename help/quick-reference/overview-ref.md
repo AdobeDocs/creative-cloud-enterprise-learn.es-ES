@@ -6,9 +6,23 @@ role: User
 level: Beginner, Intermediate
 jira: KT-7013
 exl-id: 5c981e46-7599-4b49-99be-f5dcee60636d
-source-git-commit: c54f203aa1e3dddbfd973b1cc668b56b7f54d9b1
+TQID: https://experienceleague.adobe.com/aY5x7jWyzTgckibWDj7BcdvqyZR1yy4GUQOikhFWQRA
+product_v2:
+  - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+feature_v2:
+  - id: fec89bf3-1b77-4b07-a0b9-96726856a0ad
+subfeature_v2:
+  - id: aaae4770-bc47-47c2-876b-1fbcb533c42a
+  - id: b29e1156-4668-4c0c-84e3-9347e94225ed
+  - id: d1878b8b-dcd8-4fb4-9ec7-8030a8c54669
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
 workflow-type: tm+mt
-source-wordcount: '1190'
+source-wordcount: 1212
 ht-degree: 0%
 
 ---
@@ -139,7 +153,7 @@ Como creativo empresarial, debe colaborar con equipos distribuidos, establecer p
     <div>
    <a href="Frescoworkshop.pdf" target="_blank"><strong>Descubre Fresco en el iPad (y iPhone) (PDF)</strong></a>
     </div>
-    <em>Explora todo un nuevo mundo de dibujo y pintura digital con Adobe Fresco en este taller práctico de 15 minutos</em>
+    <em>Explora todo un nuevo mundo de dibujo y pintura digital con Adobe Fresca en este taller práctico de 15 minutos</em>
     <br>
   </td>
   <td>
@@ -440,20 +454,20 @@ Como creativo empresarial, debe colaborar con equipos distribuidos, establecer p
 <tr>
    <td>
    <a href="AdobeXDAdvancedVoicePrototyping.pdf" target="_blank">
-      <img alt="Adobe XD: creación avanzada de prototipos por voz" src="../assets/acrobat_PDF_96.png" />
+      <img alt="Adobe XD: Prototipado de voz avanzado" src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
-   <a href="AdobeXDAdvancedVoicePrototyping.pdf" target="_blank"><strong>Adobe XD: creación avanzada de prototipos por voz (PDF)</strong></a>
+   <a href="AdobeXDAdvancedVoicePrototyping.pdf" target="_blank"><strong>Adobe XD: Prototipos de voz avanzados (PDF)</strong></a>
     </div>
     <em>Crea un prototipo interactivo que pueda responder a las acciones de clic, toque y audio de tus usuarios</em>
     <br>
   </td>
    <td>
    <a href="CoeditingReal-TimeDesignCollaborationUsingAdobeXD.pdf" target="_blank">
-      <img alt="Coedición: colaboración en diseño en tiempo real con Adobe XD" src="../assets/acrobat_PDF_96.png" />
+      <img alt="Coedición: Colaboración En Diseño En Tiempo Real Con Adobe XD" src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
-   <a href="CoeditingReal-TimeDesignCollaborationUsingAdobeXD.pdf" target="_blank"><strong>Coedición: colaboración en diseño en tiempo real con Adobe XD (PDF)</strong></a>
+   <a href="CoeditingReal-TimeDesignCollaborationUsingAdobeXD.pdf" target="_blank"><strong>Edición en colaboración: Colaboración En Diseño En Tiempo Real Con Adobe XD (PDF)</strong></a>
     </div>
     <em>Aprende a colaborar mediante un prototipo interactivo con tus compañeros, clientes y desarrolladores con las herramientas de uso compartido únicas integradas en Adobe XD y Creative Cloud</em>
     <br>
