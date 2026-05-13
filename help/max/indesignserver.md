@@ -73,21 +73,21 @@ Eric Rowse, consultor sénior de soluciones (Digital Media)
 <table>
 <tr>
  <td>
-   <a href="https://www.adobe.com/products/indesignserver/buying-guide.html">
+   <a href="https://www.adobe.com/es/products/indesignserver/buying-guide.html">
       <img alt="InDesign Server: Guía de compra" src="../assets/IDS_Thumbnail.jpg" />
    </a>
     <div>
-   <a href="https://www.adobe.com/products/indesignserver/buying-guide.html"><strong>InDesign Server: Guía de compra</strong></a>
+   <a href="https://www.adobe.com/es/products/indesignserver/buying-guide.html"><strong>InDesign Server: Guía de compra</strong></a>
     </div>
     <em>Recursos disponibles para desarrolladores internos o socios</em>
     <br>
   </td>
   <td>
-   <a href="https://www.adobe.com/products/indesignserver/partner.html">
+   <a href="https://www.adobe.com/es/products/indesignserver/partner.html">
       <img alt="InDesign Server: Encuentra un partner" src="../assets/IDS_Thumbnail.jpg" />
    </a>
     <div>
-   <a href="https://www.adobe.com/products/indesignserver/partner.html"><strong>InDesign Server: Buscar un partner</strong></a>
+   <a href="https://www.adobe.com/es/products/indesignserver/partner.html"><strong>InDesign Server: Buscar un partner</strong></a>
     </div>
     <em>Aunque tengas la experiencia para desarrollar internamente, Adobe recomienda trabajar con socios para encontrar la solución que cumpla tus requisitos</em>
     <br>
@@ -104,7 +104,7 @@ Eric Rowse, consultor sénior de soluciones (Digital Media)
 
 **Recursos de InDesign Server**
 
-[Información y asistencia](https://www.adobe.com/products/indesignserver.html) es el centro de tutoriales adicionales, novedades y vínculos a foros de la comunidad.
+[Información y asistencia](https://www.adobe.com/es/products/indesignserver.html) es el centro de tutoriales adicionales, novedades y vínculos a foros de la comunidad.
 
 **Versión de octubre de 2020**
 
