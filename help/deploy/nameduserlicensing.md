@@ -5,10 +5,15 @@ role: Admin
 level: Beginner, Intermediate
 feature: Deploy
 exl-id: 9dbdb057-6684-4750-bf9d-8af7a32bfe14
-source-git-commit: f17ea20ac8623dae0c681753b4bde250a1c9b06e
+TQID: https://experienceleague.adobe.com/1Vae4kugu2cH2aiRmUYs8mRxEyc8cF9gqWaivm5AB4w
+product_v2: id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: d095671a-1355-40aa-8b5f-06c33c68080b
+source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
 workflow-type: tm+mt
-source-wordcount: '615'
-ht-degree: 0%
+source-wordcount: 638
+ht-degree: 1%
 
 ---
 
@@ -22,7 +27,7 @@ Si su organización no está usando NUL y sigue usando la implementación serial
 
 ## Acerca de las licencias de usuario designadas
 
-[Licencias de usuario designadas](https://helpx.adobe.com/es/enterprise/using/licensing.html) es un modelo de licencia de software que permite asignar software a un individuo en lugar de a un número de serie o dispositivo. NUL ofrece a los administradores de TI seguridad de nivel empresarial con administración avanzada de identidades de usuario y permite una implementación y administración sencillas de aplicaciones mediante Adobe Admin Console.
+[Licencias de usuario designadas](https://helpx.adobe.com/enterprise/using/licensing.html) es un modelo de licencia de software que permite asignar software a un individuo en lugar de a un número de serie o dispositivo. NUL ofrece a los administradores de TI seguridad de nivel empresarial con administración avanzada de identidades de usuario y permite una implementación y administración sencillas de aplicaciones mediante Adobe Admin Console.
 
 ## Ventajas de las licencias de usuario designadas:
 
@@ -44,6 +49,6 @@ Si su organización no está usando NUL y sigue usando la implementación serial
 
 * Las mejores herramientas de productividad y colaboración
 
-  Al aprovechar NUL, los usuarios tendrán acceso a las principales empresas productivas, como Adobe Creative Cloud y Adobe Document Cloud. Puedes hacer muchas cosas: crear y firmar documentos de forma segura; crear rápidamente PDF personalizados; iniciar un proyecto creativo en una tablet antes de llevarlo al escritorio; compartir documentos con un equipo a través de Document Cloud; y trabajar en nuevos proyectos de equipo en Adobe XD. Nuestros servicios basados en la nube facilitan el uso compartido de activos y la colaboración como equipo remoto.
+  Al aprovechar NUL, los usuarios tendrán acceso a las principales empresas productivas, como Adobe Creative Cloud y Adobe Document Cloud. Hay muchas cosas que puedes hacer: crear y firmar documentos de forma segura; crear PDF personalizados rápidamente; iniciar un proyecto creativo en una tableta antes de llevarlo a un escritorio; compartir documentos con un equipo a través de Document Cloud; y trabajar en nuevos proyectos de equipo en Adobe XD. Nuestros servicios basados en la nube facilitan el uso compartido de activos y la colaboración como equipo remoto.
 
 Los desafíos del flujo de trabajo moderno requieren soluciones modernas. Deja que te ayudemos a realizar la transición a las licencias de usuario designadas. Consulta la [Guía de migración de licencias de usuario designadas](https://offers.adobe.com/content/dam/offer-manager/en/na/marketing/CCE/Adobe_Named_User_Licensing_Migration_Guide.pdf) para empezar tu transición.

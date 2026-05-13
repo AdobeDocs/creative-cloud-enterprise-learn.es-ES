@@ -6,17 +6,21 @@ role: User
 level: Beginner
 jira: KT-15037
 exl-id: 3925fd1c-65b6-424d-92ad-975e3cb42a69
-source-git-commit: 8b749e15925c2fab02ee84749e645ffbd8686fd0
+TQID: https://experienceleague.adobe.com/Q4hneu8aChGOgncjoPQ2fM0OS6cWXm4W5ApJXRe9Auw
+product_v2: id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
 workflow-type: tm+mt
-source-wordcount: '45'
-ht-degree: 8%
+source-wordcount: 53
+ht-degree: 9%
 
 ---
 
 # Texto a imagen
 
-Aprenda a crear una imagen a partir de descripciones de texto. [Generar imágenes](https://www.adobe.com/es/products/firefly/features/text-to-image.html) según tus necesidades específicas te permite crear contenido personalizado e inspirador. Pruebe el Adobe Firefly [aquí](https://firefly.adobe.com/).
+Aprenda a crear una imagen a partir de descripciones de texto. [Generar imágenes](https://www.adobe.com/products/firefly/features/text-to-image.html) según tus necesidades específicas te permite crear contenido personalizado e inspirador. Pruebe el Adobe Firefly [aquí](https://firefly.adobe.com/?locale=es).
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3447673?quality=12&learn=on&hidetitle=true&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3427608?quality=12&learn=on&hidetitle=true)

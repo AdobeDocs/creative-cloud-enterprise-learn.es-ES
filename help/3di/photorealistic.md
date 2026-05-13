@@ -6,9 +6,14 @@ role: User
 level: Beginner, Intermediate
 keywords: fotografía virtual, 100 MSV global
 exl-id: 6c4b13c6-aab8-4df0-bb05-eb5d90aafbe4
-source-git-commit: f8798caa7e5d44b8289d16d65b5dd12f28abe3ea
+TQID: https://experienceleague.adobe.com/hLSElZumsN2H0Wh0jGmRY4zu84a5WmWVvtl1upQoRQ4
+product_v2: id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+feature_v2: id: fec89bf3-1b77-4b07-a0b9-96726856a0ad
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
 workflow-type: tm+mt
-source-wordcount: '2376'
+source-wordcount: 2406
 ht-degree: 0%
 
 ---
@@ -21,7 +26,7 @@ Mirando las imágenes de arriba, te perdonarían por asumir que todo lo que ves 
 
 ![Una escena de El abismo de James Cameron en la que Mary Mastrantonio toca el tentáculo de agua del CGI](assets/Photorealistic_2.jpg)
 
-Esta técnica de superposición de capas, o &#39;composición&#39; de modelos 3D en una imagen o vídeo, no es nueva, y de hecho sus orígenes se remontan a los primeros días de VFX (ya en la década de 1980). Lo que es nuevo y emocionante es que esta técnica se ha convertido en una poderosa herramienta para los usuarios de [Adobe [!DNL Dimension]](https://www.adobe.com/es/products/dimension.html), y en un nuevo e intrigante flujo de trabajo para los fotógrafos.
+Esta técnica de superposición de capas, o &#39;composición&#39; de modelos 3D en una imagen o vídeo, no es nueva, y de hecho sus orígenes se remontan a los primeros días de VFX (ya en la década de 1980). Lo que es nuevo y emocionante es que esta técnica se ha convertido en una poderosa herramienta para los usuarios de [Adobe [!DNL Dimension]](https://www.adobe.com/products/dimension.html), y en un nuevo e intrigante flujo de trabajo para los fotógrafos.
 
 
 ## La tecnología subyacente a la creación de imágenes compuestas en el Adobe [!DNL Dimension]
@@ -38,7 +43,7 @@ Pero, ¿qué pasa con todo lo que no está capturado dentro del encuadre de la c
 
 ![Imagen compuesta 3D con realismo fotográfico de un ciclomotor en una sala de estar](assets/Photorealistic_5.png)
 
-Match Image intentará &#39;alucinar&#39; el entorno de iluminación en el que se tomó una imagen de fondo. Realiza un trabajo impresionante que producirá excelentes resultados en poco tiempo, pero capturar el entorno junto con la imagen de fondo producirá resultados aún más realistas. Este es incluso el método utilizado para entrenar la IA de Adobe.
+Match Image intentará &#39;alucinar&#39; el entorno de iluminación en el que se tomó una imagen de fondo. Realiza un trabajo impresionante que producirá excelentes resultados en poco tiempo, pero capturar el entorno junto con la imagen de fondo producirá resultados aún más realistas. Este es incluso el método usado para entrenar la IA de Adobe.
 
 ![Panorámica HDR de 360 grados del espacio de oficina](assets/Photorealistic_6.png)
 
@@ -52,13 +57,13 @@ Cámaras como la Ricoh Theta, Gopro MAX e Insta 360 pueden capturar panoramas de
 
 ### [!DNL Capture]
 
-Para comenzar a capturar entornos para la composición, necesita dos elementos principales: una imagen o imágenes de fondo de alta calidad y un panorama HDR de 360° del entorno en el que se tomó.
+Para comenzar a capturar entornos para la composición, necesita dos elementos principales; una imagen o imágenes de fondo de alta calidad y un panorama HDR de 360° del entorno en el que se tomó.
 
 Uno de los aspectos más importantes de capturar este tipo de contenido de manera eficaz es aprovechar las habilidades y herramientas existentes de un fotógrafo. La creación de una imagen de fondo preciosa requiere prestar atención a la composición y al detalle. Las imágenes de fondo también requieren una mentalidad especial para crear algo que sea útil para componer elementos 3D.
 
 ### Elegir una ubicación
 
-Busca ubicaciones que sean interesantes tanto para su contexto como para su iluminación. Al considerar el contexto, puede resultar útil imaginar el uso potencial de una escena. Por ejemplo, una vista de una carretera vacía se podría usar para agregar en un automóvil 3D, mientras que una vista de una mesa en una cafetería se podría usar para [mostrar el empaquetado](https://www.adobe.com/es/products/dimension/packaging-design-mockup.html) de productos alimenticios.
+Busca ubicaciones que sean interesantes tanto para su contexto como para su iluminación. Al considerar el contexto, puede resultar útil imaginar el uso potencial de una escena. Por ejemplo, una vista de una carretera vacía se podría usar para agregar en un automóvil 3D, mientras que una vista de una mesa en una cafetería se podría usar para [mostrar el empaquetado](https://www.adobe.com/products/dimension/packaging-design-mockup.html) de productos alimenticios.
 
 ![4 escenas de ubicación para una fotografía virtual se contrastan con las mismas escenas con una composición 3D](assets/Photorealistic_8.png)
 
@@ -86,7 +91,7 @@ Mantener el color entre la cámara utilizada para fotografiar el entorno y la c�
 
 Para crear un entorno HDR con la cámara de 360°, es necesario capturar varios VE para combinarlos en una imagen HDR en posproducción. La cantidad de VE no está estandarizada, pero generalmente se desea que el extremo superior del rango de exposición vaya a un punto donde no haya más información en las sombras y el extremo inferior del rango de exposición a un punto donde no haya más información en las iluminaciones.
 
-Lo ideal es que la cámara de 360° tenga una función de horquillado automático que permita que la cámara realice las distintas exposiciones por lotes. Los ajustes ideales consisten en utilizar el valor ISO más bajo disponible para evitar el ruido y un valor de apertura alto para el enfoque. Los valores de exposición se pueden modificar usando la velocidad de obturación y dividirlos por paradas; reduciendo o duplicando la exposición.
+Lo ideal es que la cámara de 360° tenga una función de horquillado automático que permita que la cámara realice las distintas exposiciones por lotes. Los ajustes ideales consisten en utilizar el valor ISO más bajo disponible para evitar el ruido y un valor de apertura alto para el enfoque. Los valores de exposición se pueden modificar usando la velocidad de obturación y se pueden dividir por paradas; reducir o duplicar la exposición.
 
 ![Una serie de valores de exposición entre corchetes de una panorámica HDR de 360 grados de un espacio de oficina](assets/Photorealistic_12.png)
 
@@ -136,7 +141,7 @@ Una vez finalizada la captura, las imágenes deben postprocesarse para que coinc
 
 ## Ensamblando la imagen compuesta en [!DNL Dimension]
 
-Con estos elementos reunidos y completados, ahora se pueden ensamblar en una escena del Adobe [!DNL Dimension]. Esto es tan sencillo como arrastrar el fondo a la escena, donde se aplicará al fondo; a continuación, añadir el panel HDR a la ranura de imagen de luz ambiental.
+Con estos elementos reunidos y completados, ahora se pueden ensamblar en una escena del Adobe [!DNL Dimension]. Esto es tan sencillo como arrastrar el fondo a la escena, donde luego se aplicará al fondo; a continuación, añada el panel HDR a la ranura de la imagen de luz ambiental.
 
 Arrastre y suelte la imagen de fondo en un área vacía del lienzo o seleccione Entorno en el panel Escena y añada la imagen a la entrada de fondo.
 
@@ -158,7 +163,7 @@ Para evaluar rápidamente la orientación y exposición del panel HDR en relaci�
 
 Para evaluar rápidamente la orientación y exposición del panel HDR en relación con el fondo, se puede colocar en la escena una esfera primitiva con un material metálico, tomada del panel de activos libres de [!DNL Dimension]. La rotación de la luz ambiental puede colocarse entonces para que los reflejos parezcan correctos. Si la iluminación del panel HDR sobreexpone o subexpone la esfera, la exposición del panel HDR debe aumentarse o disminuirse para compensar.
 
-## El resultado final: una imagen compuesta fotorrealista
+## El resultado final: Una imagen compuesta con realismo fotográfico
 
 ![Intervalo de tiempo entre la composición 3D y el procesamiento para una fotografía de producto virtual en el Adobe [!DNL Dimension]](assets/Photorealistic_24.gif)
 

@@ -5,9 +5,14 @@ feature: Licensable Assets
 role: User
 level: Beginner, Intermediate
 exl-id: 0a0f5cf8-0326-48fc-a833-0f531617cc41
-source-git-commit: f8798caa7e5d44b8289d16d65b5dd12f28abe3ea
+TQID: https://experienceleague.adobe.com/OO15ggOXFGIVvTH96F-dTOek9zhYq64kOVne2jE4KSk
+product_v2: id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: da3860b0-d637-47df-bef0-273751180266id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
 workflow-type: tm+mt
-source-wordcount: '325'
+source-wordcount: 330
 ht-degree: 0%
 
 ---
@@ -27,7 +32,7 @@ Los creativos se encuentran bajo presión para ofrecer rápidamente contenido nu
     <div>
    <a href="stock.md#tutorial1"><strong>Encuentra los mejores activos más rápido con el Adobe [!DNL Stock]</strong></a>
     </div>
-    <em>Encuentra la imagen de stock perfecta sin derechos de autor para mejorar tu proyecto creativo mediante resultados de búsqueda mejores y más rápidos con la tecnología de la inteligencia artificial de Adobe</em>
+    <em>Encuentra la imagen de stock perfecta sin derechos de autor para mejorar tu proyecto creativo mediante resultados de búsqueda mejores y más rápidos con la tecnología de inteligencia artificial de Adobe</em>
     <br>
   </td>
   <td>
@@ -85,8 +90,8 @@ Logotipo de ![[!DNL Stock]](../assets/st_appicon_96.png)
 
 **Recursos del Adobe [!DNL Stock]**
 
-[Información y asistencia](https://helpx.adobe.com/es/support/stock.html) es el centro de tutoriales adicionales y vínculos a foros de la comunidad.
+[Información y asistencia](https://helpx.adobe.com/support/stock.html) es el centro de tutoriales adicionales y vínculos a foros de la comunidad.
 
 **Versión de octubre de 2020**
 
-Empiece a utilizar estas funciones (y muchas más) descargando la actualización más reciente desde la aplicación de escritorio de Creative Cloud.
+Empiece a utilizar estas funciones (¡y mucho más!) descargando la actualización más reciente de la aplicación de escritorio de Creative Cloud.

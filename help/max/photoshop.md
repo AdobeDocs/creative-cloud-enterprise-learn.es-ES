@@ -5,9 +5,16 @@ feature: Image Editing
 role: User
 level: Beginner, Intermediate
 exl-id: f42f9f4c-072d-496a-842a-3da503bdaca1
-source-git-commit: f8798caa7e5d44b8289d16d65b5dd12f28abe3ea
+TQID: https://experienceleague.adobe.com/d4119C3FBhupshY9ryrLLT2VtRPHDRqagPOXjI8HW4c
+product_v2: id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+feature_v2: id: fec89bf3-1b77-4b07-a0b9-96726856a0ad
+subfeature_v2: id: b29e1156-4668-4c0c-84e3-9347e94225ed
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: bbbea26f-9621-49eb-9ab8-e06fb3bbce8c
+source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
 workflow-type: tm+mt
-source-wordcount: '329'
+source-wordcount: 341
 ht-degree: 0%
 
 ---
@@ -59,7 +66,7 @@ En este tutorial, aprenderá lo siguiente:
 * La herramienta Selección de objetos agiliza y simplifica la selección de elementos
 * El Relleno según el contenido permite un mayor control de las áreas de muestra de una imagen de origen para una mejor clonación y aplicación de parches en las áreas de destino
 * Los pinceles pueden tener diferentes formas para obtener mejores resultados
-* La IA de Adobe aprovecha la inteligencia artificial para las tareas rutinarias
+* La IA de Adobe aprovecha la inteligencia artificial para las tareas cotidianas
 
 **Presentado por:**
 A.J Wood, consultor sénior de soluciones (Digital Media)
@@ -83,8 +90,8 @@ A.J Wood, consultor sénior de soluciones (Digital Media)
 
 **Recursos de Photoshop**
 
-[Información y asistencia](https://helpx.adobe.com/es/support/photoshop.html) es el centro de tutoriales adicionales, [Novedades](https://helpx.adobe.com/es/photoshop/using/whats-new.html) y vínculos a foros de la comunidad.
+[Información y asistencia](https://helpx.adobe.com/support/photoshop.html) es el centro de tutoriales adicionales, [Novedades](https://helpx.adobe.com/photoshop/using/whats-new.html) y vínculos a foros de la comunidad.
 
 **Versión de octubre de 2020**
 
-Empiece a utilizar estas funciones (y muchas más) descargando la actualización más reciente desde la aplicación de escritorio de Creative Cloud.
+Empiece a utilizar estas funciones (¡y mucho más!) descargando la actualización más reciente de la aplicación de escritorio de Creative Cloud.

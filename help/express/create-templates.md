@@ -6,18 +6,22 @@ role: User
 level: Beginner
 jira: KT-13410
 exl-id: f044b41b-e7f8-4c0a-86fe-83b82a332334
-source-git-commit: f7eb9a548da23db3afcb3e6dfeb378f40181e1e0
+TQID: https://experienceleague.adobe.com/h6hkzXjp7ACb-T-Dn-2VRO6kRtP02reRsYHdv--j-UM
+product_v2: id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
 workflow-type: tm+mt
-source-wordcount: '142'
+source-wordcount: 145
 ht-degree: 0%
 
 ---
 
-# Maximizar la eficiencia: Cree una plantilla reutilizable
+# Maximice la eficiencia: Crear una plantilla reutilizable
 
 Descubre cómo aportar uniformidad de marca, eficacia, profesionalidad y ahorro de costes a tu organización con las plantillas de Adobe Express. En este tutorial se explica cómo crear un archivo reutilizable a partir de cualquier contenido existente, ya sea un archivo de Photoshop, Illustrator, InDesign o incluso PowerPoint.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433967?quality=12&learn=on&hidetitle=true&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3420208?quality=12&learn=on&hidetitle=true)
 
 ## Vídeos adicionales de esta serie
 

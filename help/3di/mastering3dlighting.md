@@ -6,9 +6,14 @@ role: User
 level: Beginner, Intermediate
 keywords: Iluminación 3D, 600 Global MSV
 exl-id: 05eb729e-35b8-46e2-9c56-590250097d0b
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+TQID: https://experienceleague.adobe.com/CZbD3FV-y-j2LJMhRfGB13pTkcb9t7dETQmvIr-anwQ
+product_v2: id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+feature_v2: id: fec89bf3-1b77-4b07-a0b9-96726856a0ad
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
 workflow-type: tm+mt
-source-wordcount: '2722'
+source-wordcount: 2754
 ht-degree: 0%
 
 ---
@@ -17,13 +22,13 @@ ht-degree: 0%
 
 Aprende sobre la iluminación 3D y cómo crear diferentes condiciones de luz que pueden alterar por completo una escena generada por ordenador y la forma en que los objetos se ven en ella.
 
-Percibimos el mundo que nos rodea usando nuestros sentidos: escuchamos, sentimos, olemos, vemos. Podemos ver porque nuestros ojos están recogiendo información traída a nosotros por partículas elementales llamadas fotones. El cerebro procesa esta información para producir una imagen. Lo que interpretamos como color de objeto, brillo, translucidez o cualidades metálicas son todos productos de la interacción entre los fotones y la superficie del objeto.
+Percibimos el mundo que nos rodea usando nuestros sentidos: oímos, sentimos, olemos, vemos. Podemos ver porque nuestros ojos están recogiendo información traída a nosotros por partículas elementales llamadas fotones. El cerebro procesa esta información para producir una imagen. Lo que interpretamos como color de objeto, brillo, translucidez o cualidades metálicas son todos productos de la interacción entre los fotones y la superficie del objeto.
 
 La mecánica de la luz en una escena 3D generada por ordenador sigue el mismo principio natural de la dispersión de fotones, a través de un proceso llamado trazado de rayos. Los rayos rebotan en las formas e interactúan con sus materiales, lo que define de manera efectiva cómo aparecen los objetos en la imagen final. Las luces exponen la dimensionalidad de cualquier cosa que exista en una escena 3D.
 
-Algunos materiales son más sensibles a las condiciones de iluminación que otros. Tomemos los metales por ejemplo: un objeto cromado es básicamente un reflejo de todo lo que lo rodea. Si se mueve una luz, se vuelve más brillante o más grande, toda esa información es visible directamente en la superficie cromada con detalles casi similares a los de un espejo, por lo que puede parecer completamente diferente de una condición de luz a la otra.
+Algunos materiales son más sensibles a las condiciones de iluminación que otros. Tomemos los metales por ejemplo: un objeto de chrome refleja básicamente todo lo que lo rodea. Si se mueve una luz, se vuelve más brillante o más grande, toda esa información es visible directamente en la superficie cromada con detalles casi similares a los de un espejo, por lo que puede parecer completamente diferente de una condición de luz a la otra.
 
-![Escena en 3D de un auto en un estacionamiento con un letrero de neón en la pared. La iluminación cambia de la luz diurna a un LED de neón que emana de la señal &#x200B;](assets/Mastering3dlighting_1.gif)
+![Escena en 3D de un auto en un estacionamiento con un letrero de neón en la pared. La iluminación cambia de la luz diurna a un LED de neón que emana de la señal ](assets/Mastering3dlighting_1.gif)
 
 ## Cómo trabajar con luces 3D para crear representaciones 3D eficaces
 
@@ -56,7 +61,7 @@ Las luces de ambiente son imágenes equirrectangulares (esféricas) que se envue
 
 ![Ejemplos de luces de ambiente hechas de fotos, una escena de estudio 3D y una escena 3D abstracta](assets/Mastering3dlighting_5.jpg)
 
-Al crear una nueva escena en [[!DNL Dimension]](https://www.adobe.com/es/products/dimension.html), se creará una luz de entorno predeterminada. Es por esto que usted es inmediatamente capaz de ver cualquier cosa en la escena. Los recursos de inicio de Adobe [!DNL Dimension] incluyen un determinado número de luces de entorno, que puede probar de inmediato. Además, el [Adobe [!DNL Stock]](https://stock.adobe.com/search?filters[content_type:3d]=1&amp;filters[3d_type_id][0]=2&amp;load_type=3d+lp) ofrece una gran selección de luces de ambiente.
+Al crear una nueva escena en [[!DNL Dimension]](https://www.adobe.com/products/dimension.html), se creará una luz de entorno predeterminada. Es por esto que usted es inmediatamente capaz de ver cualquier cosa en la escena. Los recursos de inicio de Adobe [!DNL Dimension] incluyen un determinado número de luces de entorno, que puede probar de inmediato. Además, el [Adobe [!DNL Stock]](https://stock.adobe.com/search?filters[content_type:3d]=1&filters[3d_type_id][0]=2&load_type=3d+lp) ofrece una gran selección de luces de ambiente.
 
 Las luces ambientales producen resultados muy realistas y pueden ahorrarle mucho tiempo. Para conseguir algo similar manualmente, tendrías que crear todo el entorno en 3D (incluidas varias fuentes de luz), lo que supone una cantidad considerable de trabajo.
 
@@ -100,13 +105,13 @@ Si se reduce el tamaño de la fuente de luz respecto al objeto, las sombras ser�
 
 ### Sol y cielo
 
-La luz solar es un tipo especial de luz direccional. El proceso de ajuste es muy similar a una luz direccional regular, sin embargo, esta luz cambiará automáticamente el color con la altura; cuando está cerca del horizonte (valores de ángulo de baja altura), gradualmente se volverá más cálido para simular la puesta de sol. El color también se puede cambiar mediante ajustes preestablecidos. Mientras tanto, la nubosidad afectará a la suavidad de la sombra.
+La luz solar es un tipo especial de luz direccional. El proceso de ajuste es muy similar a una luz direccional regular, sin embargo esta luz cambiará automáticamente el color con la altura; cuando está cerca del horizonte (valores de ángulo de altura baja), se calentará gradualmente para simular la puesta de sol. El color también se puede cambiar mediante ajustes preestablecidos. Mientras tanto, la nubosidad afectará a la suavidad de la sombra.
 
 ![Manipulación de propiedades de iluminación para iluminación solar en un modelo de coche 3D en el Adobe [!DNL Dimension]](assets/Mastering3dlighting_15.gif)
 
 ![Una escena en 3D en la luna donde la única fuente de iluminación es la luz solar](assets/Mastering3dlighting_16.jpg)
 
-Podemos emular el cielo usando luces de ambiente, y cualquier luz de ambiente que presente el cielo puede ser utilizada. Ahora, tenemos que alinear la luz solar (hecha en [!DNL Dimension]) con el Sol, capturada en la luz ambiental. Una forma rápida de hacerlo es crear una esfera y asignarle un material metálico; esto nos proporcionará reflejos del entorno en tiempo real, para que podamos usar la luz Aim en el punto para alinear la luz solar con el Sol.
+Podemos emular el cielo usando luces de ambiente, y cualquier luz de ambiente que presente el cielo puede ser utilizada. Ahora, tenemos que alinear la luz solar (hecha en [!DNL Dimension]) con el Sol, capturada en la luz ambiental. Una forma rápida de hacerlo es crear una esfera y asignarle un material metálico; esto nos proporcionará reflejos del entorno en tiempo real, por lo que podemos utilizar la luz Aim en el punto para alinear la luz solar con el Sol.
 
 Si la luz ambiental presenta un cielo nublado, la propiedad nubosidad se puede utilizar para que coincida más con estas condiciones.
 
@@ -164,7 +169,7 @@ Hay dos formas de crear la iluminación de 3 puntos en [!DNL Dimension]: mediant
 
 La iluminación creativa se utiliza cuando la precisión física no es el objetivo principal. Esto incluye escenas abstractas y surrealistas de todo tipo, por lo que no hay límites reales donde nuestras imaginaciones nos puedan llevar.
 
-En el ejemplo anterior, la idea era retratar un ambiente onírico: dulces, colores pastel y superficies lisas. El sistema de iluminación se compone de tres placas brillantes (dos a un lado y la principal que brilla desde la parte inferior). Todas las planchas brillantes son poco realistas y grandes, lo que crea sombras e iluminaciones muy suaves. Las fuentes de luz son coloreadas y ese color se transfiere al material asignado a los objetos en la escena.
+En el ejemplo anterior, la idea era retratar un ambiente onírico: caramelos, colores pastel y superficies lisas. El sistema de iluminación se compone de tres placas brillantes (dos a un lado y la principal que brilla desde la parte inferior). Todas las planchas brillantes son poco realistas y grandes, lo que crea sombras e iluminaciones muy suaves. Las fuentes de luz son coloreadas y ese color se transfiere al material asignado a los objetos en la escena.
 
 El sujeto de la escena (tuberías) está completamente rodeado por la geometría de las paredes. Esto hará que los rayos de luz reboten de un lado a otro y se mezclen de maneras interesantes. Jugar con tonos fríos FRENTE a cálidos a menudo produce un contraste agradable (esta técnica se utiliza a veces en la fotografía de retratos).
 
