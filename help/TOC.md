@@ -8,10 +8,10 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: c52f7a40d98aa5aef552a13bea2d3e5f5a89193e
+source-git-commit: 71056d443a4a6b29978d55211ea961c6aee2ebe4
 workflow-type: tm+mt
-source-wordcount: '808'
-ht-degree: 6%
+source-wordcount: '761'
+ht-degree: 4%
 
 ---
 
@@ -25,8 +25,8 @@ ht-degree: 6%
       + [Acrobat para creadores de contenido](cce/acrobat-content-creators.md)
       + [Mejorar los flujos de trabajo de CC con CC Libraries](cce/cc-workflows-cc-libraries.md)
       + [Ansiedad de tipo dominante](cce/taming-type-anxiety.md)
-      + [Adobe Express: contenido que destaca](cce/adobe-express-content-that-stands-out.md)
-      + [Colaboración: el futuro de la creatividad](cce/collaboration-the-future-of-creativity.md)
+      + [Adobe Express: Contenido que destaca](cce/adobe-express-content-that-stands-out.md)
+      + [Colaboración: El futuro de la creatividad](cce/collaboration-the-future-of-creativity.md)
       + [Creación de Bibliotecas Creative Cloud para equipos](cce/ccteamlibraries.md)
       + [Compartir activos de marca con Bibliotecas Creative Cloud para equipos](cce/sharecclibraries.md)
       + [Crea composiciones únicas con Adobe [!DNL Stock]  y Photoshop para iPad](cce/compositepsipad.md)
@@ -87,7 +87,7 @@ ht-degree: 6%
       + [Cómo añadir audio](express/add-audio-video.md)
       + [Cómo exportar un vídeo](express/export-video.md)
       + [Cómo y por qué bloquear capas](express/lock-layers.md)
-      + [Maximizar la eficiencia: Cree una plantilla reutilizable](express/create-templates.md)
+      + [Maximice la eficiencia: Crear una plantilla reutilizable](express/create-templates.md)
       + [Guardar y compartir plantillas](express/share-templates.md)
       + [Cómo utilizar las plantillas](express/use-templates.md)
    + Tutoriales de casos de uso {#expressusecase}
@@ -180,29 +180,3 @@ ht-degree: 6%
    + [Información general](deploy/overview-deploy.md)
    + [Vencimiento del número de serie](deploy/cceserial.md)
    + [Licencias de usuario designadas.](deploy/nameduserlicensing.md)
-+ Adobe MAX {#max}
-   + [Información general](max/overview-max.md)
-   + Tutoriales {#tutorials}
-      + [Información general](max/maxtutorials.md)
-      + Productos de escritorio {#desktop-products}
-         + [Acrobat &amp; Sign](max/acrobat-sign.md)
-         + [[!DNL Dimension]](max/dimension.md)
-         + [Illustrator](max/illustrator.md)
-         + [InDesign](max/indesign.md)
-         + [Photoshop](max/photoshop.md)
-         + [[!DNL Rush]](max/rush.md)
-         + [XD](max/xd.md)
-      + Aplicaciones móviles {#mobile-apps}
-         + [[!DNL Capture]](max/capture.md)
-         + [Fresco](max/fresco.md)
-         + [Illustrator en iPad](max/illustratoripad.md)
-         + [Photoshop en el iPad](max/photoshopipad.md)
-      + Integraciones {#integrations}
-         + [AEM](max/aem.md)
-         + [Aplicación de escritorio de Creative Cloud](max/creativeclouddesktopapp.md)
-         + [Bibliotecas CC](max/cclibraries.md)
-         + [InDesign Server](max/indesignserver.md)
-         + [[!DNL Stock]](max/stock.md)
-         + [Administración de empresas](max/enterprise.md)
-      + Proyecto práctico {#project}
-         + [Crea tu propia máscara facial](max/handsonproject.md)
