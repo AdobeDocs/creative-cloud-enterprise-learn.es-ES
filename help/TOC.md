@@ -8,10 +8,10 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: c52f7a40d98aa5aef552a13bea2d3e5f5a89193e
+source-git-commit: 71056d443a4a6b29978d55211ea961c6aee2ebe4
 workflow-type: tm+mt
-source-wordcount: '808'
-ht-degree: 6%
+source-wordcount: '761'
+ht-degree: 4%
 
 ---
 
@@ -25,8 +25,8 @@ ht-degree: 6%
       + [Acrobat para creadores de contenido](cce/acrobat-content-creators.md)
       + [Mejorar los flujos de trabajo de CC con CC Libraries](cce/cc-workflows-cc-libraries.md)
       + [Ansiedad de tipo dominante](cce/taming-type-anxiety.md)
-      + [Adobe Express: contenido que destaca](cce/adobe-express-content-that-stands-out.md)
-      + [Colaboración: el futuro de la creatividad](cce/collaboration-the-future-of-creativity.md)
+      + [Adobe Express: Contenido que destaca](cce/adobe-express-content-that-stands-out.md)
+      + [Colaboración: El futuro de la creatividad](cce/collaboration-the-future-of-creativity.md)
       + [Creación de Bibliotecas Creative Cloud para equipos](cce/ccteamlibraries.md)
       + [Compartir activos de marca con Bibliotecas Creative Cloud para equipos](cce/sharecclibraries.md)
       + [Crea composiciones únicas con Adobe [!DNL Stock]  y Photoshop para iPad](cce/compositepsipad.md)
@@ -87,7 +87,7 @@ ht-degree: 6%
       + [Cómo añadir audio](express/add-audio-video.md)
       + [Cómo exportar un vídeo](express/export-video.md)
       + [Cómo y por qué bloquear capas](express/lock-layers.md)
-      + [Maximizar la eficiencia: Cree una plantilla reutilizable](express/create-templates.md)
+      + [Maximice la eficiencia: Crear una plantilla reutilizable](express/create-templates.md)
       + [Guardar y compartir plantillas](express/share-templates.md)
       + [Cómo utilizar las plantillas](express/use-templates.md)
    + Tutoriales de casos de uso {#expressusecase}
@@ -136,13 +136,13 @@ ht-degree: 6%
    + Tutoriales {#stocktutorials}
       + [Impresionantes activos digitales](stock/stunning-digital-assets.md)
       + [Buscar en el Adobe  [!DNL Stock] historial de licencias](stock/searchstock.md)
-      + [Añade una estética dibujada a mano a las imágenes de Adobe [!DNL Stock] &#x200B;](stock/handdrawn.md)
+      + [Añade una estética dibujada a mano a las imágenes de Adobe [!DNL Stock] ](stock/handdrawn.md)
       + [Añade estilo a la tipografía con máscaras y animación](stock/flairtypography.md)
       + [Animar un Adobe [!DNL Stock] ilustración vectorial en Photoshop](stock/animatevector.md)
       + [Empieza tu informe anual con un vídeo creado con Adobe [!DNL Stock]  y Spark Video](stock/annualreport.md)
       + [Da vida a tu creatividad con animaciones personalizadas de Adobe [!DNL Stock]](stock/customanimations.md)
       + [Cambia los colores de una imagen [!DNL Stock] de Adobe para que coincidan con tu historia](stock/changecolors.md)
-      + [Crea un collage en 3D para un póster con imágenes de Adobe [!DNL Stock] &#x200B;](stock/collage.md)
+      + [Crea un collage en 3D para un póster con imágenes de Adobe [!DNL Stock] ](stock/collage.md)
       + [Crear una etiqueta en negrita con plantillas de Adobe [!DNL Stock] y objetos inteligentes de Photoshop](stock/boldlabel.md)
       + [Crear una infografía de directrices de la empresa con Adobe [!DNL Stock]](stock/infographic.md)
       + [Crear un gráfico comparativo de características de productos usando el Adobe  [!DNL Stock]](stock/featurecomparison.md)
@@ -157,7 +157,7 @@ ht-degree: 6%
       + [Crea composiciones fotográficas realistas con imágenes de Adobe [!DNL Stock] e](stock/realisticcomposite.md)
       + [Personalizar una animación de pantalla de carga con Adobe [!DNL Stock] y XD](stock/loadingscreen.md)
       + [Personaliza una plantilla de presentación de Adobe [!DNL Stock] para que parezca profesional](stock/presentationtemplate.md)
-      + [Personalizar los colores de una ilustración vectorial de Adobe [!DNL Stock] &#x200B;](stock/customizecolors.md)
+      + [Personalizar los colores de una ilustración vectorial de Adobe [!DNL Stock] ](stock/customizecolors.md)
 + Adobe 3D y RV {#3doverview}
    + [Información general](3di/overview-3di.md)
    + Tutoriales {#3dtutorials}
@@ -180,29 +180,3 @@ ht-degree: 6%
    + [Información general](deploy/overview-deploy.md)
    + [Vencimiento del número de serie](deploy/cceserial.md)
    + [Licencias de usuario designadas.](deploy/nameduserlicensing.md)
-+ Adobe MAX {#max}
-   + [Información general](max/overview-max.md)
-   + Tutoriales {#tutorials}
-      + [Información general](max/maxtutorials.md)
-      + Productos de escritorio {#desktop-products}
-         + [Acrobat &amp; Sign](max/acrobat-sign.md)
-         + [[!DNL Dimension]](max/dimension.md)
-         + [Illustrator](max/illustrator.md)
-         + [InDesign](max/indesign.md)
-         + [Photoshop](max/photoshop.md)
-         + [[!DNL Rush]](max/rush.md)
-         + [XD](max/xd.md)
-      + Aplicaciones móviles {#mobile-apps}
-         + [[!DNL Capture]](max/capture.md)
-         + [Fresco](max/fresco.md)
-         + [Illustrator en iPad](max/illustratoripad.md)
-         + [Photoshop en el iPad](max/photoshopipad.md)
-      + Integraciones {#integrations}
-         + [AEM](max/aem.md)
-         + [Aplicación de escritorio de Creative Cloud](max/creativeclouddesktopapp.md)
-         + [Bibliotecas CC](max/cclibraries.md)
-         + [InDesign Server](max/indesignserver.md)
-         + [[!DNL Stock]](max/stock.md)
-         + [Administración de empresas](max/enterprise.md)
-      + Proyecto práctico {#project}
-         + [Crea tu propia máscara facial](max/handsonproject.md)
