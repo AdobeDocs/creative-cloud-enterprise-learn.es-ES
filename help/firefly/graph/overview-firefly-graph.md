@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-21971
 hide: true
 hidefromtoc: true
-source-git-commit: f940c165582a647204f888b9181d9b2a152b13bf
+source-git-commit: a7d2985143bdc7ebfd50eda769dc5d97ecf615ef
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: '234'
 ht-degree: 0%
 
 ---
@@ -78,7 +78,7 @@ Si ya has usado una herramienta de IA generativa, probablemente estés acostumbr
   </td>
   <td>
    <a href="introducing-graph.md">
-      <img alt="Libro digital" src="../assets/graph-introducing.png" />
+      <img alt="Caja de chocolates" src="../assets/graph-introducing.png" />
    </a>
     <div>
    <a href="introducing-graph.md"><strong>Seminario web de introducción al gráfico de Firefly</strong></a>
@@ -87,12 +87,12 @@ Si ya has usado una herramienta de IA generativa, probablemente estés acostumbr
     
   </td>
   <td>
-    <img alt="Separador" src="../assets/Gray_thumbnail.png" />
+    <img alt="Separador" src="../../assets/Gray_thumbnail.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="Separador" src="../assets/Gray_thumbnail.png" />
+    <img alt="Separador" src="../../assets/Gray_thumbnail.png" />
     <div>
     <br>
   </td>
