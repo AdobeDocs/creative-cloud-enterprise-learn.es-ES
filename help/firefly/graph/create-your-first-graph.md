@@ -34,4 +34,4 @@ Este es un nodo que permite importar un gráfico.
 
 ## Siguiente paso
 
-¿Empieza con una plantilla? Diríjase a [4. Personaliza una plantilla](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/customize-template) para que refleje tu propio resumen.
+¿Empieza con una plantilla? Diríjase a [4. Personaliza una plantilla](https://experienceleague.adobe.com/es/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/customize-template) para que refleje tu propio resumen.
