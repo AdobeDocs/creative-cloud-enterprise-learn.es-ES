@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-21971
 hide: true
 hidefromtoc: true
-source-git-commit: acbfa0d157359d805ee6f5af352799cf5d0ee7d9
+source-git-commit: eaa388c2919c505dc2148b1d09705d2109a995c1
 workflow-type: tm+mt
-source-wordcount: '219'
+source-wordcount: '224'
 ht-degree: 0%
 
 ---
@@ -81,9 +81,9 @@ Si ya has usado una herramienta de IA generativa, probablemente estés acostumbr
       <img alt="Libro digital" src="../assets/graph-introducing.png" />
    </a>
     <div>
-   <a href="introducing-graph.md"><strong>Presentando gráfico de Firefly</strong></a>
+   <a href="introducing-graph.md"><strong>Seminario web de introducción al gráfico de Firefly</strong></a>
     </div>
-    <em>Obtener información acerca del gráfico del sistema de flujo de trabajo completamente visual de Firefly</em>
+    <em>En este seminario web, infórmate sobre Graph</em> del sistema de flujo de trabajo completamente visual de Firefly
     
   </td>
   <td>
