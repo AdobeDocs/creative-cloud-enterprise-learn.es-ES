@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-21971
 hide: true
 hidefromtoc: true
-source-git-commit: eaa388c2919c505dc2148b1d09705d2109a995c1
+source-git-commit: f940c165582a647204f888b9181d9b2a152b13bf
 workflow-type: tm+mt
-source-wordcount: '224'
+source-wordcount: '233'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ Si ya has usado una herramienta de IA generativa, probablemente estés acostumbr
 <tr>
  <td>
    <a href="what-is-firefly-graph.md">
-      <img alt="Bandeja de caramelos" src="../assets/graph-1.png" />
+      <img alt="Frasco de maquillaje" src="../assets/graph-1.png" />
    </a>
     <div>
    <a href="what-is-firefly-graph.md"><strong>¿Qué es el Gráfico de Firefly?</strong></a>
@@ -36,7 +36,7 @@ Si ya has usado una herramienta de IA generativa, probablemente estés acostumbr
   </td>
   <td>
    <a href="key-concepts.md">
-      <img alt="Origami" src="../assets/graph-2.png" />
+      <img alt="Frasco de maquillaje con fondo" src="../assets/graph-2.png" />
    </a>
     <div>
    <a href="key-concepts.md"><strong>Conceptos clave</strong></a>
@@ -46,7 +46,7 @@ Si ya has usado una herramienta de IA generativa, probablemente estés acostumbr
   </td>
   <td>
    <a href="create-your-first-graph.md">
-      <img alt="Frasco de maquillaje" src="../assets/graph-3.png" />
+      <img alt="Frasco de maquillaje nuevo fondo" src="../assets/graph-3.png" />
    </a>
     <div>
    <a href="create-your-first-graph.md"><strong>Crea tu primer gráfico</strong></a>
@@ -56,7 +56,7 @@ Si ya has usado una herramienta de IA generativa, probablemente estés acostumbr
   </td>
   <td>
    <a href="customize-template.md">
-      <img alt="Abejas" src="../assets/graph-4.png" />
+      <img alt="Fondo de diferencia de tarro de maquillaje" src="../assets/graph-4.png" />
    </a>
     <div>
    <a href="customize-template.md"><strong>Personalizar una plantilla</strong></a>
@@ -68,7 +68,7 @@ Si ya has usado una herramienta de IA generativa, probablemente estés acostumbr
 <tr>
  <td>
    <a href="template-library.md">
-      <img alt="Libro digital" src="../assets/graph-5.png" />
+      <img alt="Frasco de maquillaje con fondo final" src="../assets/graph-5.png" />
    </a>
     <div>
    <a href="template-library.md"><strong>Biblioteca de plantillas</strong></a>
