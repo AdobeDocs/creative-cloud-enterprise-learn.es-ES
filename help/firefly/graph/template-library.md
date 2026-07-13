@@ -1,5 +1,5 @@
 ---
-title: ​5. Biblioteca de plantillas de gráficos de Firefly
+title: ​4. Biblioteca de plantillas de gráficos de Firefly
 description: Explora las plantillas de gráficos de Firefly ya creadas que puedes abrir y adaptar a tu propio proyecto
 feature: Image Editing, Gen AI
 role: User
@@ -7,14 +7,14 @@ level: Beginner
 jira: KT-
 hide: true
 hidefromtoc: true
-source-git-commit: 44e0b0e7a70592689a7bf2940656532e60ac9f61
+source-git-commit: 0337f4efb23d03491119d4c91aeb71c6a20934fb
 workflow-type: tm+mt
 source-wordcount: '274'
 ht-degree: 1%
 
 ---
 
-# &#x200B;5. Biblioteca de plantillas de Firefly Graph
+# &#x200B;4. Biblioteca de plantillas de Firefly Graph
 
 Cada plantilla es un gráfico completo que alguien ya ha creado. Abre uno para ver exactamente cómo funciona, luego hazlo tuyo intercambiando tus propias entradas.
 
