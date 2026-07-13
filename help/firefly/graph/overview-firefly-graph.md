@@ -7,10 +7,10 @@ level: Beginner
 jira: KT-21971
 hide: true
 hidefromtoc: true
-source-git-commit: a7d2985143bdc7ebfd50eda769dc5d97ecf615ef
+source-git-commit: 08471504c8919e22a36ff8d6251e8b6eb792bbc7
 workflow-type: tm+mt
-source-wordcount: '234'
-ht-degree: 0%
+source-wordcount: '246'
+ht-degree: 2%
 
 ---
 
@@ -29,9 +29,8 @@ Si ya has usado una herramienta de IA generativa, probablemente estés acostumbr
       <img alt="Frasco de maquillaje" src="../assets/graph-1.png" />
    </a>
     <div>
-   <a href="what-is-firefly-graph.md"><strong>¿Qué es el Gráfico de Firefly?</strong></a>
-    </div>
-    <em>Cómo se compara un gráfico con un único mensaje</em>
+   <a href="what-is-firefly-graph.md"><strong>1. ¿Qué es Firefly Graph?</strong></a></div>
+    <em>Obtener información sobre qué es Graph de Firefly y cómo se compara con un único mensaje</em>
     
   </td>
   <td>
@@ -39,9 +38,8 @@ Si ya has usado una herramienta de IA generativa, probablemente estés acostumbr
       <img alt="Frasco de maquillaje con fondo" src="../assets/graph-2.png" />
    </a>
     <div>
-   <a href="key-concepts.md"><strong>Conceptos clave</strong></a>
-    </div>
-    <em>Nodos, conexiones y plantillas</em>
+   <a href="key-concepts.md"><strong>2. Conceptos clave</strong></a></div>
+    <em>Obtener información sobre nodos, conexiones y plantillas</em>
     
   </td>
   <td>
@@ -49,8 +47,7 @@ Si ya has usado una herramienta de IA generativa, probablemente estés acostumbr
       <img alt="Frasco de maquillaje nuevo fondo" src="../assets/graph-3.png" />
    </a>
     <div>
-   <a href="create-your-first-graph.md"><strong>Crea tu primer gráfico</strong></a>
-    </div>
+   <a href="create-your-first-graph.md"><strong>3. Cree su primer gráfico</strong></a></div>
     <em>Recorrido de 5 pasos desde el lienzo para exportar</em>
     
   </td>
@@ -59,8 +56,7 @@ Si ya has usado una herramienta de IA generativa, probablemente estés acostumbr
       <img alt="Fondo de diferencia de tarro de maquillaje" src="../assets/graph-4.png" />
    </a>
     <div>
-   <a href="customize-template.md"><strong>Personalizar una plantilla</strong></a>
-    </div>
+   <a href="customize-template.md"><strong>4. Personalizar una plantilla</strong></a></div>
     <em>Crea una plantilla que refleje tu propia idea de inicio</em>
     
   </td>
@@ -71,8 +67,7 @@ Si ya has usado una herramienta de IA generativa, probablemente estés acostumbr
       <img alt="Frasco de maquillaje con fondo final" src="../assets/graph-5.png" />
    </a>
     <div>
-   <a href="template-library.md"><strong>Biblioteca de plantillas</strong></a>
-    </div>
+   <a href="template-library.md"><strong>5. Biblioteca de plantillas </strong></a></div>
     <em>Examine todas las plantillas, con una descripción y un vínculo para cada una</em>
     
   </td>

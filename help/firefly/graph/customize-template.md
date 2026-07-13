@@ -1,5 +1,5 @@
 ---
-title: Personalizar una plantilla
+title: ​4. Personalizar una plantilla
 description: Una breve lista de comprobación para convertir una plantilla de gráficos de Firefly en un flujo de trabajo que refleje sus propios documentos y recursos
 feature: Image Editing, Gen AI
 role: User
@@ -7,14 +7,14 @@ level: Beginner
 jira: KT-
 hide: true
 hidefromtoc: true
-source-git-commit: 6d02049085cd1077b309004ce6da04b45b43384e
+source-git-commit: 08471504c8919e22a36ff8d6251e8b6eb792bbc7
 workflow-type: tm+mt
-source-wordcount: '145'
-ht-degree: 2%
+source-wordcount: '147'
+ht-degree: 3%
 
 ---
 
-# Personalizar una plantilla
+# &#x200B;4. Personalizar una plantilla
 
 Cada plantilla se incluye con entradas de muestra y un caso de uso genérico. Se convierte en un flujo de trabajo que funciona para *ti* solo una vez que refleja tu propio informe, activos y resultado.
 
