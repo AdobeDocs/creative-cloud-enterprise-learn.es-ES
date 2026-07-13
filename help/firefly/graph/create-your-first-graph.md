@@ -24,4 +24,4 @@ Una vez que sepa qué es un nodo, conexión y plantilla, estará listo para crea
 
 ## Siguiente paso
 
-¿Desea empezar a partir de una plantilla? Diríjase a [4. Biblioteca de plantillas](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/customize-template) para que refleje tu propio informe.
+¿Desea empezar a partir de una plantilla? Diríjase a [4. Biblioteca de plantillas](https://experienceleague.adobe.com/es/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/customize-template) para que refleje tu propio informe.
