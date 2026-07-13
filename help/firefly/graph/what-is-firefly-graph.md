@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-
 hide: true
 hidefromtoc: true
-source-git-commit: 08471504c8919e22a36ff8d6251e8b6eb792bbc7
+source-git-commit: 44e0b0e7a70592689a7bf2940656532e60ac9f61
 workflow-type: tm+mt
 source-wordcount: '292'
 ht-degree: 1%
@@ -40,4 +40,4 @@ Ese es el cambio: el mismo trabajo, pero cada decisión en el camino es ahora al
 
 ## Siguiente paso
 
-Una vez que te sientas cómodo con la idea, pasa a [2. Conceptos clave: nodos, conexiones y plantillas](https://experienceleague.adobe.com/es/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/key-concepts) para aprender el vocabulario que usará para crear un gráfico.
+Una vez que te sientas cómodo con la idea, pasa a [2. Conceptos clave: nodos, conexiones y plantillas](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/key-concepts) para aprender el vocabulario que usará para crear un gráfico.

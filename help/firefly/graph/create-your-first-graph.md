@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-
 hide: true
 hidefromtoc: true
-source-git-commit: 886df44d056da6185d73fb5ad8a85c4454479bed
+source-git-commit: 595c941c757c6b87e779ba406136d62c0172c3a0
 workflow-type: tm+mt
 source-wordcount: '165'
 ht-degree: 1%
@@ -29,8 +29,6 @@ Este es un nodo que permite importar un gráfico.
 1. Haga clic con el botón derecho en el lienzo en blanco y seleccione **+ nuevo nodo** y seleccione **Máscara de degradado** en el cuadro de diálogo.
 1. Haga clic con el botón derecho en el lienzo en blanco y seleccione **+ nuevo nodo** y seleccione **Aplicar máscara** en el cuadro de diálogo.
 
-
-
 ## Siguiente paso
 
-¿Empieza con una plantilla? Diríjase a [4. Personaliza una plantilla](https://experienceleague.adobe.com/es/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/customize-template) para que refleje tu propio resumen.
+¿Empieza con una plantilla? Diríjase a [4. Personaliza una plantilla](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/customize-template) para que refleje tu propio resumen.

@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-
 hide: true
 hidefromtoc: true
-source-git-commit: 08471504c8919e22a36ff8d6251e8b6eb792bbc7
+source-git-commit: 44e0b0e7a70592689a7bf2940656532e60ac9f61
 workflow-type: tm+mt
 source-wordcount: '147'
 ht-degree: 3%
@@ -26,4 +26,4 @@ Cada plantilla se incluye con entradas de muestra y un caso de uso genérico. Se
 
 ## Siguiente paso
 
-¿No sabe a partir de qué plantilla empezar? Examine la [biblioteca de plantillas](https://experienceleague.adobe.com/es/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/template-library) para encontrar una cerca de su caso de uso.
+¿No sabe a partir de qué plantilla empezar? Examine la [biblioteca de plantillas](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/template-library) para encontrar una cerca de su caso de uso.
