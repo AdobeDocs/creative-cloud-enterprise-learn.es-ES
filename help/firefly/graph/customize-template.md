@@ -26,4 +26,4 @@ Cada plantilla se incluye con entradas de muestra y un caso de uso genérico. Se
 
 ## Siguiente paso
 
-¿No sabe a partir de qué plantilla empezar? Examine la [biblioteca de plantillas](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/template-library) para encontrar una cerca de su caso de uso.
+¿No sabe a partir de qué plantilla empezar? Examine la [biblioteca de plantillas](https://experienceleague.adobe.com/es/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/template-library) para encontrar una cerca de su caso de uso.

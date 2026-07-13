@@ -40,4 +40,4 @@ Ese es el cambio: el mismo trabajo, pero cada decisión en el camino es ahora al
 
 ## Siguiente paso
 
-Una vez que te sientas cómodo con la idea, pasa a [2. Conceptos clave: nodos, conexiones y plantillas](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/key-concepts) para aprender el vocabulario que usará para crear un gráfico.
+Una vez que te sientas cómodo con la idea, pasa a [2. Conceptos clave: nodos, conexiones y plantillas](https://experienceleague.adobe.com/es/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/key-concepts) para aprender el vocabulario que usará para crear un gráfico.
