@@ -1,5 +1,5 @@
 ---
-title: ¿Qué es  [!DNL Firefly Graph]?
+title: ​1. ¿Qué es  [!DNL Firefly Graph]?
 description: Descubre cómo se compara un gráfico con un único mensaje y por qué es importante hacer visible y reutilizable cada paso
 feature: Image Editing, Gen AI
 role: User
@@ -7,18 +7,20 @@ level: Beginner
 jira: KT-
 hide: true
 hidefromtoc: true
-source-git-commit: 6d02049085cd1077b309004ce6da04b45b43384e
+source-git-commit: 08471504c8919e22a36ff8d6251e8b6eb792bbc7
 workflow-type: tm+mt
-source-wordcount: '286'
-ht-degree: 0%
+source-wordcount: '292'
+ht-degree: 1%
 
 ---
 
-# ¿Qué es [!DNL Firefly Graph]?
+# &#x200B;1. ¿Qué es [!DNL Firefly Graph]?
 
 La mayoría de las herramientas generativas de IA te ofrecen un resultado desde un mensaje. Si el breve cambio, se reconstruye todo a mano, y no hay nada que entregar, excepto el archivo final.
 
 Firefly Graph funciona de forma diferente. En lugar de un único mensaje, se crea un **gráfico**: un flujo de trabajo visual paso a paso en el que cada entrada, transformación y salida se capturan juntas. Cambie un paso y vuelva a ejecutarlo: no se reconstruye toda la cadena. Cada paso es un nodo visible que tu equipo puede inspeccionar, ajustar y entregar intacto.
+
+![Captura de pantalla de Visual Graph](../assets/what-is-1.png)
 
 En resumen, Graph no sustituye tu proceso creativo: convierte ese proceso en algo que puedes ver, reutilizar y escalar.
 
@@ -38,4 +40,4 @@ Ese es el cambio: el mismo trabajo, pero cada decisión en el camino es ahora al
 
 ## Siguiente paso
 
-Una vez que te sientas cómodo con la idea, pasa a los [conceptos clave: nodos, conexiones y plantillas](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/key-concepts) para aprender el vocabulario que usarás para crear un gráfico.
+Una vez que te sientas cómodo con la idea, pasa a [2. Conceptos clave: nodos, conexiones y plantillas](https://experienceleague.adobe.com/es/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/key-concepts) para aprender el vocabulario que usará para crear un gráfico.

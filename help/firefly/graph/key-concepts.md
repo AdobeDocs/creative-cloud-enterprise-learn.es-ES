@@ -1,5 +1,5 @@
 ---
-title: Conceptos clave del gráfico de Firefly
+title: ​2. Conceptos clave del gráfico de Firefly
 description: 'Las cuatro ideas que cubren el modelo mental de Gráfica Firefly: nodo, conexión, flujo de trabajo y plantilla'
 feature: Image Editing, Gen AI
 role: User
@@ -7,16 +7,18 @@ level: Beginner
 jira: KT-
 hide: true
 hidefromtoc: true
-source-git-commit: 6d02049085cd1077b309004ce6da04b45b43384e
+source-git-commit: 08471504c8919e22a36ff8d6251e8b6eb792bbc7
 workflow-type: tm+mt
-source-wordcount: '243'
+source-wordcount: '214'
 ht-degree: 0%
 
 ---
 
-# Conceptos clave de Firefly Graph
+# &#x200B;2. Conceptos clave de Firefly Graph
 
 Cuatro ideas cubren el modelo mental que necesitas para empezar a usar Firefly Graph.
+
+![Conceptos clave](../assets/concepts.png)
 
 ## Un nodo
 
@@ -25,10 +27,6 @@ Un nodo realiza un paso en el flujo de trabajo: un nodo, un trabajo. Un nodo pue
 ## Una conexión
 
 Una conexión lleva una entrada o salida entre dos nodos. Un gráfico se lee de izquierda a derecha, desde la entrada de origen hasta la salida final.
-
-## Un flujo de trabajo (o gráfico)
-
-Un flujo de trabajo, o gráfico, es la cadena completa e integral de nodos conectados, desde la primera entrada hasta la salida final. Una vez creada, se puede ejecutar, refinar, guardar y compartir.
 
 ## Una plantilla
 
@@ -40,4 +38,4 @@ El gráfico es flexible por diseño. Esa flexibilidad significa que vale la pena
 
 ## Siguiente paso
 
-¿Listo para construir algo? Pasa a [Crear tu primer gráfico](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/create-your-first-graph) para ver un tutorial paso a paso.
+¿Listo para construir algo? Pasar a [3. Crea tu primer gráfico](https://experienceleague.adobe.com/es/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/create-your-first-graph) para ver un tutorial paso a paso.
