@@ -1,16 +1,16 @@
 ---
 title: ​3. Crear el primer gráfico
-description: Un tutorial paso a paso para crear tu primer flujo de trabajo de gráficos de Firefly
+description: Un tutorial paso a paso para crear tu primer gráfico de Firefly
 feature: Image Editing, Gen AI
 role: User
 level: Beginner
 jira: KT-
 hide: true
 hidefromtoc: true
-source-git-commit: 4dd919a2b06f0852dc0010b0f79d5a0b2eae4c1a
+source-git-commit: 52158ed3c024133a9a0d59537a774285d64dce1d
 workflow-type: tm+mt
-source-wordcount: '193'
-ht-degree: 1%
+source-wordcount: '75'
+ht-degree: 2%
 
 ---
 
@@ -18,20 +18,10 @@ ht-degree: 1%
 
 Una vez que sepa qué es un nodo, conexión y plantilla, estará listo para crear su primer flujo de trabajo.
 
-1. Abra el Firefly y seleccione **Graph** en el menú de la izquierda.
-1. Seleccione **Crear nuevo gráfico**.
-1. Haga clic con el botón derecho en el lienzo en blanco y seleccione **+ nuevo nodo**.
-1. Seleccione **Entrada** en el menú de la izquierda y, a continuación, **Imagen de entrada**.
-   ![Nodo](../assets/node.png)
-Este es un nodo que permite importar un gráfico.
-1. Arrastre y suelte una imagen en el nodo.
-   ![Nodo con imagen](../assets/node-image.png)
-1. Haga clic con el botón derecho en el lienzo en blanco y seleccione **+ nuevo nodo** y seleccione **Máscara de degradado** en el cuadro de diálogo.
-1. Haga clic con el botón derecho en el lienzo en blanco y seleccione **+ nuevo nodo** y seleccione **Aplicar máscara** en el cuadro de diálogo.
-1. Enchufe la salida del nodo **Input image** en la entrada del nodo de imagen **Apply Mask**.
-1. Enchufe la salida de **Máscara de degradado** en la entrada de canal/máscara **Aplicar máscara**.
-   ![Nodos de complemento](../assets/plug-in.png)
+<br> 
+
+>[!VIDEO](https://video.tv.adobe.com/v/3495912?quality=12&learn=on&hidetitle=true)
 
 ## Siguiente paso
 
-¿Empieza con una plantilla? Diríjase a [4. Personaliza una plantilla](https://experienceleague.adobe.com/es/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/customize-template) para que refleje tu propio resumen.
+¿Desea empezar a partir de una plantilla? Diríjase a [4. Personaliza una plantilla](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/customize-template) para que refleje tu propio resumen.
