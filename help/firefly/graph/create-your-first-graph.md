@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-
 hide: true
 hidefromtoc: true
-source-git-commit: 595c941c757c6b87e779ba406136d62c0172c3a0
+source-git-commit: 4dd919a2b06f0852dc0010b0f79d5a0b2eae4c1a
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: '193'
 ht-degree: 1%
 
 ---
@@ -28,7 +28,10 @@ Este es un nodo que permite importar un gráfico.
    ![Nodo con imagen](../assets/node-image.png)
 1. Haga clic con el botón derecho en el lienzo en blanco y seleccione **+ nuevo nodo** y seleccione **Máscara de degradado** en el cuadro de diálogo.
 1. Haga clic con el botón derecho en el lienzo en blanco y seleccione **+ nuevo nodo** y seleccione **Aplicar máscara** en el cuadro de diálogo.
+1. Enchufe la salida del nodo **Input image** en la entrada del nodo de imagen **Apply Mask**.
+1. Enchufe la salida de **Máscara de degradado** en la entrada de canal/máscara **Aplicar máscara**.
+   ![Nodos de complemento](../assets/plug-in.png)
 
 ## Siguiente paso
 
-¿Empieza con una plantilla? Diríjase a [4. Personaliza una plantilla](https://experienceleague.adobe.com/es/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/customize-template) para que refleje tu propio resumen.
+¿Empieza con una plantilla? Diríjase a [4. Personaliza una plantilla](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/customize-template) para que refleje tu propio resumen.
