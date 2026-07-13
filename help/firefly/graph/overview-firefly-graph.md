@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-21971
 hide: true
 hidefromtoc: true
-source-git-commit: 08471504c8919e22a36ff8d6251e8b6eb792bbc7
+source-git-commit: 886df44d056da6185d73fb5ad8a85c4454479bed
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '244'
 ht-degree: 2%
 
 ---
@@ -48,7 +48,7 @@ Si ya has usado una herramienta de IA generativa, probablemente estés acostumbr
    </a>
     <div>
    <a href="create-your-first-graph.md"><strong>3. Cree su primer gráfico</strong></a></div>
-    <em>Recorrido de 5 pasos desde el lienzo para exportar</em>
+    <em>Un tutorial desde el lienzo para exportar</em>
     
   </td>
   <td>
