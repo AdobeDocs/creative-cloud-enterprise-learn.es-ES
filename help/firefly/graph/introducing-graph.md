@@ -20,4 +20,4 @@ En este seminario web, aprenderá sobre el sistema de flujo de trabajo completam
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3492621?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3492625?captions=spa&quality=12&learn=on&hidetitle=true)
