@@ -7,16 +7,21 @@ level: Beginner
 jira: KT-
 hide: true
 hidefromtoc: true
-source-git-commit: 0337f4efb23d03491119d4c91aeb71c6a20934fb
+source-git-commit: de7e3db24f81f38010a9a7ec7d470db9f8cc5299
 workflow-type: tm+mt
-source-wordcount: '74'
+source-wordcount: '88'
 ht-degree: 2%
 
 ---
 
 # &#x200B;3. Crea tu primer gráfico
 
-Una vez que sepa qué es un nodo, conexión y plantilla, estará listo para crear su primer flujo de trabajo.
+Una vez que sepas lo que son un nodo, una conexión y una plantilla, estás listo para crear tu primer gráfico.
+
+## Sigue adelante
+
+[![Obtener archivos](../assets/Getfiles.svg)](../assets/createyourfirstgraph.zip)
+Archivos de muestra que seguir (ZIP, 1,45 MB)
 
 <br> 
 
@@ -24,4 +29,4 @@ Una vez que sepa qué es un nodo, conexión y plantilla, estará listo para crea
 
 ## Siguiente paso
 
-¿Desea empezar a partir de una plantilla? Diríjase a [4. Biblioteca de plantillas](https://experienceleague.adobe.com/es/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/customize-template) para que refleje tu propio informe.
+¿Desea empezar a partir de una plantilla? Diríjase a [4. Personaliza una plantilla](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/customize-template) para que refleje tu propio resumen.
