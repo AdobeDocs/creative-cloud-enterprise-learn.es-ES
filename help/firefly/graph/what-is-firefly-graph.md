@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-
 hide: true
 hidefromtoc: true
-source-git-commit: f7007b5c91413783dea7b061b06789f72951d7f4
+source-git-commit: d31d8b492c7f86f6369b88f8940dd752bd535e20
 workflow-type: tm+mt
 source-wordcount: '316'
 ht-degree: 0%
@@ -20,7 +20,7 @@ La mayoría de las herramientas generativas de IA te ofrecen un resultado desde 
 
 Firefly Graph funciona de forma diferente. En lugar de un único mensaje, se crea un **gráfico**: un flujo de trabajo visual paso a paso en el que cada entrada, transformación y salida se capturan juntas. Cambie un paso y vuelva a ejecutarlo: no se reconstruye toda la cadena. Cada paso es un nodo visible que tu equipo puede inspeccionar, ajustar y entregar intacto.
 
-![Captura de pantalla de Visual Graph](../assets/what-is-1.png)
+![Captura de pantalla de Visual Graph](../assets/what-is-1.png){align="center"}
 
 En resumen, Graph no sustituye tu proceso creativo: convierte ese proceso en algo que puedes ver, reutilizar y escalar.
 
@@ -40,6 +40,6 @@ Ese es el cambio: el mismo trabajo, pero cada decisión en el camino es ahora al
 
 ## Siguiente paso
 
-Una vez que te sientas cómodo con la idea, pasa a [2. Conceptos clave: nodos, conexiones y plantillas](https://experienceleague.adobe.com/es/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/key-concepts) para aprender el vocabulario que usará para crear un gráfico.
+Una vez que te sientas cómodo con la idea, pasa a [2. Conceptos clave: nodos, conexiones y plantillas](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/key-concepts) para aprender el vocabulario que usará para crear un gráfico.
 
-Vuelva a [Introducción al gráfico de Firefly](https://experienceleague.adobe.com/es/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Vuelva a [Introducción al gráfico de Firefly](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
