@@ -29,6 +29,6 @@ Archivos de muestra que seguir (ZIP, 1,45 MB)
 
 ## Siguiente paso
 
-¿Desea empezar a partir de una plantilla? Diríjase a [4. Personaliza una plantilla](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/customize-template) para que refleje tu propio resumen.
+¿Desea empezar a partir de una plantilla? Diríjase a [4. Personaliza una plantilla](https://experienceleague.adobe.com/es/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/customize-template) para que refleje tu propio resumen.
 
-Vuelva a [Introducción al gráfico de Firefly](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Vuelva a [Introducción al gráfico de Firefly](https://experienceleague.adobe.com/es/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
