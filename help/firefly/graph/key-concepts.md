@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-
 hide: true
 hidefromtoc: true
-source-git-commit: 44e0b0e7a70592689a7bf2940656532e60ac9f61
+source-git-commit: f7007b5c91413783dea7b061b06789f72951d7f4
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '238'
 ht-degree: 0%
 
 ---
@@ -38,4 +38,6 @@ El gráfico es flexible por diseño. Esa flexibilidad significa que vale la pena
 
 ## Siguiente paso
 
-¿Listo para construir algo? Pasar a [3. Crea tu primer gráfico](https://experienceleague.adobe.com/es/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/create-your-first-graph) para ver un tutorial paso a paso.
+¿Listo para construir algo? Pasar a [3. Crea tu primer gráfico](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/create-your-first-graph) para ver un tutorial paso a paso.
+
+Vuelva a [Introducción al gráfico de Firefly](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
