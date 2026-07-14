@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-21971
 hide: true
 hidefromtoc: true
-source-git-commit: 08471504c8919e22a36ff8d6251e8b6eb792bbc7
+source-git-commit: 0337f4efb23d03491119d4c91aeb71c6a20934fb
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '244'
 ht-degree: 2%
 
 ---
@@ -48,27 +48,27 @@ Si ya has usado una herramienta de IA generativa, probablemente estés acostumbr
    </a>
     <div>
    <a href="create-your-first-graph.md"><strong>3. Cree su primer gráfico</strong></a></div>
-    <em>Recorrido de 5 pasos desde el lienzo para exportar</em>
+    <em>Un tutorial desde el lienzo para exportar</em>
     
   </td>
+  <td>
+   <a href="template-library.md">
+      <img alt="Frasco de maquillaje con fondo final" src="../assets/graph-5.png" />
+   </a>
+    <div>
+   <a href="template-library.md"><strong>4. Biblioteca de plantillas </strong></a></div>
+    <em>Examine todas las plantillas, con una descripción y un vínculo para cada una</em>
+    
+  </td>
+</tr>
+<tr>
   <td>
    <a href="customize-template.md">
       <img alt="Fondo de diferencia de tarro de maquillaje" src="../assets/graph-4.png" />
    </a>
     <div>
-   <a href="customize-template.md"><strong>4. Personalizar una plantilla</strong></a></div>
+   <a href="customize-template.md"><strong>5. Personalizar una plantilla</strong></a></div>
     <em>Crea una plantilla que refleje tu propia idea de inicio</em>
-    
-  </td>
-</tr>
-<tr>
- <td>
-   <a href="template-library.md">
-      <img alt="Frasco de maquillaje con fondo final" src="../assets/graph-5.png" />
-   </a>
-    <div>
-   <a href="template-library.md"><strong>5. Biblioteca de plantillas </strong></a></div>
-    <em>Examine todas las plantillas, con una descripción y un vínculo para cada una</em>
     
   </td>
   <td>
