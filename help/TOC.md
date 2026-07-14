@@ -8,9 +8,9 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 719a2d0ed899fc0ebec604802f5480085c67df7b
+source-git-commit: de7e3db24f81f38010a9a7ec7d470db9f8cc5299
 workflow-type: tm+mt
-source-wordcount: '789'
+source-wordcount: '787'
 ht-degree: 3%
 
 ---
@@ -135,7 +135,6 @@ ht-degree: 3%
       + {hide-from-toc}[Conceptos clave de Graph de Firefly](firefly/graph/key-concepts.md)
       + {hide-from-toc}[Crea tu primer gráfico](firefly/graph/create-your-first-graph.md)
       + {hide-from-toc}[Personalizar una plantilla](firefly/graph/customize-template.md)
-      + {hide-from-toc}[Biblioteca de plantillas](firefly/graph/template-library.md)
       + {hide-from-toc}[Seminario web de introducción al gráfico de Firefly](firefly/graph/introducing-graph.md)
    + Seminarios web {#firefly-webinars}
       + [Experimentar con el Adobe Firefly](firefly/webinar-experimenting.md)
