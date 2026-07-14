@@ -72,7 +72,7 @@ Si ya has usado una herramienta de IA generativa, probablemente estés acostumbr
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/es/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/create-your-first-graph" title="3. Crea tu primer gráfico" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3495912?quality=12&hidetitle=true&format=jpeg&nocache=1784039110238" alt="3. Crea tu primer gráfico"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3495915?captions=spa&quality=12&hidetitle=true&format=jpeg&nocache=1784039110238" alt="3. Crea tu primer gráfico"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -116,7 +116,7 @@ Si ya has usado una herramienta de IA generativa, probablemente estés acostumbr
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/es/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/introducing-graph" title="Presentación de Firefly Graph" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3492621?quality=12&hidetitle=true&format=jpeg&nocache=1784039110453" alt="Presentación de Firefly Graph"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3492625?captions=spa&quality=12&hidetitle=true&format=jpeg&nocache=1784039110453" alt="Presentación de Firefly Graph"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
