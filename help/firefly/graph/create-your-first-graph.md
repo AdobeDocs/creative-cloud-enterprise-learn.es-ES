@@ -25,7 +25,7 @@ Archivos de muestra que seguir (ZIP, 1,45 MB)
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3495912?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3495915?captions=spa&quality=12&learn=on&hidetitle=true)
 
 ## Siguiente paso
 
