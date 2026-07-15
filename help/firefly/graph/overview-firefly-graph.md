@@ -6,10 +6,10 @@ role: User
 level: Beginner
 jira: KT-21971
 hide: true
-source-git-commit: a6de66734272da23c21087df4dbf46a7175d5e00
+source-git-commit: eaec81eb392c356a1819c459b50a627bd43dff9d
 workflow-type: tm+mt
-source-wordcount: '232'
-ht-degree: 3%
+source-wordcount: '248'
+ht-degree: 4%
 
 ---
 
@@ -54,17 +54,27 @@ Si ya has usado una herramienta de IA generativa, probablemente estés acostumbr
     <br>
   </td>
    <td>
-   <a href="customize-template.md">
+   <a href="share-a-graph.md">
       <img alt="Frasco de maquillaje diferente fondo" src="../assets/graph-4.png" />
    </a>
     <div>
-   <a href="customize-template.md"><strong>4. Personalizar una plantilla</strong></a>
+   <a href="share-a-graph.md"><strong>4. Compartir un gráfico </strong></a>
     </div>
-    <em>Crea una plantilla que refleje tu propia idea de inicio</em>
+    <em>Descubre cómo compartir un gráfico con los demás</em>
     <br>
   </td>
 </tr>
 <tr>
+  <td>
+   <a href="customize-template.md">
+      <img alt="Frasco de maquillaje diferente fondo" src="../assets/graph-5.png" />
+   </a>
+    <div>
+   <a href="customize-template.md"><strong>5. Personalizar una plantilla</strong></a>
+    </div>
+    <em>Crea una plantilla que refleje tu propia idea de inicio</em>
+    <br>
+  </td>
   <td>
    <a href="introducing-graph.md">
       <img alt="Caja de chocolates" src="../assets/graph-introducing.png" />
@@ -73,11 +83,6 @@ Si ya has usado una herramienta de IA generativa, probablemente estés acostumbr
    <a href="introducing-graph.md"><strong>Seminario web de introducción al gráfico de Firefly</strong></a>
     </div>
     <em>En este seminario web, infórmate sobre Graph</em> del sistema de flujo de trabajo completamente visual de Firefly
-    <br>
-  </td>
-  <td>
-    <img alt="Separador" src="../../assets/Gray_thumbnail.png" />
-    <div>
     <br>
   </td>
   <td>
