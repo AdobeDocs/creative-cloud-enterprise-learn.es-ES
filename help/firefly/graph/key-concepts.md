@@ -49,6 +49,6 @@ El flujo de trabajo completo que se genera en el editor. Un gráfico se compone 
 
 ## Siguiente paso
 
-¿Listo para construir algo? Pasar a [3. Crea tu primer gráfico](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/create-your-first-graph) para ver un tutorial paso a paso.
+¿Listo para construir algo? Pasar a [3. Crea tu primer gráfico](https://experienceleague.adobe.com/es/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/create-your-first-graph) para ver un tutorial paso a paso.
 
-Vuelva a [Introducción al gráfico de Firefly](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Vuelva a [Introducción al gráfico de Firefly](https://experienceleague.adobe.com/es/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
