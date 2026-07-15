@@ -4,12 +4,12 @@ description: Aprende a compartir un gráfico con los demás
 feature: Image Editing, Gen AI
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22058
 hide: true
 hidefromtoc: true
-source-git-commit: 68283426ada0fc12630e61d3e4441bf11531816c
+source-git-commit: e8ff9999edb2a79f8ad9b479985e4aa9e1047ff2
 workflow-type: tm+mt
-source-wordcount: '380'
+source-wordcount: '382'
 ht-degree: 0%
 
 ---
@@ -34,10 +34,11 @@ Aprende a compartir un gráfico con los demás. Compartir un gráfico comparte e
 
    ![Acceso](../assets/share_3.png){align="center"}
 
-   Active Detectable mediante búsqueda para que los miembros puedan encontrar el gráfico sin necesidad del enlace.
-Un banner de confirmación indica exactamente quién puede ver el gráfico utilizando el vínculo. Compruebe esto antes de enviar el vínculo a cualquier lugar. Se aplica a cada destinatario futuro de ese vínculo, no solo a la siguiente persona invitada.
+1. Active Detectable mediante búsqueda para que los miembros puedan encontrar el gráfico sin necesidad del enlace.
 
    ![Banner](../assets/share_4.png){align="center"}
+
+   Un banner de confirmación indica exactamente quién puede ver el gráfico utilizando el vínculo. Compruebe esto antes de enviar el vínculo a cualquier lugar. Se aplica a cada destinatario futuro de ese vínculo, no solo a la siguiente persona invitada.
 
 1. Escriba una dirección de correo electrónico directamente en el campo de invitación para dar acceso a una persona denominada, independientemente de la configuración general del vínculo. Seleccione su entrada en la sugerencia que aparece debajo del campo.
 
@@ -55,6 +56,6 @@ Un banner de confirmación indica exactamente quién puede ver el gráfico utili
 
 ## Siguiente paso
 
-¿Desea empezar a partir de una plantilla? Diríjase a [5. Personaliza una plantilla](https://experienceleague.adobe.com/es/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/customize-template) para que refleje tu propio resumen.
+¿Desea empezar a partir de una plantilla? Diríjase a [5. Personaliza una plantilla](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/customize-template) para que refleje tu propio resumen.
 
-Vuelva a [Introducción al gráfico de Firefly](https://experienceleague.adobe.com/es/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Vuelva a [Introducción al gráfico de Firefly](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
