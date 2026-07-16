@@ -4,11 +4,11 @@ description: Conozca los conceptos clave que le ayudarán a empezar a usar Firef
 feature: Image Editing, Gen AI
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22053
 hide: true
-source-git-commit: a7178ae1f1b0f3887863103fbf41f17dce0de911
+source-git-commit: 17cd1dad0b66c7d6bc041252863a4dfbae692076
 workflow-type: tm+mt
-source-wordcount: '217'
+source-wordcount: '240'
 ht-degree: 1%
 
 ---
@@ -17,23 +17,35 @@ ht-degree: 1%
 
 Conoce los conceptos clave que te ayudarán a empezar a usar Firefly Graph.
 
-![Conceptos clave](../assets/concepts.png){align="center"}
-
 ## Nodo
 
 Un nodo realiza un paso en el flujo de trabajo: un nodo, un trabajo. Un nodo puede generar una imagen, aplicar una máscara, cambiar un color o ejecutar cualquier otra acción creativa.
+
+![Nodo](../assets/node.png){align="center"}
+
+## Puerto
+
+Los puntos de conexión de un nodo. Los puertos de salida pasan datos fuera de un nodo; los puertos de entrada reciben los datos que entran. Conectar puertos es la forma en que fluyen los datos a través del flujo de trabajo.
+
+![Puerto](../assets/port.png){align="center"}
+
+## Widget
+
+Controles interactivos en un nodo, como campos de texto, menús desplegables y controles deslizantes, que le permiten configurar sus opciones directamente en el editor.
+
+![Widget](../assets/widget.png){align="center"}
 
 ## Conexión
 
 Una conexión lleva una entrada o salida entre dos nodos. Un gráfico se lee de izquierda a derecha, desde la entrada de origen hasta la salida final.
 
-## Plantilla
+![Conexión](../assets/connection.png){align="center"}
 
-Una plantilla es un gráfico que alguien ya ha creado. A partir de una plantilla, se elimina el lienzo en blanco y se proporciona un punto de partida de trabajo para adaptarse a su propio resumen.
+## Gráfico
 
-## Por qué esto importa antes de construir
+El flujo de trabajo completo que se genera en el editor. Un gráfico se compone de nodos y conexiones dispuestos en el lienzo para producir un resultado final.
 
-El gráfico es flexible por diseño. Esa flexibilidad significa que vale la pena ser específico sobre el resultado y el flujo de trabajo que deseas *antes* de que empieces a crear.
+![Gráfico](../assets/graph.png){align="center"}
 
 ## Siguiente paso
 

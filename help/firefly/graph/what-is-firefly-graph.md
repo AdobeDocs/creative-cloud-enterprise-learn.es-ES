@@ -4,9 +4,9 @@ description: Descubre cómo se compara un gráfico con un único mensaje y por q
 feature: Image Editing, Gen AI
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22055
 hide: true
-source-git-commit: a7178ae1f1b0f3887863103fbf41f17dce0de911
+source-git-commit: 718629560ca93a30b61ef0599dcb978a65e69135
 workflow-type: tm+mt
 source-wordcount: '316'
 ht-degree: 0%
@@ -19,7 +19,7 @@ La mayoría de las herramientas generativas de IA te ofrecen un resultado desde 
 
 Firefly Graph funciona de forma diferente. En lugar de un único mensaje, se crea un **gráfico**: un flujo de trabajo visual paso a paso en el que cada entrada, transformación y salida se capturan juntas. Cambie un paso y vuelva a ejecutarlo: no se reconstruye toda la cadena. Cada paso es un nodo visible que tu equipo puede inspeccionar, ajustar y entregar intacto.
 
-![Captura de pantalla de Visual Graph](../assets/what-is-1.png){align="center"}
+![Captura de pantalla de Visual Graph](../assets/graph.png){align="center"}
 
 En resumen, Graph no sustituye tu proceso creativo: convierte ese proceso en algo que puedes ver, reutilizar y escalar.
 

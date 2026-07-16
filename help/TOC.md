@@ -9,9 +9,9 @@ role: User
 type: Tutorial
 auto-video-transcripts: true
 nudge: true
-source-git-commit: dccb91143eafcea26362e77f119b0bcbfef7d3b6
+source-git-commit: 2228d76351909fe09423f9715f15e644b5d74d12
 workflow-type: tm+mt
-source-wordcount: '787'
+source-wordcount: '790'
 ht-degree: 3%
 
 ---
@@ -135,6 +135,7 @@ ht-degree: 3%
       + {hide-from-toc}[¿Qué es el Gráfico de Firefly?](firefly/graph/what-is-firefly-graph.md)
       + {hide-from-toc}[Conceptos clave de Graph de Firefly](firefly/graph/key-concepts.md)
       + {hide-from-toc}[Crea tu primer gráfico](firefly/graph/create-your-first-graph.md)
+      + {hide-from-toc}[Compartir el gráfico](firefly/graph/share-a-graph.md)
       + {hide-from-toc}[Personalizar una plantilla](firefly/graph/customize-template.md)
       + {hide-from-toc}[Seminario web de introducción al gráfico de Firefly](firefly/graph/introducing-graph.md)
    + Seminarios web {#firefly-webinars}
