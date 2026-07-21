@@ -6,7 +6,7 @@ role: User
 level: Beginner
 jira: KT-21971
 hide: true
-source-git-commit: 179d0655d8daf0a01e1cfa99d5a01a04b0be99e0
+source-git-commit: d0b68972fd6cba10fa2ee6a857a105131dc2b329
 workflow-type: tm+mt
 source-wordcount: '236'
 ht-degree: 0%
@@ -75,14 +75,15 @@ Si ya has usado una herramienta de IA generativa, probablemente estés acostumbr
     <em>Más información sobre las distintas plantillas</em>
     <br>
   </td>
-  <a href="customize-template.md">
-      <img alt="Frasco de maquillaje diferente fondo" src="../assets/graph-5.png" />
-   </a>
-    <div>
-   <a href="customize-template.md"><strong>6. Personalizar una plantilla</strong></a>
-    </div>
-    <em>Crea una plantilla que refleje tu propia idea de inicio</em>
-    <br>
+  <td>
+    <a href="customize-template.md">
+        <img alt="Frasco de maquillaje diferente fondo" src="../assets/graph-5.png" />
+    </a>
+      <div>
+    <a href="customize-template.md"><strong>6. Personalizar una plantilla</strong></a>
+      </div>
+      <em>Crea una plantilla que refleje tu propia idea de inicio</em>
+      <br>
   </td>
   <td>
    <a href="introducing-graph.md">
