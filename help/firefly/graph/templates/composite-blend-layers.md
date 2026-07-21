@@ -29,4 +29,4 @@ equipo de fotografía a una ubicación.
 * **Comercio minorista**: combina un recorte de productos en un fondo de estilo de vida de temporada para un banner de página de inicio.
 * **Viajes**: combina un fondo de destino detrás de una captura de producto para una promoción de marca compartida.
 
-Vuelva a [Introducción al gráfico de Firefly](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Vuelva a [Introducción al gráfico de Firefly](https://experienceleague.adobe.com/es/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

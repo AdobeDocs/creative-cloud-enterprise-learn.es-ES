@@ -30,4 +30,4 @@ Aprenda a utilizar la imagen fija aprobada y un mensaje de movimiento corto. La 
 * **Comercio minorista**: amplía una única foto de campaña para convertirla en un vídeo breve destinado a las redes sociales.
 
 
-Vuelva a [Introducción al gráfico de Firefly](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Vuelva a [Introducción al gráfico de Firefly](https://experienceleague.adobe.com/es/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

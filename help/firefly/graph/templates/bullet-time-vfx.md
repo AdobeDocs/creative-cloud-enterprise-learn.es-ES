@@ -29,4 +29,4 @@ Aprende a alimentar una imagen de producto o sujeto principal para generar una s
 * **Retail**: crea una instantánea de 360 grados de una nueva zapatilla para la página de lanzamiento de un producto.
 * **Automoción**: genera una foto de héroe giratoria de un vehículo para una sala de exposición digital, sin una sesión de estudio de plataforma giratoria.
 
-Vuelva a [Introducción al gráfico de Firefly](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Vuelva a [Introducción al gráfico de Firefly](https://experienceleague.adobe.com/es/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

@@ -29,4 +29,4 @@ Aprende a crear una imagen tipográfica en 3D que incluya la palabra &quot;Vibe&
 * **Bebidas** - Combina un eslogan de temporada con un cálido estilo de vida como telón de fondo para una promoción de verano.
 * **Comercio minorista**: genera un activo de texto y fondo de estilo rápido para un anuncio de venta flash.
 
-Vuelva a [Introducción al gráfico de Firefly](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Vuelva a [Introducción al gráfico de Firefly](https://experienceleague.adobe.com/es/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
