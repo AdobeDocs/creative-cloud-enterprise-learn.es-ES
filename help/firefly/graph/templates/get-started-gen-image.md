@@ -1,21 +1,21 @@
 ---
 title: 'Introducción: generar una imagen'
-description: Aprende a empezar con el gráfico más simple posible
+description: 'Obtenga información sobre cómo crear un gráfico básico: un nodo de solicitud en un nodo de generación en una salida'
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
 jira: KT-
 hide: true
-source-git-commit: 179d0655d8daf0a01e1cfa99d5a01a04b0be99e0
+source-git-commit: bab6c055a00501f11e18fd80af7afcaf555a3694
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '180'
 ht-degree: 1%
 
 ---
 
 # Empezar: generar una imagen
 
-Aprende lo básico con el gráfico más simple posible: un nodo de solicitud en un nodo de generación en un resultado. [Abrir Introducción: genera una plantilla de imagen](https://firefly.adobe.com/graph/edit/id/urn:aaid:sc:VA6C2:f556b557-d31b-4659-b9d1-358ed567c61d).
+Aprende a crear un gráfico básico: un nodo de solicitud en un nodo de generación en un resultado. [Abrir Introducción: genera una plantilla de imagen](https://firefly.adobe.com/graph/edit/id/urn:aaid:sc:VA6C2:f556b557-d31b-4659-b9d1-358ed567c61d).
 
 >[!TIP]
 >
@@ -30,4 +30,4 @@ Aprende lo básico con el gráfico más simple posible: un nodo de solicitud en 
 * **Education**: crea una primera imagen de muestra para mostrar el gráfico a los nuevos integrantes del equipo antes de asignar el trabajo real del proyecto.
 
 
-Vuelva a [Introducción al gráfico de Firefly](https://experienceleague.adobe.com/es/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Vuelva a [Introducción al gráfico de Firefly](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

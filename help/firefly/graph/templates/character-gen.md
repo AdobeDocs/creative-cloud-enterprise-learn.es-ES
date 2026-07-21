@@ -6,16 +6,16 @@ role: User
 level: Beginner
 jira: KT-
 hide: true
-source-git-commit: 179d0655d8daf0a01e1cfa99d5a01a04b0be99e0
+source-git-commit: d9650e6e2864d46a099c228eaff6d33975742f3a
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '170'
 ht-degree: 1%
 
 ---
 
 # Generación coherente de caracteres
 
-Aprenda a generar una referencia de carácter coherente mientras cambia la escena circundante. [Abrir plantilla de generación de caracteres consistente](https://firefly.adobe.com/graph/edit/id/urn:aaid:sc:US:6ab4c3c7-ead2-5fa5-9441-75b7a362ce11).
+Aprende a cargar una imagen de referencia del personaje y luego intercambia la escena o el mensaje de pose para cada nueva toma. [Abrir plantilla de generación de caracteres consistente](https://firefly.adobe.com/graph/edit/id/urn:aaid:sc:US:6ab4c3c7-ead2-5fa5-9441-75b7a362ce11).
 
 >[!TIP]
 >
@@ -29,4 +29,4 @@ Aprenda a generar una referencia de carácter coherente mientras cambia la escen
 * **Comercio minorista**: mantén un personaje de radios de marca en docenas de instantáneas de productos de temporada y publicaciones en redes sociales.
 * **Sector educativo**: Mantén un personaje animado de instructor uniforme en todos los vídeos de las lecciones de un curso.
 
-Vuelva a [Introducción al gráfico de Firefly](https://experienceleague.adobe.com/es/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Vuelva a [Introducción al gráfico de Firefly](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
