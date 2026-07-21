@@ -29,4 +29,4 @@ Aprenda a cambiar el estilo de una imagen de referencia que se puede aplicar a c
 * **Comercio al por menor**: extrae el aspecto aprobado de un director de arte de una fotografía de héroe y aplícalo a toda una fotografía de producto de una temporada.
 * **Bebidas** - Combina el nuevo empaquetado con el estilo de una foto de campaña galardonada.
 
-Vuelva a [Introducción al gráfico de Firefly](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Vuelva a [Introducción al gráfico de Firefly](https://experienceleague.adobe.com/es/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

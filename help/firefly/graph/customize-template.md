@@ -24,4 +24,4 @@ Cada plantilla se incluye con entradas de muestra y un caso de uso genérico. Se
 4. **Cambia una variable y vuelve a ejecutarla**, para que puedas ver exactamente qué controla ese paso.
 5. **Guarde su versión personalizada con su propio nombre.**
 
-Vuelva a [Introducción al gráfico de Firefly](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Vuelva a [Introducción al gráfico de Firefly](https://experienceleague.adobe.com/es/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

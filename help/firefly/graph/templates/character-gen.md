@@ -29,4 +29,4 @@ Aprenda a generar una referencia de carácter coherente mientras cambia la escen
 * **Comercio minorista**: mantén un personaje de radios de marca en docenas de instantáneas de productos de temporada y publicaciones en redes sociales.
 * **Sector educativo**: Mantén un personaje animado de instructor uniforme en todos los vídeos de las lecciones de un curso.
 
-Vuelva a [Introducción al gráfico de Firefly](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Vuelva a [Introducción al gráfico de Firefly](https://experienceleague.adobe.com/es/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
