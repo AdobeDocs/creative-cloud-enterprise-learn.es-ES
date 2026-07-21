@@ -32,4 +32,4 @@ Aprende lo básico con el gráfico más simple posible: un nodo de solicitud en 
 * **Education**: crea una primera imagen de muestra para mostrar el gráfico a los nuevos integrantes del equipo antes de asignar el trabajo real del proyecto.
 
 
-Vuelva a [Introducción al gráfico de Firefly](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Vuelva a [Introducción al gráfico de Firefly](https://experienceleague.adobe.com/es/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
