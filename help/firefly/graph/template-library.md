@@ -25,4 +25,4 @@ Un índice de referencia rápida de plantillas de Gráficos de Firefly, organiza
 * [**Extracción de estilos**](/help/firefly/graph/templates/style-extraction.md): se incluye en una imagen de referencia aprobada. El nodo de estilo extrae su color, luz y tratamiento de textura y, a continuación, aplica ese tratamiento a cualquier imagen nueva que se ejecute en el mismo gráfico.
 * [**Vibraciones del atardecer**](/help/firefly/graph/templates/sunset-vibes.md): aprende a crear una imagen tipográfica en 3D con la palabra &quot;Vibe&quot; en un mensaje de texto. La plantilla gestiona la colocación y el equilibrio de color automáticamente.
 
-Vuelva a [Introducción al gráfico de Firefly](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Vuelva a [Introducción al gráfico de Firefly](https://experienceleague.adobe.com/es/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
