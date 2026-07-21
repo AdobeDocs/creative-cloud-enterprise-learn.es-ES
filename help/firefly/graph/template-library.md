@@ -1,5 +1,5 @@
 ---
-title: Biblioteca de plantillas de gráficos de Firefly
+title: Biblioteca de plantillas
 description: Explora las plantillas de gráficos de Firefly ya creadas que puedes abrir y adaptar a tu propio proyecto
 feature: Image Editing, Gen AI
 role: User
@@ -7,28 +7,20 @@ level: Beginner
 jira: KT-
 hide: true
 hidefromtoc: true
-source-git-commit: 62358737152306c9fbe246b62fc046222a7366c7
+source-git-commit: 179d0655d8daf0a01e1cfa99d5a01a04b0be99e0
 workflow-type: tm+mt
-source-wordcount: '192'
+source-wordcount: '179'
 ht-degree: 0%
 
 ---
 
-# Biblioteca de plantillas de Firefly Graph
+# &#x200B;5. Biblioteca de plantillas
 
-Cada plantilla es un gráfico completo que alguien ya ha creado. Abre uno para ver exactamente cómo funciona, luego hazlo tuyo intercambiando tus propias entradas.
+Un índice de referencia rápida de plantillas de Gráficos de Firefly, organizado por lo que produce o hace cada una. Cada ejemplo es un punto de partida: intercambia tu propia marca, producto e indicaciones antes de usar una plantilla en producción.
 
-| Plantilla | Qué hace | Vínculo |
-|---|---|---|
-| **Generador de efectos visuales en tiempo de viñeta** | Genera secuencias de efectos visuales con viñetas. | Abrir plantilla |
-| **Generador de sistemas de diseño** | Crea activos del sistema de diseño reutilizables. | Abrir plantilla |
-| **Hero&#39;s Journey Story Builder** | Crea secuencias narrativas y estructuras de historias para guiones gráficos o arcos de campañas. | Abrir plantilla |
-| **Trazos de pincel y sombreadores en tiempo real personalizados** | Cree efectos personalizados de trazo de pincel y sombreado en tiempo real. | Abrir plantilla |
-| **Cambio de boceto a 3D** | Convierte un boceto en una vista de entrega en 3D. | Abrir plantilla |
-| **Corrección de color de destino** | Aplica la corrección de color localizada y selectiva de forma no destructiva. | Abrir plantilla |
-| **Retratos coherentes** | Genera un conjunto coherente de retratos en todo un grupo. | Abrir plantilla |
-| **Sesión fotográfica editorial + cambio de ropa** | Produce un aspecto editorial de sesión de fotos con el cambio de prenda en una sesión. | Abrir plantilla |
+## Generación y estilo de imágenes
 
-## Siguiente paso
-
-¿No está seguro de qué plantilla se ajusta a su proyecto? Empieza por los conceptos básicos y vuelve para abrir la coincidencia más cercana.
+* [**Introducción: genera una imagen**](/help/firefly/graph/templates/get-started-gen-image.md): el gráfico más simple posible: un nodo de solicitud en un nodo de generación en un resultado. Utilícelo como la primera plantilla que se abra con cualquier usuario nuevo.
+* [**Generación coherente de caracteres**](/help/firefly/graph/templates/character-gen.md): carga una imagen de referencia del personaje y luego intercambia la escena o el mensaje de pose para cada nueva toma. La referencia de carácter permanece bloqueada mientras cambia la escena circundante.
+* [**Extracción de estilos**](/help/firefly/graph/templates/style-extraction.md): se incluye en una imagen de referencia aprobada. El nodo de estilo extrae su color, luz y tratamiento de textura y, a continuación, aplica ese tratamiento a cualquier imagen nueva que se ejecute en el mismo gráfico.
+* [**Sunset Vibes**](/help/firefly/graph/templates/sunset-vibes.md): aprende a crear una imagen tipográfica en 3D con la palabra &quot;Vibe&quot; en un mensaje de texto. La plantilla gestiona la colocación y el equilibrio de color automáticamente.
