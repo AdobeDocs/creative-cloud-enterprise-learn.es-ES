@@ -4,9 +4,9 @@ description: Aprenda a generar una referencia de carácter coherente mientras ca
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22097
 hide: true
-source-git-commit: d9650e6e2864d46a099c228eaff6d33975742f3a
+source-git-commit: 1b6b9793b2fa33365ccf6fb0f049632a67f09cae
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 1%
@@ -29,4 +29,4 @@ Aprende a cargar una imagen de referencia del personaje y luego intercambia la e
 * **Comercio minorista**: mantén un personaje de radios de marca en docenas de instantáneas de productos de temporada y publicaciones en redes sociales.
 * **Sector educativo**: Mantén un personaje animado de instructor uniforme en todos los vídeos de las lecciones de un curso.
 
-Vuelva a [Introducción al gráfico de Firefly](https://experienceleague.adobe.com/es/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Vuelva a [Introducción al gráfico de Firefly](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

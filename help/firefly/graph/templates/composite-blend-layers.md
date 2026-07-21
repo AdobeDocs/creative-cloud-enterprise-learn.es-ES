@@ -3,9 +3,9 @@ title: Capas compuestas y de fusión
 description: Aprende a apilar un recorte de producto y una escena de fondo como entradas de capa independientes
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22101
 hide: true
-source-git-commit: d9650e6e2864d46a099c228eaff6d33975742f3a
+source-git-commit: 1b6b9793b2fa33365ccf6fb0f049632a67f09cae
 workflow-type: tm+mt
 source-wordcount: '179'
 ht-degree: 1%
@@ -29,4 +29,4 @@ equipo de fotografía a una ubicación.
 * **Comercio minorista**: combina un recorte de productos en un fondo de estilo de vida de temporada para un banner de página de inicio.
 * **Viajes**: combina un fondo de destino detrás de una captura de producto para una promoción de marca compartida.
 
-Vuelva a [Introducción al gráfico de Firefly](https://experienceleague.adobe.com/es/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Vuelva a [Introducción al gráfico de Firefly](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

@@ -4,9 +4,9 @@ description: Aprende a crear una imagen tipográfica en 3D que incluya la palabr
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22099
 hide: true
-source-git-commit: 179d0655d8daf0a01e1cfa99d5a01a04b0be99e0
+source-git-commit: 1b6b9793b2fa33365ccf6fb0f049632a67f09cae
 workflow-type: tm+mt
 source-wordcount: '159'
 ht-degree: 1%
@@ -29,4 +29,4 @@ Aprende a crear una imagen tipográfica en 3D que incluya la palabra &quot;Vibe&
 * **Bebidas** - Combina un eslogan de temporada con un cálido estilo de vida como telón de fondo para una promoción de verano.
 * **Comercio minorista**: genera un activo de texto y fondo de estilo rápido para un anuncio de venta flash.
 
-Vuelva a [Introducción al gráfico de Firefly](https://experienceleague.adobe.com/es/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Vuelva a [Introducción al gráfico de Firefly](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

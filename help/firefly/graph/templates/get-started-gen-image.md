@@ -4,9 +4,9 @@ description: 'Obtenga información sobre cómo crear un gráfico básico: un nod
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22096
 hide: true
-source-git-commit: bab6c055a00501f11e18fd80af7afcaf555a3694
+source-git-commit: 1b6b9793b2fa33365ccf6fb0f049632a67f09cae
 workflow-type: tm+mt
 source-wordcount: '180'
 ht-degree: 1%
@@ -30,4 +30,4 @@ Aprende a crear un gráfico básico: un nodo de solicitud en un nodo de generaci
 * **Education**: crea una primera imagen de muestra para mostrar el gráfico a los nuevos integrantes del equipo antes de asignar el trabajo real del proyecto.
 
 
-Vuelva a [Introducción al gráfico de Firefly](https://experienceleague.adobe.com/es/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Vuelva a [Introducción al gráfico de Firefly](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

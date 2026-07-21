@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-
 hide: true
 hidefromtoc: true
-source-git-commit: d9650e6e2864d46a099c228eaff6d33975742f3a
+source-git-commit: 1b6b9793b2fa33365ccf6fb0f049632a67f09cae
 workflow-type: tm+mt
-source-wordcount: '374'
+source-wordcount: '390'
 ht-degree: 0%
 
 ---
@@ -20,20 +20,20 @@ Un índice de referencia rápida de plantillas de Gráficos de Firefly, organiza
 
 ## Generación y estilo de imágenes
 
-* [**Introducción: generar una imagen**](/help/firefly/graph/templates/get-started-gen-image.md): aprende a crear un gráfico básico: un nodo de solicitud en un nodo de generación en un resultado. Utilícelo como la primera plantilla que se abra con cualquier usuario nuevo.
-* [**Generación coherente de caracteres**](/help/firefly/graph/templates/character-gen.md): aprende a cargar una imagen de referencia del personaje y, a continuación, intercambia la escena o el mensaje de pose para cada nueva toma. La referencia de carácter permanece bloqueada mientras cambia la escena circundante.
-* [**Extracción de estilos**](/help/firefly/graph/templates/style-extraction.md): aprende a incluir en una imagen de referencia para extraer su color, luz y tratamiento de textura. A continuación, puede aplicar ese tratamiento a cualquier imagen nueva ejecutada a través del mismo gráfico.
-* [**Vibraciones de ocaso**](/help/firefly/graph/templates/sunset-vibes.md): aprende a crear una imagen tipográfica en 3D a partir de un mensaje de texto. La plantilla gestiona la colocación y el equilibrio de color automáticamente.
+* [**Introducción: generar una imagen**](/help/firefly/graph/templates/get-started-gen-image.md): esta plantilla es un gráfico básico: un nodo de solicitud en un nodo de generación en un resultado. Utilícelo como la primera plantilla que se abra con cualquier usuario nuevo.
+* [**Generación coherente de caracteres**](/help/firefly/graph/templates/character-gen.md): en la plantilla de gráficos se carga una imagen de referencia de un personaje y, a continuación, se intercambia la escena o el mensaje de pose para cada nueva toma. La referencia de carácter permanece bloqueada mientras cambia la escena circundante.
+* [**Extracción de estilo**](/help/firefly/graph/templates/style-extraction.md): en esta plantilla de gráfico se incluye una imagen de referencia para extraer su color, luz y tratamiento de textura. A continuación, puede aplicar ese tratamiento a cualquier imagen nueva ejecutada a través del mismo gráfico.
+* [**Vibraciones de ocaso**](/help/firefly/graph/templates/sunset-vibes.md): en esta plantilla de gráfico, puedes crear una imagen tipográfica en 3D desde un mensaje de texto. La plantilla gestiona la colocación y el equilibrio de color automáticamente.
 
 ## Segmentación y composición
 
-* [**Introducción: segmenta una imagen**](/help/firefly/graph/templates/get-started-segment-image.md): aprende a cargar cualquier imagen de origen y a ejecutar el nodo de segmentación para aislar al sujeto de su fondo. Emparejar con un nodo de reemplazo de fondo para un recorte limpio.
-* [**Componer y fusionar capas**](/help/firefly/graph/templates/composite-blend-layers.md): aprende a apilar un recorte de producto y una escena de fondo como entradas de capa independientes. Ajuste el modo de fusión y los nodos de iluminación hasta que la composición se muestre como una toma.
-* [**Corrección selectiva de color**](/help/firefly/graph/templates/selective-color-correction.md): aprenda a enmascarar una región específica que necesita corrección y a establecer el color de destino solo en ese nodo. El resto de la imagen pasa intacta por el gráfico.
+* [**Introducción: segmenta una imagen**](/help/firefly/graph/templates/get-started-segment-image.md): en esta plantilla de gráficos, carga cualquier imagen de origen y ejecuta el nodo de segmentación para aislar al sujeto de su fondo. Emparejar con un nodo de reemplazo de fondo para un recorte limpio.
+* [**Componer y fusionar capas**](/help/firefly/graph/templates/composite-blend-layers.md): en esta plantilla de gráfico, puedes apilar un recorte de producto y una escena de fondo como entradas de capa independientes. Ajuste el modo de fusión y los nodos de iluminación hasta que la composición se muestre como una toma.
+* [**Corrección selectiva de color**](/help/firefly/graph/templates/selective-color-correction.md): en esta plantilla de gráfico se enmascara una región específica que necesita corrección y se establece el color de destino solo en ese nodo. El resto de la imagen pasa intacta por el gráfico.
 
 ## Vídeo y movimiento
 
-* [**Introducción: generación de vídeo**](/help/firefly/graph/templates/get-started-video-gen.md): aprende a incorporar la imagen fija aprobada y un mensaje breve con movimiento. La plantilla genera un corte de vídeo creado a partir de esa misma ilustración clave en lugar de una nueva toma.
-* [**Efectos de tiempo de viñeta**](/help/firefly/graph/templates/bullet-time-vfx.md): aprende a alimentar una imagen de un producto principal o de un sujeto para generar una secuencia giratoria de ángulos a su alrededor y, a continuación, une automáticamente el barrido de fotogramas congelados.
+* [**Introducción: generación de vídeo**](/help/firefly/graph/templates/get-started-video-gen.md): en esta plantilla de gráfico se incluye una ilustración clave fija aprobada y un mensaje breve de movimiento. La plantilla genera un corte de vídeo creado a partir de esa misma ilustración clave en lugar de una nueva toma.
+* [**Efectos de tiempo de viñeta**](/help/firefly/graph/templates/bullet-time-vfx.md): en esta plantilla de gráfico, puedes alimentar una imagen de sujeto o producto principal para generar una secuencia de ángulos giratorios a su alrededor y, a continuación, unir el barrido de fotogramas congelados automáticamente.
 
-Vuelva a [Introducción al gráfico de Firefly](https://experienceleague.adobe.com/es/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Vuelva a [Introducción al gráfico de Firefly](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

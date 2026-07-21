@@ -4,9 +4,9 @@ description: Aprenda a utilizar la imagen fija aprobada y un mensaje de movimien
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22103
 hide: true
-source-git-commit: d9650e6e2864d46a099c228eaff6d33975742f3a
+source-git-commit: 1b6b9793b2fa33365ccf6fb0f049632a67f09cae
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 1%
@@ -30,4 +30,4 @@ Aprenda a utilizar la imagen fija aprobada y un mensaje de movimiento corto. La 
 * **Comercio minorista**: amplía una única foto de campaña para convertirla en un vídeo breve destinado a las redes sociales.
 
 
-Vuelva a [Introducción al gráfico de Firefly](https://experienceleague.adobe.com/es/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Vuelva a [Introducción al gráfico de Firefly](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
