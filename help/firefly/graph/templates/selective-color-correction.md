@@ -29,4 +29,4 @@ Aprenda a enmascarar una región específica que necesita corrección y a establ
 * **Ventas al por menor**: estandariza el color del producto en un conjunto de fotografías que se tomó con una iluminación incoherente.
 * **Finanzas**: corrige un color de marca aislado en un lote de fotografías de marketing antes de publicarlas.
 
-Vuelva a [Introducción al gráfico de Firefly](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Vuelva a [Introducción al gráfico de Firefly](https://experienceleague.adobe.com/es/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

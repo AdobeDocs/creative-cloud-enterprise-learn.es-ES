@@ -36,4 +36,4 @@ Un índice de referencia rápida de plantillas de Gráficos de Firefly, organiza
 * [**Introducción: generación de vídeo**](/help/firefly/graph/templates/get-started-video-gen.md): aprende a incorporar la imagen fija aprobada y un mensaje breve con movimiento. La plantilla genera un corte de vídeo creado a partir de esa misma ilustración clave en lugar de una nueva toma.
 * [**Efectos de tiempo de viñeta**](/help/firefly/graph/templates/bullet-time-vfx.md): aprende a alimentar una imagen de un producto principal o de un sujeto para generar una secuencia giratoria de ángulos a su alrededor y, a continuación, une automáticamente el barrido de fotogramas congelados.
 
-Vuelva a [Introducción al gráfico de Firefly](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Vuelva a [Introducción al gráfico de Firefly](https://experienceleague.adobe.com/es/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
