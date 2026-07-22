@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-
 hide: true
 hidefromtoc: true
-source-git-commit: 5a555416c5f45ca92de7df48e4b7cf8418102269
+source-git-commit: facfbfbe45a25cbaf430446a326adb320d4e6968
 workflow-type: tm+mt
-source-wordcount: '610'
+source-wordcount: '874'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Un índice de referencia rápida de plantillas de Gráficos de Firefly, organiza
 ## Generación y estilo de imágenes
 
 * [**Introducción: generar una imagen**](/help/firefly/graph/templates/get-started-gen-image.md): esta plantilla es un gráfico básico: un nodo de solicitud en un nodo de generación en un resultado. Utilícelo como la primera plantilla que se abra con cualquier usuario nuevo.
-* [**Generación coherente de caracteres**](/help/firefly/graph/templates/character-gen.md): en la plantilla de gráficos se carga una imagen de referencia de un personaje y, a continuación, se intercambia la escena o el mensaje de pose para cada nueva toma. La referencia de carácter permanece bloqueada mientras cambia la escena circundante.
+* [**Generación coherente de caracteres**](/help/firefly/graph/templates/character-gen.md): en esta plantilla de gráfico se carga una imagen de referencia de un personaje y, a continuación, se intercambia la escena o el mensaje de pose para cada nueva toma. La referencia de carácter permanece bloqueada mientras cambia la escena circundante.
 * [**Extracción de estilo**](/help/firefly/graph/templates/style-extraction.md): en esta plantilla de gráfico se incluye una imagen de referencia para extraer su color, luz y tratamiento de textura. A continuación, puede aplicar ese tratamiento a cualquier imagen nueva ejecutada a través del mismo gráfico.
 * [**Vibraciones de ocaso**](/help/firefly/graph/templates/sunset-vibes.md): en esta plantilla de gráfico, puedes crear una imagen tipográfica en 3D desde un mensaje de texto. La plantilla gestiona la colocación y el equilibrio de color automáticamente.
 
@@ -48,4 +48,17 @@ Un índice de referencia rápida de plantillas de Gráficos de Firefly, organiza
 * [**Diseño de juguetes de vinilo**](/help/firefly/graph/templates/vinyl-toy-design.md): en esta plantilla de gráfico, introduce una referencia de personaje o mascota y renderízala en un estilo de juguete de vinilo estilizado. Hay ángulos de respuesta para una plataforma de revisión de licencias o productos.
 * [**Cambio de boceto a 3D**](/help/firefly/graph/templates/sketch-to-3d.md): en esta plantilla de gráfico conviertes un boceto en un personaje 3D. El gráfico genera un cambio de rumbo en 3D a partir de él, listo para una revisión de diseño interno antes de cualquier prototipo físico.
 
-Vuelva a [Introducción al gráfico de Firefly](https://experienceleague.adobe.com/es/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+## Maquetas de productos y marcas
+
+* [**Visualización de marca**](/help/firefly/graph/templates/branding-visualization.md): en esta plantilla de gráfico, aprende a visualizar las escenas de los productos. Incorpora directrices de marca para un logotipo y una paleta de colores, y el gráfico genera tanto ilustraciones clave estáticas como una pasada de movimiento corto en una sola ejecución, para que ambos formatos permanezcan visualmente alineados.
+* [**Boceto de producto de marca**](/help/firefly/graph/templates/brand-product-mockup.md): en esta plantilla de gráfico, aprende a visualizar el producto en diferentes escenas. Se coloca un renderizado de producto o una foto en el nodo de boceto y el gráfico lo coloca dentro de una escena totalmente de marca, con la iluminación y la sombra coincidentes con esa escena automáticamente.
+* [**Sesión de fotos editorial**](/help/firefly/graph/templates/editorial-photoshoot.md): en esta plantilla de gráfico, carga una referencia de modelo e intercambia la entrada de la prenda por cada nuevo aspecto. Los nodos de pose e iluminación permanecen bloqueados en todo el conjunto para una sensación editorial coherente.
+* [**Estudio fotográfico**](/help/firefly/graph/templates/photography-studio.md): en esta plantilla de gráfico, colocas un renderizado de producto en el fondo del estudio y ajustas la iluminación hasta que el resultado se vea como una captura de estudio real.
+* [**Aplicar pegatina a las superficies**](/help/firefly/graph/templates/decal-to-surfaces.md): en esta plantilla de gráfico se carga el boceto de producto base y el activo de pegatina o logotipo como entradas independientes. La plantilla envuelve la pegatina en la geometría de superficie para que siga los contornos correctamente.
+
+## Operaciones por lotes y coherencia
+
+* [**Generador de sistemas de diseño**](/help/firefly/graph/templates/design-system-generator.md): en esta plantilla de gráfico se genera un sistema de diseño basado en una captura de pantalla del sitio web. El gráfico produce un conjunto coincidente de iconos, patrones y componentes de diseño en una sola ejecución por lotes.
+* [**Generación de primeros planos**](/help/firefly/graph/templates/headshots-generation.md): en esta plantilla de gráficos armonizas un lote de primeros planos corporativos. Carga las fotos de origen, una por persona, y el gráfico normaliza la iluminación, el fondo y el recorte en todo el conjunto de una sola ejecución.
+
+Vuelva a [Introducción al gráfico de Firefly](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
