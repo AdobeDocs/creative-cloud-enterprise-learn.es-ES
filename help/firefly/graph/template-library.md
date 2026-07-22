@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-
 hide: true
 hidefromtoc: true
-source-git-commit: facfbfbe45a25cbaf430446a326adb320d4e6968
+source-git-commit: af06d76d4cad7ccf7adeb845d71525480b68ea4f
 workflow-type: tm+mt
-source-wordcount: '874'
+source-wordcount: '878'
 ht-degree: 0%
 
 ---
@@ -50,7 +50,7 @@ Un índice de referencia rápida de plantillas de Gráficos de Firefly, organiza
 
 ## Maquetas de productos y marcas
 
-* [**Visualización de marca**](/help/firefly/graph/templates/branding-visualization.md): en esta plantilla de gráfico, aprende a visualizar las escenas de los productos. Incorpora directrices de marca para un logotipo y una paleta de colores, y el gráfico genera tanto ilustraciones clave estáticas como una pasada de movimiento corto en una sola ejecución, para que ambos formatos permanezcan visualmente alineados.
+* [**Visualización de marca**](/help/firefly/graph/templates/branding-visualization.md): en esta plantilla de gráfico, aprende a visualizar el logotipo o la marca en las escenas de los productos. Incorpora directrices de marca para un logotipo y una paleta de colores, y el gráfico genera tanto ilustraciones clave estáticas como una pasada de movimiento corto en una sola ejecución, para que ambos formatos permanezcan visualmente alineados.
 * [**Boceto de producto de marca**](/help/firefly/graph/templates/brand-product-mockup.md): en esta plantilla de gráfico, aprende a visualizar el producto en diferentes escenas. Se coloca un renderizado de producto o una foto en el nodo de boceto y el gráfico lo coloca dentro de una escena totalmente de marca, con la iluminación y la sombra coincidentes con esa escena automáticamente.
 * [**Sesión de fotos editorial**](/help/firefly/graph/templates/editorial-photoshoot.md): en esta plantilla de gráfico, carga una referencia de modelo e intercambia la entrada de la prenda por cada nuevo aspecto. Los nodos de pose e iluminación permanecen bloqueados en todo el conjunto para una sensación editorial coherente.
 * [**Estudio fotográfico**](/help/firefly/graph/templates/photography-studio.md): en esta plantilla de gráfico, colocas un renderizado de producto en el fondo del estudio y ajustas la iluminación hasta que el resultado se vea como una captura de estudio real.
@@ -61,4 +61,4 @@ Un índice de referencia rápida de plantillas de Gráficos de Firefly, organiza
 * [**Generador de sistemas de diseño**](/help/firefly/graph/templates/design-system-generator.md): en esta plantilla de gráfico se genera un sistema de diseño basado en una captura de pantalla del sitio web. El gráfico produce un conjunto coincidente de iconos, patrones y componentes de diseño en una sola ejecución por lotes.
 * [**Generación de primeros planos**](/help/firefly/graph/templates/headshots-generation.md): en esta plantilla de gráficos armonizas un lote de primeros planos corporativos. Carga las fotos de origen, una por persona, y el gráfico normaliza la iluminación, el fondo y el recorte en todo el conjunto de una sola ejecución.
 
-Vuelva a [Introducción al gráfico de Firefly](https://experienceleague.adobe.com/es/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Vuelva a [Introducción al gráfico de Firefly](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
