@@ -29,4 +29,4 @@ Aprenda a cargar cualquier imagen de origen y a ejecutar el nodo de segmentació
 * **Ventas al por menor**: aísla una prenda de una foto de estilo de vida para crear una imagen de catálogo de solo producto limpia.
 * **Automoción**: corta un vehículo de una sesión de fotos en el lugar para colocarlo en un fondo de estudio para su impresión.
 
-Vuelva a [Introducción al gráfico de Firefly](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Vuelva a [Introducción al gráfico de Firefly](https://experienceleague.adobe.com/es/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

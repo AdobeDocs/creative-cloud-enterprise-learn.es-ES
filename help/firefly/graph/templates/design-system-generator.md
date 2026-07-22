@@ -29,4 +29,4 @@ Aprende a generar un sistema de diseño basado en una captura de pantalla de un 
 * **Finanzas**: crea un icono y un sistema de colores coherentes para el nuevo diseño de la aplicación antes de que comience el desarrollo.
 * **Comunicaciones y telecomunicaciones**: genera un idioma visual coincidente para un nuevo nivel de plan en la señalización web y en la tienda.
 
-Vuelva a [Introducción al gráfico de Firefly](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Vuelva a [Introducción al gráfico de Firefly](https://experienceleague.adobe.com/es/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

@@ -29,4 +29,4 @@ Aprende a visualizar tu producto en escenas de diferencia. Suelte una foto o un 
 * **Bebidas** - Previsualice un nuevo diseño de botella dentro de una escena de venta al por menor totalmente de marca antes de la producción.
 * **Tecnología**: diseña un nuevo dispositivo dentro de una escena de una tienda comercial para una plataforma de lanzamiento.
 
-Vuelva a [Introducción al gráfico de Firefly](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Vuelva a [Introducción al gráfico de Firefly](https://experienceleague.adobe.com/es/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

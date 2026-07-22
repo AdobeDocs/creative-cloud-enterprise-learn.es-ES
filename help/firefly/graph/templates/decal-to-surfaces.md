@@ -29,4 +29,4 @@ Aprende a visualizar pegatinas o logotipos en bocetos de productos. La plantilla
 * **Automoción**: Obtén una vista previa de un nuevo diseño de librea o calcomanía en un modelo de vehículo antes de la producción de la envoltura.
 * **Comercio minorista**: prueba la colocación de un nuevo logotipo en una línea completa de bocetos de prendas de vestir antes de la aprobación de impresión.
 
-Vuelva a [Introducción al gráfico de Firefly](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Vuelva a [Introducción al gráfico de Firefly](https://experienceleague.adobe.com/es/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

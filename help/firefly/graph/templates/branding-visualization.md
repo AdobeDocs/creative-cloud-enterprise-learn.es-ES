@@ -29,4 +29,4 @@ Aprende a visualizar tu logotipo en escenas de productos. Incorpora directrices 
 * **Bebidas**: prueba tres indicaciones para el logotipo y la paleta de colores como arte clave de aspecto acabado antes de elegir una para pasar a la producción.
 * **Finanzas**: obtén una vista previa de una nueva tarjeta o identidad de aplicación como elementos visuales de marca antes de que llegue a una revisión de diseño.
 
-Vuelva a [Introducción al gráfico de Firefly](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Vuelva a [Introducción al gráfico de Firefly](https://experienceleague.adobe.com/es/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

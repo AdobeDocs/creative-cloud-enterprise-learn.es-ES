@@ -29,4 +29,4 @@ Aprende a introducir una referencia de modelo e intercambiar la entrada de prend
 * **Belleza**: crea una serie editorial coherente en varios aspectos del producto utilizando una referencia de modelo.
 * **Al aire libre**: genera un conjunto editorial completo a través de una nueva alineación de colores de chaqueta a partir de una sola toma de modelo.
 
-Vuelva a [Introducción al gráfico de Firefly](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Vuelva a [Introducción al gráfico de Firefly](https://experienceleague.adobe.com/es/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

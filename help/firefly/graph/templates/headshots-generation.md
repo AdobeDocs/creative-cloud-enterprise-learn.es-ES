@@ -30,4 +30,4 @@ y recorta todo el conjunto de una sola ejecución. [Abrir plantilla de generaci�
 * **Finanzas**: normaliza los retratos de un equipo de asesores para una página de reunión con el equipo.
 * **Salud**: estandariza los retratos del personal en varias ubicaciones de clínicas para unificar el aspecto de tu sitio web.
 
-Vuelva a [Introducción al gráfico de Firefly](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Vuelva a [Introducción al gráfico de Firefly](https://experienceleague.adobe.com/es/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

@@ -29,4 +29,4 @@ Aprende a colocar el renderizado de un producto en el nodo de fondo del estudio 
 * **Tecnología**: crea renderizaciones con calidad de estudio de un nuevo dispositivo para una página de inicio antes de que las unidades estén disponibles para fotografiar.
 * **Retail**: haz fotos de estudio uniformes en toda la línea de productos sin reservar sesiones de fotografía individuales.
 
-Vuelva a [Introducción al gráfico de Firefly](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Vuelva a [Introducción al gráfico de Firefly](https://experienceleague.adobe.com/es/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
