@@ -6,7 +6,7 @@ role: User
 level: Beginner
 jira: KT-
 hide: true
-source-git-commit: 5a555416c5f45ca92de7df48e4b7cf8418102269
+source-git-commit: b19c93a5c0f7b0009a17ae97eb35f6738cf21630
 workflow-type: tm+mt
 source-wordcount: '183'
 ht-degree: 1%
@@ -21,12 +21,12 @@ Aprenda a crear un estilo animado 3D de una ilustración. La plantilla genera un
 >
 >**Antes de comenzar**: para obtener los mejores resultados, personaliza esta plantilla para adaptarla a tu propia marca, producto y flujo de trabajo. Intercambie las imágenes de referencia, los mensajes y la copia antes de utilizar cualquier salida.
 
-![Generación de modelos de caracteres](../../assets/character-model-generation.png){align="center"}
-
 [!BADGE Casos prácticos]{type=Informative tooltip="Casos prácticos"}
 
 * **Outdoors**: crea un modelo en 3D de un personaje de la mascota de rastro para usarlo en presentaciones de empaquetado y vídeos, a partir de un resumen de un solo carácter aprobado.
 * **Tecnología**: genera un modelo de carácter 3D base a partir de un informe escrito, listo para entregarlo a un modelador para su limpieza.
 * **Sector educativo**: Crea un modelo de caracteres de instructor en 3D para usarlo en las lecciones de vídeo de un curso.
 
-Vuelva a [Introducción al gráfico de Firefly](https://experienceleague.adobe.com/es/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+![Generación de modelos de caracteres](../../assets/character-model-generation.png){align="center"}
+
+Vuelva a [Introducción al gráfico de Firefly](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

@@ -6,7 +6,7 @@ role: User
 level: Beginner
 jira: KT-
 hide: true
-source-git-commit: facfbfbe45a25cbaf430446a326adb320d4e6968
+source-git-commit: b19c93a5c0f7b0009a17ae97eb35f6738cf21630
 workflow-type: tm+mt
 source-wordcount: '178'
 ht-degree: 1%
@@ -21,12 +21,12 @@ Aprende a visualizar tu producto en escenas de diferencia. Suelte una foto o un 
 >
 >**Antes de comenzar**: para obtener los mejores resultados, personaliza esta plantilla para adaptarla a tu propia marca, producto y flujo de trabajo. Intercambie las imágenes de referencia, los mensajes y la copia antes de utilizar cualquier salida.
 
-![Maqueta de producto de promoción de marca](../../assets/brand-mockup.png){align="center"}
-
 [!BADGE Casos prácticos]{type=Informative tooltip="Casos prácticos"}
 
 * **Comercio al por menor**: diseña una nueva línea de productos de temporada en una escena de exposición de marca en la tienda, antes de que exista la exposición física.
 * **Bebidas** - Previsualice un nuevo diseño de botella dentro de una escena de venta al por menor totalmente de marca antes de la producción.
 * **Tecnología**: diseña un nuevo dispositivo dentro de una escena de una tienda comercial para una plataforma de lanzamiento.
 
-Vuelva a [Introducción al gráfico de Firefly](https://experienceleague.adobe.com/es/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+![Maqueta de producto de promoción de marca](../../assets/brand-mockup.png){align="center"}
+
+Vuelva a [Introducción al gráfico de Firefly](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

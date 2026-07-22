@@ -6,7 +6,7 @@ role: User
 level: Beginner
 jira: KT-22099
 hide: true
-source-git-commit: 1b6b9793b2fa33365ccf6fb0f049632a67f09cae
+source-git-commit: b19c93a5c0f7b0009a17ae97eb35f6738cf21630
 workflow-type: tm+mt
 source-wordcount: '159'
 ht-degree: 1%
@@ -21,12 +21,13 @@ Aprende a crear una imagen tipográfica en 3D que incluya la palabra &quot;Vibe&
 >
 >**Antes de comenzar**: para obtener los mejores resultados, personaliza esta plantilla para adaptarla a tu propia marca, producto y flujo de trabajo. Intercambie las imágenes de referencia, los mensajes y la copia antes de utilizar cualquier salida.
 
-![Vibraciones del atardecer](../../assets/sunset-vibes.png){align="center"}
-
 [!BADGE Casos prácticos]{type=Informative tooltip="Casos prácticos"}
 
 * **Viajar**: Superpón un nuevo lema de destino sobre un fondo estilizado de puesta de sol para un carrusel social publicado, creado y probado en el transcurso de una tarde.
 * **Bebidas** - Combina un eslogan de temporada con un cálido estilo de vida como telón de fondo para una promoción de verano.
 * **Comercio minorista**: genera un activo de texto y fondo de estilo rápido para un anuncio de venta flash.
 
-Vuelva a [Introducción al gráfico de Firefly](https://experienceleague.adobe.com/es/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+![Vibraciones del atardecer](../../assets/sunset-vibes.png){align="center"}
+
+
+Vuelva a [Introducción al gráfico de Firefly](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

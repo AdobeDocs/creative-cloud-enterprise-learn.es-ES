@@ -6,7 +6,7 @@ role: User
 level: Beginner
 jira: KT-
 hide: true
-source-git-commit: 5a555416c5f45ca92de7df48e4b7cf8418102269
+source-git-commit: b19c93a5c0f7b0009a17ae97eb35f6738cf21630
 workflow-type: tm+mt
 source-wordcount: '179'
 ht-degree: 1%
@@ -21,12 +21,12 @@ Aprende a introducir una referencia de personaje o mascota y a representarla en 
 >
 >**Antes de comenzar**: para obtener los mejores resultados, personaliza esta plantilla para adaptarla a tu propia marca, producto y flujo de trabajo. Intercambie las imágenes de referencia, los mensajes y la copia antes de utilizar cualquier salida.
 
-![Diseño de juguetes de vinilo](../../assets/vinyl-toy-design.png){align="center"}
-
 [!BADGE Casos prácticos]{type=Informative tooltip="Casos prácticos"}
 
 * **Comercio minorista**: diseña un conjunto de edición limitada vinculado al lanzamiento de un programa de fidelidad, revisado como concepto antes de comprometerte a una ejecución de fabricación.
 * **Bebidas**: haz una maqueta de una mascota de marca que se puede coleccionar y deja caer la mercancía de manera limitada.
 * **Entretenimiento**: vista previa de un personaje en forma de juguete de vinilo para una presentación de licencias.
 
-Vuelva a [Introducción al gráfico de Firefly](https://experienceleague.adobe.com/es/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+![Diseño de juguetes de vinilo](../../assets/vinyl-toy-design.png){align="center"}
+
+Vuelva a [Introducción al gráfico de Firefly](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

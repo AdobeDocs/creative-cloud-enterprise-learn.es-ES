@@ -6,7 +6,7 @@ role: User
 level: Beginner
 jira: KT-22103
 hide: true
-source-git-commit: 1b6b9793b2fa33365ccf6fb0f049632a67f09cae
+source-git-commit: b19c93a5c0f7b0009a17ae97eb35f6738cf21630
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 1%
@@ -21,13 +21,12 @@ Aprenda a utilizar la imagen fija aprobada y un mensaje de movimiento corto. La 
 >
 >**Antes de comenzar**: para obtener los mejores resultados, personaliza esta plantilla para adaptarla a tu propia marca, producto y flujo de trabajo. Intercambie las imágenes de referencia, los mensajes y la copia antes de utilizar cualquier salida.
 
-![Generación de vídeo](../../assets/video-generation.png){align="center"}
-
 [!BADGE Casos prácticos]{type=Informative tooltip="Casos prácticos"}
 
 * **Finanzas** - Convierte el arte clave de una campaña impresa aprobada en un video corto para redes sociales de pago, sin programar una sesión de video por separado.
 * **Bebidas**: Anima la instantánea de un producto principal en un breve avance para el día de lanzamiento.
 * **Comercio minorista**: amplía una única foto de campaña para convertirla en un vídeo breve destinado a las redes sociales.
 
+![Generación de vídeo](../../assets/video-generation.png){align="center"}
 
-Vuelva a [Introducción al gráfico de Firefly](https://experienceleague.adobe.com/es/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Vuelva a [Introducción al gráfico de Firefly](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

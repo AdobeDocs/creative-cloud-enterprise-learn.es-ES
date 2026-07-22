@@ -6,7 +6,7 @@ role: User
 level: Beginner
 jira: KT-
 hide: true
-source-git-commit: af06d76d4cad7ccf7adeb845d71525480b68ea4f
+source-git-commit: b19c93a5c0f7b0009a17ae97eb35f6738cf21630
 workflow-type: tm+mt
 source-wordcount: '192'
 ht-degree: 1%
@@ -21,12 +21,12 @@ Aprende a visualizar tu logotipo o marca en escenas de productos. Incorpora dire
 >
 >**Antes de comenzar**: para obtener los mejores resultados, personaliza esta plantilla para adaptarla a tu propia marca, producto y flujo de trabajo. Intercambie las imágenes de referencia, los mensajes y la copia antes de utilizar cualquier salida.
 
-![Visualización de marca](../../assets/branding-visualization.png){align="center"}
-
 [!BADGE Casos prácticos]{type=Informative tooltip="Casos prácticos"}
 
 * **Tecnología**: Visualiza una nueva submarca de producto como arte clave y teaser de lanzamiento antes de dedicar el presupuesto de diseño o medios a la producción completa.
 * **Bebidas**: prueba tres indicaciones para el logotipo y la paleta de colores como arte clave de aspecto acabado antes de elegir una para pasar a la producción.
 * **Finanzas**: obtén una vista previa de una nueva tarjeta o identidad de aplicación como elementos visuales de marca antes de que llegue a una revisión de diseño.
 
-Vuelva a [Introducción al gráfico de Firefly](https://experienceleague.adobe.com/es/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+![Visualización de marca](../../assets/branding-visualization.png){align="center"}
+
+Vuelva a [Introducción al gráfico de Firefly](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

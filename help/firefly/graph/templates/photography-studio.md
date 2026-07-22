@@ -6,7 +6,7 @@ role: User
 level: Beginner
 jira: KT-
 hide: true
-source-git-commit: facfbfbe45a25cbaf430446a326adb320d4e6968
+source-git-commit: b19c93a5c0f7b0009a17ae97eb35f6738cf21630
 workflow-type: tm+mt
 source-wordcount: '180'
 ht-degree: 1%
@@ -21,12 +21,12 @@ Aprende a colocar el renderizado de un producto en el nodo de fondo del estudio 
 >
 >**Antes de comenzar**: para obtener los mejores resultados, personaliza esta plantilla para adaptarla a tu propia marca, producto y flujo de trabajo. Intercambie las imágenes de referencia, los mensajes y la copia antes de utilizar cualquier salida.
 
-![Estudio fotográfico](../../assets/photography-studio.png){align="center"}
-
 [!BADGE Casos prácticos]{type=Informative tooltip="Casos prácticos"}
 
 * **Bebidas**: genera fotos limpias de productos de estudio de un nuevo SKU de sabor antes de la fotografía física de productos que se está programando.
 * **Tecnología**: crea renderizaciones con calidad de estudio de un nuevo dispositivo para una página de inicio antes de que las unidades estén disponibles para fotografiar.
 * **Retail**: haz fotos de estudio uniformes en toda la línea de productos sin reservar sesiones de fotografía individuales.
 
-Vuelva a [Introducción al gráfico de Firefly](https://experienceleague.adobe.com/es/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+![Estudio fotográfico](../../assets/photography-studio.png){align="center"}
+
+Vuelva a [Introducción al gráfico de Firefly](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
