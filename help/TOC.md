@@ -9,9 +9,9 @@ role: User
 type: Tutorial
 auto-video-transcripts: true
 nudge: true
-source-git-commit: 71dc10cd473629462fe02785e4204623ac1b2410
+source-git-commit: d9650e6e2864d46a099c228eaff6d33975742f3a
 workflow-type: tm+mt
-source-wordcount: '797'
+source-wordcount: '825'
 ht-degree: 3%
 
 ---
@@ -136,10 +136,19 @@ ht-degree: 3%
     + {hide-from-toc}[Conceptos clave de Graph de Firefly](firefly/graph/key-concepts.md)
     + {hide-from-toc}[Crea tu primer gráfico](firefly/graph/create-your-first-graph.md)
     + {hide-from-toc}[Compartir el gráfico](firefly/graph/share-a-graph.md)
+    + {hide-from-toc}[Biblioteca de plantillas](firefly/graph/template-library.md)
     + {hide-from-toc}[Personalizar una plantilla](firefly/graph/customize-template.md)
     + {hide-from-toc}[Seminario web de introducción al gráfico de Firefly](firefly/graph/introducing-graph.md)
     + {hide-from-toc}Plantillas de gráficos de  {#graph-templates}
       + {hide-from-toc}[Introducción: generar una imagen](firefly/graph/templates/get-started-gen-image.md)
+      + {hide-from-toc}[Generación coherente de caracteres](firefly/graph/templates/character-gen.md)
+      + {hide-from-toc}[Extracción de estilos](firefly/graph/templates/style-extraction.md)
+      + {hide-from-toc}[Vibraciones del atardecer](firefly/graph/templates/sunset-vibes.md)
+      + {hide-from-toc}[Introducción: segmentar una imagen](firefly/graph/templates/get-started-segment-image.md)
+      + {hide-from-toc}[Componer y mezclar capas](firefly/graph/templates/composite-blend-layers.md)
+      + {hide-from-toc}[Corrección selectiva del color](firefly/graph/templates/selective-color-correction.md)
+      + {hide-from-toc}[Introducción: generación de vídeo](firefly/graph/templates/get-started-video-gen.md)
+      + {hide-from-toc}[VFX de hora de viñeta](firefly/graph/templates/bullet-time-vfx.md)
   + Seminarios web {#firefly-webinars}
     + [Experimentar con el Adobe Firefly](firefly/webinar-experimenting.md)
 + [!DNL Adobe Stock] {#stockoverview}

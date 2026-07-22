@@ -1,5 +1,5 @@
 ---
-title: Biblioteca de plantillas de gráficos de Firefly
+title: Biblioteca de plantillas
 description: Explora las plantillas de gráficos de Firefly ya creadas que puedes abrir y adaptar a tu propio proyecto
 feature: Image Editing, Gen AI
 role: User
@@ -7,28 +7,33 @@ level: Beginner
 jira: KT-
 hide: true
 hidefromtoc: true
-source-git-commit: 62358737152306c9fbe246b62fc046222a7366c7
+source-git-commit: 1b6b9793b2fa33365ccf6fb0f049632a67f09cae
 workflow-type: tm+mt
-source-wordcount: '192'
+source-wordcount: '390'
 ht-degree: 0%
 
 ---
 
-# Biblioteca de plantillas de Firefly Graph
+# &#x200B;5. Biblioteca de plantillas
 
-Cada plantilla es un gráfico completo que alguien ya ha creado. Abre uno para ver exactamente cómo funciona, luego hazlo tuyo intercambiando tus propias entradas.
+Un índice de referencia rápida de plantillas de Gráficos de Firefly, organizado por lo que produce o hace cada una. Cada ejemplo es un punto de partida: intercambia tu propia marca, producto e indicaciones antes de usar una plantilla en producción.
 
-| Plantilla | Qué hace | Vínculo |
-|---|---|---|
-| **Generador de efectos visuales en tiempo de viñeta** | Genera secuencias de efectos visuales con viñetas. | Abrir plantilla |
-| **Generador de sistemas de diseño** | Crea activos del sistema de diseño reutilizables. | Abrir plantilla |
-| **Hero&#39;s Journey Story Builder** | Crea secuencias narrativas y estructuras de historias para guiones gráficos o arcos de campañas. | Abrir plantilla |
-| **Trazos de pincel y sombreadores en tiempo real personalizados** | Cree efectos personalizados de trazo de pincel y sombreado en tiempo real. | Abrir plantilla |
-| **Cambio de boceto a 3D** | Convierte un boceto en una vista de entrega en 3D. | Abrir plantilla |
-| **Corrección de color de destino** | Aplica la corrección de color localizada y selectiva de forma no destructiva. | Abrir plantilla |
-| **Retratos coherentes** | Genera un conjunto coherente de retratos en todo un grupo. | Abrir plantilla |
-| **Sesión fotográfica editorial + cambio de ropa** | Produce un aspecto editorial de sesión de fotos con el cambio de prenda en una sesión. | Abrir plantilla |
+## Generación y estilo de imágenes
 
-## Siguiente paso
+* [**Introducción: generar una imagen**](/help/firefly/graph/templates/get-started-gen-image.md): esta plantilla es un gráfico básico: un nodo de solicitud en un nodo de generación en un resultado. Utilícelo como la primera plantilla que se abra con cualquier usuario nuevo.
+* [**Generación coherente de caracteres**](/help/firefly/graph/templates/character-gen.md): en la plantilla de gráficos se carga una imagen de referencia de un personaje y, a continuación, se intercambia la escena o el mensaje de pose para cada nueva toma. La referencia de carácter permanece bloqueada mientras cambia la escena circundante.
+* [**Extracción de estilo**](/help/firefly/graph/templates/style-extraction.md): en esta plantilla de gráfico se incluye una imagen de referencia para extraer su color, luz y tratamiento de textura. A continuación, puede aplicar ese tratamiento a cualquier imagen nueva ejecutada a través del mismo gráfico.
+* [**Vibraciones de ocaso**](/help/firefly/graph/templates/sunset-vibes.md): en esta plantilla de gráfico, puedes crear una imagen tipográfica en 3D desde un mensaje de texto. La plantilla gestiona la colocación y el equilibrio de color automáticamente.
 
-¿No está seguro de qué plantilla se ajusta a su proyecto? Empieza por los conceptos básicos y vuelve para abrir la coincidencia más cercana.
+## Segmentación y composición
+
+* [**Introducción: segmenta una imagen**](/help/firefly/graph/templates/get-started-segment-image.md): en esta plantilla de gráficos, carga cualquier imagen de origen y ejecuta el nodo de segmentación para aislar al sujeto de su fondo. Emparejar con un nodo de reemplazo de fondo para un recorte limpio.
+* [**Componer y fusionar capas**](/help/firefly/graph/templates/composite-blend-layers.md): en esta plantilla de gráfico, puedes apilar un recorte de producto y una escena de fondo como entradas de capa independientes. Ajuste el modo de fusión y los nodos de iluminación hasta que la composición se muestre como una toma.
+* [**Corrección selectiva de color**](/help/firefly/graph/templates/selective-color-correction.md): en esta plantilla de gráfico se enmascara una región específica que necesita corrección y se establece el color de destino solo en ese nodo. El resto de la imagen pasa intacta por el gráfico.
+
+## Vídeo y movimiento
+
+* [**Introducción: generación de vídeo**](/help/firefly/graph/templates/get-started-video-gen.md): en esta plantilla de gráfico se incluye una ilustración clave fija aprobada y un mensaje breve de movimiento. La plantilla genera un corte de vídeo creado a partir de esa misma ilustración clave en lugar de una nueva toma.
+* [**Efectos de tiempo de viñeta**](/help/firefly/graph/templates/bullet-time-vfx.md): en esta plantilla de gráfico, puedes alimentar una imagen de sujeto o producto principal para generar una secuencia de ángulos giratorios a su alrededor y, a continuación, unir el barrido de fotogramas congelados automáticamente.
+
+Vuelva a [Introducción al gráfico de Firefly](https://experienceleague.adobe.com/es/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
