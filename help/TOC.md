@@ -9,9 +9,9 @@ role: User
 type: Tutorial
 auto-video-transcripts: true
 nudge: true
-source-git-commit: d9650e6e2864d46a099c228eaff6d33975742f3a
+source-git-commit: 10d27af0ddb89cb7e52816e09682d94a102948f7
 workflow-type: tm+mt
-source-wordcount: '825'
+source-wordcount: '843'
 ht-degree: 3%
 
 ---
@@ -130,7 +130,7 @@ ht-degree: 3%
   + Tutoriales de Creative Production {#firefly-creative-production}
     + [Información general de  [!DNL Adobe Firefly] Producción creativa](firefly/creative-production/overview-firefly-creative-production.md)
     + [Eliminación y sustitución del fondo](firefly/creative-production/background.md)
-  + {hide-from-toc}Tutoriales de gráficos de  {#firefly-graph}
+  + Tutoriales de gráficos de {hide-from-toc} {#firefly-graph}
     + {hide-from-toc}[Información general del gráfico de Adobe Firefly](firefly/graph/overview-firefly-graph.md)
     + {hide-from-toc}[¿Qué es el Gráfico de Firefly?](firefly/graph/what-is-firefly-graph.md)
     + {hide-from-toc}[Conceptos clave de Graph de Firefly](firefly/graph/key-concepts.md)
@@ -139,7 +139,7 @@ ht-degree: 3%
     + {hide-from-toc}[Biblioteca de plantillas](firefly/graph/template-library.md)
     + {hide-from-toc}[Personalizar una plantilla](firefly/graph/customize-template.md)
     + {hide-from-toc}[Seminario web de introducción al gráfico de Firefly](firefly/graph/introducing-graph.md)
-    + {hide-from-toc}Plantillas de gráficos de  {#graph-templates}
+    + Plantillas de gráficos de {hide-from-toc} {#graph-templates}
       + {hide-from-toc}[Introducción: generar una imagen](firefly/graph/templates/get-started-gen-image.md)
       + {hide-from-toc}[Generación coherente de caracteres](firefly/graph/templates/character-gen.md)
       + {hide-from-toc}[Extracción de estilos](firefly/graph/templates/style-extraction.md)
@@ -149,6 +149,12 @@ ht-degree: 3%
       + {hide-from-toc}[Corrección selectiva del color](firefly/graph/templates/selective-color-correction.md)
       + {hide-from-toc}[Introducción: generación de vídeo](firefly/graph/templates/get-started-video-gen.md)
       + {hide-from-toc}[VFX de hora de viñeta](firefly/graph/templates/bullet-time-vfx.md)
+      + {hide-from-toc}[Texto en guión gráfico](firefly/graph/templates/text-to-storyboard.md)
+      + {hide-from-toc}[Generador de guiones gráficos](firefly/graph/templates/storyboard-builder.md)
+      + {hide-from-toc}[Sombreadores en tiempo real](firefly/graph/templates/real-time-shaders.md)
+      + {hide-from-toc}[Generación de modelos de caracteres](firefly/graph/templates/character-model-generation.md)
+      + {hide-from-toc}[Diseño de juguetes de vinilo](firefly/graph/templates/vinyl-toy-design.md)
+      + {hide-from-toc}[Cambio de boceto a 3D](firefly/graph/templates/sketch-to-3d.md)
   + Seminarios web {#firefly-webinars}
     + [Experimentar con el Adobe Firefly](firefly/webinar-experimenting.md)
 + [!DNL Adobe Stock] {#stockoverview}
@@ -156,13 +162,13 @@ ht-degree: 3%
   + Tutoriales {#stocktutorials}
     + [Impresionantes activos digitales](stock/stunning-digital-assets.md)
     + [Buscar en el Adobe  [!DNL Stock] historial de licencias](stock/searchstock.md)
-    + [Añade una estética dibujada a mano a las imágenes de Adobe [!DNL Stock] &#x200B;](stock/handdrawn.md)
+    + [Añade una estética dibujada a mano a las imágenes de Adobe [!DNL Stock] ](stock/handdrawn.md)
     + [Añade estilo a la tipografía con máscaras y animación](stock/flairtypography.md)
     + [Animar un Adobe [!DNL Stock] ilustración vectorial en Photoshop](stock/animatevector.md)
     + [Empieza tu informe anual con un vídeo creado con Adobe [!DNL Stock]  y Spark Video](stock/annualreport.md)
     + [Da vida a tu creatividad con animaciones personalizadas de Adobe [!DNL Stock]](stock/customanimations.md)
     + [Cambia los colores de una imagen [!DNL Stock] de Adobe para que coincidan con tu historia](stock/changecolors.md)
-    + [Crea un collage en 3D para un póster con imágenes de Adobe [!DNL Stock] &#x200B;](stock/collage.md)
+    + [Crea un collage en 3D para un póster con imágenes de Adobe [!DNL Stock] ](stock/collage.md)
     + [Crear una etiqueta en negrita con plantillas de Adobe [!DNL Stock] y objetos inteligentes de Photoshop](stock/boldlabel.md)
     + [Crear una infografía de directrices de la empresa con Adobe [!DNL Stock]](stock/infographic.md)
     + [Crear un gráfico comparativo de características de productos usando el Adobe  [!DNL Stock]](stock/featurecomparison.md)
@@ -177,7 +183,7 @@ ht-degree: 3%
     + [Crea composiciones fotográficas realistas con imágenes de Adobe [!DNL Stock] e](stock/realisticcomposite.md)
     + [Personalizar una animación de pantalla de carga con Adobe [!DNL Stock] y XD](stock/loadingscreen.md)
     + [Personaliza una plantilla de presentación de Adobe [!DNL Stock] para que parezca profesional](stock/presentationtemplate.md)
-    + [Personalizar los colores de una ilustración vectorial de Adobe [!DNL Stock] &#x200B;](stock/customizecolors.md)
+    + [Personalizar los colores de una ilustración vectorial de Adobe [!DNL Stock] ](stock/customizecolors.md)
 + Adobe 3D y RV {#3doverview}
   + [Información general](3di/overview-3di.md)
   + Tutoriales {#3dtutorials}
