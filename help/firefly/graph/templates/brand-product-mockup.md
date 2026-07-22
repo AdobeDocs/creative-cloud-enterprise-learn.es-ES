@@ -29,4 +29,4 @@ Aprende a visualizar tu producto en escenas de diferencia. Suelte una foto o un 
 
 ![Maqueta de producto de promoción de marca](../../assets/brand-mockup.png){align="center"}
 
-Vuelva a [Introducción al gráfico de Firefly](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Vuelva a [Introducción al gráfico de Firefly](https://experienceleague.adobe.com/es/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
