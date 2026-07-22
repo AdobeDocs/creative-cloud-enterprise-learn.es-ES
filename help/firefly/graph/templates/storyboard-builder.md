@@ -29,4 +29,4 @@ Aprende a convertir tus ideas en un guion gráfico automáticamente mediante men
 * **Bebidas**: crea un guion gráfico de escena por escena para una campaña de temporada y reordena las pulsaciones para probar el ritmo antes de bloquear el corte.
 * **Viaje**: Traza un guion gráfico del arco narrativo de una campaña de destino antes de comprometerte con una lista de tomas.
 
-Vuelva a [Introducción al gráfico de Firefly](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Vuelva a [Introducción al gráfico de Firefly](https://experienceleague.adobe.com/es/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

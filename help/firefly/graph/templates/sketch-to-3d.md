@@ -29,4 +29,4 @@ Aprende a convertir un boceto en un personaje 3D. El gráfico genera un cambio d
 * **Automoción**: visualiza un boceto del concepto de vehículo anticipado como un cambio de rumbo en 3D para una revisión interna.
 * **Entretenimiento**: Convierte un boceto del concepto de un personaje en un cambio en 3D para una presentación.
 
-Vuelva a [Introducción al gráfico de Firefly](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Vuelva a [Introducción al gráfico de Firefly](https://experienceleague.adobe.com/es/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

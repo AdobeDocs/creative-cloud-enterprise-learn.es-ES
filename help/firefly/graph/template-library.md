@@ -48,4 +48,4 @@ Un índice de referencia rápida de plantillas de Gráficos de Firefly, organiza
 * [**Diseño de juguetes de vinilo**](/help/firefly/graph/templates/vinyl-toy-design.md): en esta plantilla de gráfico, introduce una referencia de personaje o mascota y renderízala en un estilo de juguete de vinilo estilizado. Hay ángulos de respuesta para una plataforma de revisión de licencias o productos.
 * [**Cambio de boceto a 3D**](/help/firefly/graph/templates/sketch-to-3d.md): en esta plantilla de gráfico conviertes un boceto en un personaje 3D. El gráfico genera un cambio de rumbo en 3D a partir de él, listo para una revisión de diseño interno antes de cualquier prototipo físico.
 
-Vuelva a [Introducción al gráfico de Firefly](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Vuelva a [Introducción al gráfico de Firefly](https://experienceleague.adobe.com/es/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

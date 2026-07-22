@@ -29,4 +29,4 @@ Aprenda a generar un guion gráfico a partir de un guion o una lista de tomas. C
 * **Comercio al por menor**: incluye en el guion gráfico un vídeo sobre el lanzamiento de un producto directamente del resumen de la campaña, antes de reservar un director.
 * **Tecnología**: incluye en el guion gráfico un vídeo explicativo de un script de funciones para alinear las partes interesadas antes de que comience la animación.
 
-Vuelva a [Introducción al gráfico de Firefly](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Vuelva a [Introducción al gráfico de Firefly](https://experienceleague.adobe.com/es/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

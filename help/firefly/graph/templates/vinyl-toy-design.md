@@ -29,4 +29,4 @@ Aprende a introducir una referencia de personaje o mascota y a representarla en 
 * **Bebidas**: haz una maqueta de una mascota de marca que se puede coleccionar y deja caer la mercancía de manera limitada.
 * **Entretenimiento**: vista previa de un personaje en forma de juguete de vinilo para una presentación de licencias.
 
-Vuelva a [Introducción al gráfico de Firefly](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Vuelva a [Introducción al gráfico de Firefly](https://experienceleague.adobe.com/es/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

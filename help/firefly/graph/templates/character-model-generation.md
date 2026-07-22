@@ -29,4 +29,4 @@ Aprenda a crear un estilo animado 3D de una ilustración. La plantilla genera un
 * **Tecnología**: genera un modelo de carácter 3D base a partir de un informe escrito, listo para entregarlo a un modelador para su limpieza.
 * **Sector educativo**: Crea un modelo de caracteres de instructor en 3D para usarlo en las lecciones de vídeo de un curso.
 
-Vuelva a [Introducción al gráfico de Firefly](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Vuelva a [Introducción al gráfico de Firefly](https://experienceleague.adobe.com/es/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
