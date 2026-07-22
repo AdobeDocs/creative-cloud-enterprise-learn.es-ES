@@ -61,4 +61,4 @@ Un índice de referencia rápida de plantillas de Gráficos de Firefly, organiza
 * [**Generador de sistemas de diseño**](/help/firefly/graph/templates/design-system-generator.md): en esta plantilla de gráfico se genera un sistema de diseño basado en una captura de pantalla del sitio web. El gráfico produce un conjunto coincidente de iconos, patrones y componentes de diseño en una sola ejecución por lotes.
 * [**Generación de primeros planos**](/help/firefly/graph/templates/headshots-generation.md): en esta plantilla de gráficos armonizas un lote de primeros planos corporativos. Carga las fotos de origen, una por persona, y el gráfico normaliza la iluminación, el fondo y el recorte en todo el conjunto de una sola ejecución.
 
-Vuelva a [Introducción al gráfico de Firefly](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Vuelva a [Introducción al gráfico de Firefly](https://experienceleague.adobe.com/es/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
