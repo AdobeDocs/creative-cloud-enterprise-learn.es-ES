@@ -32,4 +32,4 @@ Aprende a crear una imagen tipográfica en 3D que incluya la palabra &quot;Vibe&
 ![Vibraciones del atardecer](../../assets/sunset-vibes.png){align="center"}
 
 
-Vuelva a [Introducción al gráfico de Firefly](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Vuelva a [Introducción al gráfico de Firefly](https://experienceleague.adobe.com/es/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

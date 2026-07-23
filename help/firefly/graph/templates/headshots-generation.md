@@ -32,4 +32,4 @@ y recorta todo el conjunto de una sola ejecución. [Abrir plantilla de generaci�
 
 ![Generación de primeros planos](../../assets/headshots-generation.png){align="center"}
 
-Vuelva a [Introducción al gráfico de Firefly](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Vuelva a [Introducción al gráfico de Firefly](https://experienceleague.adobe.com/es/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

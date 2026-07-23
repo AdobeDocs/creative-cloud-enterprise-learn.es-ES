@@ -31,4 +31,4 @@ Aprende a alimentar una imagen de producto o sujeto principal para generar una s
 
 ![VFX de hora de viñeta](../../assets/bullet-time-vfx.png){align="center"}
 
-Vuelva a [Introducción al gráfico de Firefly](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Vuelva a [Introducción al gráfico de Firefly](https://experienceleague.adobe.com/es/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

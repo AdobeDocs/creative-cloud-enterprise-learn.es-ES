@@ -31,4 +31,4 @@ Aprende a convertir un boceto en un personaje 3D. El gráfico genera un cambio d
 
 ![Boceto en 3D](../../assets/sketch-to-3d.png){align="center"}
 
-Vuelva a [Introducción al gráfico de Firefly](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Vuelva a [Introducción al gráfico de Firefly](https://experienceleague.adobe.com/es/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
