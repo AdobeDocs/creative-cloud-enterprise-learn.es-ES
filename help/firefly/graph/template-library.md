@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-22134
 hide: true
 hidefromtoc: true
-source-git-commit: bd878f1297ab60bcdf5e9e7e2d8c5ab9fa6a68b5
+source-git-commit: 45c4d9faf5ca3a49ae8a0266d415db8640fd79e0
 workflow-type: tm+mt
 source-wordcount: '609'
 ht-degree: 3%
@@ -31,7 +31,7 @@ Un índice de referencia rápida de plantillas de Gráficos de Firefly, organiza
 
 | Plantilla de gráficos | Descripción | Casos prácticos |
 |---|---|---|
-| [**Introducción: segmentar una imagen**](/help/firefly/graph/templates/get-started-segment-image.md) | Cargue cualquier imagen de origen y ejecute el nodo de segmentación para aislar el sujeto de su fondo. | <ul><li>Recorte limpio</li><li>Aislamiento de catálogo</li><li>Intercambio de fondo</li></ul> |
+| [**Introducción: segmentar una imagen**](/help/firefly/graph/templates/get-started-segment-image.md) | Cargue cualquier imagen de origen y ejecute el nodo de segmentación para aislar el sujeto de su fondo. | <ul><li>Recorte limpio</li><li>Aislamiento de catálogo</li><li>intercambio de fondo</li></ul> |
 | [**Componer y mezclar capas**](/help/firefly/graph/templates/composite-blend-layers.md) | Apilar un recorte de producto y una escena de fondo como entradas de capa independientes. | <ul><li>Estilo de vida/Compuesto social</li><li>Banner de página principal</li><li>Compuesto de marca compartida</li></ul> |
 | [**Corrección selectiva del color**](/help/firefly/graph/templates/selective-color-correction.md) | Enmascarar una región específica que necesite corrección y establecer el color de destino solo en ese nodo. | <ul><li>Coincidencia de color de marca</li><li>Estandarización de color</li><li>Corrección de color aislado</li></ul> |
 
@@ -66,7 +66,7 @@ Un índice de referencia rápida de plantillas de Gráficos de Firefly, organiza
 | [**Modelo de producto de marca**](/help/firefly/graph/templates/brand-product-mockup.md) | Visualiza tu producto en diferentes escenas. | <ul><li>Boceto en la tienda</li><li>Boceto del producto</li><li>Maqueta arquitectónica</li></ul> |
 | [**Sesión de fotos editorial**](/help/firefly/graph/templates/editorial-photoshoot.md) | Cargue una referencia de modelo e intercambie la entrada de prenda para cada nuevo aspecto. | <ul><li>Sesión de Lookbook</li><li>Serie editorial</li><li>Línea de colores</li></ul> |
 | [**Estudio fotográfico**](/help/firefly/graph/templates/photography-studio.md) | Coloca un renderizado de producto en el fondo del estudio y ajusta la iluminación hasta que el resultado se vea como una captura de estudio real. | <ul><li>Toma de estudio de SKU</li><li>Renderizado de página de inicio</li><li>Línea de productos</li></ul> |
-| [**Aplicar pegatina a las superficies**](/help/firefly/graph/templates/decal-to-surfaces.md) | Cargue el boceto del producto base y la pegatina o el activo del logotipo como entradas independientes. | <ul><li>Vista previa de cambio</li><li> Previsualización de librea</li><li>Prueba de colocación del logotipo</li></ul> |
+| [**Aplicar pegatina a las superficies**](/help/firefly/graph/templates/decal-to-surfaces.md) | Cargue el boceto del producto base y la pegatina o el activo del logotipo como entradas independientes. | <ul><li>Vista previa de cambio</li><li>Previsualización de librea</li><li>Prueba de colocación del logotipo</li></ul> |
 
 ## Operaciones por lotes y de coherencia
 
