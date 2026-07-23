@@ -4,11 +4,11 @@ description: Aprenda a generar un guion gráfico a partir de un guion o una list
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22132
 hide: true
-source-git-commit: b19c93a5c0f7b0009a17ae97eb35f6738cf21630
+source-git-commit: b25e3d05a2ee86c105584b5d1c50d0a1ddd5288f
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '186'
 ht-degree: 1%
 
 ---
@@ -21,7 +21,9 @@ Aprenda a generar un guion gráfico a partir de un guion o una lista de tomas. C
 >
 >**Antes de comenzar**: para obtener los mejores resultados, personaliza esta plantilla para adaptarla a tu propia marca, producto y flujo de trabajo. Intercambie las imágenes de referencia, los mensajes y la copia antes de utilizar cualquier salida.
 
-[!BADGE Casos prácticos]{type=Informative tooltip="Casos prácticos"}
+![Texto en guión gráfico](../../assets/text-storyboard.png){align="center"}
+
+[!BADGE Ejemplos del sector]{type=Informative tooltip="Casos prácticos"}
 
 * **Finanzas**: Convierte un script aprobado para un nuevo producto de ahorro en un guion gráfico que la agencia pueda grabar desde el mismo día en que se firmen las firmas legales en la copia.
 * **Comercio al por menor**: incluye en el guion gráfico un vídeo sobre el lanzamiento de un producto directamente del resumen de la campaña, antes de reservar un director.
@@ -29,4 +31,4 @@ Aprenda a generar un guion gráfico a partir de un guion o una lista de tomas. C
 
 ![Texto en guión gráfico](../../assets/text-storyboard.png){align="center"}
 
-Vuelva a [Introducción al gráfico de Firefly](https://experienceleague.adobe.com/es/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Vuelva a [Introducción al gráfico de Firefly](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

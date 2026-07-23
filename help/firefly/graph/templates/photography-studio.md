@@ -4,11 +4,11 @@ description: Descubre cómo colocar un producto en el fondo del estudio y ajusta
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22128
 hide: true
-source-git-commit: b19c93a5c0f7b0009a17ae97eb35f6738cf21630
+source-git-commit: b25e3d05a2ee86c105584b5d1c50d0a1ddd5288f
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '182'
 ht-degree: 1%
 
 ---
@@ -21,7 +21,9 @@ Aprende a colocar el renderizado de un producto en el nodo de fondo del estudio 
 >
 >**Antes de comenzar**: para obtener los mejores resultados, personaliza esta plantilla para adaptarla a tu propia marca, producto y flujo de trabajo. Intercambie las imágenes de referencia, los mensajes y la copia antes de utilizar cualquier salida.
 
-[!BADGE Casos prácticos]{type=Informative tooltip="Casos prácticos"}
+![Estudio fotográfico](../../assets/photography-studio.png){align="center"}
+
+[!BADGE Ejemplos del sector]{type=Informative tooltip="Casos prácticos"}
 
 * **Bebidas**: genera fotos limpias de productos de estudio de un nuevo SKU de sabor antes de la fotografía física de productos que se está programando.
 * **Tecnología**: crea renderizaciones con calidad de estudio de un nuevo dispositivo para una página de inicio antes de que las unidades estén disponibles para fotografiar.
@@ -29,4 +31,4 @@ Aprende a colocar el renderizado de un producto en el nodo de fondo del estudio 
 
 ![Estudio fotográfico](../../assets/photography-studio.png){align="center"}
 
-Vuelva a [Introducción al gráfico de Firefly](https://experienceleague.adobe.com/es/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Vuelva a [Introducción al gráfico de Firefly](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

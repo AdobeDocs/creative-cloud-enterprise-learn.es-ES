@@ -4,11 +4,11 @@ description: Aprenda a generar un sistema de diseño basado en una captura de pa
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22125
 hide: true
-source-git-commit: b19c93a5c0f7b0009a17ae97eb35f6738cf21630
+source-git-commit: b25e3d05a2ee86c105584b5d1c50d0a1ddd5288f
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '183'
 ht-degree: 1%
 
 ---
@@ -21,7 +21,9 @@ Aprende a generar un sistema de diseño basado en una captura de pantalla de un 
 >
 >**Antes de comenzar**: para obtener los mejores resultados, personaliza esta plantilla para adaptarla a tu propia marca, producto y flujo de trabajo. Intercambie las imágenes de referencia, los mensajes y la copia antes de utilizar cualquier salida.
 
-[!BADGE Casos prácticos]{type=Informative tooltip="Casos prácticos"}
+![Diseñar generador de sistemas](../../assets/design-system.png){align="center"}
+
+[!BADGE Ejemplos del sector]{type=Informative tooltip="Casos prácticos"}
 
 * **Tecnología**: genera un conjunto reutilizable de iconos y patrones de fondo para un lanzamiento de funciones trimestrales, reutilizados en anuncios, páginas de destino y redes sociales sin tener que volver a presentar el diseño.
 * **Finanzas**: crea un icono y un sistema de colores coherentes para el nuevo diseño de la aplicación antes de que comience el desarrollo.
@@ -29,4 +31,4 @@ Aprende a generar un sistema de diseño basado en una captura de pantalla de un 
 
 ![Diseñar generador de sistemas](../../assets/design-system.png){align="center"}
 
-Vuelva a [Introducción al gráfico de Firefly](https://experienceleague.adobe.com/es/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Vuelva a [Introducción al gráfico de Firefly](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

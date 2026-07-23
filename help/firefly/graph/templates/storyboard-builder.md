@@ -4,11 +4,11 @@ description: Aprenda a convertir sus ideas en un guion gráfico automáticamente
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22131
 hide: true
-source-git-commit: b19c93a5c0f7b0009a17ae97eb35f6738cf21630
+source-git-commit: b25e3d05a2ee86c105584b5d1c50d0a1ddd5288f
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '185'
 ht-degree: 1%
 
 ---
@@ -21,7 +21,9 @@ Aprende a convertir tus ideas en un guion gráfico automáticamente mediante men
 >
 >**Antes de comenzar**: para obtener los mejores resultados, personaliza esta plantilla para adaptarla a tu propia marca, producto y flujo de trabajo. Intercambie las imágenes de referencia, los mensajes y la copia antes de utilizar cualquier salida.
 
-[!BADGE Casos prácticos]{type=Informative tooltip="Casos prácticos"}
+![Generador de guiones gráficos](../../assets/storyboard-builder.png){align="center"}
+
+[!BADGE Ejemplos del sector]{type=Informative tooltip="Casos prácticos"}
 
 * **Communications &amp; Telecom** - Guion gráfico es un lugar de lanzamiento de 30 segundos para un nuevo plan, probando tres estructuras narrativas diferentes antes de reservar una sesión.
 * **Bebidas**: crea un guion gráfico de escena por escena para una campaña de temporada y reordena las pulsaciones para probar el ritmo antes de bloquear el corte.
@@ -29,4 +31,4 @@ Aprende a convertir tus ideas en un guion gráfico automáticamente mediante men
 
 ![Generador de guiones gráficos](../../assets/storyboard-builder.png){align="center"}
 
-Vuelva a [Introducción al gráfico de Firefly](https://experienceleague.adobe.com/es/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Vuelva a [Introducción al gráfico de Firefly](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

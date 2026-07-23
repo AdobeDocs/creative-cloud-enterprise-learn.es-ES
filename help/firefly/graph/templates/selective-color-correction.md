@@ -6,9 +6,9 @@ role: User
 level: Beginner
 jira: KT-22102
 hide: true
-source-git-commit: b19c93a5c0f7b0009a17ae97eb35f6738cf21630
+source-git-commit: b25e3d05a2ee86c105584b5d1c50d0a1ddd5288f
 workflow-type: tm+mt
-source-wordcount: '179'
+source-wordcount: '182'
 ht-degree: 1%
 
 ---
@@ -21,7 +21,9 @@ Aprenda a enmascarar una región específica que necesita corrección y a establ
 >
 >**Antes de comenzar**: para obtener los mejores resultados, personaliza esta plantilla para adaptarla a tu propia marca, producto y flujo de trabajo. Intercambie las imágenes de referencia, los mensajes y la copia antes de utilizar cualquier salida.
 
-[!BADGE Casos prácticos]{type=Informative tooltip="Casos prácticos"}
+![Corrección selectiva del color](../../assets/selective-color.png){align="center"}
+
+[!BADGE Ejemplos del sector]{type=Informative tooltip="Casos prácticos"}
 
 * **Comunicaciones y telecomunicaciones**: corrige el color de la marca en un lote de fotografías de tiendas minoristas para que cada ubicación coincida con el color distintivo de la marca, sin necesidad de una reevaluación completa.
 * **Ventas al por menor**: estandariza el color del producto en un conjunto de fotografías que se tomó con una iluminación incoherente.
@@ -29,4 +31,4 @@ Aprenda a enmascarar una región específica que necesita corrección y a establ
 
 ![Corrección selectiva del color](../../assets/selective-color.png){align="center"}
 
-Vuelva a [Introducción al gráfico de Firefly](https://experienceleague.adobe.com/es/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Vuelva a [Introducción al gráfico de Firefly](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
