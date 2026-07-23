@@ -4,9 +4,9 @@ description: Aprenda a convertir sus ideas en un guion gráfico automáticamente
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
-jira: KT-22131
+jira: KT-22136
 hide: true
-source-git-commit: 864fd8649a947b8c3ff506b17d8f8160f45ea4ee
+source-git-commit: 8933daea4c9aeb7ad61e1cf407a8e838b7a82131
 workflow-type: tm+mt
 source-wordcount: '183'
 ht-degree: 0%
@@ -29,4 +29,4 @@ Aprende a convertir tus ideas en un guion gráfico automáticamente mediante men
 
 ![Generador de guiones gráficos](../../assets/storyboard-builder.png){align="center"}
 
-Vuelva a [Introducción al gráfico de Firefly](https://experienceleague.adobe.com/es/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Vuelva a [Introducción al gráfico de Firefly](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
