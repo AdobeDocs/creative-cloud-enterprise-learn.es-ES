@@ -6,10 +6,10 @@ role: User
 level: Beginner
 jira: KT-22124
 hide: true
-source-git-commit: b25e3d05a2ee86c105584b5d1c50d0a1ddd5288f
+source-git-commit: 864fd8649a947b8c3ff506b17d8f8160f45ea4ee
 workflow-type: tm+mt
-source-wordcount: '175'
-ht-degree: 1%
+source-wordcount: '171'
+ht-degree: 0%
 
 ---
 
@@ -17,18 +17,16 @@ ht-degree: 1%
 
 Aprende a visualizar pegatinas o logotipos en bocetos de productos. La plantilla envuelve la pegatina en la geometría de superficie para que siga los contornos correctamente. [Abrir Aplicar pegatina a la plantilla de superficies](https://firefly.adobe.com/graph/edit/id/urn:aaid:sc:US:78443d67-3663-50df-868e-dd231469f868).
 
+[!BADGE Ejemplos del sector]{type=Informative tooltip="Ejemplos del sector"}
+
+* **Exteriores**: aplica una pegatina con el logotipo renovada en una línea completa de bocetos de equipo para obtener una vista previa de una renovación de la marca antes de solicitar las herramientas de producción.
+* **Automoción**: Obtén una vista previa de un nuevo diseño de librea o calcomanía en un modelo de vehículo antes de la producción de la envoltura.
+* **Comercio minorista**: prueba la colocación de un nuevo logotipo en una línea completa de bocetos de prendas de vestir antes de la aprobación de impresión.
+
 >[!TIP]
 >
 >**Antes de comenzar**: para obtener los mejores resultados, personaliza esta plantilla para adaptarla a tu propia marca, producto y flujo de trabajo. Intercambie las imágenes de referencia, los mensajes y la copia antes de utilizar cualquier salida.
 
 ![Aplicar pegatina a las superficies](../../assets/apply-decal.png){align="center"}
 
-[!BADGE Ejemplos del sector]{type=Informative tooltip="Casos prácticos"}
-
-* **Exteriores**: aplica una pegatina con el logotipo renovada en una línea completa de bocetos de equipo para obtener una vista previa de una renovación de la marca antes de solicitar las herramientas de producción.
-* **Automoción**: Obtén una vista previa de un nuevo diseño de librea o calcomanía en un modelo de vehículo antes de la producción de la envoltura.
-* **Comercio minorista**: prueba la colocación de un nuevo logotipo en una línea completa de bocetos de prendas de vestir antes de la aprobación de impresión.
-
-![Aplicar pegatina a las superficies](../../assets/apply-decal.png){align="center"}
-
-Vuelva a [Introducción al gráfico de Firefly](https://experienceleague.adobe.com/es/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Vuelva a [Introducción al gráfico de Firefly](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
