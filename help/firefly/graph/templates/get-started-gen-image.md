@@ -6,7 +6,7 @@ role: User
 level: Beginner
 jira: KT-22096
 hide: true
-source-git-commit: 1b6b9793b2fa33365ccf6fb0f049632a67f09cae
+source-git-commit: b19c93a5c0f7b0009a17ae97eb35f6738cf21630
 workflow-type: tm+mt
 source-wordcount: '180'
 ht-degree: 1%
@@ -21,13 +21,12 @@ Aprende a crear un gráfico básico: un nodo de solicitud en un nodo de generaci
 >
 >**Antes de comenzar**: para obtener los mejores resultados, personaliza esta plantilla para adaptarla a tu propia marca, producto y flujo de trabajo. Intercambie las imágenes de referencia, los mensajes y la copia antes de utilizar cualquier salida.
 
-![Imagen genérica](../../assets/get-started-gen-image.png){align="center"}
-
 [!BADGE Casos prácticos]{type=Informative tooltip="Casos prácticos"}
 
 * **Retail**: genera una primera imagen de producto principal a partir de un resumen para aprender el flujo de nodos básico antes de tocar un activo de campaña real.
 * **Estado**: prueba el flujo de generación de imágenes más simple en una toma de producto de marcador de posición antes de escalar a un calendario de contenido completo.
 * **Education**: crea una primera imagen de muestra para mostrar el gráfico a los nuevos integrantes del equipo antes de asignar el trabajo real del proyecto.
 
+![Imagen genérica](../../assets/get-started-gen-image.png){align="center"}
 
 Vuelva a [Introducción al gráfico de Firefly](https://experienceleague.adobe.com/es/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
