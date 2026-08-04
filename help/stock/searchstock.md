@@ -25,4 +25,4 @@ ht-degree: 0%
 
 En este tutorial de vídeo, aprenderá a buscar rápidamente en el historial de licencias de Adobe [!DNL Stock] de su organización en Creative Cloud para empresas.
 
->[!VIDEO](https://video.tv.adobe.com/v/335327?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3410407?captions=spa&hidetitle=true)

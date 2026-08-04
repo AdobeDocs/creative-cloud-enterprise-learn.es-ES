@@ -52,7 +52,7 @@ Tanto Acrobat como Creative Cloud para aplicaciones empresariales empezarán a m
 
 La siguiente información describe la experiencia del usuario final. A continuación se muestra un breve vídeo seguido de una revisión de la experiencia del usuario final.
 
->[!VIDEO](https://video.tv.adobe.com/v/331746?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3441278?captions=spa&hidetitle=true)
 
 **Antes del vencimiento**
 
@@ -76,7 +76,7 @@ En todos los intentos posteriores de iniciar las aplicaciones, se solicitará al
 
 La siguiente información describe la experiencia del usuario final. A continuación se muestra un breve vídeo seguido de una revisión de la experiencia del usuario final.
 
->[!VIDEO](https://video.tv.adobe.com/v/331749?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3439962?captions=spa&hidetitle=true)
 
 
 **Antes del vencimiento**

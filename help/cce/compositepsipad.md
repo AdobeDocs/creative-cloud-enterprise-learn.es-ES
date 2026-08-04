@@ -28,7 +28,7 @@ ht-degree: 0%
 
 Lleva el poder de Photoshop al alcance de tu mano. Aprende a usar una de tus aplicaciones de Creative Cloud favoritas de una forma completamente nueva, con una interfaz táctil rediseñada.
 
->[!VIDEO](https://video.tv.adobe.com/v/331004?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3410488?captions=spa&hidetitle=true)
 
 <br> 
 
