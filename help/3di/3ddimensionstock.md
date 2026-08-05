@@ -24,7 +24,7 @@ ht-degree: 0%
 
 Personaliza y marca un modelo 3D en [!DNL Dimension] mediante materiales, propiedades ambientales, iluminación y fotografía, para crear imágenes fotorrealistas para cualquier proyecto de diseño.
 
->[!VIDEO](https://video.tv.adobe.com/v/331005?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3410481?captions=spa&hidetitle=true)
 
 Haga clic en el icono de archivo de PDF para descargar una guía de referencia rápida de este tutorial.
 
