@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Las placas de Firefly ofrecen a tu equipo el entorno de lluvia de ideas definitivo, lo que convierte conceptos básicos en elementos visuales que se pueden compartir y que van mucho más allá de las listas de texto y las cifras fijas.
 
->[!VIDEO](https://video.tv.adobe.com/v/3497129?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3497132?captions=spa&quality=12&learn=on&hidetitle=true)
