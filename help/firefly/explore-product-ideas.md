@@ -1,21 +1,21 @@
 ---
 title: Explorar ideas de productos sin reuniones, marcadores ni bocetos
-description: Las placas de Firefly ofrecen a tu equipo el entorno de lluvia de ideas definitivo
+description: Descubra cómo las placas de Firefly le permiten generar conceptos con un realismo impresionante
 feature: Image Editing, Gen AI
 role: User
-level: Beginner
+level: Beginner, Intermediate, Experienced
 jira: KT-22321
 hide: true
 hidefromtoc: true
-source-git-commit: f0ad6793dd537c72a691b38946acb633ad9bbc43
+source-git-commit: 8122068e72a49a2e5be625fa95accb6168aff403
 workflow-type: tm+mt
-source-wordcount: '49'
+source-wordcount: '72'
 ht-degree: 0%
 
 ---
 
 # Explora ideas de productos sin reuniones, marcadores ni bocetos
 
-Las placas de Firefly ofrecen a tu equipo el entorno de lluvia de ideas definitivo, lo que convierte conceptos básicos en elementos visuales que se pueden compartir y que van mucho más allá de las listas de texto y las cifras fijas.
+Los conceptos de producto solían significar esperar a que los artistas e ilustradores 3D simplemente vieran que una idea tomaba forma. Descubre cómo las placas de Firefly te permiten crear conceptos con un realismo sorprendente, sin marcadores ni bocetos, con representaciones estáticas y en 3D que hacen realidad las ideas.
 
->[!VIDEO](https://video.tv.adobe.com/v/3497132?captions=spa&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3497129?quality=12&learn=on&hidetitle=true)
