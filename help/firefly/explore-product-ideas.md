@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Los conceptos de producto solían significar esperar a que los artistas e ilustradores 3D simplemente vieran que una idea tomaba forma. Descubre cómo las placas de Firefly te permiten crear conceptos con un realismo sorprendente, sin marcadores ni bocetos, con representaciones estáticas y en 3D que hacen realidad las ideas.
 
->[!VIDEO](https://video.tv.adobe.com/v/3497129?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3497132?captions=spa&quality=12&learn=on&hidetitle=true)

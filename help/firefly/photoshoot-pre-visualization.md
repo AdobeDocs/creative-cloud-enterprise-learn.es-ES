@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Descubre cómo la IA general te permite previsualizar una sesión de fotos completa, colocando tu producto en entornos de aspiraciones para que puedas bloquear la ubicación, la configuración y los personajes con la firma del cliente antes de que se capture un solo fotograma.
 
->[!VIDEO](https://video.tv.adobe.com/v/3497049?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3497052?captions=spa&quality=12&learn=on&hidetitle=true)
