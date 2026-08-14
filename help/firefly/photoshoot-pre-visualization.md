@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Obtén una vista previa de toda tu sesión de fotos con toda la potencia del Adobe Firefly.
 
->[!VIDEO](https://video.tv.adobe.com/v/3497049?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3497052?captions=spa&quality=12&learn=on&hidetitle=true)
