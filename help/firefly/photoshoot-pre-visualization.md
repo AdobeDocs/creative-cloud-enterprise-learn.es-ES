@@ -1,21 +1,21 @@
 ---
 title: Previsualización de sesiones de fotos
-description: Obtén una vista previa de toda tu sesión de fotos con toda la potencia del Adobe Firefly
+description: Descubre cómo la IA general te permite previsualizar una sesión de fotos completa
 feature: Image Editing, Gen AI
 role: User
-level: Beginner
+level: Beginner, Intermediate, Experienced
 jira: KT-22291
 hide: true
 hidefromtoc: true
-source-git-commit: f0ad6793dd537c72a691b38946acb633ad9bbc43
+source-git-commit: 8122068e72a49a2e5be625fa95accb6168aff403
 workflow-type: tm+mt
-source-wordcount: '30'
+source-wordcount: '52'
 ht-degree: 0%
 
 ---
 
 # Previsualización de sesiones de fotos
 
-Obtén una vista previa de toda tu sesión de fotos con toda la potencia del Adobe Firefly.
+Descubre cómo la IA general te permite previsualizar una sesión de fotos completa, colocando tu producto en entornos de aspiraciones para que puedas bloquear la ubicación, la configuración y los personajes con la firma del cliente antes de que se capture un solo fotograma.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3497052?captions=spa&quality=12&learn=on&hidetitle=true)
