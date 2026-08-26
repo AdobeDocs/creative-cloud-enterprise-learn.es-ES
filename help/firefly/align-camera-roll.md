@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Descubre cómo los equipos creativos utilizan las placas de Adobe Firefly para presionar a las ideas de las pruebas en sus inicios y cómo llegan al set seguros de que cada toma llegará exactamente como tenían planeado.
 
->[!VIDEO](https://video.tv.adobe.com/v/3502280?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3502283?captions=spa&quality=12&learn=on&hidetitle=true)
