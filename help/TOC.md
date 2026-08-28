@@ -9,9 +9,9 @@ role: User
 type: Tutorial
 auto-video-transcripts: true
 nudge: true
-source-git-commit: ca32f73972c01089fd3741643c32bfc63cb974fc
+source-git-commit: dec5f84efd42c91c97fc49e3043c09add3d78ed6
 workflow-type: tm+mt
-source-wordcount: '885'
+source-wordcount: '905'
 ht-degree: 3%
 
 ---
@@ -168,6 +168,7 @@ ht-degree: 3%
       + {hide-from-toc}[Generación de primeros planos](firefly/graph/templates/headshots-generation.md)
   + Seminarios web {#firefly-webinars}
     + [Experimentar con el Adobe Firefly](firefly/webinar-experimenting.md)
+    + [Piensa en voz alta: Convierte tus ideas en llamativos elementos visuales](https://experienceleague.adobe.com/en/on-demand-events/turn-ideas-into-striking-visuals)
 + [!DNL Adobe Stock] {#stockoverview}
   + [Información general](stock/overview-stock.md)
   + Tutoriales {#stocktutorials}
