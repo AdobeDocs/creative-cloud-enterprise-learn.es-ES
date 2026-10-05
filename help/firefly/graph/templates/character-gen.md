@@ -41,4 +41,4 @@ Aprende a cargar una imagen de referencia del personaje y luego intercambia la e
 
 ![Generación coherente de caracteres](../../assets/character-gen.png){align="center"}
 
-Vuelva a [Introducción a Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Vuelva a [Introducción a Firefly Graph](https://experienceleague.adobe.com/es/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

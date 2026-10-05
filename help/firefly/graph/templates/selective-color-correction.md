@@ -41,4 +41,4 @@ Aprenda a enmascarar una región específica que necesita corrección y a establ
 
 ![Corrección selectiva del color](../../assets/selective-color.png){align="center"}
 
-Vuelva a [Introducción a Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Vuelva a [Introducción a Firefly Graph](https://experienceleague.adobe.com/es/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

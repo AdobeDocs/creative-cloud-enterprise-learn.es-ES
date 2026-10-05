@@ -41,4 +41,4 @@ Aprende a introducir una referencia de personaje o mascota y a representarla en 
 
 ![Diseño de juguetes de vinilo](../../assets/vinyl-toy-design.png){align="center"}
 
-Vuelva a [Introducción a Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Vuelva a [Introducción a Firefly Graph](https://experienceleague.adobe.com/es/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

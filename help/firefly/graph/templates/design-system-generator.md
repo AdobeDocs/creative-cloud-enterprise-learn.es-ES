@@ -41,4 +41,4 @@ Aprende a generar un sistema de diseño basado en una captura de pantalla de un 
 
 ![Diseñar generador de sistemas](../../assets/design-system.png){align="center"}
 
-Vuelva a [Introducción a Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Vuelva a [Introducción a Firefly Graph](https://experienceleague.adobe.com/es/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

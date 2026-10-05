@@ -41,4 +41,4 @@ Aprenda a crear un estilo animado 3D de una ilustración. La plantilla genera un
 
 ![Generación de modelos de caracteres](../../assets/character-model-generation.png){align="center"}
 
-Vuelva a [Introducción a Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Vuelva a [Introducción a Firefly Graph](https://experienceleague.adobe.com/es/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
