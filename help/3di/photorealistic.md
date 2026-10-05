@@ -1,28 +1,33 @@
 ---
 title: Creación de fotografías virtuales fotorrealistas con representación y composición 3D
-description: Aprende a crear fotografías virtuales increíblemente engañosas y fotorrealistas con la composición y representación de imágenes en 3D en Adobe [!DNL Dimension]
+description: Aprende a crear fotografías virtuales increíblemente engañosas y fotorrealistas con la composición y representación de imágenes en 3D en el Adobe [!DNL Dimension]
 feature: 3D
 role: User
 level: Beginner, Intermediate
 keywords: fotografía virtual, 100 MSV global
 exl-id: 6c4b13c6-aab8-4df0-bb05-eb5d90aafbe4
-TQID: https://experienceleague.adobe.com/hLSElZumsN2H0Wh0jGmRY4zu84a5WmWVvtl1upQoRQ4
+TQID: 'https://experienceleague.adobe.com/hLSElZumsN2H0Wh0jGmRY4zu84a5WmWVvtl1upQoRQ4'
 product_v2:
   - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+    internal-label: Creative Cloud
 feature_v2:
   - id: fec89bf3-1b77-4b07-a0b9-96726856a0ad
+    internal-label: Editing
+  - id: c03edad5-0111-525a-a563-c422672a5e57
+    internal-label: 3D
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
+    internal-label: Beginner
+source-git-commit: b4ccb0a72c95fa56cd4908aae754dfb8b399cd31
 workflow-type: tm+mt
-source-wordcount: 2406
+source-wordcount: '2406'
 ht-degree: 0%
-
 ---
-
 # Creación de fotografías virtuales fotorrealistas con representación y composición 3D
 
 ![Collage de ejemplos con fotografías virtuales fotorrealistas diseñadas con el Adobe [!DNL Dimension]](assets/Photorealistic_1.png)
@@ -31,7 +36,7 @@ Mirando las imágenes de arriba, te perdonarían por asumir que todo lo que ves 
 
 ![Una escena de El abismo de James Cameron en la que Mary Mastrantonio toca el tentáculo de agua del CGI](assets/Photorealistic_2.jpg)
 
-Esta técnica de superposición de capas, o &#39;composición&#39; de modelos 3D en una imagen o vídeo, no es nueva, y de hecho sus orígenes se remontan a los primeros días de VFX (ya en la década de 1980). Lo que es nuevo y emocionante es que esta técnica se ha convertido en una poderosa herramienta para los usuarios de [Adobe [!DNL Dimension]](https://www.adobe.com/es/products/dimension.html), y en un nuevo e intrigante flujo de trabajo para los fotógrafos.
+Esta técnica de superposición de capas, o &#39;composición&#39; de modelos 3D en una imagen o vídeo, no es nueva, y de hecho sus orígenes se remontan a los primeros días de VFX (ya en la década de 1980). Lo que es nuevo y emocionante es que esta técnica se ha convertido en una poderosa herramienta para los usuarios de [Adobe [!DNL Dimension]](https://www.adobe.com/products/dimension.html), y en un nuevo e intrigante flujo de trabajo para los fotógrafos.
 
 
 ## La tecnología subyacente a la creación de imágenes compuestas en el Adobe [!DNL Dimension]
@@ -42,33 +47,33 @@ El Adobe [!DNL Dimension] ha permitido a los usuarios combinar elementos 2D y 3D
 
 ![La función Hacer coincidir con la imagen del Adobe [!DNL Dimension] analiza la imagen de fondo y calcula la distancia focal y la posición de la cámara que se utilizó para capturarla](assets/Photorealistic_4.gif)
 
-La función Hacer coincidir con la imagen analiza la imagen de fondo y calcula la distancia focal y la posición de la cámara que se utilizó para capturarla. A continuación, se crea una cámara 3D en la escena [!DNL Dimension] que se puede utilizar para procesar elementos 3D dentro de la misma perspectiva que la imagen de fondo para que se compongan juntos.
+La función Hacer coincidir con la imagen analiza la imagen de fondo y calcula la distancia focal y la posición de la cámara que se utilizó para capturarla. A continuación, se crea una cámara 3D en la escena [!DNL Dimension] que se puede utilizar para procesar elementos 3D dentro de la misma Perspectiva que la imagen de fondo para que se compongan juntos.
 
-Pero, ¿qué pasa con todo lo que no está capturado dentro del encuadre de la cámara?  El entorno en el que se captura una imagen es importante, ya que define el aspecto que tendrá todo dentro de ella. Un objeto dentro de una imagen está reflejando la luz del mundo que lo rodea, que también incluye todo lo que hay detrás de la cámara. Por lo tanto, para que los elementos 3D con capas se integren de verdad con el fondo de la imagen, deben reflejar completamente la iluminación en el entorno en el que se tomó la imagen.
+Pero, ¿qué pasa con todo lo que no está capturado dentro del marco de la cámara?  El entorno en el que se captura una imagen es importante, ya que define el aspecto que tendrá todo dentro de ella. Un objeto dentro de una imagen está reflejando la luz del mundo que lo rodea, que también incluye todo lo que hay detrás de la cámara. Por lo tanto, para que los elementos 3D con capas se integren de verdad con el fondo de la imagen, deben reflejar completamente la iluminación en el entorno en el que se tomó la imagen.
 
 ![Imagen compuesta 3D con realismo fotográfico de un ciclomotor en una sala de estar](assets/Photorealistic_5.png)
 
 Match Image intentará &#39;alucinar&#39; el entorno de iluminación en el que se tomó una imagen de fondo. Realiza un trabajo impresionante que producirá excelentes resultados en poco tiempo, pero capturar el entorno junto con la imagen de fondo producirá resultados aún más realistas. Este es incluso el método usado para entrenar la IA de Adobe.
 
-![Panorámica HDR de 360 grados del espacio de oficina](assets/Photorealistic_6.png)
+![HDR de 360 grados. panorámica del espacio de oficina](assets/Photorealistic_6.png)
 
-Adéntrate en el mundo de las imágenes panorámicas HDR de 360°. Estas imágenes se han utilizado durante mucho tiempo en gráficos 3D para agilizar los efectos de iluminación de un entorno de iluminación de todo el mundo. El proceso para capturarlos en el pasado ha sido bastante complejo debido al alto nivel de conocimientos y equipo especializado necesario para hacerlos. Con la llegada de las cámaras de 360°, la creación de estas imágenes es ahora más posible que nunca.
+Adéntrate en el mundo de las imágenes panorámicas de 360° HDR. Estas imágenes se han utilizado durante mucho tiempo en gráficos 3D para agilizar los efectos de iluminación de un entorno de iluminación de todo el mundo. El proceso para capturarlos en el pasado ha sido bastante complejo debido al alto nivel de conocimientos y equipo especializado necesario para hacerlos. Con la llegada de las cámaras de 360°, la creación de estas imágenes es ahora más posible que nunca.
 
 ![Imagen de producto de la cámara Ricoh Theta de 360 grados](assets/Photorealistic_7.png)
 
-Cámaras como la Ricoh Theta, Gopro MAX e Insta 360 pueden capturar panoramas de 360°. El Ricoh Theta tiene un soporte de exposición automático incorporado en el cual es una parte clave del proceso de captura. Esto reduce el tiempo y el esfuerzo necesarios para capturar HDR y hace que sea más accesible para los fotógrafos.
+Cámaras como la Ricoh Theta, Gopro MAX e Insta 360 pueden capturar panoramas de 360°. El Ricoh Theta tiene un soporte de exposición automático incorporado en el cual es una parte clave del proceso de captura. Esto reduce el tiempo y el esfuerzo para capturar HDR y hace que sea más accesible para los fotógrafos.
 
 ## El proceso para crear imágenes compuestas fotorrealistas
 
 ### [!DNL Capture]
 
-Para comenzar a capturar entornos para la composición, necesita dos elementos principales; una imagen o imágenes de fondo de alta calidad y un panorama HDR de 360° del entorno en el que se tomó.
+Para comenzar a capturar entornos para la composición, necesita dos elementos principales; una imagen o imágenes de fondo de alta calidad y una panorámica de 360° HDR del entorno en el que se tomó.
 
 Uno de los aspectos más importantes de capturar este tipo de contenido de manera eficaz es aprovechar las habilidades y herramientas existentes de un fotógrafo. La creación de una imagen de fondo preciosa requiere prestar atención a la composición y al detalle. Las imágenes de fondo también requieren una mentalidad especial para crear algo que sea útil para componer elementos 3D.
 
 ### Elegir una ubicación
 
-Busca ubicaciones que sean interesantes tanto para su contexto como para su iluminación. Al considerar el contexto, puede resultar útil imaginar el uso potencial de una escena. Por ejemplo, una vista de una carretera vacía se podría usar para agregar en un automóvil 3D, mientras que una vista de una mesa en una cafetería se podría usar para [mostrar el empaquetado](https://www.adobe.com/es/products/dimension/packaging-design-mockup.html) de productos alimenticios.
+Busca ubicaciones que sean interesantes tanto para su contexto como para su iluminación. Al considerar el contexto, puede resultar útil imaginar el uso potencial de una escena. Por ejemplo, una vista de una carretera vacía se podría usar para agregar en un automóvil 3D, mientras que una vista de una mesa en una cafetería se podría usar para [mostrar el empaquetado](https://www.adobe.com/products/dimension/packaging-design-mockup.html) de productos alimenticios.
 
 ![4 escenas de ubicación para una fotografía virtual se contrastan con las mismas escenas con una composición 3D](assets/Photorealistic_8.png)
 
@@ -78,7 +83,7 @@ Cuando se trata de capturar la imagen de fondo, es importante tener en cuenta qu
 
 Igualmente importante es la situación de iluminación dentro de la imagen, ya que esto afectará en gran medida al contenido 3D compuesto. La luz debería entrar en la toma por encima del hombro o desde el costado: esto producirá los mejores resultados porque actuará como una luz clave cuando los objetos 3D se coloquen en la escena. Puede resultar tentador fotografiar hacia la luz cuando no hay ningún elemento de enfoque a la vista, pero recuerda que esto dará como resultado un contenido siempre a contraluz. La adición de un objeto temporal fijo a la escena puede resultar útil para componer y evaluar la iluminación.
 
-## Captura del panorama HDR
+## Capturando el HDR. Pano
 
 ### Colocación de cámara
 
@@ -88,17 +93,17 @@ Coloque la cámara de 360° en el centro general del área en la que se centrar�
 
 ### Color
 
-![Panorámica HDR de 360 grados de un espacio de oficina con un gráfico de colores en primer plano](assets/Photorealistic_11.png)
+![HDR de 360 grados. panorámica de un espacio de oficina con un gráfico de colores en primer plano](assets/Photorealistic_11.png)
 
 Mantener el color entre la cámara utilizada para fotografiar el entorno y la cámara utilizada para fotografiar el fondo es muy importante, ya que las imágenes se utilizarán juntas. Aquí tenemos la temperatura de color de ambas cámaras en 5000k y tomamos una foto de una carta de colores con ambas cámaras para una mayor alineación en posproducción.
 
 ### Valores de exposición entre corchetes
 
-Para crear un entorno HDR con la cámara de 360°, es necesario capturar varios VE para combinarlos en una imagen HDR en posproducción. La cantidad de VE no está estandarizada, pero generalmente se desea que el extremo superior del rango de exposición vaya a un punto donde no haya más información en las sombras y el extremo inferior del rango de exposición a un punto donde no haya más información en las iluminaciones.
+Para crear un entorno HDR. con la cámara de 360°, es necesario capturar varias EV para combinarlas en una imagen HDR en posproducción. La cantidad de VE no está estandarizada, pero generalmente se desea que el extremo superior del rango de exposición vaya a un punto donde no haya más información en las sombras y el extremo inferior del rango de exposición a un punto donde no haya más información en las iluminaciones.
 
 Lo ideal es que la cámara de 360° tenga una función de horquillado automático que permita que la cámara realice las distintas exposiciones por lotes. Los ajustes ideales consisten en utilizar el valor ISO más bajo disponible para evitar el ruido y un valor de apertura alto para el enfoque. Los valores de exposición se pueden modificar usando la velocidad de obturación y se pueden dividir por paradas; reducir o duplicar la exposición.
 
-![Una serie de valores de exposición entre corchetes de una panorámica HDR de 360 grados de un espacio de oficina](assets/Photorealistic_12.png)
+![Una serie de valores de exposición entre corchetes de un HDR de 360 grados. panorámica de un espacio de oficina](assets/Photorealistic_12.png)
 
 A continuación se muestra un ejemplo de los VE utilizados para fotografiar un IBL en exteriores:
 
@@ -114,23 +119,23 @@ A continuación se muestra un ejemplo de los VE utilizados para fotografiar un I
 
 Si los 360° utilizados son capaces de emitir imágenes RAW, los EV se pueden dividir en incrementos de 2-4 paradas, ya que retienen más información que las imágenes de 8 bits como JPEG.
 
-![Menú de selección de archivos Combinar para HDR Pro en Adobe Photoshop](assets/Photorealistic_13.png)
+![Menú Combinar para HDR. Pro en Adobe Photoshop](assets/Photorealistic_13.png)
 
-Después de realizar cualquier ajuste de color en los valores de exposición, se pueden exportar temporalmente a archivos individuales para luego combinarlos en Photoshop. El tipo de archivo debe depender del origen, pero no utilice un formato comprimido como JPEG en ninguno de los dos casos. En Photoshop, utilice Archivo > Automatizar > Combinar para HDR Pro... y seleccione todos los archivos EV exportados.
+Después de realizar cualquier ajuste de color en los valores de exposición, se pueden exportar temporalmente a archivos individuales para luego combinarlos en Photoshop. El tipo de archivo debe depender del origen, pero no utilice un formato comprimido como JPEG en ninguno de los dos casos. En Photoshop, utilice Archivo > Automatizar > Combinar para HDR. Pro... y seleccione todas las variables exportadas.
 
-![Pantalla de vista previa Combinar para HDR Pro en Adobe Photoshop](assets/Photorealistic_14.png)
+![Pantalla de vista previa Combinar para HDR. Pro en Adobe Photoshop](assets/Photorealistic_14.png)
 
-![La configuración Combinar para HDR Pro en Adobe Photoshop](assets/Photorealistic_15.png)
+![La configuración de Combinar para HDR. Pro en Adobe Photoshop](assets/Photorealistic_15.png)
 
 Asegúrese de que &quot;Modo&quot; está establecido en 32 bits. El uso de &#39;eliminar fantasmas&#39; puede ayudar a eliminar detalles que cambiaron entre los VE, pero no lo uses si no lo necesitas. El regulador bajo el histograma solo afecta a la exposición de previsualización, por lo que debe ignorarlo. Desmarque Completar tonos en Adobe Camera Raw y pulse Aceptar.
 
-![Panorámica HDR de 360 grados de un espacio de oficina con sombras visibles en el nadir](assets/Photorealistic_16.png)
+![HDR de 360 grados. panorámica de un espacio de oficina con sombras visibles en el nadir](assets/Photorealistic_16.png)
 
-El resultado es una imagen HDR que se puede utilizar para iluminar escenas en 3D.
+El resultado es una imagen HDR. que se puede utilizar para iluminar escenas en 3D.
 
-![Panorámica HDR de 360 grados de un espacio de oficina con sombras visibles en el nadir](assets/Photorealistic_17.png)
+![HDR de 360 grados. panorámica de un espacio de oficina con sombras visibles en el nadir](assets/Photorealistic_17.png)
 
-Los pasos finales consistirán en eliminar cualquier sección de sombreado y trípode visible en el nadir de la imagen y ajustar la exposición predeterminada de la imagen para iluminar la escena correctamente. La eliminación de detalles se puede realizar mediante la herramienta Clonar de Photoshop. El ajuste de la exposición debe realizarse junto con los fondos en [!DNL Dimension], ya que el valor de exposición del IBL HDR son los valores de iluminación de los objetos 3D.
+Los pasos finales consistirán en eliminar cualquier sección de sombreado y trípode visible en el nadir de la imagen y ajustar la exposición predeterminada de la imagen para iluminar la escena correctamente. La eliminación de detalles se puede realizar mediante la herramienta Clonar de Photoshop. El ajuste de la exposición debe realizarse junto con los fondos de [!DNL Dimension], ya que el valor de exposición del HDR. IBL son los valores de iluminación de los objetos 3D.
 
 ### Captura de los fondos
 
@@ -140,33 +145,33 @@ Después de capturar el entorno, ahora puede capturar fondos con una cámara de 
 
 ![Diagrama que ilustra posibles ángulos de cámara para la imagen de fondo de una fotografía virtual](assets/Photorealistic_19.png)
 
-Hay mucho margen para enmarcar y componer con los fondos. La cámara puede tener aperturas altas o bajas para una profundidad de campo variable, utilizar distancias focales largas o cortas y ser inclinada hacia arriba o hacia abajo. El requisito principal es que la cámara esté orientada hacia el punto central en el que se capturó el entorno con la cámara 360.
+Hay mucho margen para enmarcar y componer con los fondos. La cámara puede tener aperturas altas o bajas para una profundidad de campo variada, usar distancias focales largas o cortas y ser inclinada hacia arriba o hacia abajo. El requisito principal es que la cámara esté orientada hacia el punto central en el que se capturó el entorno con la cámara 360.
 
 Una vez finalizada la captura, las imágenes deben postprocesarse para que coincidan con el color del entorno lo más cerca posible. El color y la exposición deben ser lo más neutros y naturales posible. Cualquier aspecto estilizado se debe aplicar después de que los elementos 3D se hayan compuesto en la imagen con el Adobe [!DNL Dimension].
 
 ## Ensamblando la imagen compuesta en [!DNL Dimension]
 
-Con estos elementos reunidos y completados, ahora se pueden ensamblar en una escena del Adobe [!DNL Dimension]. Esto es tan sencillo como arrastrar el fondo a la escena, donde luego se aplicará al fondo; a continuación, añada el panel HDR a la ranura de la imagen de luz ambiental.
+Con estos elementos reunidos y completados, ahora se pueden ensamblar en una escena del Adobe [!DNL Dimension]. Esto es tan sencillo como arrastrar el fondo a la escena, donde luego se aplicará al fondo; a continuación, añada el panel HDR. en la ranura de la imagen de la luz ambiental.
 
 Arrastre y suelte la imagen de fondo en un área vacía del lienzo o seleccione Entorno en el panel Escena y añada la imagen a la entrada de fondo.
 
 ![La imagen de fondo de una fotografía virtual se puede seleccionar en el menú Propiedades del Adobe [!DNL Dimension]](assets/Photorealistic_20.png)
 
-Para añadir el panel HDR, seleccione la luz ambiental y añádala a la entrada de imagen.
+Para añadir el panel HDR., seleccione la Luz ambiental y añádala a la entrada Imagen.
 
-![La fuente de luz ambiental se puede agregar a la imagen de fondo de una fotografía virtual desde el menú Escena en el Adobe [!DNL Dimension]](assets/Photorealistic_21.png)
+![El origen de la Luz ambiental se puede agregar a la imagen de fondo de una fotografía virtual desde el menú Escena en el Adobe [!DNL Dimension]](assets/Photorealistic_21.png)
 
-A continuación, puedes usar &quot;Hacer coincidir con la imagen&quot; en el fondo para que coincida con la resolución y el aspecto, así como con la perspectiva de la cámara. En lugar de generar el entorno a partir de la imagen de fondo, la imagen del panel HDR capturada se utiliza para iluminar la escena, por lo que la opción &quot;crear luces&quot; se puede dejar sin marcar.
+A continuación, puedes utilizar la opción &quot;Hacer coincidir con la imagen&quot; del fondo para adaptarla a la resolución, el aspecto y la Perspectiva de la cámara. En lugar de generar el entorno a partir de la imagen de fondo, se utiliza la imagen de la pantalla HDR capturada para iluminar la escena, por lo que la opción &quot;crear luces&quot; puede dejarse sin marcar.
 
-![Usar la función Hacer coincidir con la imagen en el Adobe [!DNL Dimension] para procesar una imagen de esfera metálica en 3D con las luces de entorno desde una panorámica HDR](assets/Photorealistic_22.png)
+![Usando la característica Hacer coincidir imagen en el Adobe [!DNL Dimension] para procesar una imagen de esfera metálica 3D con las luces ambientales de un HDR. panorámico](assets/Photorealistic_22.png)
 
 Ahora, los objetos que se añadan a la escena se compondrán de forma realista en el fondo, ya que están siendo iluminados por el entorno en el que se tomó la imagen.
 
-Para evaluar rápidamente la orientación y exposición del panel HDR en relación con el fondo, se puede colocar en la escena una esfera primitiva con un material metálico, tomada del panel de activos libres de [!DNL Dimension]. La rotación de la luz ambiental puede colocarse entonces para que los reflejos parezcan correctos. Si la iluminación del panel HDR sobreexpone o subexpone la esfera, la exposición del panel HDR debe aumentarse o disminuirse para compensar.
+Para evaluar rápidamente la orientación y exposición del HDR. pano en relación con el fondo, se puede colocar en la escena una esfera primitiva con un material metálico, tomada del panel de activos libres de [!DNL Dimension]. La rotación de la luz ambiental se puede colocar para que los reflejos tengan el aspecto correcto. Si la iluminación del HDR. pano sobreexpone o subexpone la esfera, la exposición del HDR. pano debe aumentarse o disminuirse para compensar.
 
 ![Una fotografía virtual fotorrealista de una esfera de metal se compone sobre una imagen de fondo del espacio de oficina](assets/Photorealistic_23.png)
 
-Para evaluar rápidamente la orientación y exposición del panel HDR en relación con el fondo, se puede colocar en la escena una esfera primitiva con un material metálico, tomada del panel de activos libres de [!DNL Dimension]. La rotación de la luz ambiental puede colocarse entonces para que los reflejos parezcan correctos. Si la iluminación del panel HDR sobreexpone o subexpone la esfera, la exposición del panel HDR debe aumentarse o disminuirse para compensar.
+Para evaluar rápidamente la orientación y exposición del HDR. pano en relación con el fondo, se puede colocar en la escena una esfera primitiva con un material metálico, tomada del panel de activos libres de [!DNL Dimension]. La rotación de la luz ambiental se puede colocar para que los reflejos tengan el aspecto correcto. Si la iluminación del HDR. pano sobreexpone o subexpone la esfera, la exposición del HDR. pano debe aumentarse o disminuirse para compensar.
 
 ## El resultado final: Una imagen compuesta con realismo fotográfico
 
