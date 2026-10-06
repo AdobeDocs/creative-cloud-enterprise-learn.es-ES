@@ -6,13 +6,25 @@ role: User
 level: Beginner
 jira: KT-21970
 hide: true
-source-git-commit: a7178ae1f1b0f3887863103fbf41f17dce0de911
+product_v2:
+  - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+    internal-label: Creative Cloud
+feature_v2:
+  - id: b1f6f7fb-294d-52dd-8e6a-2bf31bf93853
+    internal-label: Graphic Design
+  - id: c31d989b-c5df-5b16-8862-a611a5e6e70b
+    internal-label: Gen AI
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: b4ccb0a72c95fa56cd4908aae754dfb8b399cd31
 workflow-type: tm+mt
 source-wordcount: '79'
 ht-degree: 0%
-
 ---
-
 # Presentación de Firefly Graph
 
 En este seminario web, aprenderá sobre el sistema de flujo de trabajo completamente visual de Firefly Graph, diseñado para ayudarle a compartir flujos de trabajo entre sus equipos. Graph permite a cualquier persona aprovechar su flujo de trabajo y generar activos de calidad de producción en una fracción del tiempo.
@@ -21,4 +33,4 @@ En este seminario web, aprenderá sobre el sistema de flujo de trabajo completam
 
 >[!VIDEO](https://video.tv.adobe.com/v/3492625?captions=spa&quality=12&learn=on&hidetitle=true)
 
-Vuelva a [Introducción al gráfico de Firefly](https://experienceleague.adobe.com/es/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Vuelva a [Introducción a Firefly Graph](https://experienceleague.adobe.com/es/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
