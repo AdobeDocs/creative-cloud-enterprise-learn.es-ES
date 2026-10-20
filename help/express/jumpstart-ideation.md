@@ -33,6 +33,6 @@ ht-degree: 2%
 
 Descubre cómo sacar ventaja al desarrollar contenido creativo para una campaña de marketing. En este flujo de trabajo, un administrador de productos de marca inicia un nuevo proyecto en Adobe Express y crea páginas para que los equipos dejen sus ideas, imágenes y pensamientos para intercambiar ideas y compartirlas con otros. Los miembros del equipo editan simultáneamente en tiempo real y añaden sus imágenes e ideas. Cada miembro del equipo usa una combinación de activos de marca preexistentes en [CC Libraries](cc-libraries.md) y texto para crear imágenes y comunicar ideas. Los diseñadores añaden al tablero prototipos diseñados en aplicaciones de Creative Cloud que se vinculan y actualizan automáticamente a medida que crean nuevas revisiones.
 
-Este tutorial utiliza el nuevo [Adobe Express](https://www.adobe.com/express/).
+Este tutorial utiliza el nuevo [Adobe Express](https://www.adobe.com/es/express/).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3446163?captions=spa&quality=12&learn=on&hidetitle=true)

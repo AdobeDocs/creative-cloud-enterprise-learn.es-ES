@@ -33,6 +33,6 @@ ht-degree: 2%
 
 Descubre cómo un equipo comercial puede crear fácilmente imágenes atractivas para un nuevo conjunto de inventario en su tienda online. En este flujo de trabajo, el administrador de mercancías crea una nueva plantilla en Adobe Express para una nueva mercancía. A continuación, el responsable de marketing crea un nuevo proyecto de publicidad web y ajusta el texto y las imágenes de las bibliotecas fieles a la marca para satisfacer sus necesidades. También editan un vídeo de marketing para el nuevo inventario.
 
-Este tutorial utiliza el nuevo [Adobe Express](https://www.adobe.com/express/).
+Este tutorial utiliza el nuevo [Adobe Express](https://www.adobe.com/es/express/).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3447134?captions=spa&quality=12&learn=on&hidetitle=true)

@@ -33,6 +33,6 @@ ht-degree: 3%
 
 Descubre cómo los equipos de marketing de eventos pueden crear contenido único para atraer espectadores a eventos online. En este flujo de trabajo, un responsable de marketing B2B inicia un nuevo proyecto en Adobe Express utilizando una plantilla de sus bibliotecas y kit de marca. B2B Marketer crea variaciones para diferentes canales sociales y web y comparte el contenido en plataformas de redes sociales y de alojamiento de vídeos.
 
-Este tutorial utiliza el nuevo [Adobe Express](https://www.adobe.com/express/).
+Este tutorial utiliza el nuevo [Adobe Express](https://www.adobe.com/es/express/).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3444982?captions=spa&quality=12&learn=on&hidetitle=true)
