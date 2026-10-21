@@ -30,6 +30,6 @@ ht-degree: 4%
 ---
 # Crea contenido de folletos para una campaña de marketing con Firefly
 
-Aprende a usar Text to Image, con tecnología de Adobe Firefly, en Adobe Express para crear contenido localizado a partir de una campaña global de marketing hotelero. Este tutorial utiliza el nuevo [Adobe Express](https://www.adobe.com/express/).
+Aprende a usar Text to Image, con tecnología de Adobe Firefly, en Adobe Express para crear contenido localizado a partir de una campaña global de marketing hotelero. Este tutorial utiliza el nuevo [Adobe Express](https://www.adobe.com/es/express/).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3443587?captions=spa&quality=12&learn=on&hidetitle=true)

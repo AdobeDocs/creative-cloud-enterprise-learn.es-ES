@@ -31,6 +31,6 @@ ht-degree: 5%
 ---
 # Ejecuta fácilmente campañas sociales
 
-Aprende a usar la función Texto a imagen, desarrollada por Adobe Firefly, para crear contenido gráfico único para campañas web, de blogs y de redes sociales. Este tutorial utiliza el nuevo [Adobe Express](https://www.adobe.com/express/).
+Aprende a usar la función Texto a imagen, desarrollada por Adobe Firefly, para crear contenido gráfico único para campañas web, de blogs y de redes sociales. Este tutorial utiliza el nuevo [Adobe Express](https://www.adobe.com/es/express/).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3441366?captions=spa&quality=12&learn=on&hidetitle=true)

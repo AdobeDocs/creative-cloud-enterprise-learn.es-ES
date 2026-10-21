@@ -30,6 +30,6 @@ ht-degree: 4%
 ---
 # Creación de contenido de recursos humanos multicanal para eventos
 
-Aprende a crear rápidamente contenido de RR. HH. multicanal que sea coherente con la marca de tu organización. La distribución rápida de contenido multicanal te permite llegar a más empleados con tus comunicaciones, lo que les ayuda a estar informados de las últimas noticias. Este tutorial utiliza el nuevo [Adobe Express](https://www.adobe.com/express/).
+Aprende a crear rápidamente contenido de RR. HH. multicanal que sea coherente con la marca de tu organización. La distribución rápida de contenido multicanal te permite llegar a más empleados con tus comunicaciones, lo que les ayuda a estar informados de las últimas noticias. Este tutorial utiliza el nuevo [Adobe Express](https://www.adobe.com/es/express/).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3434600?captions=spa&quality=12&learn=on&hidetitle=true)
