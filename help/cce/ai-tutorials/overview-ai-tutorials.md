@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-23021
 hide: true
 hidefromtoc: true
-source-git-commit: 9737f2658a0d2570b9731f78d50fa7633855cf01
+source-git-commit: f7f52e4c28c9c376b51b83fc5711dc963dca0e7e
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '120'
 ht-degree: 0%
 ---
 # Tutoriales de IA de Creative Cloud para empresas
@@ -31,8 +31,13 @@ Explora tutoriales que pueden ayudarte a descubrir ideas, crear contenido y agil
     <br>
   </td>
   <td>
-    <img alt="Separador" src="../../assets/acrobat_PDF_whitespacer_96.png" />
+   <a href="seamless-vector.md">
+      <img alt="Patrones vectoriales perfectos en minutos, no en horas" src="../../assets/seamless-vector.png" />
+   </a>
     <div>
+   <a href="seamless-vector.md"><strong>Patrones vectoriales perfectos en minutos, no en horas</strong></a>
+    </div>
+    <em>Aprende a crear un patrón de marca perfecto en Illustrator sin marcar cada borde de repetición a mano</em>
     <br>
   </td>
   <td>
