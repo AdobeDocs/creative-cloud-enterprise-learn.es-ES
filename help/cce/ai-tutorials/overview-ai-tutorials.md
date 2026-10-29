@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-23021
 hide: true
 hidefromtoc: true
-source-git-commit: 95ceedf2be8ea49003f3e2388f3556746dee6b7a
+source-git-commit: 72601cd9612b12283c0bae7b4b21d030e8cf1d77
 workflow-type: tm+mt
-source-wordcount: '298'
+source-wordcount: '329'
 ht-degree: 0%
 ---
 # Tutoriales de IA de Creative Cloud para empresas
@@ -141,9 +141,14 @@ Explora tutoriales que pueden ayudarte a descubrir ideas, crear contenido y agil
     <em>Obtener información sobre cómo usar Generative Extend en Premiere</em>
     <br>
   </td>
-  <td>
-    <img alt="Separador" src="../../assets/acrobat_PDF_whitespacer_96.png" />
+ <td>
+   <a href="rough-cut.md">
+      <img alt="Llega a tu montaje inicial más rápido" src="../../assets/rough-cut.png" />
+   </a>
     <div>
+   <a href="rough-cut.m"><strong>Llega a tu montaje inicial más rápido</strong></a>
+    </div>
+    <em>Aprende a crear un montaje inicial a partir de entrevistas y material adicional más rápido en Premiere Rush, sin pasar por todos los clips</em>
     <br>
   </td>
   <td>
