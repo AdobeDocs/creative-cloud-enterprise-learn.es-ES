@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-23021
 hide: true
 hidefromtoc: true
-source-git-commit: cf848c3ca49226d8264100a7c6143bff7b0cd38d
+source-git-commit: 95ceedf2be8ea49003f3e2388f3556746dee6b7a
 workflow-type: tm+mt
-source-wordcount: '266'
+source-wordcount: '298'
 ht-degree: 0%
 ---
 # Tutoriales de IA de Creative Cloud para empresas
@@ -105,8 +105,13 @@ Explora tutoriales que pueden ayudarte a descubrir ideas, crear contenido y agil
     <br>
   </td>
   <td>
-    <img alt="Separador" src="../../assets/acrobat_PDF_whitespacer_96.png" />
+   <a href="build-presets.md">
+      <img alt="Crea ajustes preestablecidos para lograr un color uniforme en toda la sesión" src="../../assets/build-presets.png" />
+   </a>
     <div>
+   <a href="build-presets.md"><strong>Crea ajustes preestablecidos para lograr un color uniforme en toda la sesión</strong></a>
+    </div>
+    <em>Aprende a darle un aspecto uniforme a toda una sesión de fotos sin editar las imágenes una por una</em>
     <br>
   </td>
   <td>
