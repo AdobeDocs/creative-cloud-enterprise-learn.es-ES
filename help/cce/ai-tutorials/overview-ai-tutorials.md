@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-23021
 hide: true
 hidefromtoc: true
-source-git-commit: 63b6d4f6bba92207bff7cd9b981c9c10a8a3dbbf
+source-git-commit: cf848c3ca49226d8264100a7c6143bff7b0cd38d
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '266'
 ht-degree: 0%
 ---
 # Tutoriales de IA de Creative Cloud para empresas
@@ -68,8 +68,13 @@ Explora tutoriales que pueden ayudarte a descubrir ideas, crear contenido y agil
     <br>
   </td>
   <td>
-    <img alt="Separador" src="../../assets/acrobat_PDF_whitespacer_96.png" />
+   <a href="brief-to-storyboard.md">
+      <img alt="Del guion gráfico al resumen: Explora las indicaciones para el vídeo antes de la producción" src="../../assets/brief-to-storyboard.png" />
+   </a>
     <div>
+   <a href="brief-to-storyboard.md"><strong>De breve a guion gráfico: Explora las instrucciones en vídeo antes de la producción</strong></a>
+    </div>
+    <em>Aprende a convertir un informe creativo en un tablero compartido de instrucciones visuales eficaces</em>
     <br>
   </td>
   <td>
