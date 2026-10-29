@@ -169,7 +169,7 @@ ht-degree: 3%
       + {hide-from-toc}[Generación de primeros planos](firefly/graph/templates/headshots-generation.md)
   + Seminarios web {#firefly-webinars}
     + [Experimentar con el Adobe Firefly](firefly/webinar-experimenting.md)
-    + [Piensa en voz alta: Convierte tus ideas en llamativos elementos visuales](https://experienceleague.adobe.com/en/on-demand-events/turn-ideas-into-striking-visuals)
+    + [Piensa en voz alta: Convierte tus ideas en llamativos elementos visuales](https://experienceleague.adobe.com/es/on-demand-events/turn-ideas-into-striking-visuals)
 + [!DNL Adobe Stock] {#stockoverview}
   + [Información general](stock/overview-stock.md)
   + Tutoriales {#stocktutorials}
