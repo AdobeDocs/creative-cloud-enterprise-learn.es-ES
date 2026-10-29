@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-23021
 hide: true
 hidefromtoc: true
-source-git-commit: b1cffc816ca06a24dce4b70f938c5ed0c8d36db0
+source-git-commit: 63b6d4f6bba92207bff7cd9b981c9c10a8a3dbbf
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '234'
 ht-degree: 0%
 ---
 # Tutoriales de IA de Creative Cloud para empresas
@@ -97,6 +97,38 @@ Explora tutoriales que pueden ayudarte a descubrir ideas, crear contenido y agil
    <a href="retouch-faster.md"><strong>Retoca más rápido y mantén tus píxeles originales</strong></a>
     </div>
     <em>Aprende a añadir sombras naturales a una foto de producto en Photoshop mientras mantienes intactos los píxeles originales</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Separador" src="../../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Separador" src="../../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Separador" src="../../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+</tr>
+</table>
+
+## Editor de vídeo
+
+<table style="table-layout:fixed">
+<tr>
+  <td>
+   <a href="fill-gaps.md">
+      <img alt="Rellena los huecos del corte: Material de archivo adicional, audio y clips que finalizan demasiado pronto" src="../../assets/fill-gaps.png" />
+   </a>
+    <div>
+   <a href="fill-gaps.md"><strong>Rellenar espacios en el corte: Material adicional, audio y clips que finalizan demasiado pronto</strong></a>
+    </div>
+    <em>Obtener información sobre cómo usar Generative Extend en Premiere</em>
     <br>
   </td>
   <td>
