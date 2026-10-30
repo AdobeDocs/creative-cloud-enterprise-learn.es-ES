@@ -9,19 +9,27 @@ role: User
 type: Tutorial
 auto-video-transcripts: true
 nudge: true
-source-git-commit: dec5f84efd42c91c97fc49e3043c09add3d78ed6
+source-git-commit: dac9b2dca8056ae4ef125af7d46624437f414114
 workflow-type: tm+mt
-source-wordcount: '905'
+source-wordcount: '976'
 ht-degree: 3%
-
 ---
 
-
-# Creative Cloud para Tutorials empresariales {#cce-learning-hub}
+# Tutoriales de Creative Cloud para empresas {#cce-learning-hub}
 
 + [Información general](overview.md)
 + Creative Cloud para empresas {#cceoverview}
   + [Información general](cce/overview-cce.md)
+  + Tutoriales de IA {#cceaitutorials}
+    + [Información general](cce/ai-tutorials/overview-ai-tutorials.md)
+    + [Convierte ilustraciones vectoriales planas a cualquier ángulo, sin necesidad de volver a dibujarlas](cce/ai-tutorials/turn-flat-vector-art.md)
+    + [Patrones vectoriales perfectos en minutos, no en horas](cce/ai-tutorials/seamless-vector.md)
+    + [20 direcciones de un breve, antes del almuerzo](cce/ai-tutorials/one-brief.md)
+    + [Del guion gráfico al resumen: Explora las indicaciones para el vídeo antes de la producción](cce/ai-tutorials/brief-to-storyboard.md)
+    + [Retoca más rápido y conserva tus píxeles originales](cce/ai-tutorials/retouch-faster.md)
+    + [Crea ajustes preestablecidos para lograr un color uniforme en toda la sesión](cce/ai-tutorials/build-presets.md)
+    + [Rellena los huecos del corte: Material de archivo adicional, audio y clips que finalizan demasiado pronto](cce/ai-tutorials/fill-gaps.md)
+    + [Llega a tu montaje inicial más rápido](cce/ai-tutorials/rough-cut.md)
   + Tutoriales {#ccetutorials}
     + [Acrobat para creadores de contenido](cce/acrobat-content-creators.md)
     + [Mejorar los flujos de trabajo de CC con CC Libraries](cce/cc-workflows-cc-libraries.md)
@@ -136,13 +144,13 @@ ht-degree: 3%
     + {hide-from-toc}[Alinear antes del carrete](firefly/align-camera-roll.md)
   + {hide-from-toc}Tutoriales de gráficos de  {#firefly-graph}
     + {hide-from-toc}[Información general del gráfico de Adobe Firefly](firefly/graph/overview-firefly-graph.md)
-    + {hide-from-toc}[¿Qué es el Gráfico de Firefly?](firefly/graph/what-is-firefly-graph.md)
-    + {hide-from-toc}[Conceptos clave de Graph de Firefly](firefly/graph/key-concepts.md)
+    + {hide-from-toc}[¿Qué es Firefly Graph?](firefly/graph/what-is-firefly-graph.md)
+    + {hide-from-toc}[Conceptos clave de Firefly Graph](firefly/graph/key-concepts.md)
     + {hide-from-toc}[Crea tu primer gráfico](firefly/graph/create-your-first-graph.md)
     + {hide-from-toc}[Compartir el gráfico](firefly/graph/share-a-graph.md)
     + {hide-from-toc}[Biblioteca de plantillas](firefly/graph/template-library.md)
     + {hide-from-toc}[Personalizar una plantilla](firefly/graph/customize-template.md)
-    + {hide-from-toc}[Seminario web de introducción al gráfico de Firefly](firefly/graph/introducing-graph.md)
+    + {hide-from-toc}[Presentamos el seminario web de Firefly Graph](firefly/graph/introducing-graph.md)
     + {hide-from-toc}Plantillas de gráficos de  {#graph-templates}
       + {hide-from-toc}[Introducción: generar una imagen](firefly/graph/templates/get-started-gen-image.md)
       + {hide-from-toc}[Generación coherente de caracteres](firefly/graph/templates/character-gen.md)
@@ -207,7 +215,7 @@ ht-degree: 3%
   + [Información general](dva/overview-dva.md)
   + Tutoriales {#videotutorials}
     + [Plantillas profesionales de gráficos animados](dva/motion-graphics-templates.md)
-    + [Revisión de vídeo con Frame.io](dva/video-review-frame-io.md)
+    + [Revisión de vídeo con Marco.io](dva/video-review-frame-io.md)
   + Guías de referencia rápida {#videorefguides}
     + [Guías de vídeo](dva/overview-dva-ref.md)
 + Adobe XD {#xdoverview}
