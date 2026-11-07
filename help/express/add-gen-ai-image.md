@@ -33,7 +33,7 @@ ht-degree: 0%
 
 Descubre cómo añadir imágenes de IA generativas, con tecnología de Adobe Firefly, a tus proyectos creativos. Personaliza tu contenido generando imágenes basadas en mensajes de texto, con opciones para diferentes estilos y tipos de contenido.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426933?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3506247?captions=spa&quality=12&learn=on&hidetitle=true)
 
 ## Vídeos adicionales de esta serie
 

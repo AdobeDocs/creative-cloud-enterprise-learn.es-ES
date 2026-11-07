@@ -14,4 +14,4 @@ ht-degree: 0%
 
 Falta unos segundos para que empiece la sesión y acaba el rodaje. ¿Ahora qué? Aprende a utilizar Generative Extend en Premiere para generar material de archivo adicional a partir del clip que ya tienes, de forma que puedas hacer el corte exactamente donde lo necesites.
 
->[!VIDEO](https://video.tv.adobe.com/v/3505947?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3505970?captions=spa&quality=12&learn=on&hidetitle=true)

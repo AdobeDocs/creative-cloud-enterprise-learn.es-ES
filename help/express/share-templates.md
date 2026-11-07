@@ -28,7 +28,7 @@ ht-degree: 0%
 
 Aprende a guardar y compartir plantillas en un kit de marca o biblioteca para tu equipo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427098?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3506262?captions=spa&quality=12&learn=on&hidetitle=true)
 
 ## Vídeos adicionales de esta serie
 

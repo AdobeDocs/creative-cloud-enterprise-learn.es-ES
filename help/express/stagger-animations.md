@@ -28,7 +28,7 @@ ht-degree: 0%
 
 Aprende a escalonar animaciones para conseguir el comportamiento perfecto y llamar la atención de alguien. Ajusta el tiempo de los diferentes elementos para que sea más fácil leer el mensaje.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426981?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3506250?captions=spa&quality=12&learn=on&hidetitle=true)
 
 ## Vídeos adicionales de esta serie
 

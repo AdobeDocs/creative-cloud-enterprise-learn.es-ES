@@ -14,4 +14,4 @@ ht-degree: 0%
 
 Aprende a darle un aspecto uniforme a toda una sesión de fotos sin editar cada imagen una por una. En este tutorial, aprenderá a crear un ajuste preestablecido de color en Lightroom y, a continuación, aplicar ese grado de color en un lote de imágenes con acciones en bloque en Firefly. Los archivos vuelven en el mismo formato y dimensiones en píxeles que los originales. Mira el tutorial y pruébalo en tu próxima sesión.
 
->[!VIDEO](https://video.tv.adobe.com/v/3506009?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3506014?captions=spa&quality=12&learn=on&hidetitle=true)

@@ -38,4 +38,4 @@ Aprenda a previsualizar instantáneamente diversas variaciones de color para su 
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3427610?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3506093?captions=spa&quality=12&learn=on&hidetitle=true)

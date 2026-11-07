@@ -28,7 +28,7 @@ ht-degree: 0%
 
 Aprende a añadir elementos de diseño visual a tus proyectos para hacerlos más atractivos y atractivos. Hay cuatro tipos de elementos: activos de diseño, fondos, formas e iconos. Cada tipo de elemento tiene cientos de componentes diferentes entre los que elegir. Cada elemento está diseñado profesionalmente y listo para agregarse a los proyectos.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426935?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3506156?captions=spa&quality=12&learn=on&hidetitle=true)
 
 ## Vídeos adicionales de esta serie
 

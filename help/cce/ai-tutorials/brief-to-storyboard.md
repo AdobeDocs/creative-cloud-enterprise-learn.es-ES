@@ -14,4 +14,4 @@ ht-degree: 0%
 
 En este tutorial, la tecnóloga creativa Mary Poplin muestra cómo convertir un breve resumen y algunas referencias en marcos de guion gráfico, generar pruebas de movimiento cortas y comparar dos direcciones en paralelo, para que pueda elegir la que merece la pena producir. Vea el tutorial y pruébelo en el tablero de Firefly en su próximo resumen de vídeo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3505948?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3505979?captions=spa&quality=12&learn=on&hidetitle=true)

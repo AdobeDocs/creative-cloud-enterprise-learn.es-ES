@@ -28,7 +28,7 @@ ht-degree: 0%
 
 Explora la página de inicio para poder navegar fácilmente por la aplicación. Obtenga más información sobre acciones rápidas, plantillas, diseños estacionales, marcas, bibliotecas, programador, tutoriales y mucho más.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426924?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3506354?captions=spa&quality=12&learn=on&hidetitle=true)
 
 ## Vídeos adicionales de esta serie
 

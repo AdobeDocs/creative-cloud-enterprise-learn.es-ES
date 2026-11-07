@@ -33,4 +33,4 @@ ht-degree: 0%
 
 Aprenda a crear anuncios de pantalla digital atractivos para la oficina. Con texto a plantilla, con tecnología de Adobe Firefly, puede generar una imagen personalizada con espacio para copia de texto. Se han añadido animaciones y rellenos generativos para hacer que el anuncio sea más atractivo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427119?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3506318?captions=spa&quality=12&learn=on&hidetitle=true)

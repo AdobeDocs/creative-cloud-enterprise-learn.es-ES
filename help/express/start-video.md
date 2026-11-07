@@ -33,7 +33,7 @@ ht-degree: 0%
 
 Descubre las distintas formas de iniciar un proyecto de vídeo, incluida la forma de utilizar las plantillas de vídeos para las redes sociales.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427070?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3506120?captions=spa&quality=12&learn=on&hidetitle=true)
 
 ## Vídeos adicionales de esta serie
 

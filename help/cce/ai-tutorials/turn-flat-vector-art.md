@@ -14,4 +14,4 @@ ht-degree: 0%
 
 No es necesario reconstruir los patrones a mano para cada entrega. Crea patrones vectoriales perfectos en minutos, no en horas. En este tutorial, aprenderá a utilizar Texto en motivo en Illustrator para explorar opciones, añadir ilustraciones de su propia marca a la repetición y cambiar el tamaño del motivo para diferentes aplicaciones sin cambiar el diseño. Después, crea tres colores a partir de un diseño totalmente editable, listo para el empaquetado, los textiles, las pantallas y mucho más.
 
->[!VIDEO](https://video.tv.adobe.com/v/3505925?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3505931?captions=spa&quality=12&learn=on&hidetitle=true)

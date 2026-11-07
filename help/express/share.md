@@ -28,7 +28,7 @@ ht-degree: 0%
 
 Conoce las opciones para descargar y compartir proyectos en diferentes formatos de archivo como PNG, JPEG o PDF. Publish proyecta en la web y genera un enlace para acceder a ellos de forma sencilla, o bien programa y comparte contenido multimedia directamente en las redes sociales, con opciones para personalizar las publicaciones en cada plataforma.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426936?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3506165?captions=spa&quality=12&learn=on&hidetitle=true)
 
 ## Vídeos adicionales de esta serie
 

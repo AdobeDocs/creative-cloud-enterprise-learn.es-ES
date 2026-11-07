@@ -30,7 +30,7 @@ ht-degree: 0%
 
 Programa publicaciones en redes sociales para Instagram, Facebook, Twitter, Pinterest y LinkedIn. Puede elegir propiedades específicas para cada plataforma. Por ejemplo, en Instagram puedes elegir si tu contenido va a ser una publicación, una historia o un carrete.
 
->[!VIDEO](https://video.tv.adobe.com/v/3420242?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3506300?captions=spa&quality=12&learn=on&hidetitle=true)
 
 ## Vídeos adicionales de esta serie
 
