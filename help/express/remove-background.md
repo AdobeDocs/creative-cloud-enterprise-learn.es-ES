@@ -33,7 +33,7 @@ ht-degree: 0%
 
 Aprende a eliminar el fondo de tus imágenes con un solo clic con una acción rápida. Después de eliminar el fondo, la imagen se puede descargar y utilizar para varios fines.
 
->[!VIDEO](https://video.tv.adobe.com/v/3420220?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3506209?captions=spa&quality=12&learn=on&hidetitle=true)
 
 ## Vídeos adicionales de esta serie
 

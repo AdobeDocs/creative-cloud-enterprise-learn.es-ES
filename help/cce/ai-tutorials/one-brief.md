@@ -14,4 +14,4 @@ ht-degree: 0%
 
 Aprende a convertir un informe creativo en un tablero compartido de instrucciones visuales sólidas, con herramientas generativas que se encargan del trabajo duro y tú haces la llamada. La tecnóloga creativa Mary Poplin muestra cómo utilizar tableros de Firefly para realizar bocetos y referencias, generar un lote de opciones, editar las ideas y limitarse a las dos o tres direcciones que merece la pena defender.
 
->[!VIDEO](https://video.tv.adobe.com/v/3505927?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3505951?captions=spa&quality=12&learn=on&hidetitle=true)

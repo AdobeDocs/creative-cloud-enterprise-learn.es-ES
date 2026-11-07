@@ -33,4 +33,4 @@ ht-degree: 0%
 
 Actualice rápidamente una imagen gráfica estática reemplazando elementos mediante el relleno generativo, cambiando el texto haciendo coincidir el tipo de letra y el color, y eliminando el fondo en las nuevas imágenes. Se trata de una forma rápida y sencilla de reutilizar activos gráficos como los retoques financieros.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427116?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3506345?captions=spa&quality=12&learn=on&hidetitle=true)

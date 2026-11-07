@@ -33,7 +33,7 @@ ht-degree: 0%
 
 Aprende a borrar áreas específicas de tus imágenes. Como alternativa, puede utilizar la herramienta de restauración para recuperar partes de la imagen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427019?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3506183?captions=spa&quality=12&learn=on&hidetitle=true)
 
 ## Vídeos adicionales de esta serie
 

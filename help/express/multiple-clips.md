@@ -33,7 +33,7 @@ ht-degree: 0%
 
 Aprende a añadir nuevos clips de vídeo a la línea de tiempo, ajustar su longitud, añadir transiciones y dividir clips para crear nuevas escenas.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427091?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3506273?captions=spa&quality=12&learn=on&hidetitle=true)
 
 ## Vídeos adicionales de esta serie
 

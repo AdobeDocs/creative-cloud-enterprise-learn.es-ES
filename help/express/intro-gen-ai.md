@@ -28,7 +28,7 @@ ht-degree: 0%
 
 Descubre las nuevas funciones de IA de generación en Adobe Express. Con un mensaje de texto, puede crear fácilmente diseños y plantillas, añadir elementos a imágenes y aplicar efectos especiales al texto.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427018?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3506214?captions=spa&quality=12&learn=on&hidetitle=true)
 
 ## Vídeos adicionales de esta serie
 

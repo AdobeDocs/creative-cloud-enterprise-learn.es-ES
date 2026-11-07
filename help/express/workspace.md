@@ -28,7 +28,7 @@ ht-degree: 0%
 
 Aprenda a navegar por el espacio de trabajo en Adobe Express. El espacio de trabajo incluye potentes funciones de búsqueda para encontrar fondos, plantillas de audio y fotografías. Puede acceder a sus propias marcas y plantillas y buscar temas específicos. Los medios se pueden cargar desde dispositivos o se pueden elegir desde Adobe Stock collection. Los recursos de diseño, fondos, formas e iconos están disponibles para su uso en proyectos. Además, puede invitar a sus colegas a colaborar en diseños de proyectos.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426932?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3506327?captions=spa&quality=12&learn=on&hidetitle=true)
 
 ## Vídeos adicionales de esta serie
 

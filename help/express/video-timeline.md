@@ -33,7 +33,7 @@ ht-degree: 0%
 
 Obtenga más información sobre la línea de tiempo, donde puede organizar y editar objetos de vídeo como vídeos, imágenes, texto y gráficos en el proyecto. La línea de tiempo es una representación de los objetos y el orden de los objetos que componen un vídeo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427090?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3506192?captions=spa&quality=12&learn=on&hidetitle=true)
 
 ## Vídeos adicionales de esta serie
 

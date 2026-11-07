@@ -33,7 +33,7 @@ ht-degree: 0%
 
 Descubre todas las formas en que puedes añadir una imagen y efectos de imagen a tus proyectos creativos. Reemplace las imágenes de plantilla por gráficos de Adobe Stock más adecuados. Utilice el panel Capa para reorganizar las capas, buscar nuevas imágenes y cambiar el recorte. La naturaleza no destructiva del recorte le permite cambiar la forma del recorte en cualquier momento.
 
->[!VIDEO](https://video.tv.adobe.com/v/3420226?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3506228?captions=spa&quality=12&learn=on&hidetitle=true)
 
 ## Vídeos adicionales de esta serie
 
